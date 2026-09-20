@@ -1,0 +1,2432 @@
+<!DOCTYPE html>
+<html  lang="it" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.unimi.it/it/corsi/laurea-triennale/agricoltura-sostenibile" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="unimi-published" content="2022/02/24" />
+<meta name="unimi-last-modified" content="2026/03/31" />
+<link rel="icon" href="/sites/default/files/favicon_0_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="it" href="https://www.unimi.it/it/corsi/laurea-triennale/agricoltura-sostenibile" />
+<link rel="alternate" hreflang="en" href="https://www.unimi.it/en/education/bachelor/sustainable-agriculture" />
+
+    <title>Agricoltura sostenibile | Università degli Studi di Milano Statale</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_ypd-FuAFnkm6TvFwpk_wsW3XFyhEw35mMoWt9mpQf_Y.css?delta=0&amp;language=it&amp;theme=unimi&amp;include=eJyVUtFuwyAM_CEaPikywUm8GowwpM2-fknL2m6alO4FfOeTjfE5hs_VOlA0TqRoyZD6BBmmLZjVPsjTkzSDyJlQbbs7Jveb-9DcaVkZd3VG63NNwB18wNWMEgtcUCWgfYm7C7odaucyRK_HuqFqkXCs81WKRDwWZpwqQz4W6gw5MU1zeVP7v8oqTP4N7XuyMlM05DC71OO1_LnT05YwDKvU0nvSQRbMq90-bRA2L35oe3wyXY2pOiad0Zs6ydLLaCcWB3yHiX_AXF2mAR4cFwoYq5VxHCAusE01AOP24kdKzxS3NhTI3M7nAA03zzV0G7rF9y6n3YkUp0Z-FzYL5N35fUBPsFUJQaJZCC9qb2cXxFfGL_u1PmI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_xsPH_WNFWXqnuxvebu8bjQC9oVmJ2c_0_aVIEFBeeZw.css?delta=1&amp;language=it&amp;theme=unimi&amp;include=eJyVUtFuwyAM_CEaPikywUm8GowwpM2-fknL2m6alO4FfOeTjfE5hs_VOlA0TqRoyZD6BBmmLZjVPsjTkzSDyJlQbbs7Jveb-9DcaVkZd3VG63NNwB18wNWMEgtcUCWgfYm7C7odaucyRK_HuqFqkXCs81WKRDwWZpwqQz4W6gw5MU1zeVP7v8oqTP4N7XuyMlM05DC71OO1_LnT05YwDKvU0nvSQRbMq90-bRA2L35oe3wyXY2pOiad0Zs6ydLLaCcWB3yHiX_AXF2mAR4cFwoYq5VxHCAusE01AOP24kdKzxS3NhTI3M7nAA03zzV0G7rF9y6n3YkUp0Z-FzYL5N35fUBPsFUJQaJZCC9qb2cXxFfGL_u1PmI" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"it\/","currentPath":"node\/43742","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"it"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyVU9GSgyAM_CEqn-QEiZgrECaAPe_rD1tP7c3NtPeC2c0GQlyMh69FG-IOPuBTGeaSi0DSe9QnwZ4ilVMyceIZ5cQUZl8oqVMZCLgWTPnY63KQamC-Ema9fT-ydIONf9G5LB73gn4kX1D0M9yzDjRE8Euh4ShxBZxel8YIais1ge8G9h5SxieyXauVgr8UMFmNHAvcMHNAfYq7G5oV5s4IRPuGbqi5cHits5ULR3wtFHTVg7wW5gkkeXJTeVP7v50ze7JvaN-TlYmicszOY7__s1_44dQnMigyKCb1-Fn-dNulJZSHhWvpLeVhde-i26CbB9TJqZsJDqarMVXjKU9oVXU89zxq59mAf8Dkn6BUI80-O9ceRcBYdTtfIB94gmCquGbcneJxHCDO0IbV_IdtEHsqXym2TiiQuq8aUjtlomp_iP3SG96cv6H7cLf40dllfVQU3UamNhuUXjDTF26cINicEK5rk3fmp58N3oD6AM3WrGYQAxn7gJagHR4CRzUT3rK-r49_diYC2-rxG3y5xq8","theme":"unimi","theme_token":null},"ajaxTrustedUrl":[],"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"google\nnonGooglePixels\nnonGoogleScripts\nnonGoogleIframes","blocklist_classes":"customScripts\ncustomPixels","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-PNWRPR"]},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"600","tooltip_html":1,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"cookies":{"cookiesjsr":{"config":{"cookie":{"name":"cookiesjsr","expires":15552000000,"domain":"","sameSite":"Lax","secure":false},"library":{"libBasePath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist","libPath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist\/cookiesjsr.min.js","scrollLimit":0},"callback":{"method":"post","url":"\/it\/cookies\/consent\/callback.json","headers":[]},"interface":{"openSettingsHash":"#editCookieSettings","showDenyAll":true,"denyAllOnLayerClose":false,"settingsAsLink":false,"availableLangs":["it","en"],"defaultLang":"it","groupConsent":false,"cookieDocs":true}},"services":{"functional":{"id":"functional","services":[{"key":"functional","type":"functional","name":"Required functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EDefault expiration time\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EDescription\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 month\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EIf you are logged in to this website, a session cookie is required to identify and connect your browser to your user account in the server backend of this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 year\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWhen you visited this website for the first time, you were asked for your permission to use several services (including those from third parties) that require data to be saved in your browser (cookies, local storage). Your decisions about each service (allow, deny) are stored in this cookie and are reused each time you visit this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"full_html"},"uri":"","needConsent":false}],"weight":1},"tracking":{"id":"tracking","services":[{"key":"analytics","type":"tracking","name":"Google Analytics","info":{"value":"","format":"full_html"},"uri":"","needConsent":true},{"key":"matomo","type":"tracking","name":"Matomo","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"new_relic","type":"tracking","name":"New Relic","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true}],"weight":10},"performance":{"id":"performance","services":[{"key":"gtag","type":"performance","name":"Google Tag Manager","info":{"value":"","format":"full_html"},"uri":"","needConsent":true},{"key":"infogram_","type":"performance","name":"Infogram ","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"microsoft_power_bi","type":"performance","name":"Microsoft Power BI","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"openstreetmap","type":"performance","name":"OpenStreetMap","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true}],"weight":30},"video":{"id":"video","services":[{"key":"video","type":"video","name":"Video forniti da YouTube, Vimeo","info":{"value":"","format":"full_html"},"uri":"","needConsent":true}],"weight":40}},"translation":{"_core":{"default_config_hash":"C8aQz-3d6YpwuU4QQc1iaWHb3RDkc_C9qcEsgR7HR74"},"langcode":"it","bannerText":"Questo sito utilizza cookie tecnici e di profilazione, propri e di terze parti, per garantire la corretta navigazione, analizzare il traffico e misurare l\u0027efficacia delle attivit\u00e0 di comunicazione istituzionale.\r\nSe prosegui la navigazione o clicchi su \u0022Accetta tutti\u0022 ne acconsenti l\u0027utilizzo, oppure puoi personalizzare la scelta salvando le tue preferenze e scegliendo quali cookie attivare.\r\nPer maggiori informazioni e per sapere come gestirli clicca sul bottone \u0022Impostazione dei cookie\u0022.","privacyPolicy":"Privacy policy","privacyUri":"https:\/\/www.unimi.it\/it\/ateneo\/normative\/privacy","imprint":"Imprint","imprintUri":"","cookieDocs":"Documentazione cookie","cookieDocsUri":"https:\/\/www.unimi.it\/it\/privacy-e-cookie","officialWebsite":"Official website","denyAll":"Rifiuta tutti","alwaysActive":"Sempre Attivo","settings":"Impostazione dei cookie","acceptAll":"Accetta tutti","requiredCookies":"Cookie necessari","cookieSettings":"Impostazione dei cookie","close":"Chiudi","readMore":"Leggi tutto","allowed":"","denied":"negato","settingsAllServices":"Impostazioni per tutti i servizi di cookie","saveSettings":"Salva le impostazioni","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Azienda","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies","functional":{"title":"Functional","details":"I cookie sono piccoli file di testo che il Sito invia al terminale dell\u0027utente, dove sono memorizzati per poi essere ritrasmessi al sito alla visita successiva."},"tracking":{"title":"Cookie di tracciamento","details":"L\u0027utilizzo dei cookie di tracciamento in forma anonima consente la raccolta dei dati in merito alla navigazione delle pagine di questo sito web. In questa maniera ci aiuti a migliorare l\u0027esperienza utente del sito web."},"performance":{"title":"Cookie di prestazione","details":"Utilizziamo alcune funzionalit\u00e0 fornite da altre organizzazioni (\u201cTerze parti\u201d) per migliorare l\u2019esperienza di navigazione degli utenti."},"video":{"title":"Video","details":"I servizi di condivisione video aiutano il sito ad essere maggiormente fruibile e aumentano la visibilit\u00e0."}}},"cookiesTexts":{"_core":{"default_config_hash":"C8aQz-3d6YpwuU4QQc1iaWHb3RDkc_C9qcEsgR7HR74"},"langcode":"it","bannerText":"Questo sito utilizza cookie tecnici e di profilazione, propri e di terze parti, per garantire la corretta navigazione, analizzare il traffico e misurare l\u0027efficacia delle attivit\u00e0 di comunicazione istituzionale.\r\nSe prosegui la navigazione o clicchi su \u0022Accetta tutti\u0022 ne acconsenti l\u0027utilizzo, oppure puoi personalizzare la scelta salvando le tue preferenze e scegliendo quali cookie attivare.\r\nPer maggiori informazioni e per sapere come gestirli clicca sul bottone \u0022Impostazione dei cookie\u0022.","privacyPolicy":"Privacy policy","privacyUri":"https:\/\/www.unimi.it\/it\/ateneo\/normative\/privacy","imprint":"Imprint","imprintUri":"","cookieDocs":"Documentazione cookie","cookieDocsUri":"https:\/\/www.unimi.it\/it\/privacy-e-cookie","officialWebsite":"Official website","denyAll":"Rifiuta tutti","alwaysActive":"Sempre Attivo","settings":"Impostazione dei cookie","acceptAll":"Accetta tutti","requiredCookies":"Cookie necessari","cookieSettings":"Impostazione dei cookie","close":"Chiudi","readMore":"Leggi tutto","allowed":"","denied":"negato","settingsAllServices":"Impostazioni per tutti i servizi di cookie","saveSettings":"Salva le impostazioni","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Azienda","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies"},"services":{"analytics":{"uuid":"f3111266-83e7-4afa-a238-ed86f09a383f","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_ga"]}},"_core":{"default_config_hash":"aYbFdFXbVPCH9Lp3OmPtEGUPT48_WuWxK8pzqzYTUj4"},"id":"analytics","label":"Google Analytics","group":"tracking","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because google analytics cookies have not been accepted.","placeholderAcceptText":"Only accept google analytics cookies"},"functional":{"uuid":"3577cc4e-e48a-43c0-9a0a-6c5c097f09dc","langcode":"it","status":true,"dependencies":[],"id":"functional","label":"Required functional","group":"functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EDefault expiration time\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EDescription\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 month\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EIf you are logged in to this website, a session cookie is required to identify and connect your browser to your user account in the server backend of this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 year\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWhen you visited this website for the first time, you were asked for your permission to use several services (including those from third parties) that require data to be saved in your browser (cookies, local storage). Your decisions about each service (allow, deny) are stored in this cookie and are reused each time you visit this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"full_html"},"consentRequired":false,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because required functional cookies have not been accepted.","placeholderAcceptText":"Only accept required functional cookies"},"gtag":{"uuid":"f66d5e9f-4da7-485e-a2f9-681a9a191055","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_gtag"]}},"_core":{"default_config_hash":"IyQS406QuLa6fAnbDgux4OI6Y6fsu_-J_bZDtoXExEI"},"id":"gtag","label":"Google Tag Manager","group":"performance","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because google tag manager cookies have not been accepted.","placeholderAcceptText":"Only accept google tag manager cookies"},"infogram_":{"uuid":"61dcc425-a844-42ac-addd-23c732c62ad0","langcode":"it","status":true,"dependencies":[],"id":"infogram_","label":"Infogram ","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because infogram cookies have not been accepted.","placeholderAcceptText":"Only accept infogram cookies"},"matomo":{"uuid":"85f1ecf7-421a-477e-98b7-d50f58d1c438","langcode":"it","status":true,"dependencies":[],"id":"matomo","label":"Matomo","group":"tracking","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because matomo cookies have not been accepted.","placeholderAcceptText":"Only accept matomo cookies"},"microsoft_power_bi":{"uuid":"679e34c7-74da-41be-99a6-9c22797f79d8","langcode":"it","status":true,"dependencies":[],"id":"microsoft_power_bi","label":"Microsoft Power BI","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because microsoft power bi cookies have not been accepted.","placeholderAcceptText":"Only accept microsoft power bi cookies"},"new_relic":{"uuid":"11e38e83-5876-442d-922e-6d38b5f10186","langcode":"it","status":true,"dependencies":[],"id":"new_relic","label":"New Relic","group":"tracking","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because new relic cookies have not been accepted.","placeholderAcceptText":"Only accept new relic cookies"},"openstreetmap":{"uuid":"c35ea00a-d2aa-40f8-ac35-322bc97b8083","langcode":"it","status":true,"dependencies":[],"id":"openstreetmap","label":"OpenStreetMap","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because openstreetmap cookies have not been accepted.","placeholderAcceptText":"Only accept openstreetmap cookies"},"video":{"uuid":"681f159c-953b-4040-a53e-bb8a387ad23c","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_video"]}},"_core":{"default_config_hash":"MJL9EOZszmZMiNnJZL1uau0Vw_-w5cJON2cTornaww8"},"id":"video","label":"Video forniti da YouTube, Vimeo","group":"video","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because video forniti da youtube, vimeo cookies have not been accepted.","placeholderAcceptText":"Only accept video forniti da youtube, vimeo cookies"}},"groups":{"functional":{"uuid":"5b1c3951-fa37-4ef2-9212-6ed624800116","langcode":"it","status":true,"dependencies":[],"id":"functional","label":"Functional","weight":1,"title":"Functional","details":"I cookie sono piccoli file di testo che il Sito invia al terminale dell\u0027utente, dove sono memorizzati per poi essere ritrasmessi al sito alla visita successiva."},"performance":{"uuid":"c9fc9322-3cc7-4402-8226-f517fab0cff4","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"Jv3uIJviBj7D282Qu1ZpEQwuOEb3lCcDvx-XVHeOJpw"},"id":"performance","label":"Performance","weight":30,"title":"Cookie di prestazione","details":"Utilizziamo alcune funzionalit\u00e0 fornite da altre organizzazioni (\u201cTerze parti\u201d) per migliorare l\u2019esperienza di navigazione degli utenti."},"social":{"uuid":"18c2516e-81d5-4b3e-944c-80ccf4699353","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"vog2tbqqQHjVkue0anA0RwlzvOTPNTvP7_JjJxRMVAQ"},"id":"social","label":"Social Plugins","weight":20,"title":"Social Plugins","details":"Comments managers facilitate the filing of comments and fight against spam."},"tracking":{"uuid":"86841c59-0daf-4a3d-9f00-0c470616422e","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"_gYDe3qoEc6L5uYR6zhu5V-3ARLlyis9gl1diq7Tnf4"},"id":"tracking","label":"Tracking","weight":10,"title":"Cookie di tracciamento","details":"L\u0027utilizzo dei cookie di tracciamento in forma anonima consente la raccolta dei dati in merito alla navigazione delle pagine di questo sito web. In questa maniera ci aiuti a migliorare l\u0027esperienza utente del sito web."},"video":{"uuid":"2b75a78d-1d81-4d17-8090-5d4c38d2d624","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"w1WnCmP2Xfgx24xbx5u9T27XLF_ZFw5R0MlO-eDDPpQ"},"id":"video","label":"Video","weight":40,"title":"Video","details":"I servizi di condivisione video aiutano il sito ad essere maggiormente fruibile e aumentano la visibilit\u00e0."}}},"field_group":{"details":{"mode":"full","context":"view","settings":{"classes":"bottom0","id":"","open":false,"description":""}},"html_element":{"mode":"default","context":"view","settings":{"classes":"imgplace","id":"imgplace","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast","show_empty_fields":false}},"tabs":{"mode":"full","context":"view","settings":{"classes":"mobile-tab","id":"","direction":"vertical","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","effect":"none","speed":"fast","attributes":""}},"tab":{"mode":"full","context":"view","settings":{"classes":"","id":"","formatter":"closed","description":"","direction":"vertical","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","effect":"none","speed":"fast","attributes":"","show_empty_fields":false}}},"views":{"ajax_path":"\/it\/views\/ajax","ajaxViews":{"views_dom_id:7bf14f35b89c92b60720e0d058000edcb01e4531cf2b107d77435db96652a6ef":{"view_name":"w4_cdsi","view_display_id":"block_12","view_args":"43742","view_path":"\/node\/43742","view_base_path":"docenticdl","view_dom_id":"7bf14f35b89c92b60720e0d058000edcb01e4531cf2b107d77435db96652a6ef","pager_element":0},"views_dom_id:2744b3504b459bab8ff2747011ab638b08e301e004cd1f43c3b4c64730ecc9d8":{"view_name":"w4_cdsi","view_display_id":"block_11","view_args":"GAD+G31","view_path":"\/node\/43742","view_base_path":"docenticdl","view_dom_id":"2744b3504b459bab8ff2747011ab638b08e301e004cd1f43c3b4c64730ecc9d8","pager_element":0}}},"widthBreakpoint":640,"ultimenu":{"canvasOff":"#header","canvasOn":"#main-wrapper, .featured-top, .site-footer"},"user":{"uid":0,"permissionsHash":"0f3fc343222685b393a24eba61ac8d525b4adefbc0f573776a36a876db18dc99"}}</script>
+<script src="/sites/default/files/js/js_iNnXVIv9c8NqPVT6Cdf6-HiO9Ziqf8lvk0gxIFyJlhQ.js?scope=header&amp;delta=0&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="/modules/contrib/cookies/js/cookiesjsr.conf.js?v=10.5.1" defer></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?tlncrt" type="text/plain" id="cookies_gtag_gtag" data-cookieconsent="gtag"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?tlncrt" type="text/plain" id="cookies_gtag_gtm" data-cookieconsent="gtag"></script>
+
+  </head>
+  <body class="is-ultimenu-canvas is-ultimenu-canvas--hover site-default path-node page-node-type-cdl-scheda has-glyphicons">
+    <div role="navigation">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Salta al contenuto principale
+    </a>
+    </div>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNWRPR"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+              <header class="navbar navbar-default container" id="navbar">
+            <div class="navbar-header-top full-width">
+         <div class="topnavbar container">
+            <div class="region region-navigation-top">
+    <section class="language-switcher-language-url block block-language block-language-blocklanguage-interface clearfix" id="block-languageswitcher" role="navigation">
+  
+      <h2 class="block-title">Language switcher</h2>
+    
+
+      <ul class="links"><li hreflang="it" data-drupal-link-system-path="node/43742" class="it is-active" aria-current="page"><a href="/it/corsi/laurea-triennale/agricoltura-sostenibile" class="language-link is-active" aria-label="Lingua Italiana" title="Italiano" hreflang="it" data-drupal-link-system-path="node/43742" aria-current="page">ITA</a></li><li hreflang="en" data-drupal-link-system-path="node/43742" class="en"><a href="/en/education/bachelor/sustainable-agriculture" class="language-link" aria-label="English language" title="English" hreflang="en" data-drupal-link-system-path="node/43742">ENG</a></li></ul>
+  </section>
+
+<nav role="navigation" aria-labelledby="block-unimi-profili-menu" id="block-unimi-profili" class="navbar-profili menu_right hidden-xs hidden-sm">
+            
+  <h2 class="visually-hidden" id="block-unimi-profili-menu">Profili</h2>
+  
+
+        
+      <ul class="menu menu--profili nav">
+                      <li class="first">
+                                        <a href="https://unimia.unimi.it/">Unimia</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie</a>
+              </li>
+                      <li>
+                                        <a href="https://ariel.unimi.it/" title="Portale elearning">Ariel</a>
+              </li>
+                      <li>
+                                        <a href="https://sba.unimi.it/" title="Biblioteche">Biblioteche</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e dove</a>
+              </li>
+                      <li>
+                                        <a href="https://mail.unimi.it/">Webmail</a>
+              </li>
+                      <li>
+                                        <a href="https://work.unimi.it">laStatale@work</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Info per <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/taxonomy/term/10" data-drupal-link-system-path="taxonomy/term/10">Futuri studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/11" data-drupal-link-system-path="taxonomy/term/11">Studenti iscritti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/12" data-drupal-link-system-path="taxonomy/term/12">Laureati</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/8" data-drupal-link-system-path="taxonomy/term/8">Dottorandi</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/13" data-drupal-link-system-path="taxonomy/term/13">Studenti internazionali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/taxonomy/term/9" data-drupal-link-system-path="taxonomy/term/9">Enti e aziende</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="https://lastatalenews.unimi.it/" title="statale news">LaStataleNews</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/sostenere-la-statale/cinque-mille?clickOrigin=menu" title="5x1000" data-drupal-link-query="{&quot;clickOrigin&quot;:&quot;menu&quot;}" data-drupal-link-system-path="node/1229">5x1000</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+         </div>
+     </div>
+      <div class="navbar-header">
+          <div class="region region-navigation">
+          <a class="logo navbar-btn pull-left" href="/it" title="Home" rel="home">
+      <img src="/themes/custom/unimi/img/LogoHeader.svg" alt="Home" />
+    </a>
+      <section id="block-ultimenumainnavigation" class="hidden-xs hidden-sm block block-ultimenu block-ultimenu-blockultimenu-main clearfix">
+  
+    
+
+      
+<ul id="ultimenu-main" data-ultimenu="main" class="ultimenu ultimenu--hover ultimenu-- ultimenu--htb ultimenu--horizontal unimi"><li class="ultimenu__item uitem uitem--corsi uitem--b550ac76 uitem--1"><a href="/it/corsi" data-drupal-link-system-path="node/7725" title="" class="ultimenu__link">Corsi</a></li><li class="ultimenu__item uitem uitem--studiare uitem--3e1f0e09 uitem--2"><a href="/it/studiare" data-drupal-link-system-path="node/7726" title="" class="ultimenu__link">Studiare</a></li><li class="ultimenu__item uitem uitem--ricerca uitem--133224dc uitem--3"><a href="/it/ricerca" data-drupal-link-system-path="node/7727" title="" class="ultimenu__link">Ricerca</a></li><li class="ultimenu__item uitem uitem--terza-missione uitem--8391b5f2 uitem--4"><a href="/it/terza-missione" data-drupal-link-system-path="node/38988" title="" class="ultimenu__link">Terza missione</a></li><li class="ultimenu__item uitem uitem--ateneo uitem--ca313063 uitem--5"><a href="/it/ateneo" data-drupal-link-system-path="node/7728" title="" class="ultimenu__link">Ateneo</a></li><li class="ultimenu__item uitem uitem--internazionale uitem--d93d43c5 uitem--6"><a href="/it/internazionale" data-drupal-link-system-path="node/7729" title="" class="ultimenu__link">Internazionale</a></li><li class="ultimenu__item uitem uitem--cerca uitem--4e413781 uitem--7 has-ultimenu"><a href="" data-drupal-link-system-path="" title="" class="ultimenu__link">Cerca<span class="caret" aria-hidden="true"></span></a><section class="ultimenu__flyout is-htb"><div class="ultimenu-wrapper fullwidth"><div class="container ultimenu-content"><div class="close-wrap"><a href class="close-button"><img src="/themes/custom/unimi/img/cross.svg" alt="close item"></a></div><div class="ultimenu__region region region--count-3 region-ultimenu-main-4e413781"><section id="block-unimi-search" class="clearfix mega-search block block-block-content block-block-content363d513a-c2cf-48a9-a4a7-d31381dfa1f6"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><form accept-charset="UTF-8" action="https://apps.unimi.it/sitesearch/unimi-new/search.jsp" id="search-block-form-2" method="get"><div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group"><label class="control-label sr-only" for="edit-keys-2">Cerca</label><div class="input-group"><input class="form-search form-control" data-drupal-selector="edit-keys-2" data-original-title="Inserisci i termini da cercare." data-toggle="tooltip" id="edit-keys-2" maxlength="128" name="q" placeholder="Cerca" required="true" size="15" title type="search" value><span class="input-group-btn"><button class="button js-form-submit form-submit btn-primary btn icon-only" type="submit" value="Cerca"><span class="sr-only">Cerca</span></button></span></div></div><div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions-2" id="edit-actions-2">&nbsp;</div></form></div></section><nav role="navigation" aria-labelledby="block-unimi-menuprincipale-menu" id="block-unimi-menuprincipale" class="col-sm-12 clearfix"><h2 class="visually-hidden" id="block-unimi-menuprincipale-menu">Menu principale</h2><ul class="menu menu--main nav navbar-nav"><li class="first"><a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a></li><li><a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a></li><li><a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a></li><li><a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a></li><li class="last"><a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a></li></ul></nav><section id="block-unimi-megamenufooter" class="col-sm-12 clearfix block block-block-content block-block-content4a59a823-49d1-4c08-8e2b-8558f0ed52de"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a class="mega-news" href="https://lastatalenews.unimi.it">News</a><a class="mega-logo" href="/it">Logo</a></p></div></section></div></div></div></section></li><li class="ultimenu__item uitem uitem--home uitem--front-page uitem--8 has-ultimenu"><a href="/it" data-drupal-link-system-path="&lt;front&gt;" title="" class="ultimenu__link">Home<span class="caret" aria-hidden="true"></span></a><section class="ultimenu__flyout is-htb"><div class="ultimenu-wrapper fullwidth"><div class="container ultimenu-content"><div class="close-wrap"><a href class="close-button"><img src="/themes/custom/unimi/img/cross.svg" alt="close item"></a></div><div class="ultimenu__region region region--count-3 region-ultimenu-main-standard__front-page"><nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="col-sm-12"><h2 class="visually-hidden" id="block-mainnavigation-menu">I corsi</h2><ul class="menu menu--main nav"><li class="expanded dropdown"><a href="/it/corsi">Corsi</a><ul class="dropdown-menu"><li><a href="/it/corsi/orientarsi-e-scegliere" data-drupal-link-system-path="node/727">Orientarsi e scegliere</a></li><li><a href="/it/corsi/facolta-e-scuole" data-drupal-link-system-path="node/710">Facoltà e scuole</a></li><li><a href="/it/corsi/corsi-di-laurea-triennali-e-magistrali-ciclo-unico" data-drupal-link-system-path="node/1071">Lauree triennali e magistrali ciclo unico</a></li><li><a href="/it/corsi/corsi-di-laurea-magistrale" data-drupal-link-system-path="node/13968">Lauree Magistrali</a></li><li><a href="/it/corsi/la-statale-open" data-drupal-link-system-path="node/53900">La Statale Open - laurea online</a></li><li><a href="/it/corsi/insegnamenti-dei-corsi-di-laurea" data-drupal-link-system-path="node/1074">Insegnamenti dei corsi di laurea</a></li><li><a href="/it/corsi/tutte-le-offerte-formative" data-drupal-link-system-path="node/13005">Tutte le offerte formative - corsi di laurea</a></li><li><a href="/it/corsi/percorso-di-eccellenza-iuss-pavia" data-drupal-link-system-path="node/44362">Percorso di eccellenza IUSS Pavia</a></li><li><a href="/it/corsi/corsi-post-laurea-e-formazione-continua" data-drupal-link-system-path="node/1072">Corsi post laurea e formazione continua</a></li><li><a href="/it/corsi/esami-di-stato" data-drupal-link-system-path="node/271">Esami di stato</a></li><li><a href="/it/corsi/summer-e-winter-schools" data-drupal-link-system-path="node/32">Summer school</a></li><li><a href="/it/corsi/didattica-online" data-drupal-link-system-path="node/708">Didattica online</a></li><li><a href="/it/corsi/studiare-carcere" data-drupal-link-system-path="node/37118">Studiare in carcere</a></li></ul></li><li class="expanded dropdown"><a href="/it/studiare">Studiare</a><ul class="dropdown-menu"><li><a href="/it/studiare/immatricolarsi-e-iscriversi" data-drupal-link-system-path="node/13253">Immatricolarsi e iscriversi</a></li><li><a href="/it/studiare/frequentare-un-corso-di-laurea" data-drupal-link-system-path="node/726">Frequentare un corso di laurea</a></li><li><a href="/it/studiare/frequentare-un-corso-post-laurea" data-drupal-link-system-path="node/729">Frequentare un corso post laurea</a></li><li><a href="/it/studiare/seguire-un-corso-singolo" data-drupal-link-system-path="node/168">Seguire un corso singolo</a></li><li><a href="/it/studiare/borse-premi-mense-e-alloggi" data-drupal-link-system-path="node/730">Borse, premi, mense e alloggi</a></li><li><a href="/it/studiare/competenze-linguistiche" data-drupal-link-system-path="node/12716">Competenze linguistiche</a></li><li><a href="/it/studiare/stage-e-lavoro" data-drupal-link-system-path="node/1058">Stage e lavoro</a></li><li><a href="/it/studiare/servizi-gli-studenti" data-drupal-link-system-path="node/723">Servizi per gli studenti</a></li><li><a href="/it/studiare/biblioteche" data-drupal-link-system-path="node/464">Biblioteche</a></li><li><a href="/it/studiare/vivere-luniversita" data-drupal-link-system-path="node/1070">Vivere l&#039;Università</a></li></ul></li><li class="expanded dropdown"><a href="/it/ricerca">Ricerca</a><ul class="dropdown-menu"><li><a href="/it/ricerca/pnrr-i-progetti-delluniversita-statale" data-drupal-link-system-path="node/49935">PNRR: i progetti dell’Università Statale</a></li><li><a href="/it/ricerca/facts-figures" data-drupal-link-system-path="node/1185">Facts &amp; Figures</a></li><li><a href="/it/ricerca/cosa-studiamo" data-drupal-link-system-path="node/1193">Cosa studiamo</a></li><li><a href="/it/ricerca/fare-ricerca-da-noi" data-drupal-link-system-path="node/1187">Fare ricerca da noi</a></li><li><a href="/it/ricerca/luoghi-organizzazione-e-infrastrutture" data-drupal-link-system-path="node/1188">Luoghi, organizzazione e infrastrutture</a></li><li><a href="/it/ricerca/policies-e-principi" data-drupal-link-system-path="node/1186">Policies e principi</a></li><li><a href="/it/ricerca/dati-e-prodotti-della-ricerca" data-drupal-link-system-path="node/1190">Dati e prodotti della ricerca</a></li><li><a href="/it/ricerca/ricerca-tutti" data-drupal-link-system-path="node/1181">Ricerca per tutti</a></li></ul></li><li class="expanded dropdown"><a href="/it/terza-missione">Terza missione</a><ul class="dropdown-menu"><li><a href="/it/terza-missione/innovazione-ricerca-e-imprese" data-drupal-link-system-path="node/1183">Innovazione, ricerca e imprese</a></li><li><a href="/it/terza-missione/terza-missione-organizzazione-e-governance" data-drupal-link-system-path="node/39512">Terza missione, organizzazione e governance</a></li><li><a href="/it/terza-missione/patrimonio-storico-e-culturale" data-drupal-link-system-path="node/601">Patrimonio storico e culturale</a></li><li><a href="/it/terza-missione/responsabilita-sociale" data-drupal-link-system-path="node/14844">Responsabilità sociale</a></li></ul></li><li class="expanded dropdown"><a href="/it/ateneo">Ateneo</a><ul class="dropdown-menu"><li><a href="/it/ateneo/la-statale" data-drupal-link-system-path="node/1216">La Statale</a></li><li><a href="/it/ateneo/governance-e-linee-strategiche" data-drupal-link-system-path="node/1217">Governance e linee strategiche</a></li><li><a href="/it/ateneo/uffici-e-strutture" data-drupal-link-system-path="node/1218">Uffici e strutture</a></li><li><a href="/it/ateneo/carta-dei-servizi" data-drupal-link-system-path="node/39238">Carta dei servizi</a></li><li><a href="/it/ateneo/lavora-con-noi" data-drupal-link-system-path="node/1220">Lavora con noi</a></li><li><a href="/it/ateneo/bandi-di-gare-e-contratti" data-drupal-link-system-path="node/1227">Bandi di gare e contratti</a></li><li><a href="/it/ateneo/normative" data-drupal-link-system-path="node/383">Normative</a></li><li><a href="/it/ateneo/assicurazione-della-qualita" data-drupal-link-system-path="node/521">Assicurazione della qualità</a></li><li><a href="/it/ateneo/fundraising" data-drupal-link-system-path="node/1223">Fundraising</a></li><li><a href="/it/ateneo/amministrazione-trasparente" data-drupal-link-system-path="node/12893">Amministrazione trasparente</a></li></ul></li><li class="expanded dropdown"><a href="/it/internazionale">Internazionale</a><ul class="dropdown-menu"><li><a href="/it/internazionale/cooperazione-internazionale" data-drupal-link-system-path="node/44305">Cooperazione internazionale allo sviluppo</a></li><li><a href="/it/internazionale/la-statale-nel-mondo" data-drupal-link-system-path="node/12742">La Statale nel mondo</a></li><li><a href="/it/internazionale/studiare-allestero" data-drupal-link-system-path="node/273">Studiare all&#039;estero</a></li><li><a href="/it/internazionale/venire-studiare-dallestero" data-drupal-link-system-path="node/295">Venire a studiare dall&#039;estero</a></li><li><a href="/it/internazionale/mobilita-docenti-e-ricercatori" data-drupal-link-system-path="node/1204">Mobilità docenti e ricercatori</a></li></ul></li><li class="expanded dropdown"><a href="">Cerca</a><ul class="dropdown-menu"><li><a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a></li><li><a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a></li><li><a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a></li><li><a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a></li><li><a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a></li></ul></li><li><a href="/it" data-drupal-link-system-path="&lt;front&gt;">Home</a></li></ul></nav><section class="views-element-container col-sm-12 block block-views block-views-blockprofili-block-1 clearfix" id="block-unimi-views-block-profili-block-1"><div class="form-group"><div class="view view-profili view-id-profili view-display-id-block_1 js-view-dom-id-70c962e8959873ded07a5f144685f18630a94b0ed234717a120b1d13e5c672bf"><div class="view-content"><div class="item-list fullwidth"><ul class="container"><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/10"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-signs-post" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Futuri studenti</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/11"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-circle-user" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Studenti iscritti</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/12"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-user-plus" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Laureati</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/8"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-graduation-cap" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Dottorandi</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/13"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-globe" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Studenti internazionali</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/9"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-building" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Enti e aziende</a></div></div></li></ul></div></div></div></div></section><section id="block-unimi-megamenufooter-2" class="col-sm-12 block block-block-content block-block-content4a59a823-49d1-4c08-8e2b-8558f0ed52de clearfix"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a class="mega-news" href="https://lastatalenews.unimi.it">News</a><a class="mega-logo" href="/it">Logo</a></p></div></section></div></div></div></section></li></ul><button data-ultimenu-button="#ultimenu-main" class="button button--ultimenu"
+        aria-label="Menu" value="Menu"><span class="bars">Menu</span></button>
+  </section>
+
+
+  </div>
+
+                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+              </div>
+
+                    <div id="navbar-collapse" class="navbar-collapse collapse">
+            <div class="region region-navigation-collapsible">
+    <section id="block-searchmobile" class="search-block-form hidden-lg hidden-md block block-search block-search-form-block block-block-content block-block-content4b159f0e-4fa2-4411-a21f-56afa0508e9f clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><form accept-charset="UTF-8" action="https://apps.unimi.it/sitesearch/unimi-new/search.jsp" id="search-block-form" method="get">
+<div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group"><label class="control-label sr-only" for="edit-keys">Cerca</label>
+<div class="input-group"><input class="form-search form-control" data-drupal-selector="edit-keys" data-original-title="Inserisci i termini da cercare." id="edit-keys" maxlength="128" name="q" placeholder="Cerca" size="15" title type="search" required="true" value><span class="input-group-btn"><button class="button js-form-submit form-submit btn-primary btn icon-only" type="submit" value="Cerca"><span class="sr-only">Cerca</span></button></span></div>
+</div>
+</form>
+</div>
+      
+  </section>
+
+<nav role="navigation" aria-labelledby="block-unimi-main-menu-menu" id="block-unimi-main-menu" class="hidden-md hidden-lg">
+            
+  <h2 class="visually-hidden" id="block-unimi-main-menu-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/it/corsi" data-drupal-link-system-path="node/7725">Corsi</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare" data-drupal-link-system-path="node/7726">Studiare</a>
+              </li>
+                      <li>
+                                        <a href="/it/ricerca" data-drupal-link-system-path="node/7727">Ricerca</a>
+              </li>
+                      <li>
+                                        <a href="/it/terza-missione" data-drupal-link-system-path="node/38988">Terza missione</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo" data-drupal-link-system-path="node/7728">Ateneo</a>
+              </li>
+                      <li>
+                                        <a href="/it/internazionale" data-drupal-link-system-path="node/7729">Internazionale</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Cerca <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="last">
+                                        <a href="/it" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-topnavbar-2-menu" id="block-topnavbar-2" class="hidden-md hidden-lg">
+            
+  <h2 class="visually-hidden" id="block-topnavbar-2-menu">Top navbar</h2>
+  
+
+        
+      <ul class="menu menu--profili nav">
+                      <li class="first">
+                                        <a href="https://unimia.unimi.it/">Unimia</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie</a>
+              </li>
+                      <li>
+                                        <a href="https://ariel.unimi.it/" title="Portale elearning">Ariel</a>
+              </li>
+                      <li>
+                                        <a href="https://sba.unimi.it/" title="Biblioteche">Biblioteche</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e dove</a>
+              </li>
+                      <li>
+                                        <a href="https://mail.unimi.it/">Webmail</a>
+              </li>
+                      <li>
+                                        <a href="https://work.unimi.it">laStatale@work</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Info per <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/taxonomy/term/10" data-drupal-link-system-path="taxonomy/term/10">Futuri studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/11" data-drupal-link-system-path="taxonomy/term/11">Studenti iscritti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/12" data-drupal-link-system-path="taxonomy/term/12">Laureati</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/8" data-drupal-link-system-path="taxonomy/term/8">Dottorandi</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/13" data-drupal-link-system-path="taxonomy/term/13">Studenti internazionali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/taxonomy/term/9" data-drupal-link-system-path="taxonomy/term/9">Enti e aziende</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="https://lastatalenews.unimi.it/" title="statale news">LaStataleNews</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/sostenere-la-statale/cinque-mille?clickOrigin=menu" title="5x1000" data-drupal-link-query="{&quot;clickOrigin&quot;:&quot;menu&quot;}" data-drupal-link-system-path="node/1229">5x1000</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+        </div>
+                </header>
+  
+  <div  id="main-container-unimi" role="main" class="main-container container js-quickedit-main-content">
+    <div class="row">
+
+                              <div class="col-sm-12">
+              <div class="region region-header">
+        <ol class="breadcrumb rs_skip">
+          <li >
+                  <a href="/it">Home</a>
+              </li>
+          <li >
+                  <a href="/it/corsi">Corsi </a>
+              </li>
+          <li >
+                  <a href="/it/corsi/laurea-triennale">Laurea triennale</a>
+              </li>
+          <li  class="active">
+                  Agricoltura sostenibile
+              </li>
+      </ol>
+
+
+  </div>
+
+          </div>
+              
+            
+                  <section class="col-sm-12">
+
+                
+                                      
+                  
+                          <a id="main-content"></a>
+            <div class="region region-content">
+        <h1 class="page-header">
+<span>Agricoltura sostenibile</span>
+</h1>
+
+<div data-drupal-messages-fallback class="hidden"></div>
+  <div class="row bs-2col-bricked node node--type-cdl-scheda node--view-mode-full">
+  
+
+  
+    <div class="col-xs-12 col-sm-8 col-md-8 col-lg-9 bs-region bs-region--top-left">
+    
+<div  class="top-left-cdl-scheda">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_6 js-view-dom-id-63fdd8ceb326bb44cbfda9b3ad367337fb57c3c7bdad020c89f753a2f72bdbd2">
+  
+    
+      
+      <div class="view-content">
+          <div class="area-header area-G area-caratipo-a"><div class="banner-area banner-area-G"><span>SCIENZE AGRARIE E ALIMENTARI</span></div>  <img loading="lazy" src="/sites/default/files/styles/scheda_cdl/public/2022-02/agricoltura_sostenibile_2.jpeg?h=e3d7e3ce&amp;itok=f0xE0r4X" width="1240" height="400" alt="agricoltura sostenibile" title="" class="img-responsive rs_skip" />
+
+
+<div class="info-group new-info-group"><div class="carat-laurea">Corso in presenza</div>
+<div class="title-laurea">Agricoltura sostenibile</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+
+
+  </div>
+  </div>
+  
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3 bs-region bs-region--top-right">
+    
+<div  class="top-right-cdl-scheda">
+    
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-intestazione field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_49 js-view-dom-id-569c05feb0611a730dff1c45de54d379fd31f3ec6824412b40006ea767636d5e">
+  
+    
+      
+      <div class="view-content">
+          <div class="cdl-intestazione codice-area-G "><div><div class="scheda-corso">Scheda del corso</div>
+<div class="anno">A.A. 2026/2027 </div>
+<div class="tipo-laurea">Laurea triennale</div>
+
+<div class="field--name-uof-cdsclass">L-25 R - Scienze e tecnologie agrarie e forestali</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+            <div  class="paragraph paragraph--type--bp-action paragraph--type--bp-action-blu">
+        
+            <div  class="field--name-bp-link">
+                  <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_32 js-view-dom-id-b1e9930bb3598b766e51df1428242e9c40fa810e8b8ee545b57976e6a873dc55">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-sito-corso"><div class="field-content"><a href="https://agricoltura-sostenibile.cdl.unimi.it" target="_blank" aria-label="Vai al sito del corso di Agricoltura sostenibile (Classe L-25 R)">Vai al sito del corso</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+      </div>
+  
+    </div>
+
+
+  </div>
+  </div>
+  
+    <div class="col-xs-12 bs-region bs-region--middle">
+    
+<div >
+    
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-barra field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="barra-dati top40 bottom40 view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_4 js-view-dom-id-a5b690fa010b4f771eb8ca75134218eebbd3c8457f84a828f2b73313aa49f9f6">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-cdstype"><div class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-university fa-stack-1x fa-inverse"></span>
+</span>
+
+<div class="views-label views-label-uof-cdstype">Laurea triennale</div></div></div><div class="views-field views-field-cfu"><span class="field-content"><span class="fa-stack fa-3x">
+    <span class="fa fa-circle fa-stack-2x"></span>
+    <span class="fa-stack-1x fa fa-ticket fa-inverse"></span>
+ </span>
+<div class="views-label views-label-cfu">180</div>
+Crediti</span></div><div class="views-field views-field-uof-ma1"><div class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+<span class="fas fa-sign-in-alt fa-stack-1x fa-inverse "></span>
+</span>
+<div class="views-label views-label-uof-ma1">Accesso</div>
+Libero con test di autovalutazione obbligatorio prima dell&#039;immatricolazione</div></div><div class="views-field views-field-durata-anni"><span class="field-content"><span class="fa-stack fa-3x">
+ <span class="fa fa-circle fa-stack-2x"></span>
+    <span class="fas fa-calendar-o fa-stack-1x fa-inverse"></span>
+  </span>
+<div class="views-label views-label-durata-anni">3</div>
+Anni
+</span></div><div class="views-field views-field-polo-fisico"><div class="field-content">  <span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-building-o  fa-stack-1x fa-inverse"></span>
+</span>
+<div class="views-label views-label-polo-fisico">Sede</div>
+Milano </div></div><div class="views-field views-field-nothing"><span class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-flag fa-stack-1x fa-inverse"></span>
+</span>
+<div class="views-label views-label-uof-lingua">Lingua</div>
+Italiano</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div><div class="mobile-tab field-group-tabs-wrapper"><div data-vertical-tabs-panes><input class="vertical-tabs__active-tab" type="hidden" /><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-objectives">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-objectives--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-objectives--content">Obiettivi formativi</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-objectives--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-obiettivi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_7 js-view-dom-id-eb27d6acdaf9ec37d465bcbcdac91e958708568fdff8365c3b92da875d2df403">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-obiettivi-formativi"><div class="field-content">La struttura del corso di laurea è funzionale ad una solida preparazione sia riguardo le materie di base, sia riguardo le materie caratterizzanti la professione dell'agronomo nel contesto attuale. La formazione così ricevuta fornisce una preparazione multidisciplinare caratterizzata da un'elevata competenza e di conseguenza consente un'elevata adattabilità nei confronti del mondo del lavoro. La stessa formazione rappresenta altresì una base adeguata per il proseguimento del percorso formativo in un corso di laurea magistrale.<br>La formazione ha l'obiettivo di fornire agli studenti le conoscenze e gli strumenti per progettare e gestire i processi produttivi (vegetali e animali) che siano compatibili con la crescente consapevolezza che caratterizza il consumatore in termini di qualità del prodotto e sostenibilità ambientale, senza tralasciare quella economica.<br>Inoltre, la formazione è orientata anche ad aspetti non necessariamente legati alle attività produttive primarie, come la gestione delle risorse naturali con particolare riferimento a quelle idriche e forestali, la gestione del territorio, la gestione del verde pubblico e privato, la produzione di energie rinnovabili, la trasformazione e la valorizzazione in ambiti agricoli dei sottoprodotti.<br>Tra gli obiettivi formativi non sono secondari quelli relativi all'acquisizione dei concetti della bio-economia e dell'economia circolare, in modo da consentire al laureato in Agricoltura Sostenibile di gestire l'intero processo produttivo e prevedendo o facilitando l'uso dei sottoprodotti.<br>Per ottenere questi obiettivi, il percorso formativo affronta inizialmente lo studio delle materie di base, quali la matematica, la fisica, la chimica, la biologia, la statistica e l'informatica. Successivamente vengono affrontate tematiche tipiche delle scienze agrarie, fornendo conoscenze sugli agro-ecosistemi in un'ottica sia produttiva sia di sostenibilità.<br>L'approfondimento di tematiche chimiche, biochimiche e microbiologiche ha l'obiettivo di fornire strumenti per la comprensione dei processi tipici delle produzioni vegetali e animali.<br>Le discipline ingegneristiche (meccanica agraria, idraulica agraria e costruzioni rurali), ed economiche unitamente alle precedenti, consentono di formare il laureato all'utilizzo razionale e sostenibile dei mezzi tecnici e alle tecniche per la gestione dell'azienda agricola.<br>La formazione prosegue quindi con l'approfondimento di tematiche specifiche, contenute in percorsi formativi dedicati, nel quale vengono sviluppate ulteriori capacità critiche e applicative.<br>Gli insegnamenti a scelta libera dello studente consentiranno infine di completare la formazione tramite il potenziamento anche delle competenze trasversali tenendo in conto le attitudini dello studente.<br>Lo studente raggiungerà gli obiettivi formativi attraverso forme didattiche differenziate. A seconda delle caratteristiche formative e professionali, i corsi di insegnamento sono articolati in lezioni frontali, in esercitazioni di laboratorio e di campo, seminari su temi di specifico interesse, visite didattiche, ecc.<br>Lo studente, inoltre, dovrà svolgere un periodo di tirocinio, presso una realtà esterna alla Facoltà (Enti, Istituti di Ricerca, aziende, amministrazione pubbliche, organizzazioni del terzo settore, altre Università italiane o estere) ovvero presso una struttura della stessa, al fine di acquisire competenze di tipo pratico in una tematica del percorso formativo. L'attività di tirocinio costituisce l'argomento della prova finale.
+
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-career-and-employment">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-career-and-employment--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-career-and-employment--content">Sbocchi professionali</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-career-and-employment--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-sbocchi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_8 js-view-dom-id-44d2bbe11f0563981d69c99019ca1f636d6e0f5d827880eccd3e157a835d0caa">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-sbocchi-occupazionali"><div class="field-content"><div class="bottom40">Tecnologo agrario<br>- funzione in un contesto di lavoro:<br>Il laureato in Agricoltura Sostenibile svolge funzioni progettuali, gestionali ed esecutive nell'ambito dei comparti agricolo, zootecnico e ambientale e nelle filiere ad essi collegati. Il laureato gestisce i principali aspetti delle produzioni vegetali erbacee ed arboree (lavorazione, concimazione, avvio della coltura, difesa, irrigazione, raccolta) e delle produzioni animali (sistemi di allevamento e alimentazione nel rispetto del benessere animale, gestione delle strutture di stabulazione e di produzione e degli effluenti) applicando le conoscenze progettuali, gestionali ed esecutive per coniugare le esigenze di redditività con la sostenibilità ambientale e la qualità dei prodotti ottenuti.<br>Il laureato coadiuva le azioni di marketing dei prodotti ottenuti dalle produzioni vegetali e animali così come la gestione della commercializzazione dei prodotti.<br>Il laureato partecipa attivamente nelle azioni di ricerca e sviluppo inerenti agli strumenti necessari per lo svolgersi delle produzioni vegetali (fertilizzanti, fitofarmaci, macchine agricole) e delle produzioni animali (mangimi, integratori, impianti tecnologici) e si occupa della loro vendita sfruttando le conoscenze tecniche del prodotto.<br>Il laureato partecipa allo sviluppo delle imprese agricole erogando servizi di assistenza tecnica all'azienda agraria, sia nell'ambito delle produzioni vegetali che animali, in linea con le procedure tecniche amministrative aziendali.<br>Inoltre, il laureato affronta anche aspetti non direttamente legati alle attività produttive primarie, come la gestione delle risorse naturali, la gestione del territorio, la produzione di energie rinnovabili, la trasformazione dei prodotti in ambito aziendale e la gestione dei sottoprodotti. Partecipa ad attività di monitoraggio ambientale, alla realizzazione di progetti di recupero di aree inquinate e alla gestione di impianti per la trasformazione di biomasse ad elevato impatto ambientale.<br>- competenze associate alla funzione:<br>Le competenze acquisite durante il corso degli studi, che consentiranno di svolgere le funzioni di cui sopra, si riferiscono direttamente agli insegnamenti caratterizzanti e affini del corso di studio e riguardano specificamente: le tecniche colturali, quelle agronomiche di produzione e di difesa delle colture vegetali, le tecniche di alimentazione e allevamento animale, le conoscenze tecniche e applicative delle discipline ingegneristiche attinenti l'area agraria (meccanica, macchine agricole, costruzioni e impianti, opere idrauliche), i principi dell'economia e le basi analitiche per la gestione economica del sistema agricolo anche con funzioni tecniche di salvaguardia dell'ambiente, recupero e valorizzazione delle risorse naturali.<br>- sbocchi occupazionali:<br>Le funzioni di cui sopra saranno svolte nell'ambito di:<br>- aziende agricole, comprese quelle che forniscono servizi ambientali;<br>- aziende agrituristiche e orientate alla trasformazione e vendita diretta delle loro produzioni;<br>- enti pubblici per l'agricoltura, il territorio e l'ambiente (es. Regioni, Comuni, Comunità Montane, Autorità di Bacino, Agenzie Nazionali e Regionali per l'Ambiente, Consorzi di Bonifica ed Irrigazione, Consorzi di Bacino Imbrifero Montano, Parchi e Aree protette);<br>- associazioni professionali;<br>- organizzazioni internazionali e non governative impegnate in progetti di sviluppo in campo agricolo;<br>- libera professione, individualmente o nell'ambito di studi professionali operanti nell'ambito dei sistemi agricoli, zootecnici e naturali;<br>- società di servizi e laboratori operanti nella valorizzazione e tutela dell'ambiente e del territorio, nel monitoraggio e recupero ambientale, nella gestione dei reflui, nella bonifica ambientale, nella realizzazione e manutenzione di aree verdi e di opere e interventi di difesa del suolo;<br>- aziende fornitrici di servizi per l'agricoltura e la zootecnia (es. assistenza amministrativa, consulenza agronomica, imprese agro-meccaniche);<br>- aziende fornitrici di mezzi tecnici per l'agricoltura e la zootecnia (es. fertilizzanti, fitofarmaci, mangimi e integratori alimentari);<br>- aziende fornitrici di strutture e impianti per l'agricoltura e la zootecnia (es. impianti irrigui, impianti di mungitura);<br>- aziende fornitrici di macchine agricole;<br>- consorzi agrari, associazioni di produttori, associazioni di categoria, cooperative agricole;<br>- aziende di trasformazione, commercializzazione e distribuzione di prodotti agro-alimentari.<br><br><a class="top40" href="https://statistiche.almalaurea.it/universita/statistiche/trasparenza?codicione=0150106202500001">Statistiche occupazionali (Almalaurea)</a></div>
+<div><div class="field--label">Percorsi consigliati dopo laurea</div>
+<div class="field--item">La laurea in Agricoltura Sostenibile offre una buona base formativa per l'ammissione a numerose lauree magistrali, in particolare nelle classi di laurea LM-69, LM-73, proposte sia dall'Ateneo, sia da altre Università.</div></div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-study-abroad">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-study-abroad--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-study-abroad--content">Studio all'estero</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-study-abroad--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-studi-estero field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_9 js-view-dom-id-1fff52bd385f6e366dc6e1dbceb584762c1ba18583cb6ff428d71d4b272f4124">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-esperienze-estero"><div class="field-content">Il Corso di Laurea in Agricoltura Sostenibile offre ampie possibilità di studio all'estero principalmente attraverso il programma Erasmus+ a cui afferiscono circa 30 Università straniere dislocate nei paesi dell'Unione Europea. I settori che possono essere sviluppati presso le università partner abbracciano tutti quelli specifici del Corso di Laurea.<br>Durante il soggiorno all'estero è possibile seguire insegnamenti per ampliare le proprie conoscenze scientifiche, oppure svolgere tirocini o tesi di laurea. Previo accordo stabilito prima della partenza con i docenti dell'Università degli Studi di Milano, la votazione e i relativi CFU ottenuti nelle università partner vengono riconosciuti, dando così agli studenti la certezza che quanto fatto nell'università ospitante sia poi valutato positivamente nel loro curriculum degli studi.<br>Informazioni utili relative alle sedi e agli insegnamenti disponibili sono reperibili a questo link: <a href="https://drive.google.com/drive/folders/1-u48xSaV9eR9Vg-vU9YRT_DAcYCcI50K">https://drive.google.com/drive/folders/1-u48xSaV9eR9Vg-vU9YRT_DAcYCcI50K</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-attendance">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-attendance--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-attendance--content">Obbligo di frequenza</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-attendance--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-frequenza field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_10 js-view-dom-id-c6a12a4e28aa8b79bdb63bff45537798a803ff3b9f554a401de52a502781faa6">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-frequenza"><div class="field-content">La frequenza delle attività formative è fortemente consigliata.</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+</div>
+</div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Immatricolazione</div>
+    <div class="bottom0 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--5">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--5--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--5--content">Requisiti, modalità di verifica e obblighi formativi</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--5--content" class="panel-body panel-collapse collapse fade">
+                  <div  class="paragraph scheda-cds-requisiti-accesso">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_11 js-view-dom-id-adebb7984d957699d61a80d503ddc166005759c722454480295ed71ef2fc0f24">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-requisiti-accesso"><div class="field-content">Requisiti e conoscenze richieste per l'accesso<br><br>Per essere ammessi al corso di laurea occorre essere in possesso di un diploma di scuola secondaria di secondo grado o di altro titolo di studio conseguito all'estero, riconosciuto idoneo, nonché essere in possesso di un'adeguata preparazione iniziale. In particolare, si richiede una buona conoscenza delle discipline scientifiche di base (matematica, fisica, chimica, biologia), con un grado di approfondimento pari a quello derivante dalla preparazione della Scuola Media Superiore, nonché abilità logiche e una buona capacità di elaborazione scritta e di esposizione orale in lingua italiana.<br><br>Modalità di verifica delle conoscenze e della preparazione personale<br><br>Il corso di laurea è ad accesso libero con test di verifica delle conoscenze obbligatorio, ma non selettivo, prima dell'immatricolazione.<br>Il test è volto ad accertare la preparazione iniziale in termini di requisiti di conoscenze nelle discipline scientifiche di base, con un grado di approfondimento pari a quello derivante dalla preparazione della Scuola Media Superiore, e di comprensione di logica elementare.<br>Il test valido per l'accesso al corso di laurea è il TOLC-AV, un test online erogato dal CISIA (Consorzio Interuniversitario Sistemi Integrati per l'Accesso - <a href="https://www.cisiaonline.it">https://www.cisiaonline.it</a>). Struttura e argomenti della prova e altre informazioni utili sono disponibili alla pagina <a href="https://www.cisiaonline.it/area-tematica-tolc-agraria-veterinaria/struttura-della-prova-e-syllabus/">https://www.cisiaonline.it/area-tematica-tolc-agraria-veterinaria/struttura-della-prova-e-syllabus/</a><br>Il TOLC-AV può essere sostenuto presso l'Università degli Studi di Milano o presso una qualsiasi altra Università aderente al CISIA. Alla pagina <a href="https://tolc.cisiaonline.it/calendario.php">https://tolc.cisiaonline.it/calendario.php</a> è pubblicato il calendario con le sedi e le date disponibili.<br>Procedure di iscrizione e scadenze sono indicate nel bando di ammissione pubblicato alla pagina <a href="https://agricoltura-sostenibile.cdl.unimi.it/it/iscriversi">https://agricoltura-sostenibile.cdl.unimi.it/it/iscriversi</a>.<br>I risultati del test saranno comunicati in forma riservata a ciascun studente evidenziando le eventuali carenze emerse dal test stesso. Per colmare tali eventuali carenze la Facoltà offre allo studente la possibilità di aderire ad attività di recupero tramite corsi online e corsi di tutoraggio extracurriculare che saranno attivati parallelamente ai primi giorni di lezione e la cui frequenza è fortemente raccomandata a tutti coloro che avranno manifestato carenze di preparazione.<br><br>Accesso per trasferimento o per studenti già laureati<br><br>Gli studenti già iscritti ad un corso di laurea dell'Università degli Studi di Milano, ad altro Ateneo o già laureati, possono essere esonerati dal test solo se ammessi ad anni successivi al primo. A tal fine deve essere presentata apposita richiesta di valutazione preventiva della carriera accedendo al servizio online indicato nel bando di ammissione.<br>Gli interessati dovranno dichiarare tutti gli esami sostenuti con relativi settori, crediti e voti e allegare i programmi dei corsi. Per maggiori dettagli sulla procedura e sulle tempistiche si rinvia al bando.<br>Gli studenti ammessi al primo anno dovranno sostenere il test. <br><br>Obblighi formativi aggiuntivi e modalità per il recupero OFA<br><br>A studenti e studentesse ammessi/e al corso di studio che nella sezione di Matematica del TOLC-AV non raggiungono un punteggio superiore a 3 sono assegnati obblighi formativi aggiuntivi (OFA). Per chi avrà ricevuto gli OFA verranno organizzate nel periodo ottobre-dicembre attività di supporto online con tutor in affiancamento, seguite da una prova finale di accertamento che potrà essere sostenuta solo durante i primi mesi del primo anno. Se tale prova non verrà superata, lo studente/la studentessa non potrà sostenere alcun esame del secondo e terzo anno prima di aver superato l'esame di Matematica. Ulteriori informazioni alla pagina <a href="https://agricoltura-sostenibile.cdl.unimi.it/it/studiare/le-matricole">https://agricoltura-sostenibile.cdl.unimi.it/it/studiare/le-matricole</a>
+
+ 
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--6">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--6--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--6--content">Ammissione e immatricolazione</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--6--content" class="panel-body panel-collapse collapse fade">
+            
+<div  class="paragraph paragraph--type--bp-two-columns paragraph--style--66-33">
+    
+<div  class="paragraph__column">
+    
+<div  class="bp_two_col_left col-md-8">
+          <div  class="top20">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_2 js-view-dom-id-ccaa628c76d3d781f951f1738038b60b80f5274449d3a85083af4d2b1c099175">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-bando-scadenze"><div class="field-content"><h3>Bando di ammissione</h3>
+<p>Consulta il bando per scoprire le <strong>date</strong> e i <strong>contenuti</strong> del test e <strong>tutte le informazioni</strong> su come iscriverti.</p>
+<p><strong>Domanda di immatricolazione:</strong> dal 15/07/2026 al 12/03/2027</p>
+<p><strong><a href="https://apps.unimi.it/files/bandi/bando-2027-1-agricoltura-sostenibile-%28classe-l-25-r%29.pdf?27-MAR-26">Leggi il Bando</a></strong></p>
+<p><br><strong>Allegati e documenti</strong></p>
+<p><a href="https://apps.unimi.it/files/bandi/aule-2027-1-agricoltura-sostenibile-%28classe-l-25-r%29.pdf?15-SEP-26">Avviso proroga termini immatricolazioni</a></p>
+<p><br><strong>Avviso studenti con titolo di studio estero</strong></p>
+<p>Per completare l'immatricolazione, gli studenti in possesso di un titolo di studio conseguito all'estero devono trasmettere tutta la documentazione richiesta entro il 30 novembre 2026 tramite il Servizio integrazione documenti studenti con titolo estero <a href="https://studente.unimi.it/uploadDocumentiImmatricolazione">https://studente.unimi.it/uploadDocumentiImmatricolazione</a> </p></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+  </div>
+<div  class="bp_two_col_right col-md-4 paragraph__column">
+          <div  class="bottom40 flowroot">
+            <div  class="titolo-grande bottom20 field-label-above">Servizi online</div>
+  
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node-2 view-id-w4_cdsi_to_node_2 view-display-id-block_5 js-view-dom-id-5877dfde173a965ecfd03872ff14a9380b866a8636db2f2adaa50c0b1e814f03">
+  
+    
+      
+      <div class="view-content">
+          <div><div class="views-field views-field-bando-al-servizio"><div class="field-content"><div class="actionlink-wrapper alw-of alw-serv alw-1"><div class="actionlink al-servizio al-immatricolazione"><a href="https://studente.unimi.it/immatricolazioni/primoLivello/checkLogin.asp">Immatricolazione</a></div></div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-action-informazione field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node-2 view-id-w4_cdsi_to_node_2 view-display-id-block_4 js-view-dom-id-74ca5957a46144207b36cb3c91b9cef6187e85289666d2fa950b169c71f10106">
+  
+    
+      
+      <div class="view-content">
+          <div><div class="views-field views-field-bando-al-informazione"><div class="field-content"><div class="paragraph paragraph--type--bp-card-action bgcolor-ebf0f6">
+  <div class="card-content">
+    <div class="bp-title">Per approfondire:</div>
+<div class="actionlink-wrapper alw-of alw-info alw-1"><div class="actionlink al-informazione al-informazioni"><a href="https://www.unimi.it/it/node/84">Come iscriversi</a></div></div>
+</div>
+</div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div>
+  </div>
+  </div>
+          </div>
+  
+    
+</div>
+
+  </div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Manifesto ed elenco insegnamenti</div>
+          <div  class="bottom20">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_3 js-view-dom-id-581a6d3d784c8350ac063d06be87f328ccce47591a9d43954c32b5ba4cb97eff">
+  
+    
+      
+      <div class="view-content">
+          <div class="padl30 views-row"><div><span class="file">
+  <span class="file-icon" aria-hidden="true">
+    <span class="far fa-file"></span>
+  </span>
+  <span class="file-link"><a href="https://apps.unimi.it/files/manifesti/ita_manifesto_GADof2_2027.pdf">Manifesto degli studi [GADof2_2027]</a></span>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-piano-didattico field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_12 js-view-dom-id-8dfd59089801cdb7f446704fc81e8e8a7f32306e7e6fb486ecbcbeb56f1089c9">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-rendered-entity"><span class="field-content">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+            <div class="field field--name-ugov-piano-didattico field--type-map field--label-hidden field--item"><div class="ugov_of_pd ugov_of_pd_type_2 ugov_of_pd_it">
+
+<div class="accordion bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="curr-accordion">
+    <div>
+    <!-- curr_default 1 - curr_number  - curr_tot_number 1 -->
+
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title" aria-expanded="false" aria-controls="curr-20270000gadof2-GAD-0" role="button" href="#curr-20270000gadof2-GAD-0">
+                  Piano didattico
+              </a>
+    </div>
+
+    <div id="curr-20270000gadof2-GAD-0" class="panel-collapse collapse ">
+      <div class="panel-body">
+
+                  <ul class="nav nav-tabs ugov-of-pd-years">
+                          <li class="active"><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000gadof2-GAD-0-0"><div>
+
+  Anno: 1
+</div>
+</a></li>
+                          <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000gadof2-GAD-0-1"><div>
+
+  Anno: 2
+</div>
+</a></li>
+                          <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000gadof2-GAD-0-2"><div>
+
+  Anno: 3
+</div>
+</a></li>
+                      </ul>
+        
+                  <div class="tab-content">
+                          <div id="ugov-of-pd-year-af-20270000gadof2-GAD-0-0" class="tab-pane fade in active">
+                
+                                                                            <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/chimica-generale-e-inorganica-19">Chimica generale e inorganica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">CHEM-03/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/elementi-di-biologia-e-botanica-agraria-0">Elementi di biologia e botanica agraria</a>
+</td>
+<td data-title="Crediti massimi">12</td>
+<td data-title="Ore totali">108</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-01/A BIOS-02/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/matematica-19">Matematica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">72</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MATH-04/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/chimica-organica-23">Chimica organica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">CHEM-05/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/competenze-statistiche-e-informatiche-0">Competenze statistiche e informatiche</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/elementi-di-economia-9">Elementi di economia</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/fisica-21">Fisica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-06/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Periodo non definito</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/accertamento-di-lingua-inglese-livello-b1-3-cfu">Accertamento di lingua inglese - livello b1 (3 CFU)</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000gadof2-GAD-0-1" class="tab-pane fade">
+                                  <div class="noteanno">sarà attivato dall&#039;A.A. 2027/2028</div>
+                
+                                                                            <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/genetica-agraria-0">Genetica agraria</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-06/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/microbiologia-generale-3">Microbiologia generale</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-08/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienza-del-suolo-e-della-pianta-1">Scienza del suolo e della pianta</a>
+</td>
+<td data-title="Crediti massimi">14</td>
+<td data-title="Ore totali">112</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-06/B</td>
+</tr>
+<tr><td> - Biochimica agraria e fisiologia delle piante coltivate</td><td>8</td><td>64</td><td aria-label="ND" ></td><td>AGRI-06/B</td> </tr>
+<tr><td> - Chimica del suolo</td><td>6</td><td>48</td><td aria-label="ND" ></td><td>AGRI-06/B</td> </tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/agronomia-7">Agronomia</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">57</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-02/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/idraulica-agraria-1">Idraulica agraria</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-04/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/meccanica-agraria-1">Meccanica agraria</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-04/B</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/zootecnia-1">Zootecnia</a>
+</td>
+<td data-title="Crediti massimi">12</td>
+<td data-title="Ore totali">116</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-09/B AGRI-09/C MVET-01/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Attività conclusive</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tirocinio-30">Tirocinio</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000gadof2-GAD-0-2" class="tab-pane fade">
+                                  <div class="noteanno">sarà attivato dall&#039;A.A. 2028/2029</div>
+                
+                                                                            <div class="top30 titoletto">annuale</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/elementi-di-entomologia-e-patologia-vegetale-1">Elementi di entomologia e patologia vegetale</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">72</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-05/A AGRI-05/B</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/costruzioni-rurali-1">Costruzioni rurali</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-04/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/economia-agraria-agro-alimentare-e-agro-ambientale-0">Economia agraria, agro-alimentare e agro-ambientale</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">72</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/fisiologia-post-raccolta-e-qualita-dei-prodotti-ortofrutticoli-3">Fisiologia post raccolta e qualità dei prodotti ortofrutticoli</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-03/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/floricoltura-e-tappeti-erbosi-3">Floricoltura e tappeti erbosi</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-02/B</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/green-chemistry-ed-energie-rinnovabili-agricoltura-1">Green chemistry ed energie rinnovabili in agricoltura</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">84</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-04/B AGRI-06/B</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/interazione-agrofarmaci-e-ambiente-1">Interazione agrofarmaci e ambiente</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-06/A BIOS-05/A CHEM-05/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/produzioni-zootecniche-1">Produzioni zootecniche</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">100</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-09/B AGRI-09/D</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/rappresentazione-informatica-del-territorio-gis-4">Rappresentazione informatica del territorio (GIS)</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-04/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/rilievo-disegno-e-materiali-le-aree-verdi-3">Rilievo, disegno e materiali per le aree verdi</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-04/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/sostenibilita-e-valorizzazione-dellallevamento-di-ovicaprini-bufali-e-camelidi-1">Sostenibilità e valorizzazione dell&#039;allevamento di ovicaprini, bufali e camelidi</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-09/B AGRI-09/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tecnologie-la-trasformazione-dei-prodotti-agroalimentari-0">Tecnologie per la trasformazione dei prodotti agroalimentari</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">96</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/viticoltura-3">Viticoltura</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-03/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/coltivazioni-erbacee-e-arboree-1">Coltivazioni erbacee e arboree</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">92</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-02/A AGRI-03/A</td>
+</tr>
+<tr><td> - Coltivazioni arboree</td><td>5</td><td>48</td><td aria-label="ND" ></td><td>AGRI-03/A</td> </tr>
+<tr><td> - Coltivazioni erbacee</td><td>5</td><td>44</td><td aria-label="ND" ></td><td>AGRI-02/A</td> </tr>
+
+                              </tr>
+                            
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/alpicoltura-1">Alpicoltura</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-09/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/apidologia-3">Apidologia</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-05/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/arboricoltura-ornamentale-e-verde-urbano-3">Arboricoltura ornamentale e verde urbano</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-03/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/benessere-animale-e-allevamento-estensivo-1">Benessere animale e allevamento estensivo</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">96</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-09/B AGRI-09/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/ciclo-dei-nutrienti-nel-sistema-suolo-pianta-1">Ciclo dei nutrienti nel sistema suolo-pianta</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-06/B AGRI-08/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/impianti-strutture-e-marketing-prodotti-agricoli-trasformati-0">Impianti, strutture e marketing per prodotti agricoli trasformati</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">94</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-01/A AGRI-04/B AGRI-04/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/storia-dellagricoltura-1">Storia dell&#039;agricoltura</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">32</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/valorizzazione-biomasse-e-riduzione-delle-emissioni-1">Valorizzazione biomasse e riduzione delle emissioni</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">104</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-04/C AGRI-06/B</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/zoognostica-e-etnologia-animale-1">Zoognostica e etnologia animale</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">32</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-09/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Attività conclusive</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/prova-finale-129">Prova finale</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Regole di composizione</div>
+                                          <div class="ugov-of-pd-year-rules-2"><div> - Insegnamenti di percorso<br/><br/>Lo studente deve scegliere uno dei seguenti percorsi costituiti ognuno da 2 insegnamenti multidisciplinari di 10 CFU ciascuno.<br/><br/>Agroambientale:</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-2">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/interazione-agrofarmaci-e-ambiente-1">Interazione agrofarmaci e ambiente</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-06/A BIOS-05/A CHEM-05/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/ciclo-dei-nutrienti-nel-sistema-suolo-pianta-1">Ciclo dei nutrienti nel sistema suolo-pianta</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-06/B AGRI-08/A</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                                <div class="ugov-of-pd-year-rules-2"><div> - Energie rinnovabili e valorizzazione delle biomasse:</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-2">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/green-chemistry-ed-energie-rinnovabili-agricoltura-1">Green chemistry ed energie rinnovabili in agricoltura</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">84</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-04/B AGRI-06/B</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/valorizzazione-biomasse-e-riduzione-delle-emissioni-1">Valorizzazione biomasse e riduzione delle emissioni</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">104</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-04/C AGRI-06/B</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                                <div class="ugov-of-pd-year-rules-2"><div> - Allevamento animale:</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-2">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/produzioni-zootecniche-1">Produzioni zootecniche</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">100</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-09/B AGRI-09/D</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/benessere-animale-e-allevamento-estensivo-1">Benessere animale e allevamento estensivo</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">96</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-09/B AGRI-09/C</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                                <div class="ugov-of-pd-year-rules-2"><div> - Produzioni agroalimentari a filiera corta:</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-2">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tecnologie-la-trasformazione-dei-prodotti-agroalimentari-0">Tecnologie per la trasformazione dei prodotti agroalimentari</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">96</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-07/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/impianti-strutture-e-marketing-prodotti-agricoli-trasformati-0">Impianti, strutture e marketing per prodotti agricoli trasformati</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">94</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-01/A AGRI-04/B AGRI-04/C</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                                <div class="ugov-of-pd-year-rules-2"><div> - Il piano didattico comprende 12 CFU a libera scelta dello studente, da destinare ad insegnamenti selezionati nell'ambito di quelli attivati per il corso di laurea, o per gli altri corsi di laurea della Facoltà e dell'Ateneo, purché riconosciuti coerenti con il percorso formativo da parte del Collegio didattico del corso di laurea, oppure da destinare ad altre attività formative valutabili in crediti. Si veda anche il paragrafo Struttura del corso - Presentazione del piano di studi. Tra le attività formative valutabili in crediti vi sono la partecipazione a seminari, convegni, corsi di aggiornamento, o ad altre attività organizzate dall'Ateneo o da un altro Ente, purché congruenti con il percorso formativo, di norma fino ad un massimo di 4 CFU. Il riconoscimento di crediti per queste attività deve essere preventivamente concordato col proprio<br/>docente tutor. Ai fini dell'acquisizione dei 12 crediti a libera scelta il Collegio Didattico propone un elenco di insegnamenti disponibile sul sito web del corso di laurea e in particolare quelli elencati nella tabella sottostante.</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-2">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/fisiologia-post-raccolta-e-qualita-dei-prodotti-ortofrutticoli-3">Fisiologia post raccolta e qualità dei prodotti ortofrutticoli</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-03/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/floricoltura-e-tappeti-erbosi-3">Floricoltura e tappeti erbosi</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-02/B</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/rappresentazione-informatica-del-territorio-gis-4">Rappresentazione informatica del territorio (GIS)</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-04/C</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/rilievo-disegno-e-materiali-le-aree-verdi-3">Rilievo, disegno e materiali per le aree verdi</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-04/C</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/sostenibilita-e-valorizzazione-dellallevamento-di-ovicaprini-bufali-e-camelidi-1">Sostenibilità e valorizzazione dell&#039;allevamento di ovicaprini, bufali e camelidi</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-09/B AGRI-09/C</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/viticoltura-3">Viticoltura</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-03/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/alpicoltura-1">Alpicoltura</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-09/C</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/apidologia-3">Apidologia</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-05/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/arboricoltura-ornamentale-e-verde-urbano-3">Arboricoltura ornamentale e verde urbano</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-03/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/storia-dellagricoltura-1">Storia dell&#039;agricoltura</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">32</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-01/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/zoognostica-e-etnologia-animale-1">Zoognostica e etnologia animale</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">32</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-09/A</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                            </div>
+                
+              </div>
+                      </div>
+        
+        
+                  <div class="accordion bottom20 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="curr-20270000gadof2-GAD-0-accordion-p">
+            <div class="absoluteWrapper">
+              <div class="panel-heading">
+                <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title top30" aria-expanded="false" aria-controls="curr-20270000gadof2-GAD-0-p" role="button" href="#curr-20270000gadof2-GAD-0-p">Propedeuticità del curriculum</a>
+              </div>
+              <div id="curr-20270000gadof2-GAD-0-p" class="panel-collapse collapse">
+                <div class="panel-body">
+                                      <div id="prop-cds-content" class="ugov-of-pd-rules-p-af-text">Il superamento degli esami del primo anno di corso è fortemente raccomandato prima dell'iscrizione al secondo anno e, comunque, prima di sostenere gli esami successivi.<br/>Il tirocinio formativo potrà essere iniziato solo dopo aver superato tutti gli esami previsti al primo anno.</div>
+                                                    </div>
+              </div>
+            </div>
+          </div>
+        
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Altre informazioni</div>
+    <div class="mobile-tab field-group-tabs-wrapper"><div data-vertical-tabs-panes><input class="vertical-tabs__active-tab" type="hidden" /><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-aiuto-e-orientamento">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-aiuto-e-orientamento--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-aiuto-e-orientamento--content">Aiuto e orientamento</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-aiuto-e-orientamento--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-aiuto-e-orientamento field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_48 js-view-dom-id-c712208a005ac610dec92f39333621d00136b3c989e9df7f67fb6a61e88d50f2">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-view"><span class="field-content"><div class="view view-paragrafi view-id-paragrafi view-display-id-block_2 js-view-dom-id-8de3994c0dfae5e2c4436b84a12bd3cf4f60e51c011260351438733af59b4bfa">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id='parid-16321'  class="paragraph paragraph--type--bp-simple paragraph--view-mode--default paragraph--id--16321">
+  <div class="paragraph__column">
+    
+    
+<div  class="box-content">
+    
+<div  id="imgplace" class="imgplace">
+    <div class="bp-text"><p>Orientamento:</p>
+
+<ul>
+	<li><a href="https://www.unimi.it/it/node/66">Scegliere il corso giusto: i servizi del centro di orientamento di Ateneo</a></li>
+</ul>
+
+<p>Info su ammissioni e immatricolazioni</p>
+
+<ul>
+	<li><a href="https://www.unimi.it/it/node/359/">Contatta le segreterie</a></li>
+	<li><a href="https://informastudenti.unimi.it/saw/ess?AUTH=SAML">Sportello online <strong>InformaStudenti</strong></a></li>
+	<li>Studenti internazionali:<a href="https://www.unimi.it/it/node/352/">&nbsp;welcome desk</a></li>
+	<li><a href="https://www.unimi.it/it/node/35900">Studenti con disabilità</a></li>
+	<li><a href="https://www.unimi.it/it/node/35899">Studenti con DSA</a></li>
+</ul></div>
+  </div>
+  </div>
+  </div>
+</div>
+
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-location">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-location--content" aria-expanded="true" aria-pressed="true" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-location--content">Sede</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-location--content" class="panel-body panel-collapse collapse fade in">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-sedi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_13 js-view-dom-id-43b64d8ee66666e7791c7b35e1f07bb4d91287e53784cdc50ab36f842ba6dfe9">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-polo-fisico"><div class="field-content">Milano</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-reference-professors-and-c">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-reference-professors-and-c--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-reference-professors-and-c--content">Referenti e contatti</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-reference-professors-and-c--content" class="panel-body panel-collapse collapse fade">
+            
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-presidente-collegio field--type-ds field--label-above">
+    <div class="field--label">Presidente del Collegio didattico</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_33 js-view-dom-id-ce457bc6e90b6ca58a81348bebe4f876f927bad8606ac6367aef44a7749118b8">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/alberto-tamburini" hreflang="it">Tamburini Alberto Giuseppe Carlo Maria</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-riferimenti-1 field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_14 js-view-dom-id-3f652f0ea6ea362b36bba21b43bc986ffe50d8ac3521350b7db13cf503d73600">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-erasmus field--type-ds field--label-above">
+    <div class="field--label">Tutor per la mobilità internazionale e l'Erasmus</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_37 js-view-dom-id-aef9b999d5d968e25f37eafe996f6068fd654810fd89a31a9eca36db18d9e95e">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/stefano-corsi" hreflang="it">Corsi Stefano</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-piani-di-studio field--type-ds field--label-above">
+    <div class="field--label">Tutor per i piani di studio</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_38 js-view-dom-id-73d5720443a816c31ae96f30212c020769b967ef216805af34adf2cfb22dc711">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/cristina-bellucci" hreflang="it">Bellucci Maria Cristina</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/arianna-facchi" hreflang="it">Facchi Arianna</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/pietro-marino" hreflang="it">Marino Gallina Pietro</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/alessia-perego" hreflang="it">Perego Alessia</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/salvatore-pilu" hreflang="it">Pilu Salvatore Roberto</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/bhakti-prinsi" hreflang="it">Prinsi Bhakti</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/giorgio-ragaglini" hreflang="it">Ragaglini Giorgio</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/luca-rapetti" hreflang="it">Rapetti Luca</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/maddalena-zucali" hreflang="it">Zucali Maddalena Enrica</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-trasferimenti field--type-ds field--label-above">
+    <div class="field--label">Tutor per trasferimenti</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_42 js-view-dom-id-9f401e973205fbbf1bc561c5a26844cb933c2c5a0163b01659edb90859b8922e">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/alberto-tamburini" hreflang="it">Tamburini Alberto Giuseppe Carlo Maria</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-ricon-crediti field--type-ds field--label-above">
+    <div class="field--label">Tutor per riconoscimento crediti</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_44 js-view-dom-id-d002ba354f20058cdc5e2d6e2818640b022c1aca11a625c4dffb1c22cfa8a3b5">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/alberto-tamburini" hreflang="it">Tamburini Alberto Giuseppe Carlo Maria</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-referente-aq field--type-ds field--label-above">
+    <div class="field--label">Referente AQ del corso di studio</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_35 js-view-dom-id-77d45123b5317ca89f50cffc547fdf3c3d2e9935081078ead987c1a49d3b046c">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/luca-rapetti" hreflang="it">Rapetti Luca</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-strutture field--type-ds field--label-above">
+    <div class="field--label">Strutture di riferimento</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_16 js-view-dom-id-2b85bc58664313a1082e86aacdf4b596b91a7d21d71d761d5d514a84fb8a7654">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-scienze-agrarie-e-ambientali-produzione-territorio-agroenergia" hreflang="it">Dipartimento di Scienze Agrarie e Ambientali - Produzione, Territorio, Agroenergia</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-scienze-gli-alimenti-la-nutrizione-e-lambiente" hreflang="it">Dipartimento di Scienze per gli Alimenti, la Nutrizione e l&#039;Ambiente</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-scienze-e-politiche-ambientali" hreflang="it">Dipartimento di Scienze e Politiche Ambientali</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-riferimenti-2 field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_15 js-view-dom-id-c608991ad9ab53a9f62f6c0a01b28c32b274e6a7e3730372acb4a2148910d1b1">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div><span class="field--label">Contatti</span><div class="field--type-text-long"><ul><li>Segreteria Studenti<br>via Celoria 18 - Milano Città Studi<br><a href="https://www.unimi.it/it/node/359" title="Apri la pagina in una nuova finestra" onclick="window.open(this.href);return false">https://www.unimi.it/it/node/359</a><br><a href="tel:+390250325032">+390250325032</a><br><a href="https://www.unimi.it/it/node/360">https://www.unimi.it/it/node/360</a></li><li>Presidenza del corso di laurea<br><a href="/cdn-cgi/l/email-protection#42262b262336362b21236c262b31232302372c2b2f2b6c2b36"><span class="__cf_email__" data-cfemail="c9ada0ada8bdbda0aaa8e7ada0baa8a889bca7a0a4a0e7a0bd">[email&#160;protected]</span></a><br><a href="tel:+390250316499">+390250316499</a></li><li>Segreteria didattica della Facoltà di Scienze agrarie e alimentari (Settore SE.FA. Area Scientifico Tecnologica)<br>via Celoria 2 - Milano Città Studi<br><a href="/cdn-cgi/l/email-protection#2a6945445e4b5e5e45100a425e5e5a5910050543444c4558474b595e5f4e4f445e43045f4443474304435e05594b5d054f5959156b7f7e6217796b6766">Contatto: https://informastudenti.unimi.it/saw/ess?AUTH=SAML</a><br><a href="tel:+390250316511">+390250316511</a><br>Orario di apertura al pubblico: lunedì dalle 10 alle 12 e dalle 14 alle 16</li></ul></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-bando-scadenze">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-bando-scadenze--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-bando-scadenze--content">Costi e agevolazioni</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-bando-scadenze--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-blocco-action field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_47 js-view-dom-id-a4c01fcbd57245e958155016ce1f824ab1c98e03d06bb139008527459f38f116">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-view"><span class="field-content"><div class="view view-paragrafi view-id-paragrafi view-display-id-block_1 js-view-dom-id-441d8f35aab21827381392dbe3f3d5868a836bc075391b8888789524e30b94d3">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id='parid-11581'  class="paragraph paragraph--type--bp-simple paragraph--view-mode--default paragraph--id--11581">
+  <div class="paragraph__column">
+    
+    
+<div  class="box-content">
+    
+<div  id="imgplace--2" class="imgplace">
+    <div class="bp-text"><p>Le tasse universitarie per gli studenti iscritti ai corsi di laurea, di laurea magistrale e a ciclo unico sono suddivise in due rate:</p><ul><li>la <strong>prima rata</strong> ha importo uguale per tutti e si paga al momento dell’immatricolazione;</li><li>la<strong> seconda rata  </strong>varia in base al valore ISEE Università e al Corso di laurea;</li><li>per gli <strong>studenti internazionali </strong>con redditi e patrimoni all’estero la seconda rata varia in base al Paese di provenienza</li></ul><p><strong>Diritto allo studio e altre agevolazioni&nbsp;</strong>&nbsp;</p><p>L’Ateneo prevede borse di studio, mense, alloggi e altre agevolazioni a favore dei propri studenti con specifici requisiti di merito e condizioni economiche.</p><p><strong>Maggiori informazioni</strong></p></div>
+  </div>
+<div  class="correlati-content top20">
+    
+<ul>        <li class="bp-link odd first"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare">Come e quanto pagare</a></li>      <li class="bp-link even first"><a href="/it/studiare/borse-premi-mense-e-alloggi">Borse, premi, mense e alloggi </a></li>      <li class="bp-link odd first"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare/esonero-tasse">Esonero tasse</a></li>        <li class="bp-link even first last"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare/iscrizioni-tempo-parziale">Iscrizioni a tempo parziale</a></li></ul>
+
+  </div>
+  </div>
+  </div>
+</div>
+
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+</div>
+</div>
+  </div>
+  </div>
+  
+  
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    
+<div  class="paragraph--type--bp-links box-fullbg riquadro bottom40">
+  <div class="bp-title">Documenti ufficiali</div>
+          <div  class="top10">
+        
+            <div  class="top0">
+                  <div class="media media--type-file media--view-mode-default ds-1col clearfix">
+
+  
+
+        <span  class="file-link">
+        
+            <span class="file file--mime-application-pdf file--application-pdf icon-before"><span class="file-icon" aria-hidden="true"><span class="far fa-file"></span></span><span class="file-link"><a href="https://www.unimi.it/sites/default/files/2025-10/Regolamento%20Agricoltura%20sostenibile.pdf" type="application/pdf; length=320695" title="Regolamento Agricoltura sostenibile.pdf [313.18 KB] - the file opens in new window" target="_blank">Regolamento didattico</a></span></span>
+      
+  
+    </span>
+
+
+
+</div>
+
+
+      
+      </div>
+  
+    </div>
+
+
+  </div><div class="accordion top40 bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--11">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--11--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--11--content">Altre offerte</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--11--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-elenco-cdsi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi view-id-w4_cdsi view-display-id-block_12 js-view-dom-id-7bf14f35b89c92b60720e0d058000edcb01e4531cf2b107d77435db96652a6ef">
+  
+    
+      
+      <div class="view-content">
+          <div class="area-"><div class="view view-w4-cdsi view-id-w4_cdsi view-display-id-block_11 js-view-dom-id-2744b3504b459bab8ff2747011ab638b08e301e004cd1f43c3b4c64730ecc9d8">
+  
+    
+      
+      <div class="view-content">
+        <h3>A.A. 2026/2027</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2026/2027/agricoltura-sostenibile-classe-l-25-r-immatricolati-nellaa-2026/2027" hreflang="it">Agricoltura sostenibile (Classe L-25 R)-immatricolati nell&#039;a.a. 2026/2027</a> [GADof2 2027]</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2026/2027/agricoltura-sostenibile-classe-l-25-r-immatricolati-nellaa-2025/26" hreflang="it">Agricoltura sostenibile (Classe L-25 R)-immatricolati nell&#039;a.a. 2025/26</a> [GADof1 2027]</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2026/2027/agricoltura-sostenibile-classe-l-25-immatricolati-dallanno-accademico-2022/23-allanno-accademico" hreflang="it">Agricoltura sostenibile (Classe L-25)-immatricolati dall&#039;anno accademico 2022/23 all&#039;anno accademico 2024/25</a> [G31of1 2027]</span></div></div>
+  <h3>A.A. 2025/2026</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2025/2026/agricoltura-sostenibile-classe-l-25-r-immatricolati-nellaa-2025/26" hreflang="it">Agricoltura sostenibile (Classe L-25 R)-immatricolati nell&#039;a.a. 2025/26</a> [GADof1 2026]</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2025/2026/agricoltura-sostenibile-classe-l-25-immatricolati-dallanno-accademico-2022/23-allanno-accademico" hreflang="it">Agricoltura sostenibile (Classe L-25)-immatricolati dall&#039;anno accademico 2022/23 all&#039;anno accademico 2024/25</a> [G31of1 2026]</span></div></div>
+  <h3>A.A. 2024/2025</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2024/2025/agricoltura-sostenibile-classe-l-25-immatricolati-dallaa-2022/23" hreflang="it">Agricoltura sostenibile (Classe L-25)-immatricolati dall&#039;a.a. 2022/23</a> [G31of1 2025]</span></div></div>
+  <h3>A.A. 2023/2024</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2023/2024/agricoltura-sostenibile-classe-l-25-immatricolati-dallaa-2022/23" hreflang="it">Agricoltura sostenibile (Classe L-25)-immatricolati dall&#039;a.a. 2022/23</a> [G31of1 2024]</span></div></div>
+  <h3>A.A. 2022/2023</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2022/2023/agricoltura-sostenibile-classe-l-25-immatricolati-dallaa-2022/23" hreflang="it">Agricoltura sostenibile (Classe L-25)-immatricolati dall&#039;a.a. 2022/23</a> [G31of1 2023]</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+
+  </div>
+  
+</div>
+
+
+<section id="block-cookiesui" class="block block-cookies block-cookies-ui-block clearfix">
+  
+    
+
+        
+<div id="cookiesjsr"></div>
+
+  </section>
+
+
+  </div>
+
+              </section>
+
+                </div>
+  </div>
+
+      <footer class="footer full-width">
+      <div class="container">
+          <div class="region region-footer">
+    <nav role="navigation" aria-labelledby="block-piedipagina-menu" id="block-piedipagina" class="col-sm-3 top10">
+      
+  <h2 id="block-piedipagina-menu">Strutture</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/corsi/facolta-e-scuole" data-drupal-link-system-path="node/710">Facoltà e scuole</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/dipartimenti" title="Tutti i dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/uffici-e-strutture" data-drupal-link-system-path="node/1218">Uffici</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-3-menu" id="block-piedipagina-3" class="col-sm-3 block-servizi top10">
+      
+  <h2 id="block-piedipagina-3-menu">Servizi</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/biblioteche" data-drupal-link-system-path="node/464">Servizio bibliotecario</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-studenti-con-disabilita" title="Servizi di orientamento, accoglienza, supporto allo studio e alla mobilità" data-drupal-link-system-path="node/35900">Servizi per studenti con disabilità</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-studenti-con-dsa" title="Servizi per studenti con Disturbi Specifici dell&#039;Apprendimento" data-drupal-link-system-path="node/35899">Servizi per studenti con DSA</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-tecnologici-e-online" data-drupal-link-system-path="node/393">Servizi tecnologici</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-4-menu" id="block-piedipagina-4" class="col-sm-3 top10">
+      
+  <h2 id="block-piedipagina-4-menu">Concorsi, selezioni e gare</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-professori" data-drupal-link-system-path="node/577">Professori </a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-ricercatori" data-drupal-link-system-path="node/12942">Ricercatori</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-personale-tecnico-amministrativo" title="Bandi PTAB" data-drupal-link-system-path="node/576">Tecnici amministrativi e bibliotecari</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/consulenze-e-collaborazioni" data-drupal-link-system-path="node/500">Consulenze e collaborazioni</a>
+              </li>
+                      <li>
+                                        <a href="/it/ricerca/fare-ricerca-da-noi/incarichi-di-ricerca/bandi-incarichi-di-ricerca" title="Bandi incarichi di ricerca" data-drupal-link-system-path="node/53011">Incarichi di ricerca</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/bandi-di-gare-e-contratti" title="Bandi di gara e contratti" data-drupal-link-system-path="node/1227">Gare e contratti</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-2-menu" id="block-piedipagina-2" class="col-sm-3 buttonlist block-comefareper">
+            
+  <h2 class="visually-hidden" id="block-piedipagina-2-menu">Come fare per</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/corsi/orientarsi-e-scegliere" data-drupal-link-system-path="node/727">Orientarsi e scegliere</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contattare l&#039;Università</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti/fai-sentire-la-tua-voce" title="Fai sentire la tua voce" data-drupal-link-system-path="node/54275">Fai sentire la tua voce</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/fundraising" data-drupal-link-system-path="node/1223">Fundraising</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/studiare/vivere-luniversita/unimi-store-il-merchandising-delluniversita-degli-studi-di-milano" title="Unimi Store" data-drupal-link-system-path="node/45180">Unimi Store</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-5-menu" id="block-piedipagina-5" class="col-sm-12 col-md-12 col-lg-12 links_list_inline block-menu-footer">
+            
+  <h2 class="visually-hidden" id="block-piedipagina-5-menu">footer</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/ateneo/amministrazione-trasparente" data-drupal-link-system-path="node/12893">Amministrazione trasparente</a>
+              </li>
+                      <li>
+                                        <a href="https://form.agid.gov.it/view/b6345040-993a-11f0-b789-d70c35e61f53" title="Dichiarazione di accessibilità">Dichiarazione di accessibilità</a>
+              </li>
+                      <li>
+                                        <a href="/it/privacy-e-cookie" data-drupal-link-system-path="node/7393">Privacy e cookie</a>
+              </li>
+                      <li>
+                                        <a href="#editCookieSettings">Cookie settings</a>
+              </li>
+                      <li>
+                                        <a href="/it/note-legali" data-drupal-link-system-path="node/7394">Note legali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/sitemap" data-drupal-link-system-path="sitemap">Mappa del sito</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-footertext" class="col-sm-4 col-lg-3 block-footertext block block-block-content block-block-content5af82d4a-b448-4107-a29a-5bfa144da5b5 clearfix">
+  
+    
+
+      
+  <div class="field field--name-field-testo field--type-text-long field--label-visually_hidden">
+    <div class="field--label sr-only">Testo</div>
+              <div class="field--item"><p>Università degli Studi di Milano<br>
+Via Festa del Perdono 7 - 20122 Milano<br>
+<a href="tel:+390250325032">Tel: +39 02 5032 5032</a><br>
+<a href="https://informastudenti.unimi.it/saw/ess?AUTH=SAML">InformaStudenti</a><br>
+<a href="/posta-elettronica-certificata-pec">Posta Elettronica Certificata</a><br>
+C.F. 80012650158 - P.I. 03064870151<br>
+<a href="https://www.registrolei.it/leicert/?lei=9845000B7798E81BEB72">Codice LEI</a><br>
+©Copyright 2025</p></div>
+          </div>
+
+  </section>
+
+<nav role="navigation" aria-labelledby="block-social-menu" id="block-social" class="col-sm-5 col-lg-6 links_list_inline block-social">
+            
+  <h2 class="visually-hidden" id="block-social-menu">social</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="https://lastatalenews.unimi.it/" title="News">News</a>
+              </li>
+                      <li>
+                                        <a href="https://video.unimi.it/" title="PortaleVideo">PortaleVideo</a>
+              </li>
+                      <li>
+                                        <a href="https://www.facebook.com/laStatale/" title="facebook">facebook</a>
+              </li>
+                      <li>
+                                        <a href="https://www.instagram.com/lastatale_milano_official/" title="Instagram">Instagram</a>
+              </li>
+                      <li>
+                                        <a href="http://twitter.com/LaStatale" title="twitter">twitter</a>
+              </li>
+                      <li>
+                                        <a href="https://www.youtube.com/user/UnimiVideo" title="youtube">youtube</a>
+              </li>
+                      <li>
+                                        <a href="https://www.linkedin.com/school/university-of-milan" title="linkedin">linkedin</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.spreaker.com/user/16503036" title="LaStatale podcast">LaStatale podcast</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-logofooter" class="col-sm-3 col-lg-3 block-logofooter block block-block-content block-block-content2c04e5b1-54ed-4593-a8b3-db0218705c4d clearfix">
+  
+    
+
+      
+  <div class="field field--name-field-logo field--type-entity-reference field--label-visually_hidden">
+    <div class="field--label sr-only">Logo</div>
+              <div class="field--item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+          
+              <img loading="lazy" src="/sites/default/files/2019-05/LogoFooter_a9f0c3692bf29c71609e5f204522c5d4_0.png" width="488" height="164" alt="Università degli Studi di Milano" class="img-responsive rs_skip" />
+
+
+      
+  
+
+
+    </div>
+  </div>
+
+</div>
+          </div>
+
+  </section>
+
+
+  </div>
+
+      </div>
+    </footer>
+  
+
+
+  </div>
+
+    
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/sites/default/files/js/js_Hfl5TWGPoiw8m71d7OKJb2ZY2E6075w3f6a1Dy-5PaI.js?scope=footer&amp;delta=0&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="https://cdn.jsdelivr.net/gh/jfeltkamp/cookiesjsr@1/dist/cookiesjsr-preloader.min.js" defer></script>
+<script src="/sites/default/files/js/js_ZsyWzDxLX0OwMesgXZHsDeMoCWZl-EQtw1NZwgt5HiM.js?scope=footer&amp;delta=2&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="/modules/contrib/google_tag/js/gtag.ajax.js?tlncrt" type="text/plain" id="cookies_gtag_gtag_ajax" data-cookieconsent="gtag"></script>
+<script src="/sites/default/files/js/js_DRmM7Xhr9JVeKzDdk7xyocoDB_WQpxS0ChAS0Ix3iuU.js?scope=footer&amp;delta=4&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"55deaaaf42984e8db8c703ed1c4d39a5","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

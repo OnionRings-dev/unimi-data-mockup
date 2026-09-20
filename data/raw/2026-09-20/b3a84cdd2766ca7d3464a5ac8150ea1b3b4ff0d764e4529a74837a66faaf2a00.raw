@@ -1,0 +1,2074 @@
+<!DOCTYPE html>
+<html  lang="it" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.unimi.it/it/corsi/laurea-triennale/logopedia" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="unimi-published" content="2019/02/27" />
+<meta name="unimi-last-modified" content="2026/03/31" />
+<link rel="icon" href="/sites/default/files/favicon_0_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="it" href="https://www.unimi.it/it/corsi/laurea-triennale/logopedia" />
+<link rel="alternate" hreflang="en" href="https://www.unimi.it/en/education/bachelor/speech-and-language-therapy" />
+
+    <title>Logopedia | Università degli Studi di Milano Statale</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_ypd-FuAFnkm6TvFwpk_wsW3XFyhEw35mMoWt9mpQf_Y.css?delta=0&amp;language=it&amp;theme=unimi&amp;include=eJyVUtFuwyAM_CEaPikywUm8GowwpM2-fknL2m6alO4FfOeTjfE5hs_VOlA0TqRoyZD6BBmmLZjVPsjTkzSDyJlQbbs7Jveb-9DcaVkZd3VG63NNwB18wNWMEgtcUCWgfYm7C7odaucyRK_HuqFqkXCs81WKRDwWZpwqQz4W6gw5MU1zeVP7v8oqTP4N7XuyMlM05DC71OO1_LnT05YwDKvU0nvSQRbMq90-bRA2L35oe3wyXY2pOiad0Zs6ydLLaCcWB3yHiX_AXF2mAR4cFwoYq5VxHCAusE01AOP24kdKzxS3NhTI3M7nAA03zzV0G7rF9y6n3YkUp0Z-FzYL5N35fUBPsFUJQaJZCC9qb2cXxFfGL_u1PmI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_xsPH_WNFWXqnuxvebu8bjQC9oVmJ2c_0_aVIEFBeeZw.css?delta=1&amp;language=it&amp;theme=unimi&amp;include=eJyVUtFuwyAM_CEaPikywUm8GowwpM2-fknL2m6alO4FfOeTjfE5hs_VOlA0TqRoyZD6BBmmLZjVPsjTkzSDyJlQbbs7Jveb-9DcaVkZd3VG63NNwB18wNWMEgtcUCWgfYm7C7odaucyRK_HuqFqkXCs81WKRDwWZpwqQz4W6gw5MU1zeVP7v8oqTP4N7XuyMlM05DC71OO1_LnT05YwDKvU0nvSQRbMq90-bRA2L35oe3wyXY2pOiad0Zs6ydLLaCcWB3yHiX_AXF2mAR4cFwoYq5VxHCAusE01AOP24kdKzxS3NhTI3M7nAA03zzV0G7rF9y6n3YkUp0Z-FzYL5N35fUBPsFUJQaJZCC9qb2cXxFfGL_u1PmI" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"it\/","currentPath":"node\/13111","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"it"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyVU9GSgyAM_CEqn-QEiZgrECaAPe_rD1tP7c3NtPeC2c0GQlyMh69FG-IOPuBTGeaSi0DSe9QnwZ4ilVMyceIZ5cQUZl8oqVMZCLgWTPnY63KQamC-Ema9fT-ydIONf9G5LB73gn4kX1D0M9yzDjRE8Euh4ShxBZxel8YIais1ge8G9h5SxieyXauVgr8UMFmNHAvcMHNAfYq7G5oV5s4IRPuGbqi5cHits5ULR3wtFHTVg7wW5gkkeXJTeVP7v50ze7JvaN-TlYmicszOY7__s1_44dQnMigyKCb1-Fn-dNulJZSHhWvpLeVhde-i26CbB9TJqZsJDqarMVXjKU9oVXU89zxq59mAf8Dkn6BUI80-O9ceRcBYdTtfIB94gmCquGbcneJxHCDO0IbV_IdtEHsqXym2TiiQuq8aUjtlomp_iP3SG96cv6H7cLf40dllfVQU3UamNhuUXjDTF26cINicEK5rk3fmp58N3oD6AM3WrGYQAxn7gJagHR4CRzUT3rK-r49_diYC2-rxG3y5xq8","theme":"unimi","theme_token":null},"ajaxTrustedUrl":[],"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"google\nnonGooglePixels\nnonGoogleScripts\nnonGoogleIframes","blocklist_classes":"customScripts\ncustomPixels","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-PNWRPR"]},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"600","tooltip_html":1,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"cookies":{"cookiesjsr":{"config":{"cookie":{"name":"cookiesjsr","expires":15552000000,"domain":"","sameSite":"Lax","secure":false},"library":{"libBasePath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist","libPath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist\/cookiesjsr.min.js","scrollLimit":0},"callback":{"method":"post","url":"\/it\/cookies\/consent\/callback.json","headers":[]},"interface":{"openSettingsHash":"#editCookieSettings","showDenyAll":true,"denyAllOnLayerClose":false,"settingsAsLink":false,"availableLangs":["it","en"],"defaultLang":"it","groupConsent":false,"cookieDocs":true}},"services":{"functional":{"id":"functional","services":[{"key":"functional","type":"functional","name":"Required functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EDefault expiration time\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EDescription\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 month\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EIf you are logged in to this website, a session cookie is required to identify and connect your browser to your user account in the server backend of this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 year\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWhen you visited this website for the first time, you were asked for your permission to use several services (including those from third parties) that require data to be saved in your browser (cookies, local storage). Your decisions about each service (allow, deny) are stored in this cookie and are reused each time you visit this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"full_html"},"uri":"","needConsent":false}],"weight":1},"tracking":{"id":"tracking","services":[{"key":"analytics","type":"tracking","name":"Google Analytics","info":{"value":"","format":"full_html"},"uri":"","needConsent":true},{"key":"matomo","type":"tracking","name":"Matomo","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"new_relic","type":"tracking","name":"New Relic","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true}],"weight":10},"performance":{"id":"performance","services":[{"key":"gtag","type":"performance","name":"Google Tag Manager","info":{"value":"","format":"full_html"},"uri":"","needConsent":true},{"key":"infogram_","type":"performance","name":"Infogram ","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"microsoft_power_bi","type":"performance","name":"Microsoft Power BI","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"openstreetmap","type":"performance","name":"OpenStreetMap","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true}],"weight":30},"video":{"id":"video","services":[{"key":"video","type":"video","name":"Video forniti da YouTube, Vimeo","info":{"value":"","format":"full_html"},"uri":"","needConsent":true}],"weight":40}},"translation":{"_core":{"default_config_hash":"C8aQz-3d6YpwuU4QQc1iaWHb3RDkc_C9qcEsgR7HR74"},"langcode":"it","bannerText":"Questo sito utilizza cookie tecnici e di profilazione, propri e di terze parti, per garantire la corretta navigazione, analizzare il traffico e misurare l\u0027efficacia delle attivit\u00e0 di comunicazione istituzionale.\r\nSe prosegui la navigazione o clicchi su \u0022Accetta tutti\u0022 ne acconsenti l\u0027utilizzo, oppure puoi personalizzare la scelta salvando le tue preferenze e scegliendo quali cookie attivare.\r\nPer maggiori informazioni e per sapere come gestirli clicca sul bottone \u0022Impostazione dei cookie\u0022.","privacyPolicy":"Privacy policy","privacyUri":"https:\/\/www.unimi.it\/it\/ateneo\/normative\/privacy","imprint":"Imprint","imprintUri":"","cookieDocs":"Documentazione cookie","cookieDocsUri":"https:\/\/www.unimi.it\/it\/privacy-e-cookie","officialWebsite":"Official website","denyAll":"Rifiuta tutti","alwaysActive":"Sempre Attivo","settings":"Impostazione dei cookie","acceptAll":"Accetta tutti","requiredCookies":"Cookie necessari","cookieSettings":"Impostazione dei cookie","close":"Chiudi","readMore":"Leggi tutto","allowed":"","denied":"negato","settingsAllServices":"Impostazioni per tutti i servizi di cookie","saveSettings":"Salva le impostazioni","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Azienda","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies","functional":{"title":"Functional","details":"I cookie sono piccoli file di testo che il Sito invia al terminale dell\u0027utente, dove sono memorizzati per poi essere ritrasmessi al sito alla visita successiva."},"tracking":{"title":"Cookie di tracciamento","details":"L\u0027utilizzo dei cookie di tracciamento in forma anonima consente la raccolta dei dati in merito alla navigazione delle pagine di questo sito web. In questa maniera ci aiuti a migliorare l\u0027esperienza utente del sito web."},"performance":{"title":"Cookie di prestazione","details":"Utilizziamo alcune funzionalit\u00e0 fornite da altre organizzazioni (\u201cTerze parti\u201d) per migliorare l\u2019esperienza di navigazione degli utenti."},"video":{"title":"Video","details":"I servizi di condivisione video aiutano il sito ad essere maggiormente fruibile e aumentano la visibilit\u00e0."}}},"cookiesTexts":{"_core":{"default_config_hash":"C8aQz-3d6YpwuU4QQc1iaWHb3RDkc_C9qcEsgR7HR74"},"langcode":"it","bannerText":"Questo sito utilizza cookie tecnici e di profilazione, propri e di terze parti, per garantire la corretta navigazione, analizzare il traffico e misurare l\u0027efficacia delle attivit\u00e0 di comunicazione istituzionale.\r\nSe prosegui la navigazione o clicchi su \u0022Accetta tutti\u0022 ne acconsenti l\u0027utilizzo, oppure puoi personalizzare la scelta salvando le tue preferenze e scegliendo quali cookie attivare.\r\nPer maggiori informazioni e per sapere come gestirli clicca sul bottone \u0022Impostazione dei cookie\u0022.","privacyPolicy":"Privacy policy","privacyUri":"https:\/\/www.unimi.it\/it\/ateneo\/normative\/privacy","imprint":"Imprint","imprintUri":"","cookieDocs":"Documentazione cookie","cookieDocsUri":"https:\/\/www.unimi.it\/it\/privacy-e-cookie","officialWebsite":"Official website","denyAll":"Rifiuta tutti","alwaysActive":"Sempre Attivo","settings":"Impostazione dei cookie","acceptAll":"Accetta tutti","requiredCookies":"Cookie necessari","cookieSettings":"Impostazione dei cookie","close":"Chiudi","readMore":"Leggi tutto","allowed":"","denied":"negato","settingsAllServices":"Impostazioni per tutti i servizi di cookie","saveSettings":"Salva le impostazioni","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Azienda","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies"},"services":{"analytics":{"uuid":"f3111266-83e7-4afa-a238-ed86f09a383f","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_ga"]}},"_core":{"default_config_hash":"aYbFdFXbVPCH9Lp3OmPtEGUPT48_WuWxK8pzqzYTUj4"},"id":"analytics","label":"Google Analytics","group":"tracking","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because google analytics cookies have not been accepted.","placeholderAcceptText":"Only accept google analytics cookies"},"functional":{"uuid":"3577cc4e-e48a-43c0-9a0a-6c5c097f09dc","langcode":"it","status":true,"dependencies":[],"id":"functional","label":"Required functional","group":"functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EDefault expiration time\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EDescription\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 month\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EIf you are logged in to this website, a session cookie is required to identify and connect your browser to your user account in the server backend of this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 year\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWhen you visited this website for the first time, you were asked for your permission to use several services (including those from third parties) that require data to be saved in your browser (cookies, local storage). Your decisions about each service (allow, deny) are stored in this cookie and are reused each time you visit this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"full_html"},"consentRequired":false,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because required functional cookies have not been accepted.","placeholderAcceptText":"Only accept required functional cookies"},"gtag":{"uuid":"f66d5e9f-4da7-485e-a2f9-681a9a191055","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_gtag"]}},"_core":{"default_config_hash":"IyQS406QuLa6fAnbDgux4OI6Y6fsu_-J_bZDtoXExEI"},"id":"gtag","label":"Google Tag Manager","group":"performance","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because google tag manager cookies have not been accepted.","placeholderAcceptText":"Only accept google tag manager cookies"},"infogram_":{"uuid":"61dcc425-a844-42ac-addd-23c732c62ad0","langcode":"it","status":true,"dependencies":[],"id":"infogram_","label":"Infogram ","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because infogram cookies have not been accepted.","placeholderAcceptText":"Only accept infogram cookies"},"matomo":{"uuid":"85f1ecf7-421a-477e-98b7-d50f58d1c438","langcode":"it","status":true,"dependencies":[],"id":"matomo","label":"Matomo","group":"tracking","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because matomo cookies have not been accepted.","placeholderAcceptText":"Only accept matomo cookies"},"microsoft_power_bi":{"uuid":"679e34c7-74da-41be-99a6-9c22797f79d8","langcode":"it","status":true,"dependencies":[],"id":"microsoft_power_bi","label":"Microsoft Power BI","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because microsoft power bi cookies have not been accepted.","placeholderAcceptText":"Only accept microsoft power bi cookies"},"new_relic":{"uuid":"11e38e83-5876-442d-922e-6d38b5f10186","langcode":"it","status":true,"dependencies":[],"id":"new_relic","label":"New Relic","group":"tracking","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because new relic cookies have not been accepted.","placeholderAcceptText":"Only accept new relic cookies"},"openstreetmap":{"uuid":"c35ea00a-d2aa-40f8-ac35-322bc97b8083","langcode":"it","status":true,"dependencies":[],"id":"openstreetmap","label":"OpenStreetMap","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because openstreetmap cookies have not been accepted.","placeholderAcceptText":"Only accept openstreetmap cookies"},"video":{"uuid":"681f159c-953b-4040-a53e-bb8a387ad23c","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_video"]}},"_core":{"default_config_hash":"MJL9EOZszmZMiNnJZL1uau0Vw_-w5cJON2cTornaww8"},"id":"video","label":"Video forniti da YouTube, Vimeo","group":"video","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because video forniti da youtube, vimeo cookies have not been accepted.","placeholderAcceptText":"Only accept video forniti da youtube, vimeo cookies"}},"groups":{"functional":{"uuid":"5b1c3951-fa37-4ef2-9212-6ed624800116","langcode":"it","status":true,"dependencies":[],"id":"functional","label":"Functional","weight":1,"title":"Functional","details":"I cookie sono piccoli file di testo che il Sito invia al terminale dell\u0027utente, dove sono memorizzati per poi essere ritrasmessi al sito alla visita successiva."},"performance":{"uuid":"c9fc9322-3cc7-4402-8226-f517fab0cff4","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"Jv3uIJviBj7D282Qu1ZpEQwuOEb3lCcDvx-XVHeOJpw"},"id":"performance","label":"Performance","weight":30,"title":"Cookie di prestazione","details":"Utilizziamo alcune funzionalit\u00e0 fornite da altre organizzazioni (\u201cTerze parti\u201d) per migliorare l\u2019esperienza di navigazione degli utenti."},"social":{"uuid":"18c2516e-81d5-4b3e-944c-80ccf4699353","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"vog2tbqqQHjVkue0anA0RwlzvOTPNTvP7_JjJxRMVAQ"},"id":"social","label":"Social Plugins","weight":20,"title":"Social Plugins","details":"Comments managers facilitate the filing of comments and fight against spam."},"tracking":{"uuid":"86841c59-0daf-4a3d-9f00-0c470616422e","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"_gYDe3qoEc6L5uYR6zhu5V-3ARLlyis9gl1diq7Tnf4"},"id":"tracking","label":"Tracking","weight":10,"title":"Cookie di tracciamento","details":"L\u0027utilizzo dei cookie di tracciamento in forma anonima consente la raccolta dei dati in merito alla navigazione delle pagine di questo sito web. In questa maniera ci aiuti a migliorare l\u0027esperienza utente del sito web."},"video":{"uuid":"2b75a78d-1d81-4d17-8090-5d4c38d2d624","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"w1WnCmP2Xfgx24xbx5u9T27XLF_ZFw5R0MlO-eDDPpQ"},"id":"video","label":"Video","weight":40,"title":"Video","details":"I servizi di condivisione video aiutano il sito ad essere maggiormente fruibile e aumentano la visibilit\u00e0."}}},"field_group":{"details":{"mode":"full","context":"view","settings":{"classes":"bottom0","id":"","open":false,"description":""}},"html_element":{"mode":"default","context":"view","settings":{"classes":"imgplace","id":"imgplace","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast","show_empty_fields":false}},"tabs":{"mode":"full","context":"view","settings":{"classes":"mobile-tab","id":"","direction":"vertical","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","effect":"none","speed":"fast","attributes":""}},"tab":{"mode":"full","context":"view","settings":{"classes":"","id":"","formatter":"closed","description":"","direction":"vertical","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","effect":"none","speed":"fast","attributes":"","show_empty_fields":false}}},"views":{"ajax_path":"\/it\/views\/ajax","ajaxViews":{"views_dom_id:43202a15f03ea353a1e13c1c986d921b4642669b7484e1f1bbcaa4410b10b06c":{"view_name":"w4_cdsi","view_display_id":"block_12","view_args":"13111","view_path":"\/node\/13111","view_base_path":"docenticdl","view_dom_id":"43202a15f03ea353a1e13c1c986d921b4642669b7484e1f1bbcaa4410b10b06c","pager_element":0},"views_dom_id:39b28f532afd07ec3828ac758be0ff65a1e34444ad41ac325a4430c0a8b16dbf":{"view_name":"w4_cdsi","view_display_id":"block_11","view_args":"D68","view_path":"\/node\/13111","view_base_path":"docenticdl","view_dom_id":"39b28f532afd07ec3828ac758be0ff65a1e34444ad41ac325a4430c0a8b16dbf","pager_element":0}}},"widthBreakpoint":640,"ultimenu":{"canvasOff":"#header","canvasOn":"#main-wrapper, .featured-top, .site-footer"},"user":{"uid":0,"permissionsHash":"0f3fc343222685b393a24eba61ac8d525b4adefbc0f573776a36a876db18dc99"}}</script>
+<script src="/sites/default/files/js/js_iNnXVIv9c8NqPVT6Cdf6-HiO9Ziqf8lvk0gxIFyJlhQ.js?scope=header&amp;delta=0&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="/modules/contrib/cookies/js/cookiesjsr.conf.js?v=10.5.1" defer></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?tlncrt" type="text/plain" id="cookies_gtag_gtag" data-cookieconsent="gtag"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?tlncrt" type="text/plain" id="cookies_gtag_gtm" data-cookieconsent="gtag"></script>
+
+  </head>
+  <body class="is-ultimenu-canvas is-ultimenu-canvas--hover site-default path-node page-node-type-cdl-scheda has-glyphicons">
+    <div role="navigation">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Salta al contenuto principale
+    </a>
+    </div>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNWRPR"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+              <header class="navbar navbar-default container" id="navbar">
+            <div class="navbar-header-top full-width">
+         <div class="topnavbar container">
+            <div class="region region-navigation-top">
+    <section class="language-switcher-language-url block block-language block-language-blocklanguage-interface clearfix" id="block-languageswitcher" role="navigation">
+  
+      <h2 class="block-title">Language switcher</h2>
+    
+
+      <ul class="links"><li hreflang="it" data-drupal-link-system-path="node/13111" class="it is-active" aria-current="page"><a href="/it/corsi/laurea-triennale/logopedia" class="language-link is-active" aria-label="Lingua Italiana" title="Italiano" hreflang="it" data-drupal-link-system-path="node/13111" aria-current="page">ITA</a></li><li hreflang="en" data-drupal-link-system-path="node/13111" class="en"><a href="/en/education/bachelor/speech-and-language-therapy" class="language-link" aria-label="English language" title="English" hreflang="en" data-drupal-link-system-path="node/13111">ENG</a></li></ul>
+  </section>
+
+<nav role="navigation" aria-labelledby="block-unimi-profili-menu" id="block-unimi-profili" class="navbar-profili menu_right hidden-xs hidden-sm">
+            
+  <h2 class="visually-hidden" id="block-unimi-profili-menu">Profili</h2>
+  
+
+        
+      <ul class="menu menu--profili nav">
+                      <li class="first">
+                                        <a href="https://unimia.unimi.it/">Unimia</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie</a>
+              </li>
+                      <li>
+                                        <a href="https://ariel.unimi.it/" title="Portale elearning">Ariel</a>
+              </li>
+                      <li>
+                                        <a href="https://sba.unimi.it/" title="Biblioteche">Biblioteche</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e dove</a>
+              </li>
+                      <li>
+                                        <a href="https://mail.unimi.it/">Webmail</a>
+              </li>
+                      <li>
+                                        <a href="https://work.unimi.it">laStatale@work</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Info per <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/taxonomy/term/10" data-drupal-link-system-path="taxonomy/term/10">Futuri studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/11" data-drupal-link-system-path="taxonomy/term/11">Studenti iscritti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/12" data-drupal-link-system-path="taxonomy/term/12">Laureati</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/8" data-drupal-link-system-path="taxonomy/term/8">Dottorandi</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/13" data-drupal-link-system-path="taxonomy/term/13">Studenti internazionali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/taxonomy/term/9" data-drupal-link-system-path="taxonomy/term/9">Enti e aziende</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="https://lastatalenews.unimi.it/" title="statale news">LaStataleNews</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/sostenere-la-statale/cinque-mille?clickOrigin=menu" title="5x1000" data-drupal-link-query="{&quot;clickOrigin&quot;:&quot;menu&quot;}" data-drupal-link-system-path="node/1229">5x1000</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+         </div>
+     </div>
+      <div class="navbar-header">
+          <div class="region region-navigation">
+          <a class="logo navbar-btn pull-left" href="/it" title="Home" rel="home">
+      <img src="/themes/custom/unimi/img/LogoHeader.svg" alt="Home" />
+    </a>
+      <section id="block-ultimenumainnavigation" class="hidden-xs hidden-sm block block-ultimenu block-ultimenu-blockultimenu-main clearfix">
+  
+    
+
+      
+<ul id="ultimenu-main" data-ultimenu="main" class="ultimenu ultimenu--hover ultimenu-- ultimenu--htb ultimenu--horizontal unimi"><li class="ultimenu__item uitem uitem--corsi uitem--b550ac76 uitem--1"><a href="/it/corsi" data-drupal-link-system-path="node/7725" title="" class="ultimenu__link">Corsi</a></li><li class="ultimenu__item uitem uitem--studiare uitem--3e1f0e09 uitem--2"><a href="/it/studiare" data-drupal-link-system-path="node/7726" title="" class="ultimenu__link">Studiare</a></li><li class="ultimenu__item uitem uitem--ricerca uitem--133224dc uitem--3"><a href="/it/ricerca" data-drupal-link-system-path="node/7727" title="" class="ultimenu__link">Ricerca</a></li><li class="ultimenu__item uitem uitem--terza-missione uitem--8391b5f2 uitem--4"><a href="/it/terza-missione" data-drupal-link-system-path="node/38988" title="" class="ultimenu__link">Terza missione</a></li><li class="ultimenu__item uitem uitem--ateneo uitem--ca313063 uitem--5"><a href="/it/ateneo" data-drupal-link-system-path="node/7728" title="" class="ultimenu__link">Ateneo</a></li><li class="ultimenu__item uitem uitem--internazionale uitem--d93d43c5 uitem--6"><a href="/it/internazionale" data-drupal-link-system-path="node/7729" title="" class="ultimenu__link">Internazionale</a></li><li class="ultimenu__item uitem uitem--cerca uitem--4e413781 uitem--7 has-ultimenu"><a href="" data-drupal-link-system-path="" title="" class="ultimenu__link">Cerca<span class="caret" aria-hidden="true"></span></a><section class="ultimenu__flyout is-htb"><div class="ultimenu-wrapper fullwidth"><div class="container ultimenu-content"><div class="close-wrap"><a href class="close-button"><img src="/themes/custom/unimi/img/cross.svg" alt="close item"></a></div><div class="ultimenu__region region region--count-3 region-ultimenu-main-4e413781"><section id="block-unimi-search" class="clearfix mega-search block block-block-content block-block-content363d513a-c2cf-48a9-a4a7-d31381dfa1f6"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><form accept-charset="UTF-8" action="https://apps.unimi.it/sitesearch/unimi-new/search.jsp" id="search-block-form-2" method="get"><div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group"><label class="control-label sr-only" for="edit-keys-2">Cerca</label><div class="input-group"><input class="form-search form-control" data-drupal-selector="edit-keys-2" data-original-title="Inserisci i termini da cercare." data-toggle="tooltip" id="edit-keys-2" maxlength="128" name="q" placeholder="Cerca" required="true" size="15" title type="search" value><span class="input-group-btn"><button class="button js-form-submit form-submit btn-primary btn icon-only" type="submit" value="Cerca"><span class="sr-only">Cerca</span></button></span></div></div><div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions-2" id="edit-actions-2">&nbsp;</div></form></div></section><nav role="navigation" aria-labelledby="block-unimi-menuprincipale-menu" id="block-unimi-menuprincipale" class="col-sm-12 clearfix"><h2 class="visually-hidden" id="block-unimi-menuprincipale-menu">Menu principale</h2><ul class="menu menu--main nav navbar-nav"><li class="first"><a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a></li><li><a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a></li><li><a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a></li><li><a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a></li><li class="last"><a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a></li></ul></nav><section id="block-unimi-megamenufooter" class="col-sm-12 clearfix block block-block-content block-block-content4a59a823-49d1-4c08-8e2b-8558f0ed52de"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a class="mega-news" href="https://lastatalenews.unimi.it">News</a><a class="mega-logo" href="/it">Logo</a></p></div></section></div></div></div></section></li><li class="ultimenu__item uitem uitem--home uitem--front-page uitem--8 has-ultimenu"><a href="/it" data-drupal-link-system-path="&lt;front&gt;" title="" class="ultimenu__link">Home<span class="caret" aria-hidden="true"></span></a><section class="ultimenu__flyout is-htb"><div class="ultimenu-wrapper fullwidth"><div class="container ultimenu-content"><div class="close-wrap"><a href class="close-button"><img src="/themes/custom/unimi/img/cross.svg" alt="close item"></a></div><div class="ultimenu__region region region--count-3 region-ultimenu-main-standard__front-page"><nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="col-sm-12"><h2 class="visually-hidden" id="block-mainnavigation-menu">I corsi</h2><ul class="menu menu--main nav"><li class="expanded dropdown"><a href="/it/corsi">Corsi</a><ul class="dropdown-menu"><li><a href="/it/corsi/orientarsi-e-scegliere" data-drupal-link-system-path="node/727">Orientarsi e scegliere</a></li><li><a href="/it/corsi/facolta-e-scuole" data-drupal-link-system-path="node/710">Facoltà e scuole</a></li><li><a href="/it/corsi/corsi-di-laurea-triennali-e-magistrali-ciclo-unico" data-drupal-link-system-path="node/1071">Lauree triennali e magistrali ciclo unico</a></li><li><a href="/it/corsi/corsi-di-laurea-magistrale" data-drupal-link-system-path="node/13968">Lauree Magistrali</a></li><li><a href="/it/corsi/la-statale-open" data-drupal-link-system-path="node/53900">La Statale Open - laurea online</a></li><li><a href="/it/corsi/insegnamenti-dei-corsi-di-laurea" data-drupal-link-system-path="node/1074">Insegnamenti dei corsi di laurea</a></li><li><a href="/it/corsi/tutte-le-offerte-formative" data-drupal-link-system-path="node/13005">Tutte le offerte formative - corsi di laurea</a></li><li><a href="/it/corsi/percorso-di-eccellenza-iuss-pavia" data-drupal-link-system-path="node/44362">Percorso di eccellenza IUSS Pavia</a></li><li><a href="/it/corsi/corsi-post-laurea-e-formazione-continua" data-drupal-link-system-path="node/1072">Corsi post laurea e formazione continua</a></li><li><a href="/it/corsi/esami-di-stato" data-drupal-link-system-path="node/271">Esami di stato</a></li><li><a href="/it/corsi/summer-e-winter-schools" data-drupal-link-system-path="node/32">Summer school</a></li><li><a href="/it/corsi/didattica-online" data-drupal-link-system-path="node/708">Didattica online</a></li><li><a href="/it/corsi/studiare-carcere" data-drupal-link-system-path="node/37118">Studiare in carcere</a></li></ul></li><li class="expanded dropdown"><a href="/it/studiare">Studiare</a><ul class="dropdown-menu"><li><a href="/it/studiare/immatricolarsi-e-iscriversi" data-drupal-link-system-path="node/13253">Immatricolarsi e iscriversi</a></li><li><a href="/it/studiare/frequentare-un-corso-di-laurea" data-drupal-link-system-path="node/726">Frequentare un corso di laurea</a></li><li><a href="/it/studiare/frequentare-un-corso-post-laurea" data-drupal-link-system-path="node/729">Frequentare un corso post laurea</a></li><li><a href="/it/studiare/seguire-un-corso-singolo" data-drupal-link-system-path="node/168">Seguire un corso singolo</a></li><li><a href="/it/studiare/borse-premi-mense-e-alloggi" data-drupal-link-system-path="node/730">Borse, premi, mense e alloggi</a></li><li><a href="/it/studiare/competenze-linguistiche" data-drupal-link-system-path="node/12716">Competenze linguistiche</a></li><li><a href="/it/studiare/stage-e-lavoro" data-drupal-link-system-path="node/1058">Stage e lavoro</a></li><li><a href="/it/studiare/servizi-gli-studenti" data-drupal-link-system-path="node/723">Servizi per gli studenti</a></li><li><a href="/it/studiare/biblioteche" data-drupal-link-system-path="node/464">Biblioteche</a></li><li><a href="/it/studiare/vivere-luniversita" data-drupal-link-system-path="node/1070">Vivere l&#039;Università</a></li></ul></li><li class="expanded dropdown"><a href="/it/ricerca">Ricerca</a><ul class="dropdown-menu"><li><a href="/it/ricerca/pnrr-i-progetti-delluniversita-statale" data-drupal-link-system-path="node/49935">PNRR: i progetti dell’Università Statale</a></li><li><a href="/it/ricerca/facts-figures" data-drupal-link-system-path="node/1185">Facts &amp; Figures</a></li><li><a href="/it/ricerca/cosa-studiamo" data-drupal-link-system-path="node/1193">Cosa studiamo</a></li><li><a href="/it/ricerca/fare-ricerca-da-noi" data-drupal-link-system-path="node/1187">Fare ricerca da noi</a></li><li><a href="/it/ricerca/luoghi-organizzazione-e-infrastrutture" data-drupal-link-system-path="node/1188">Luoghi, organizzazione e infrastrutture</a></li><li><a href="/it/ricerca/policies-e-principi" data-drupal-link-system-path="node/1186">Policies e principi</a></li><li><a href="/it/ricerca/dati-e-prodotti-della-ricerca" data-drupal-link-system-path="node/1190">Dati e prodotti della ricerca</a></li><li><a href="/it/ricerca/ricerca-tutti" data-drupal-link-system-path="node/1181">Ricerca per tutti</a></li></ul></li><li class="expanded dropdown"><a href="/it/terza-missione">Terza missione</a><ul class="dropdown-menu"><li><a href="/it/terza-missione/innovazione-ricerca-e-imprese" data-drupal-link-system-path="node/1183">Innovazione, ricerca e imprese</a></li><li><a href="/it/terza-missione/terza-missione-organizzazione-e-governance" data-drupal-link-system-path="node/39512">Terza missione, organizzazione e governance</a></li><li><a href="/it/terza-missione/patrimonio-storico-e-culturale" data-drupal-link-system-path="node/601">Patrimonio storico e culturale</a></li><li><a href="/it/terza-missione/responsabilita-sociale" data-drupal-link-system-path="node/14844">Responsabilità sociale</a></li></ul></li><li class="expanded dropdown"><a href="/it/ateneo">Ateneo</a><ul class="dropdown-menu"><li><a href="/it/ateneo/la-statale" data-drupal-link-system-path="node/1216">La Statale</a></li><li><a href="/it/ateneo/governance-e-linee-strategiche" data-drupal-link-system-path="node/1217">Governance e linee strategiche</a></li><li><a href="/it/ateneo/uffici-e-strutture" data-drupal-link-system-path="node/1218">Uffici e strutture</a></li><li><a href="/it/ateneo/carta-dei-servizi" data-drupal-link-system-path="node/39238">Carta dei servizi</a></li><li><a href="/it/ateneo/lavora-con-noi" data-drupal-link-system-path="node/1220">Lavora con noi</a></li><li><a href="/it/ateneo/bandi-di-gare-e-contratti" data-drupal-link-system-path="node/1227">Bandi di gare e contratti</a></li><li><a href="/it/ateneo/normative" data-drupal-link-system-path="node/383">Normative</a></li><li><a href="/it/ateneo/assicurazione-della-qualita" data-drupal-link-system-path="node/521">Assicurazione della qualità</a></li><li><a href="/it/ateneo/fundraising" data-drupal-link-system-path="node/1223">Fundraising</a></li><li><a href="/it/ateneo/amministrazione-trasparente" data-drupal-link-system-path="node/12893">Amministrazione trasparente</a></li></ul></li><li class="expanded dropdown"><a href="/it/internazionale">Internazionale</a><ul class="dropdown-menu"><li><a href="/it/internazionale/cooperazione-internazionale" data-drupal-link-system-path="node/44305">Cooperazione internazionale allo sviluppo</a></li><li><a href="/it/internazionale/la-statale-nel-mondo" data-drupal-link-system-path="node/12742">La Statale nel mondo</a></li><li><a href="/it/internazionale/studiare-allestero" data-drupal-link-system-path="node/273">Studiare all&#039;estero</a></li><li><a href="/it/internazionale/venire-studiare-dallestero" data-drupal-link-system-path="node/295">Venire a studiare dall&#039;estero</a></li><li><a href="/it/internazionale/mobilita-docenti-e-ricercatori" data-drupal-link-system-path="node/1204">Mobilità docenti e ricercatori</a></li></ul></li><li class="expanded dropdown"><a href="">Cerca</a><ul class="dropdown-menu"><li><a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a></li><li><a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a></li><li><a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a></li><li><a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a></li><li><a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a></li></ul></li><li><a href="/it" data-drupal-link-system-path="&lt;front&gt;">Home</a></li></ul></nav><section class="views-element-container col-sm-12 block block-views block-views-blockprofili-block-1 clearfix" id="block-unimi-views-block-profili-block-1"><div class="form-group"><div class="view view-profili view-id-profili view-display-id-block_1 js-view-dom-id-bc6e133cfd092b8147a7885daa24091ab4be15e0cd7676304c3de4fc7c90be74"><div class="view-content"><div class="item-list fullwidth"><ul class="container"><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/10"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-signs-post" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Futuri studenti</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/11"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-circle-user" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Studenti iscritti</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/12"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-user-plus" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Laureati</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/8"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-graduation-cap" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Dottorandi</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/13"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-globe" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Studenti internazionali</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/9"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-building" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Enti e aziende</a></div></div></li></ul></div></div></div></div></section><section id="block-unimi-megamenufooter-2" class="col-sm-12 block block-block-content block-block-content4a59a823-49d1-4c08-8e2b-8558f0ed52de clearfix"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a class="mega-news" href="https://lastatalenews.unimi.it">News</a><a class="mega-logo" href="/it">Logo</a></p></div></section></div></div></div></section></li></ul><button data-ultimenu-button="#ultimenu-main" class="button button--ultimenu"
+        aria-label="Menu" value="Menu"><span class="bars">Menu</span></button>
+  </section>
+
+
+  </div>
+
+                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+              </div>
+
+                    <div id="navbar-collapse" class="navbar-collapse collapse">
+            <div class="region region-navigation-collapsible">
+    <section id="block-searchmobile" class="search-block-form hidden-lg hidden-md block block-search block-search-form-block block-block-content block-block-content4b159f0e-4fa2-4411-a21f-56afa0508e9f clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><form accept-charset="UTF-8" action="https://apps.unimi.it/sitesearch/unimi-new/search.jsp" id="search-block-form" method="get">
+<div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group"><label class="control-label sr-only" for="edit-keys">Cerca</label>
+<div class="input-group"><input class="form-search form-control" data-drupal-selector="edit-keys" data-original-title="Inserisci i termini da cercare." id="edit-keys" maxlength="128" name="q" placeholder="Cerca" size="15" title type="search" required="true" value><span class="input-group-btn"><button class="button js-form-submit form-submit btn-primary btn icon-only" type="submit" value="Cerca"><span class="sr-only">Cerca</span></button></span></div>
+</div>
+</form>
+</div>
+      
+  </section>
+
+<nav role="navigation" aria-labelledby="block-unimi-main-menu-menu" id="block-unimi-main-menu" class="hidden-md hidden-lg">
+            
+  <h2 class="visually-hidden" id="block-unimi-main-menu-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/it/corsi" data-drupal-link-system-path="node/7725">Corsi</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare" data-drupal-link-system-path="node/7726">Studiare</a>
+              </li>
+                      <li>
+                                        <a href="/it/ricerca" data-drupal-link-system-path="node/7727">Ricerca</a>
+              </li>
+                      <li>
+                                        <a href="/it/terza-missione" data-drupal-link-system-path="node/38988">Terza missione</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo" data-drupal-link-system-path="node/7728">Ateneo</a>
+              </li>
+                      <li>
+                                        <a href="/it/internazionale" data-drupal-link-system-path="node/7729">Internazionale</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Cerca <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="last">
+                                        <a href="/it" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-topnavbar-2-menu" id="block-topnavbar-2" class="hidden-md hidden-lg">
+            
+  <h2 class="visually-hidden" id="block-topnavbar-2-menu">Top navbar</h2>
+  
+
+        
+      <ul class="menu menu--profili nav">
+                      <li class="first">
+                                        <a href="https://unimia.unimi.it/">Unimia</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie</a>
+              </li>
+                      <li>
+                                        <a href="https://ariel.unimi.it/" title="Portale elearning">Ariel</a>
+              </li>
+                      <li>
+                                        <a href="https://sba.unimi.it/" title="Biblioteche">Biblioteche</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e dove</a>
+              </li>
+                      <li>
+                                        <a href="https://mail.unimi.it/">Webmail</a>
+              </li>
+                      <li>
+                                        <a href="https://work.unimi.it">laStatale@work</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Info per <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/taxonomy/term/10" data-drupal-link-system-path="taxonomy/term/10">Futuri studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/11" data-drupal-link-system-path="taxonomy/term/11">Studenti iscritti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/12" data-drupal-link-system-path="taxonomy/term/12">Laureati</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/8" data-drupal-link-system-path="taxonomy/term/8">Dottorandi</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/13" data-drupal-link-system-path="taxonomy/term/13">Studenti internazionali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/taxonomy/term/9" data-drupal-link-system-path="taxonomy/term/9">Enti e aziende</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="https://lastatalenews.unimi.it/" title="statale news">LaStataleNews</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/sostenere-la-statale/cinque-mille?clickOrigin=menu" title="5x1000" data-drupal-link-query="{&quot;clickOrigin&quot;:&quot;menu&quot;}" data-drupal-link-system-path="node/1229">5x1000</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+        </div>
+                </header>
+  
+  <div  id="main-container-unimi" role="main" class="main-container container js-quickedit-main-content">
+    <div class="row">
+
+                              <div class="col-sm-12">
+              <div class="region region-header">
+        <ol class="breadcrumb rs_skip">
+          <li >
+                  <a href="/it">Home</a>
+              </li>
+          <li >
+                  <a href="/it/corsi">Corsi </a>
+              </li>
+          <li >
+                  <a href="/it/corsi/laurea-triennale">Laurea triennale</a>
+              </li>
+          <li  class="active">
+                  Logopedia
+              </li>
+      </ol>
+
+
+  </div>
+
+          </div>
+              
+            
+                  <section class="col-sm-12">
+
+                
+                                      
+                  
+                          <a id="main-content"></a>
+            <div class="region region-content">
+        <h1 class="page-header">
+<span>Logopedia</span>
+</h1>
+
+<div data-drupal-messages-fallback class="hidden"></div>
+  <div class="row bs-2col-bricked node node--type-cdl-scheda node--view-mode-full">
+  
+
+  
+    <div class="col-xs-12 col-sm-8 col-md-8 col-lg-9 bs-region bs-region--top-left">
+    
+<div  class="top-left-cdl-scheda">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_6 js-view-dom-id-5775a62c6b97e3caa95577dcb3056edd614071fc4c3458c7afd846863b41a843">
+  
+    
+      
+      <div class="view-content">
+          <div class="area-header area-D area-caratipo-a"><div class="banner-area banner-area-D"><span>MEDICINA E CHIRURGIA</span></div>  <img loading="lazy" src="/sites/default/files/styles/scheda_cdl/public/2019-05/medchir-68.jpg?h=11b34633&amp;itok=MjsopKkg" width="1240" height="400" alt="ragazza con alfabeto" title="" class="img-responsive rs_skip" />
+
+
+<div class="info-group new-info-group"><div class="carat-laurea">Corso in presenza</div>
+<div class="title-laurea">Logopedia</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+
+
+  </div>
+  </div>
+  
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3 bs-region bs-region--top-right">
+    
+<div  class="top-right-cdl-scheda">
+    
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-intestazione field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_49 js-view-dom-id-116430b5039474dbaa392762f6334768ca3ce36645a6ab24c2c301f6d5e9ac63">
+  
+    
+      
+      <div class="view-content">
+          <div class="cdl-intestazione codice-area-D "><div><div class="scheda-corso">Scheda del corso</div>
+<div class="anno">A.A. 2026/2027 </div>
+<div class="tipo-laurea">Laurea triennale</div>
+
+<div class="field--name-uof-cdsclass">L/SNT2 - Classe delle lauree in Professioni sanitarie della riabilitazione</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+            <div  class="paragraph paragraph--type--bp-action paragraph--type--bp-action-blu">
+        
+            <div  class="field--name-bp-link">
+                  <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_32 js-view-dom-id-c397898b4bea719b3ed43f341bb5fb179a64935b1b2e7b9671024e33a120b89d">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-sito-corso"><div class="field-content"><a href="https://logopedia.cdl.unimi.it " target="_blank" aria-label="Vai al sito del corso di Logopedia (Classe L/SNT2)">Vai al sito del corso</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+      </div>
+  
+    </div>
+
+
+  </div>
+  </div>
+  
+    <div class="col-xs-12 bs-region bs-region--middle">
+    
+<div >
+    
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-barra field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="barra-dati top40 bottom40 view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_4 js-view-dom-id-52811af4a6cbbf444ee042c5b50888080cb9c3d880b8123c880fa9ad89cf94a6">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-cdstype"><div class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-university fa-stack-1x fa-inverse"></span>
+</span>
+
+<div class="views-label views-label-uof-cdstype">Laurea triennale</div></div></div><div class="views-field views-field-cfu"><span class="field-content"><span class="fa-stack fa-3x">
+    <span class="fa fa-circle fa-stack-2x"></span>
+    <span class="fa-stack-1x fa fa-ticket fa-inverse"></span>
+ </span>
+<div class="views-label views-label-cfu">180</div>
+Crediti</span></div><div class="views-field views-field-uof-ma1"><div class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+<span class="fas fa-sign-in-alt fa-stack-1x fa-inverse "></span>
+</span>
+<div class="views-label views-label-uof-ma1">Accesso</div>
+Programmato</div></div><div class="views-field views-field-durata-anni"><span class="field-content"><span class="fa-stack fa-3x">
+ <span class="fa fa-circle fa-stack-2x"></span>
+    <span class="fas fa-calendar-o fa-stack-1x fa-inverse"></span>
+  </span>
+<div class="views-label views-label-durata-anni">3</div>
+Anni
+</span></div><div class="views-field views-field-polo-fisico"><div class="field-content">  <span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-building-o  fa-stack-1x fa-inverse"></span>
+</span>
+<div class="views-label views-label-polo-fisico">Sede</div>
+Milano, Mantova, Bosisio Parini (LC) </div></div><div class="views-field views-field-nothing"><span class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-flag fa-stack-1x fa-inverse"></span>
+</span>
+<div class="views-label views-label-uof-lingua">Lingua</div>
+Italiano</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div><div class="mobile-tab field-group-tabs-wrapper"><div data-vertical-tabs-panes><input class="vertical-tabs__active-tab" type="hidden" /><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-objectives">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-objectives--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-objectives--content">Obiettivi formativi</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-objectives--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-obiettivi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_7 js-view-dom-id-05c08c7c0bef8e35fd02f002fce3db23f4f174827d740668e575dc7397850f54">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-obiettivi-formativi"><div class="field-content">Il corso si pone l'obiettivo primario di formare logopedisti che dimostrino competenze intellettive, gestuali, comunicative e relazionali adeguate allo svolgimento della migliore pratica professionale secondo quanto previsto dal Profilo Professionale, dal Codice Deontologico e dal Core Competence e Core Curriculum del Logopedista.<br>A tale scopo il Corso di Laurea fornisce allo studente contenuti, metodi e strumenti finalizzati all'acquisizione, allo sviluppo e all'applicazione responsabile ed autonoma di:<br>- conoscenze teoriche avanzate che presuppongano la comprensione critica di teorie e principi connessi allo specifico ambito professionale,<br>- abilità pratiche relative agli specifici atti professionali previsti dal profilo (prevenzione, osservazione, valutazione, bilancio, counseling, cura, abilitazione, riabilitazione, educazione, rieducazione, monitoraggio, verifica dell'efficacia e revisione degli interventi), <br>- competenze comunicative e relazionali specifiche nell'ambito della gestione responsabile della relazione terapeutica e della collaborazione in équipe interdisciplinare,<br>nella presa in carico logopedica delle patologie della comunicazione (verbale e non verbale), del linguaggio  (orale e scritto), della voce, dell'articolazione e delle funzioni orali e della deglutizione, nonché dei disturbi cognitivi e delle funzioni corticali superiori, in età evolutiva, adulta e geriatrica, nei confronti dei singoli individui e della collettività.<br><br>I laureati in Logopedia, al termine del percorso formativo, avranno acquisito conoscenze e capacità di comprensione nei seguenti ambiti: responsabilità professionale, cura e riabilitazione, educazione terapeutica, prevenzione, gestione e management, formazione e autoformazione, pratica clinica basata sulle prove di efficacia e ricerca.<br><br>I laureati in Logopedia, al termine del percorso formativo, saranno in grado di utilizzare le conoscenze acquisiste e la capacità di comprensione al fine ultimo di costruire un setting riabilitativo finalizzato all'intervento terapeutico e di mettere in atto le procedure fra loro correlate nella prevenzione, nella valutazione e diagnosi, nella cura e nella riabilitazione dei disturbi fono-articolatori, deglutitori e comunicativo - linguistici in età evolutiva, adulta e geriatrica. <br>In particolare, i laureati in Logopedia saranno in grado di:<br>1. utilizzare in modo integrato le conoscenze biomediche, cliniche, riabilitative applicate e logopediche generali per identificare il bisogno di salute e pianificare la presa in carico dei pazienti<br>2. utilizzare in modo integrato le conoscenze acquisite al fine di assumere comportamenti comunicativi e relazionali adeguati al contesto e al segreto professionale nel rispetto della privacy del paziente;<br>3. integrare le conoscenze, le abilità e le attitudini professionali logopediche acquisite nel percorso formativo teorico e professionalizzante per attuare interventi riabilitativi sicuri, efficaci e basati sulle evidenze;<br>4. realizzare interventi educativi attraverso l'identificazione, l'analisi e le risposte fornite ai bisogni di salute della persona e della collettività;<br>5. promuovere e realizzare interventi di prevenzione utilizzando strumenti di screening per l'individuazione precoce delle alterazioni fono-articolatorie, deglutitorie e comunicativo-linguistiche;<br>6. identificare e promuovere l'acquisizione di comportamenti idonei e strategie di compenso in grado di modificare o ridurre la disabilità;<br>7. praticare le modalità di gestione del colloquio nella clinica logopedica come strumento di acquisizione e interpretazione di dati utili per la conoscenza delle caratteristiche fono-articolatorie, deglutitorie e comunicativo-linguistiche;<br>8. utilizzare i principi e le teorie della produzione fono-articolatoria, linguistica, della comunicazione e della deglutizione per la valutazione delle abilità fono-articolatorie, linguistiche, comunicative e deglutitorie;<br>9. utilizzare, in base alle evidenze, i dati clinici e gli strumenti di valutazione standardizzati per pianificare modelli educativi riabilitativi orientati alla prevenzione e cura dei disturbi in tutte le fasce di età;<br>10. utilizzare strumenti specifici e procedure di valutazione per l'inquadramento e il bilancio logopedico dei disturbi in tutte le fasce di età;<br>11. pianificare, sviluppare e realizzare piani terapeutici e riabilitativi appropriati, con obiettivi misurabili e raggiungibili adattandoli alle diverse età e tenendo conto delle differenze culturali e linguistiche;<br>12. collaborare alla stesura e alla realizzazione del progetto riabilitativo;<br>13. pianificare e realizzare il programma riabilitativo per raggiungere gli obiettivi terapeutici;<br>14. verificare l'outcome e l'aderenza al programma riabilitativo in prospettiva ecologica;<br>15. misurare e valutare la performance del paziente in collaborazione con il team interdisciplinare, monitorare e adeguare il piano terapeutico in base alle necessità del paziente;<br>16. assumere responsabilità nel fornire interventi logopedici conformi a standard professionali di qualità, considerando le implicazioni legali, etiche e i diritti della persona assistita;<br>17. interpretare e applicare i risultati della ricerca alla pratica logopedica.
+
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-career-and-employment">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-career-and-employment--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-career-and-employment--content">Sbocchi professionali</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-career-and-employment--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-sbocchi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_8 js-view-dom-id-0235f18a3208b958cc8b066e7ce8614510c64194f30ca136945c02e411fe2977">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-sbocchi-occupazionali"><div class="field-content"><div class="bottom40">Nell'ambito della professione sanitaria del logopedista, i laureati sono operatori sanitari cui competono le attribuzioni previste dal D.M. del Ministero della Sanità 14 settembre 1994, n. 742 e successive modificazioni ed integrazioni; ovvero:<br>1. svolgono la loro attività nella prevenzione e nel trattamento riabilitativo delle patologie del linguaggio e della comunicazione e delle funzioni orali in età evolutiva, adulta e geriatrica. L'attività dei laureati in logopedia è volta all'educazione e rieducazione di tutte le patologie che provocano disturbi della voce, della parola, del linguaggio orale e scritto e degli handicap comunicativi;<br>2. in riferimento alla diagnosi ed alla prescrizione del medico, nell'ambito delle loro competenze, elaborano, anche in équipe multidisciplinare, il bilancio logopedico volto all'individuazione ed al superamento del bisogno di salute del disabile;<br>3. praticano autonomamente attività terapeutica per la rieducazione funzionale delle disabilità comunicative e cognitive, utilizzando terapie logopediche di abilitazione e riabilitazione della comunicazione e del linguaggio, verbali e non verbali;<br>4. propongono l'adozione di ausili, ne addestrano all'uso e ne verificano l'efficacia;<br>5. svolgono attività di studio, didattica e consulenza professionale, nei servizi sanitari ed in quelli dove si richiedono le loro competenze professionali;<br>6. verificano le rispondenze della metodologia riabilitativa attuata agli obiettivi di recupero funzionale; <br>7. svolgono la loro attività professionale in strutture sanitarie, pubbliche o private, in regime di dipendenza o libero professionale.<br><br>Il logopedista trova collocazione nell'ambito del Servizio Sanitario Nazionale e Regionale in forma di dipendenza o libero professionale.<br>Inoltre questa figura trova sbocchi nelle strutture private accreditate e convenzionate, cliniche e centri di riabilitazione, nonché in strutture educative o enti locali, Residenze Sanitarie Assistenziali, ambulatori medici e polispecialistici, in studi riabilitativi individuali o associati, in cooperative di servizi. Inoltre il logopedista può svolgere attività di studio e ricerca e di consulenza professionale laddove ne sia richiesta la specifica competenza. Per svolgere attività di didattica è necessario affrontare il percorso della Laurea Magistrale che rappresenta il naturale sbocco formativo post laurea insieme ai Master di I livello trasversali, mono-professionali ed interprofessionali.<br><br><a class="top40" href="https://statistiche.almalaurea.it/universita/statistiche/trasparenza?codicione=0150106204700003">Statistiche occupazionali (Almalaurea)</a></div>
+<div><div class="field--label">Percorsi consigliati dopo laurea</div>
+<div class="field--item">Il laureato in Logopedia può accedere al Corso di Laurea Magistrale in Scienze Riabilitative delle Professioni Sanitarie, Classe LM/SNT2.</div></div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-study-abroad">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-study-abroad--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-study-abroad--content">Studio all'estero</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-study-abroad--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-studi-estero field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_9 js-view-dom-id-14e0d048a364b47d19515ced60773acbe9f1d8fbfd78660ed8717c2146aa969f">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-esperienze-estero"><div class="field-content">Il CdS ha in attivo cinque accordi per lo svolgimento della mobilità internazionale degli studenti. Quattro di questi accordi sono parte del programma di mobilità internazionale Erasmus+; un accordo è invece parte della mobilità Exchange/extra UE.<br>Tra i programmi di mobilità Erasmus+, il CdL ha attualmente in attivo le seguenti convenzioni:<br>- l'accordo con l'Universitat de Valencia (Spagna) prevede la possibilità di programmare sia la mobilità verso l'università estera sia di accogliere due studenti stranieri presso il CdS per un periodo di 5 mesi per studente, con le seguenti finalità: frequenza corsi/attivita? di ricerca, laboratorio, clinica.<br>- l'accordo con l'Escola Superior de Saúde do Alcoitão (Portogallo) prevede la possibilità di programmare sia la mobilità verso l'università estera sia di accogliere due studenti presso il CdS per un periodo di 3 mesi per studente, con le seguenti finalità: tesi/attivita? di ricerca, laboratorio, clinica.<br>- l'accordo con l'Université Claude Bernard - Lyon I (Francia) prevede la possibilità di programmare la mobilità verso l'università estera sia di accogliere due studenti presso il CdS per un periodo di 9 mesi per studente, con le seguenti finalità: frequenza corsi/tesi di laurea. L'accordo con tale università include anche la mobilità Erasmus+ traineeship, nel quale è previsto che due studenti per ciascuna università possano svolgere un tirocinio clinico professionalizzante per la durata di 4 mesi<br>- l'accordo con l'Università di Varsavia (Medical University of Warsaw; Polonia) per lo svolgimento del programma Erasmus+ traineeship, nel quale è previsto che due studenti per ciascuna università possano svolgere un tirocinio clinico professionalizzante per la durata di 2 mesi<br><br>Come parte dei programmi di mobilità Exchange/extra UE, il CdS ha in attivo la seguente convenzione:<br>- accordo per mobilità EXTRA UE con la Seaton Hall University (School of Health and Medical Sciences; New Jersey), all'interno dell'accordo quadro stipulato da UNIMI ad aprile 2018 ('International Student Clinical Education Internship Exchanges Agreement') ai fini dello svolgimento di un periodo di tirocinio professionalizzante di durata compresa tra 3 settimane-2 mesi. <br>L'assistenza agli studenti per la mobilità internazionale viene fornita dagli Uffici Erasmus di competenza, dal Responsabile Erasmus per le Professioni Sanitarie dell'Ateneo, dal Presidente del CdS.<br>Atenei in convenzione:<br>1 Francia Université Lyon 1 Claude Bernard F LYON01 01/09/2010 solo italiano<br>2 Portogallo Santa Casa Da Misericordia De Lisboa P ESTORIL02 01/09/2015 solo italiano<br>3 Spagna Universitat De Valencia E VALENCI01 01/09/2009 solo italiano</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-attendance">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-attendance--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-attendance--content">Obbligo di frequenza</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-attendance--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-frequenza field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_10 js-view-dom-id-13806a1dd0896955d801e0be490d5de843d3ef5e9e8af7a8eaebbddc3c6c66f4">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-frequenza"><div class="field-content">Obbligatoria a tutte le attività didattiche e pratiche. Il regolamento didattico del Corso di Laurea in Logopedia prevede che:<br>1. La frequenza a tutte le attivita' didattiche teoriche e pratiche previste dal Manifesto degli studi e' obbligatoria. L'introduzione di apposite modalita' organizzative per studenti non impegnati a tempo pieno, prevista dal DM 22 ottobre 2004 n. 270, art. 11, comma 7, lettera i, non e' compatibile con le caratteristiche fortemente professionalizzanti del corso di laurea e con i vincoli orari ed organizzativi imposti dalla frequenza alle attivita' formative professionalizzanti. <br>2. Per essere ammesso a sostenere la relativa verifica di profitto, lo studente deve aver frequentato almeno il 75% delle ore totali di attivita' didattica formale e non formale previste per ciascuno corso sia monografico che integrato. E' compito del docente responsabile del corso verificare che lo studente abbia ottemperato all'obbligo di frequenza.<br>3. In caso di mancato raggiungimento del 75% delle ore di frequenza i docenti possono indicare attivita' formative alternative, anche in forma di autoapprendimento, che lo studente deve svolgere e presentare prima di essere ammesso a sostenere l'esame.<br>4. La frequenza obbligatoria alle attivita' professionalizzanti non e' sostituibile. Il monte ore complessivo delle attivita' professionalizzanti, per ciascuna annualita', e' da intendersi quello annualmente programmato. Eventuali assenze alle attivita' professionalizzanti, per qualsiasi motivo, devono essere recuperate dallo studente, previa programmazione a cura del Direttore delle attività didattiche e professionalizzanti della Sede della didattica professionalizzante e di tirocinio.</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+</div>
+</div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Immatricolazione</div>
+    <div class="bottom0 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--5">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--5--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--5--content">Requisiti, modalità di verifica e obblighi formativi</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--5--content" class="panel-body panel-collapse collapse fade">
+                  <div  class="paragraph scheda-cds-requisiti-accesso">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_11 js-view-dom-id-6538097d863db0b1454ad6e257e28fada3bd3928934ff0e03af70ae823e7ced6">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-requisiti-accesso"><div class="field-content">Per essere ammessi al corso di laurea in Logopedia occorre essere in possesso di un diploma di scuola secondaria superiore o di altro titolo di studio conseguito all'estero, ai sensi del D.M. n. 270 del 22 ottobre 2004.<br>L'accesso al Corso è programmato a livello nazionale ai sensi della Legge n. 264 del 2.8.1999.<br>Il numero degli studenti ammissibili è definito annualmente con Decreto del Ministero della Università e della Ricerca (MUR), tenendo conto della rilevazione effettuata dallo stesso Ateneo in ordine alle risorse ed alle strutture didattiche e cliniche disponibili, nonché tenendo conto delle esigenze manifestate dalla regione Lombardia e dal Ministero della Salute in ordine al fabbisogno di personale sanitario del profilo professionale di riferimento della Classe.<br>La prova di ammissione - unica per tutti i corsi di laurea di area sanitaria - è predisposta annualmente dall'Ateneo secondo le modalità e la tempistica indicate dal MUR. <br>La prova di ammissione consiste in una prova scritta basata su domande a risposta multipla, secondo un apposito programma predisposto dal MUR.<br>La prova si svolge presumibilmente nel mese di Settembre in data stabilita dal MUR a livello nazionale.<br><br>L'immatricolazione avviene sulla base della graduatoria risultante dalla prova di ammissione e previo accertamento medico di idoneità alla mansione per lo svolgimento delle funzioni specifiche del profilo professionale. Gli studenti vengono immatricolati con riserva in attesa dell'esito della visita di alla mansione, da certificare - a cura dell'Istituzione Sanitaria convenzionata e Sede nella quale avverrà la formazione professionalizzante - entro il mese di dicembre dell'anno accademico in corso. L'idoneità verrà verificata annualmente. I referti relativi e ogni documentazione di ordine sanitario devono essere conservati in una cartella sanitaria presso la predetta Istituzione sanitaria accreditata. In caso di trasferimento a/da altro Ateneo, la documentazione sanitaria completa dello studente viene inviata al medico competente dell'Istituzione sanitaria accreditata di afferenza dello studente.<br><br>Obblighi Formativi Aggiuntivi (OFA)<br>Agli studenti che al test di ammissione non hanno fornito almeno il 50% delle risposte corrette nelle domande rivolte alla conoscenza della Biologia e della Chimica, saranno assegnati obblighi formativi aggiuntivi (OFA). Tali obblighi potranno essere colmati mediante attività di recupero appositamente previste. Il mancato superamento dell'OFA non permetterà di sostenere l'esame di: Scienze biologiche, fisiologiche e morfologiche.<br>Tali obblighi dovranno essere assolti negli appelli disponibili del primo anno di corso: gli studenti che, a seguito di una verifica della carriera, risultassero non aver ancora assolto gli OFA, saranno iscritti come ripetenti del primo anno.&nbsp;<br>Per le diverse iniziative sarà data tempestiva notizia sul sito: <a href="https://logopedia.cdl.unimi.it/it">https://logopedia.cdl.unimi.it/it</a>
+
+ 
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--6">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--6--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--6--content">Ammissione e immatricolazione</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--6--content" class="panel-body panel-collapse collapse fade">
+            
+<div  class="paragraph paragraph--type--bp-two-columns paragraph--style--66-33">
+    
+<div  class="paragraph__column">
+    
+<div  class="bp_two_col_left col-md-8">
+          <div  class="top20">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_2 js-view-dom-id-8d8a3701dcc4834d8f2b75af1a31967e42d5f5cf0f3865c1f448ff824bab4db1">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-bando-scadenze"><div class="field-content"><p><strong>Posti disponibili</strong>: 75  + 2 riservati a cittadini Extra UE</p>
+<h3>Bando di ammissione</h3>
+<p>Consulta il bando per scoprire le <strong>date</strong> e i <strong>contenuti</strong> del test e <strong>tutte le informazioni</strong> su come iscriverti.</p>
+<p><strong>Domanda di ammissione:</strong> dal 17/08/2026 al 03/09/2026</p>
+<p><strong>Data  prova di ammissione</strong>: 16/09/2026</p>
+<p><strong><a href="https://apps.unimi.it/files/bandi/bando-2027-1-professioni-sanitarie.pdf?24-AUG-26">Leggi il Bando</a></strong></p>
+<p><br><strong>Allegati e documenti</strong></p>
+<p><a href="https://apps.unimi.it/files/bandi/aule-2027-1-professioni-sanitarie.pdf?14-SEP-26">Aule test</a></p></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+  </div>
+<div  class="bp_two_col_right col-md-4 paragraph__column">
+          <div  class="bottom40 flowroot">
+            <div  class="titolo-grande bottom20 field-label-above">Servizi online</div>
+  
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node-2 view-id-w4_cdsi_to_node_2 view-display-id-block_5 js-view-dom-id-942c2dc2526d551a4325339359d72dca3245f729bfc3fa504fdcecb96eb36689">
+  
+    
+      
+      <div class="view-content">
+          <div><div class="views-field views-field-bando-al-servizio"><div class="field-content"><div class="actionlink-wrapper alw-of alw-serv alw-3"><div class="actionlink al-servizio al-ammissioni"><a href="https://studente.unimi.it/ammissioni/a/primoLivello/checkLogin.asp">Domanda di ammissione</a></div><div class="actionlink al-servizio al-graduatorie"><a href="https://studente.unimi.it/graduatorie/selezioneCorso/it/P.html">Graduatorie</a></div><div class="actionlink al-servizio al-immatricolazione"><a href="https://studente.unimi.it/immatricolazioni/primoLivello/checkLogin.asp">Immatricolazione</a></div></div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-action-informazione field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node-2 view-id-w4_cdsi_to_node_2 view-display-id-block_4 js-view-dom-id-eb1dc249b74b85fdf8bc021ee3bca72085c898047066fd89e9aa10f919e01298">
+  
+    
+      
+      <div class="view-content">
+          <div><div class="views-field views-field-bando-al-informazione"><div class="field-content"><div class="paragraph paragraph--type--bp-card-action bgcolor-ebf0f6">
+  <div class="card-content">
+    <div class="bp-title">Per approfondire:</div>
+<div class="actionlink-wrapper alw-of alw-info alw-1"><div class="actionlink al-informazione al-informazioni"><a href="https://www.unimi.it/it/node/84">Come iscriversi</a></div></div>
+</div>
+</div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div>
+  </div>
+  </div>
+          </div>
+  
+    
+</div>
+
+  </div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Manifesto ed elenco insegnamenti</div>
+          <div  class="bottom20">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_3 js-view-dom-id-e98038d8404f20fefa08eb0f993d882b69e635e37fec4c07dd19d167a3a3b40d">
+  
+    
+      
+      <div class="view-content">
+          <div class="padl30 views-row"><div><span class="file">
+  <span class="file-icon" aria-hidden="true">
+    <span class="far fa-file"></span>
+  </span>
+  <span class="file-link"><a href="https://apps.unimi.it/files/manifesti/ita_manifesto_D68of6_2027.pdf">Manifesto degli studi [D68of6_2027]</a></span>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-piano-didattico field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_12 js-view-dom-id-2eb15a0dad3001740577853006f1d147c47d626cc5e853a5df0a00490a028e92">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-rendered-entity"><span class="field-content">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+            <div class="field field--name-ugov-piano-didattico field--type-map field--label-hidden field--item"><div class="ugov_of_pd ugov_of_pd_type_2 ugov_of_pd_it">
+
+<div class="accordion bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="curr-accordion">
+    <div>
+    <!-- curr_default 1 - curr_number  - curr_tot_number 1 -->
+
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title" aria-expanded="false" aria-controls="curr-20270000d68of6-D68-0" role="button" href="#curr-20270000d68of6-D68-0">
+                  Piano didattico
+              </a>
+    </div>
+
+    <div id="curr-20270000d68of6-D68-0" class="panel-collapse collapse ">
+      <div class="panel-body">
+
+                  <ul class="nav nav-tabs ugov-of-pd-years">
+                          <li class="active"><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000d68of6-D68-0-0"><div>
+
+  Anno: 1
+</div>
+</a></li>
+                          <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000d68of6-D68-0-1"><div>
+
+  Anno: 2
+</div>
+</a></li>
+                          <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000d68of6-D68-0-2"><div>
+
+  Anno: 3
+</div>
+</a></li>
+                      </ul>
+        
+                  <div class="tab-content">
+                          <div id="ugov-of-pd-year-af-20270000d68of6-D68-0-0" class="tab-pane fade in active">
+                
+                                                                            <div class="top30 titoletto">annuale</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-logopediche-applicate-propedeutica-0">Scienze logopediche applicate: propedeutica</a>
+</td>
+<td data-title="Crediti massimi">9</td>
+<td data-title="Ore totali">90</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-18/B MEDS-26/C</td>
+</tr>
+<tr><td> - Comunicazione aumentativa e alternativa</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Comunicologia</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>MEDS-18/B</td> </tr>
+<tr><td> - Logopedia generale</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Teorie logopediche</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Vocologia, deglutologia, disturbi dell&#039;articolazione</td><td>3</td><td>30</td><td aria-label="ND" ></td><td>MEDS-18/B</td> </tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-biologiche-fisiologiche-e-morfologiche-0">Scienze biologiche, fisiologiche e morfologiche</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-06/A BIOS-07/A BIOS-12/A BIOS-13/A</td>
+</tr>
+<tr><td> - Anatomia umana dell&#039;apparato pneumo-fono-articolatorio e uditivo</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>BIOS-12/A</td> </tr>
+<tr><td> - Biochimica</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>BIOS-07/A</td> </tr>
+<tr><td> - Fisiologia generale e dell&#039;apparato pneumo-fono-articolatorio e uditivo</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>BIOS-06/A</td> </tr>
+<tr><td> - Istologia</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>BIOS-13/A</td> </tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-linguistiche-filosofiche-e-socio-pedagogiche-0">Scienze linguistiche, filosofiche e socio-pedagogiche</a>
+</td>
+<td data-title="Crediti massimi">5</td>
+<td data-title="Ore totali">50</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">GLOT-01/A GSPS-06/A PAED-01/A PHIL-04/B</td>
+</tr>
+<tr><td> - Linguistica generale e fonetica</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>GLOT-01/A</td> </tr>
+<tr><td> - Pedagogia generale e sociale</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>PAED-01/A</td> </tr>
+<tr><td> - Semeiologia</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>PHIL-04/B</td> </tr>
+<tr><td> - Sociologia dei processi culturali e comunicativi</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>GSPS-06/A</td> </tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-propedeutiche">Scienze propedeutiche</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-24/A PHYS-06/A PSIC-01/A PSIC-02/A</td>
+</tr>
+<tr><td> - Fisica applicata</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>PHYS-06/A</td> </tr>
+<tr><td> - Psicologia dello sviluppo e psicologia dell&#039;educazione</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>PSIC-02/A</td> </tr>
+<tr><td> - Psicologia generale</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>PSIC-01/A</td> </tr>
+<tr><td> - Statistica medica</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-24/A</td> </tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-mediche-0">Scienze mediche</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-11/A MEDS-01/A MEDS-02/A MEDS-04/A</td>
+</tr>
+<tr><td> - Anatomia patologica</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-04/A</td> </tr>
+<tr><td> - Farmacologia</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>BIOS-11/A</td> </tr>
+<tr><td> - Genetica medica</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-01/A</td> </tr>
+<tr><td> - Patologia generale</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-02/A</td> </tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-psicologiche-0">Scienze psicologiche</a>
+</td>
+<td data-title="Crediti massimi">5</td>
+<td data-title="Ore totali">50</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-06/A BIOS-12/A PSIC-04/B</td>
+</tr>
+<tr><td> - Neuroanatomia</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>BIOS-12/A</td> </tr>
+<tr><td> - Neurofisiologia e fisiologia delle funzioni corticali superiori</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>BIOS-06/A</td> </tr>
+<tr><td> - Psicologia clinica</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>PSIC-04/B</td> </tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Periodo non definito</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/accertamento-di-lingua-inglese-livello-b1-2-cfu">Accertamento di lingua inglese - livello b1 (2 CFU)</a>
+</td>
+<td data-title="Crediti massimi">2</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/ai-literacy">Ai literacy</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">20</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">INFO-01/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tirocinio-primo-anno-6">Tirocinio (primo anno)</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">250</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-26/C</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Regole di composizione</div>
+                                          <div class="ugov-of-pd-year-rules-0"><div>Elettivi - Lo studente, al primo anno, deve altresì maturare 2 CFU in attività formative a scelta.</div>
+</div>
+                                                            </div>
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000d68of6-D68-0-1" class="tab-pane fade">
+                                  <div class="noteanno">sarà attivato dall&#039;A.A. 2027/2028</div>
+                
+                                                                            <div class="top30 titoletto">annuale</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-logopediche-applicate-1">Scienze logopediche applicate 1</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">85</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-26/C</td>
+</tr>
+<tr><td> - Laboratori professionali</td><td>1</td><td>15</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nei disturbi dell&#039;articolazione e palatoschisi</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nei disturbi della deglutizione e articolatori post-chirurgici</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nei disturbi della deglutizione in età evolutiva</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nei disturbi della fluenza</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nei disturbi della voce</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nella disartria</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-linguistiche-applicate">Scienze linguistiche applicate</a>
+</td>
+<td data-title="Crediti massimi">5</td>
+<td data-title="Ore totali">50</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">GLOT-01/A GSPS-06/A MEDS-18/B PHIL-04/B</td>
+</tr>
+<tr><td> - Bilinguismo</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>GSPS-06/A</td> </tr>
+<tr><td> - Filosofia e teoria dei linguaggi</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>PHIL-04/B</td> </tr>
+<tr><td> - Linguistica (Morfo-sintassi, semantica e lessico, pragmatica)</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>GLOT-01/A</td> </tr>
+<tr><td> - Malattie respiratorie in età evolutiva</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-18/B</td> </tr>
+<tr><td> - Tecniche audiometriche</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-18/B</td> </tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-otorinolaringoiatriche-neurologiche-e-riabilitative">Scienze otorinolaringoiatriche, neurologiche e riabilitative</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">70</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-12/A MEDS-15/A MEDS-18/A MEDS-19/B MEDS-22/A</td>
+</tr>
+<tr><td> - Diagnostiche per immagini e radioterapia</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-22/A</td> </tr>
+<tr><td> - Malattie del sistema nervoso centrale</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>MEDS-12/A</td> </tr>
+<tr><td> - Malattie del sistema nervoso periferico e neuromuscolari</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-12/A</td> </tr>
+<tr><td> - Medicina fisica e riabilitativa</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-19/B</td> </tr>
+<tr><td> - Neurochirurgia</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-15/A</td> </tr>
+<tr><td> - Oncologia cervico-cefalica</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-18/A</td> </tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/radioprotezione-0">Radioprotezione</a>
+</td>
+<td data-title="Crediti massimi">1</td>
+<td data-title="Ore totali">10</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-22/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-mediche-e-chirurgiche-1-0">Scienze mediche e chirurgiche 1</a>
+</td>
+<td data-title="Crediti massimi">5</td>
+<td data-title="Ore totali">50</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-05/A MEDS-15/B MEDS-16/A MEDS-20/A MEDS-24/C</td>
+</tr>
+<tr><td> - Chirurgia maxillo-facciale</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-15/B</td> </tr>
+<tr><td> - Malattie odontostomatologiche</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-16/A</td> </tr>
+<tr><td> - Medicina interna</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-05/A</td> </tr>
+<tr><td> - Pediatria generale e specialistica</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-20/A</td> </tr>
+<tr><td> - Scienze infermieristiche generali, cliniche e pediatriche</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-24/C</td> </tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-neuropsichiatriche-pedagogiche-e-psicologiche">Scienze neuropsichiatriche, pedagogiche e psicologiche</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">70</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">GLOT-01/A MEDS-11/A MEDS-12/A MEDS-20/B PSIC-01/B PSIC-01/C</td>
+</tr>
+<tr><td> - Neurolinguistica</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>GLOT-01/A</td> </tr>
+<tr><td> - Neuropsichiatria infantile</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>MEDS-20/B</td> </tr>
+<tr><td> - Neuropsicologia dell&#039;età adulta</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>PSIC-01/B</td> </tr>
+<tr><td> - Neuropsicologia dello sviluppo</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-12/A</td> </tr>
+<tr><td> - Psichiatria</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-11/A</td> </tr>
+<tr><td> - Psicometria</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>PSIC-01/C</td> </tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Periodo non definito</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tirocinio-secondo-anno-6">Tirocinio (secondo anno)</a>
+</td>
+<td data-title="Crediti massimi">25</td>
+<td data-title="Ore totali">625</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-26/C</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Regole di composizione</div>
+                                          <div class="ugov-of-pd-year-rules-1"><div>Elettivi - Lo studente, al secondo anno, deve altresì maturare 2 CFU in attività formative a scelta.</div>
+</div>
+                                                            </div>
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000d68of6-D68-0-2" class="tab-pane fade">
+                                  <div class="noteanno">sarà attivato dall&#039;A.A. 2028/2029</div>
+                
+                                                                            <div class="top30 titoletto">annuale</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-logopediche-applicate-2-0">Scienze logopediche applicate 2</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">75</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-26/C</td>
+</tr>
+<tr><td> - Laboratori professionali</td><td>1</td><td>15</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nei disturbi del linguaggio primari</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nei disturbi specifici dell&#039;apprendimento</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nell&#039;afasia</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-logopediche-applicate-3">Scienze logopediche applicate 3</a>
+</td>
+<td data-title="Crediti massimi">9</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-26/C</td>
+</tr>
+<tr><td> - La medicina delle evidenze in logopedia</td><td>2</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Laboratori professionali</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nei disturbi dello spettro autistico</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nei traumi cranici</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nel bilinguismo</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nella disabilità intellettiva</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nella sordità in età adulta</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+<tr><td> - Scienze logopediche nella sordità in età evolutiva</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-26/C</td> </tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-interdisciplinari-0">Scienze interdisciplinari</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDF-01/A MEDS-02/C MEDS-24/A MEDS-25/A PEMM-01/A</td>
+</tr>
+<tr><td> - Foniatria artistica</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>PEMM-01/A</td> </tr>
+<tr><td> - Medicina legale</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-25/A</td> </tr>
+<tr><td> - Metodi e didattiche delle attività motorie</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDF-01/A</td> </tr>
+<tr><td> - Musicoterapia</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>PEMM-01/A</td> </tr>
+<tr><td> - Statistica</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>MEDS-24/A</td> </tr>
+<tr><td> - Storia della Medicina</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-02/C</td> </tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/scienze-mediche-e-chirurgiche-2">Scienze mediche e chirurgiche 2</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-18/A MEDS-18/B</td>
+</tr>
+<tr><td> - Audiologia</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-18/B</td> </tr>
+<tr><td> - Foniatria: disturbi di linguaggio primari e secondari</td><td>2</td><td>20</td><td aria-label="ND" ></td><td>MEDS-18/B</td> </tr>
+<tr><td> - Otologia</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-18/A</td> </tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/fisioterapia-0">Fisioterapia</a>
+</td>
+<td data-title="Crediti massimi">1</td>
+<td data-title="Ore totali">10</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-26/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/psicomotricita-0">Psicomotricità</a>
+</td>
+<td data-title="Crediti massimi">1</td>
+<td data-title="Ore totali">10</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-26/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/sanita-pubblica-2">Sanità pubblica</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">ECON-06/A MEDS-24/B MEDS-25/B PSIC-03/B</td>
+</tr>
+<tr><td> - Economia aziendale</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>ECON-06/A</td> </tr>
+<tr><td> - Igiene generale e applicata</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-24/B</td> </tr>
+<tr><td> - Medicina del lavoro</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>MEDS-25/B</td> </tr>
+<tr><td> - Psicologia della salute</td><td>1</td><td>10</td><td aria-label="ND" ></td><td>PSIC-03/B</td> </tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Periodo non definito</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/prova-finale-47">Prova finale</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tirocinio-terzo-anno-5">Tirocinio (terzo anno)</a>
+</td>
+<td data-title="Crediti massimi">25</td>
+<td data-title="Ore totali">625</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-26/C</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Regole di composizione</div>
+                                          <div class="ugov-of-pd-year-rules-2"><div>Elettivi - Lo studente, al terzo anno, deve altresì maturare 2 CFU in attività formative a scelta.</div>
+</div>
+                                                            </div>
+                
+              </div>
+                      </div>
+        
+        
+        
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Altre informazioni</div>
+    <div class="mobile-tab field-group-tabs-wrapper"><div data-vertical-tabs-panes><input class="vertical-tabs__active-tab" type="hidden" /><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-aiuto-e-orientamento">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-aiuto-e-orientamento--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-aiuto-e-orientamento--content">Aiuto e orientamento</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-aiuto-e-orientamento--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-aiuto-e-orientamento field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_48 js-view-dom-id-34db786ac90529e8360bafe36fcaae52e625d6c7e7843143921ba21eba413c87">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-view"><span class="field-content"><div class="view view-paragrafi view-id-paragrafi view-display-id-block_2 js-view-dom-id-4ec2790b568468c077098235bc6dad35a7b84ed8bf79258640fd3440e45fe87e">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id='parid-16321'  class="paragraph paragraph--type--bp-simple paragraph--view-mode--default paragraph--id--16321">
+  <div class="paragraph__column">
+    
+    
+<div  class="box-content">
+    
+<div  id="imgplace" class="imgplace">
+    <div class="bp-text"><p>Orientamento:</p>
+
+<ul>
+	<li><a href="https://www.unimi.it/it/node/66">Scegliere il corso giusto: i servizi del centro di orientamento di Ateneo</a></li>
+</ul>
+
+<p>Info su ammissioni e immatricolazioni</p>
+
+<ul>
+	<li><a href="https://www.unimi.it/it/node/359/">Contatta le segreterie</a></li>
+	<li><a href="https://informastudenti.unimi.it/saw/ess?AUTH=SAML">Sportello online <strong>InformaStudenti</strong></a></li>
+	<li>Studenti internazionali:<a href="https://www.unimi.it/it/node/352/">&nbsp;welcome desk</a></li>
+	<li><a href="https://www.unimi.it/it/node/35900">Studenti con disabilità</a></li>
+	<li><a href="https://www.unimi.it/it/node/35899">Studenti con DSA</a></li>
+</ul></div>
+  </div>
+  </div>
+  </div>
+</div>
+
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-location">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-location--content" aria-expanded="true" aria-pressed="true" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-location--content">Sede</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-location--content" class="panel-body panel-collapse collapse fade in">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-sedi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_13 js-view-dom-id-27936afbee5f91c1810d3259f743de53f8770ea1f6da58bcc7cea7439bd49caf">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-polo-fisico"><div class="field-content">Milano, Mantova, Bosisio Parini (LC)</div></div><div class="views-field views-field-risorse-didattica"><span class="views-label views-label-risorse-didattica field--label">Sedi didattiche</span><div class="field-content">Le attività didattiche del Corso di Laurea si svolgono principalmente presso il Polo Didattico Vialba dell'Università degli Studi di Milano, c/o presso l'Ospedale Luigi Sacco, via G.B. Grassi 74, Milano. <br>Le attività didattiche a carattere professionalizzante, in coerenza con gli obiettivi formativi professionalizzanti del Corso di Laurea, sono organizzate presso le Sedi della didattica professionalizzante e di tirocinio:<br>1. ASST Fatebenefratelli - Sacco - Presidio Ospedaliero "Luigi Sacco" - Via G.B. Grassi, 74 - Milano (Direttore delle attività didattiche professionalizzanti: Dott. Alessandro Selvagio email: <a href="/cdn-cgi/l/email-protection#5938353c2a2a38373d2b36772a3c352f383e3036192c3730343077302d"><span class="__cf_email__" data-cfemail="3958555c4a4a58575d4b56174a5c554f585e5056794c5750545017504d">[email&#160;protected]</span></a>)<br>2. ASST di Mantova - Ospedale "Carlo Poma" - Strada Largo Paiolo, 10 - Mantova (Direttore delle attività didattiche professionalizzanti: Dott.ssa Elena Sai email: <a href="/cdn-cgi/l/email-protection#b4d1d8d1dad59ac7d5ddf4c1daddd9dd9addc0"><span class="__cf_email__" data-cfemail="62070e070c034c11030b22170c0b0f0b4c0b16">[email&#160;protected]</span></a>);<br>3. IRCCS Eugenio Medea - Associazione La Nostra Famiglia - Via Don Luigi Monza, 20 - Bosisio Parini (LC) (Direttore delle attività didattiche professionalizzanti: Dott.ssa Annalaura Filippo email: <a href="/cdn-cgi/l/email-protection#5938373738773f303530292936192c3730343077302d"><span class="__cf_email__" data-cfemail="1b7a75757a357d7277726b6b745b6e7572767235726f">[email&#160;protected]</span></a>);<br>4. Centro IRCCS "Santa Maria Nascente" - Fondazione "Don Carlo Gnocchi" - Via Capecelatro, 66 - Milano (Direttore delle attività didattiche professionalizzanti: Dott.ssa Alessandra Marin email: <a href="/cdn-cgi/l/email-protection#70111c150303111e1402115e1d1102191e30051e191d195e1904"><span class="__cf_email__" data-cfemail="43222f263030222d2731226d2e22312a2d03362d2a2e2a6d2a37">[email&#160;protected]</span></a>).<br>Il Corso di Laurea, inoltre, ai fini del completamento delle attività pratiche, si riserva di utilizzare ulteriori strutture e istituzioni convenzionate</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-reference-professors-and-c">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-reference-professors-and-c--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-reference-professors-and-c--content">Referenti e contatti</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-reference-professors-and-c--content" class="panel-body panel-collapse collapse fade">
+            
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-presidente-collegio field--type-ds field--label-above">
+    <div class="field--label">Presidente del Collegio didattico</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_33 js-view-dom-id-a686672c66f1b2e3a78aa805faa6b0539afc7257d1c56ccc325e30341fbe6ed1">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/roberta-ottria" hreflang="it">Ottria Roberta</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-riferimenti-1 field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_14 js-view-dom-id-7ae9d9c09193fa1cf7b770bea922b41205ade3611e56a6b55c9ce82b9f2ddb0c">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-orientamento field--type-ds field--label-above">
+    <div class="field--label">Tutor per l'orientamento</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_36 js-view-dom-id-17a5e4db867fd2299859f829f64f97ecc4b830e17c0016d53477362703dba153">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/stefania-carra" hreflang="it">Carra Stefania</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/serena-fornasari" hreflang="it">Fornasari Serena</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content">Marchetti Guerrini Agata</div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/chiara-vitali" hreflang="it">Vitali Chiara</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-erasmus field--type-ds field--label-above">
+    <div class="field--label">Tutor per la mobilità internazionale e l'Erasmus</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_37 js-view-dom-id-02f45bb8bcfe62c43d8b1133ac590cd7fd904e695d9590e509c2833307d292fb">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/serena-mazzucchelli" hreflang="it">Mazzucchelli Serena</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/silvia-piazzalunga" hreflang="it">Piazzalunga Silvia</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-trasferimenti field--type-ds field--label-above">
+    <div class="field--label">Tutor per trasferimenti</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_42 js-view-dom-id-f577b9ce2a59f7bcb919e87a8246cf299c285e58c8dce3621161bca607d1636b">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/roberta-ottria" hreflang="it">Ottria Roberta</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-amm-lauree-magi field--type-ds field--label-above">
+    <div class="field--label">Tutor per ammissioni lauree magistrali</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_43 js-view-dom-id-45f465f2611103cd0c8d839db6326892238a5b7c37207d5b44a091fba4050b0b">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/g-bernardelli" hreflang="it">Bernardelli Giuseppina</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-referente-aq field--type-ds field--label-above">
+    <div class="field--label">Referente AQ del corso di studio</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_35 js-view-dom-id-eebefaf8079a25fa605c505c24b0f01657df915b4131872066625d3d7c4de9f9">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/antonio-schindler" hreflang="it">Schindler Antonio</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-strutture field--type-ds field--label-above">
+    <div class="field--label">Strutture di riferimento</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_16 js-view-dom-id-9dd79e578b6b7940e296a2d9ed5d57b4c68d3682feca50261e628788e83416c1">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-scienze-biomediche-e-cliniche" hreflang="it">Dipartimento di Scienze Biomediche e Cliniche</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-oncologia-ed-emato-oncologia" hreflang="it">Dipartimento di Oncologia ed Emato-Oncologia</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-biotecnologie-mediche-e-medicina-traslazionale" hreflang="it">Dipartimento di Biotecnologie Mediche e Medicina Traslazionale</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-fisiopatologia-medico-chirurgica-e-dei-trapianti" hreflang="it">Dipartimento di Fisiopatologia Medico-Chirurgica e dei Trapianti</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-scienze-biomediche-la-salute" hreflang="it">Dipartimento di Scienze Biomediche per la Salute</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-scienze-biomediche-chirurgiche-ed-odontoiatriche" hreflang="it">Dipartimento di Scienze Biomediche, Chirurgiche ed Odontoiatriche</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-scienze-cliniche-e-di-comunita" hreflang="it">Dipartimento di Scienze Cliniche e di Comunità</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-scienze-della-salute" hreflang="it">Dipartimento di Scienze della Salute</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-riferimenti-2 field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_15 js-view-dom-id-616e6c712712dbd8ffb3bc3c3f734df971458ab66e4959108c6fa7b129be5d38">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div><span class="field--label">Contatti</span><div class="field--type-text-long"><ul><li>Segreteria Didattica Bosisio:<br><a href="/cdn-cgi/l/email-protection#95e6f0f2e7f0e1f0e7fcf4bbf9faf2fae5f0f1fcf4bbf7fae6fce6fcfad5f9f4fbfae6e1e7f4f3f4f8fcf2f9fcf4bbfce1"><span class="__cf_email__" data-cfemail="4f3c2a283d2a3b2a3d262e61232028203f2a2b262e612d203c263c26200f232e21203c3b3d2e292e22262823262e61263b">[email&#160;protected]</span></a></li><li>Segreteria Didattica:<br><a href="/cdn-cgi/l/email-protection#2e4d4a4200424149415e4b4a474f6e5b4047434700475a"><span class="__cf_email__" data-cfemail="5a393e367436353d352a3f3e333b1a2f3433373374332e">[email&#160;protected]</span></a></li></ul></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-bando-scadenze">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-bando-scadenze--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-bando-scadenze--content">Costi e agevolazioni</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-bando-scadenze--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-blocco-action field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_47 js-view-dom-id-b5af73ef45fb8748d410c42129cb950c79d2cc2a1164dc1b3d9afa3f16ef0fef">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-view"><span class="field-content"><div class="view view-paragrafi view-id-paragrafi view-display-id-block_1 js-view-dom-id-838f86a5488282114058d1dc6e44c0b93de9e994577e28bb2c7b9467b183a8f7">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id='parid-11581'  class="paragraph paragraph--type--bp-simple paragraph--view-mode--default paragraph--id--11581">
+  <div class="paragraph__column">
+    
+    
+<div  class="box-content">
+    
+<div  id="imgplace--2" class="imgplace">
+    <div class="bp-text"><p>Le tasse universitarie per gli studenti iscritti ai corsi di laurea, di laurea magistrale e a ciclo unico sono suddivise in due rate:</p><ul><li>la <strong>prima rata</strong> ha importo uguale per tutti e si paga al momento dell’immatricolazione;</li><li>la<strong> seconda rata  </strong>varia in base al valore ISEE Università e al Corso di laurea;</li><li>per gli <strong>studenti internazionali </strong>con redditi e patrimoni all’estero la seconda rata varia in base al Paese di provenienza</li></ul><p><strong>Diritto allo studio e altre agevolazioni&nbsp;</strong>&nbsp;</p><p>L’Ateneo prevede borse di studio, mense, alloggi e altre agevolazioni a favore dei propri studenti con specifici requisiti di merito e condizioni economiche.</p><p><strong>Maggiori informazioni</strong></p></div>
+  </div>
+<div  class="correlati-content top20">
+    
+<ul>        <li class="bp-link odd first"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare">Come e quanto pagare</a></li>      <li class="bp-link even first"><a href="/it/studiare/borse-premi-mense-e-alloggi">Borse, premi, mense e alloggi </a></li>      <li class="bp-link odd first"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare/esonero-tasse">Esonero tasse</a></li>        <li class="bp-link even first last"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare/iscrizioni-tempo-parziale">Iscrizioni a tempo parziale</a></li></ul>
+
+  </div>
+  </div>
+  </div>
+</div>
+
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+</div>
+</div>
+  </div>
+  </div>
+  
+  
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    
+<div  class="paragraph--type--bp-links box-fullbg riquadro bottom40">
+  <div class="bp-title">Documenti ufficiali</div>
+          <div  class="top10">
+        
+            <div  class="top0">
+                  <div class="media media--type-file media--view-mode-default ds-1col clearfix">
+
+  
+
+        <span  class="file-link">
+        
+            <span class="file file--mime-application-pdf file--application-pdf icon-before"><span class="file-icon" aria-hidden="true"><span class="far fa-file"></span></span><span class="file-link"><a href="https://www.unimi.it/sites/default/files/2024-09/D68%20-%20L-SNT2%20Logopedia%20%282024%29.pdf" type="application/pdf; length=269212" title="D68 - L-SNT2 Logopedia (2024).pdf [262.9 KB] - the file opens in new window" target="_blank">Regolamento didattico</a></span></span>
+      
+  
+    </span>
+
+
+
+</div>
+
+
+      
+      </div>
+  
+    </div>
+
+
+  </div><div class="accordion top40 bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--11">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--11--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--11--content">Altre offerte</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--11--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-elenco-cdsi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi view-id-w4_cdsi view-display-id-block_12 js-view-dom-id-43202a15f03ea353a1e13c1c986d921b4642669b7484e1f1bbcaa4410b10b06c">
+  
+    
+      
+      <div class="view-content">
+          <div class="area-"><div class="view view-w4-cdsi view-id-w4_cdsi view-display-id-block_11 js-view-dom-id-39b28f532afd07ec3828ac758be0ff65a1e34444ad41ac325a4430c0a8b16dbf">
+  
+    
+      
+      <div class="view-content">
+        <h3>A.A. 2026/2027</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2026/2027/logopedia-classe-l/snt2-immatricolati-dallanno-accademico-2026/2027" hreflang="it">Logopedia (Classe L/SNT2)-immatricolati dall&#039;anno accademico 2026/2027</a> [D68of6 2027]</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2026/2027/logopedia-classe-l/snt2-immatricolati-dallanno-accademico-2024/2025" hreflang="it">Logopedia (Classe L/SNT2)-immatricolati dall&#039;anno accademico 2024/2025</a> [D68of5 2027]</span></div></div>
+  <h3>A.A. 2025/2026</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2025/2026/logopedia-classe-l/snt2-immatricolati-dallanno-accademico-2024-25" hreflang="it">Logopedia (Classe L/SNT2)-immatricolati dall&#039;anno accademico 2024-25</a> [D68of5 2026]</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2025/2026/logopedia-classe-l/snt2-immatricolati-dallanno-accademico-2020/21-allanno-accademico-2023-24" hreflang="it">Logopedia (Classe L/SNT2)-immatricolati dall&#039;anno accademico 2020/21 all&#039;anno accademico 2023-24</a> [D68of4 2026]</span></div></div>
+  <h3>A.A. 2024/2025</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2024/2025/logopedia-classe-l/snt2-immatricolati-dallanno-accademico-2024-25" hreflang="it">Logopedia (Classe L/SNT2)-immatricolati dall&#039;anno accademico 2024-25</a> [D68of5 2025]</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2024/2025/logopedia-classe-l/snt2-immatricolati-dallanno-accademico-2020/21-allanno-accademico-2023-24" hreflang="it">Logopedia (Classe L/SNT2)-immatricolati dall&#039;anno accademico 2020/21 all&#039;anno accademico 2023-24</a> [D68of4 2025]</span></div></div>
+  <h3>A.A. 2023/2024</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2023/2024/logopedia-classe-l/snt2-immatricolati-dallanno-accademico-2020/21" hreflang="it">Logopedia (Classe L/SNT2)-immatricolati dall&#039;anno accademico 2020/21</a> [D68of4 2024]</span></div></div>
+  <h3>A.A. 2022/2023</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2022/2023/logopedia-classe-l/snt2-immatricolati-dallanno-accademico-2020/21" hreflang="it">Logopedia (Classe L/SNT2)-immatricolati dall&#039;anno accademico 2020/21</a> [D68of4 2023]</span></div></div>
+  <h3>A.A. 2021/2022</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2021/2022/logopedia-classe-l/snt2-immatricolati-dallanno-accademico-2020/21" hreflang="it">Logopedia (Classe L/SNT2)-immatricolati dall&#039;anno accademico 2020/21</a> [D68of4 2022]</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2021/2022/logopedia-classe-l/snt2-immatricolati-dallanno-accademico-2016/17-allanno-accademico-2019/20" hreflang="it">Logopedia (Classe L/SNT2)-immatricolati dall&#039;anno accademico 2016/17 all&#039;anno accademico 2019/20</a> [D68of3 2022]</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+
+  </div>
+  
+</div>
+
+
+<section id="block-cookiesui" class="block block-cookies block-cookies-ui-block clearfix">
+  
+    
+
+        
+<div id="cookiesjsr"></div>
+
+  </section>
+
+
+  </div>
+
+              </section>
+
+                </div>
+  </div>
+
+      <footer class="footer full-width">
+      <div class="container">
+          <div class="region region-footer">
+    <nav role="navigation" aria-labelledby="block-piedipagina-menu" id="block-piedipagina" class="col-sm-3 top10">
+      
+  <h2 id="block-piedipagina-menu">Strutture</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/corsi/facolta-e-scuole" data-drupal-link-system-path="node/710">Facoltà e scuole</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/dipartimenti" title="Tutti i dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/uffici-e-strutture" data-drupal-link-system-path="node/1218">Uffici</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-3-menu" id="block-piedipagina-3" class="col-sm-3 block-servizi top10">
+      
+  <h2 id="block-piedipagina-3-menu">Servizi</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/biblioteche" data-drupal-link-system-path="node/464">Servizio bibliotecario</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-studenti-con-disabilita" title="Servizi di orientamento, accoglienza, supporto allo studio e alla mobilità" data-drupal-link-system-path="node/35900">Servizi per studenti con disabilità</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-studenti-con-dsa" title="Servizi per studenti con Disturbi Specifici dell&#039;Apprendimento" data-drupal-link-system-path="node/35899">Servizi per studenti con DSA</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-tecnologici-e-online" data-drupal-link-system-path="node/393">Servizi tecnologici</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-4-menu" id="block-piedipagina-4" class="col-sm-3 top10">
+      
+  <h2 id="block-piedipagina-4-menu">Concorsi, selezioni e gare</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-professori" data-drupal-link-system-path="node/577">Professori </a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-ricercatori" data-drupal-link-system-path="node/12942">Ricercatori</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-personale-tecnico-amministrativo" title="Bandi PTAB" data-drupal-link-system-path="node/576">Tecnici amministrativi e bibliotecari</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/consulenze-e-collaborazioni" data-drupal-link-system-path="node/500">Consulenze e collaborazioni</a>
+              </li>
+                      <li>
+                                        <a href="/it/ricerca/fare-ricerca-da-noi/incarichi-di-ricerca/bandi-incarichi-di-ricerca" title="Bandi incarichi di ricerca" data-drupal-link-system-path="node/53011">Incarichi di ricerca</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/bandi-di-gare-e-contratti" title="Bandi di gara e contratti" data-drupal-link-system-path="node/1227">Gare e contratti</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-2-menu" id="block-piedipagina-2" class="col-sm-3 buttonlist block-comefareper">
+            
+  <h2 class="visually-hidden" id="block-piedipagina-2-menu">Come fare per</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/corsi/orientarsi-e-scegliere" data-drupal-link-system-path="node/727">Orientarsi e scegliere</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contattare l&#039;Università</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti/fai-sentire-la-tua-voce" title="Fai sentire la tua voce" data-drupal-link-system-path="node/54275">Fai sentire la tua voce</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/fundraising" data-drupal-link-system-path="node/1223">Fundraising</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/studiare/vivere-luniversita/unimi-store-il-merchandising-delluniversita-degli-studi-di-milano" title="Unimi Store" data-drupal-link-system-path="node/45180">Unimi Store</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-5-menu" id="block-piedipagina-5" class="col-sm-12 col-md-12 col-lg-12 links_list_inline block-menu-footer">
+            
+  <h2 class="visually-hidden" id="block-piedipagina-5-menu">footer</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/ateneo/amministrazione-trasparente" data-drupal-link-system-path="node/12893">Amministrazione trasparente</a>
+              </li>
+                      <li>
+                                        <a href="https://form.agid.gov.it/view/b6345040-993a-11f0-b789-d70c35e61f53" title="Dichiarazione di accessibilità">Dichiarazione di accessibilità</a>
+              </li>
+                      <li>
+                                        <a href="/it/privacy-e-cookie" data-drupal-link-system-path="node/7393">Privacy e cookie</a>
+              </li>
+                      <li>
+                                        <a href="#editCookieSettings">Cookie settings</a>
+              </li>
+                      <li>
+                                        <a href="/it/note-legali" data-drupal-link-system-path="node/7394">Note legali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/sitemap" data-drupal-link-system-path="sitemap">Mappa del sito</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-footertext" class="col-sm-4 col-lg-3 block-footertext block block-block-content block-block-content5af82d4a-b448-4107-a29a-5bfa144da5b5 clearfix">
+  
+    
+
+      
+  <div class="field field--name-field-testo field--type-text-long field--label-visually_hidden">
+    <div class="field--label sr-only">Testo</div>
+              <div class="field--item"><p>Università degli Studi di Milano<br>
+Via Festa del Perdono 7 - 20122 Milano<br>
+<a href="tel:+390250325032">Tel: +39 02 5032 5032</a><br>
+<a href="https://informastudenti.unimi.it/saw/ess?AUTH=SAML">InformaStudenti</a><br>
+<a href="/posta-elettronica-certificata-pec">Posta Elettronica Certificata</a><br>
+C.F. 80012650158 - P.I. 03064870151<br>
+<a href="https://www.registrolei.it/leicert/?lei=9845000B7798E81BEB72">Codice LEI</a><br>
+©Copyright 2025</p></div>
+          </div>
+
+  </section>
+
+<nav role="navigation" aria-labelledby="block-social-menu" id="block-social" class="col-sm-5 col-lg-6 links_list_inline block-social">
+            
+  <h2 class="visually-hidden" id="block-social-menu">social</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="https://lastatalenews.unimi.it/" title="News">News</a>
+              </li>
+                      <li>
+                                        <a href="https://video.unimi.it/" title="PortaleVideo">PortaleVideo</a>
+              </li>
+                      <li>
+                                        <a href="https://www.facebook.com/laStatale/" title="facebook">facebook</a>
+              </li>
+                      <li>
+                                        <a href="https://www.instagram.com/lastatale_milano_official/" title="Instagram">Instagram</a>
+              </li>
+                      <li>
+                                        <a href="http://twitter.com/LaStatale" title="twitter">twitter</a>
+              </li>
+                      <li>
+                                        <a href="https://www.youtube.com/user/UnimiVideo" title="youtube">youtube</a>
+              </li>
+                      <li>
+                                        <a href="https://www.linkedin.com/school/university-of-milan" title="linkedin">linkedin</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.spreaker.com/user/16503036" title="LaStatale podcast">LaStatale podcast</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-logofooter" class="col-sm-3 col-lg-3 block-logofooter block block-block-content block-block-content2c04e5b1-54ed-4593-a8b3-db0218705c4d clearfix">
+  
+    
+
+      
+  <div class="field field--name-field-logo field--type-entity-reference field--label-visually_hidden">
+    <div class="field--label sr-only">Logo</div>
+              <div class="field--item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+          
+              <img loading="lazy" src="/sites/default/files/2019-05/LogoFooter_a9f0c3692bf29c71609e5f204522c5d4_0.png" width="488" height="164" alt="Università degli Studi di Milano" class="img-responsive rs_skip" />
+
+
+      
+  
+
+
+    </div>
+  </div>
+
+</div>
+          </div>
+
+  </section>
+
+
+  </div>
+
+      </div>
+    </footer>
+  
+
+
+  </div>
+
+    
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/sites/default/files/js/js_Hfl5TWGPoiw8m71d7OKJb2ZY2E6075w3f6a1Dy-5PaI.js?scope=footer&amp;delta=0&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="https://cdn.jsdelivr.net/gh/jfeltkamp/cookiesjsr@1/dist/cookiesjsr-preloader.min.js" defer></script>
+<script src="/sites/default/files/js/js_ZsyWzDxLX0OwMesgXZHsDeMoCWZl-EQtw1NZwgt5HiM.js?scope=footer&amp;delta=2&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="/modules/contrib/google_tag/js/gtag.ajax.js?tlncrt" type="text/plain" id="cookies_gtag_gtag_ajax" data-cookieconsent="gtag"></script>
+<script src="/sites/default/files/js/js_DRmM7Xhr9JVeKzDdk7xyocoDB_WQpxS0ChAS0Ix3iuU.js?scope=footer&amp;delta=4&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"55deaaaf42984e8db8c703ed1c4d39a5","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

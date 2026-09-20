@@ -1,0 +1,2864 @@
+<!DOCTYPE html>
+<html  lang="it" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.unimi.it/it/corsi/laurea-magistrale/scienze-e-tecnologie-alimentari-magistrale" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="unimi-published" content="2019/02/27" />
+<meta name="unimi-last-modified" content="2026/03/31" />
+<link rel="icon" href="/sites/default/files/favicon_0_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="it" href="https://www.unimi.it/it/corsi/laurea-magistrale/scienze-e-tecnologie-alimentari-magistrale" />
+<link rel="alternate" hreflang="en" href="https://www.unimi.it/en/education/master-programme/food-science-and-technology-master" />
+
+    <title>Scienze e tecnologie alimentari - magistrale | Università degli Studi di Milano Statale</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_ypd-FuAFnkm6TvFwpk_wsW3XFyhEw35mMoWt9mpQf_Y.css?delta=0&amp;language=it&amp;theme=unimi&amp;include=eJyVUtFuwyAM_CEaPikywUm8GowwpM2-fknL2m6alO4FfOeTjfE5hs_VOlA0TqRoyZD6BBmmLZjVPsjTkzSDyJlQbbs7Jveb-9DcaVkZd3VG63NNwB18wNWMEgtcUCWgfYm7C7odaucyRK_HuqFqkXCs81WKRDwWZpwqQz4W6gw5MU1zeVP7v8oqTP4N7XuyMlM05DC71OO1_LnT05YwDKvU0nvSQRbMq90-bRA2L35oe3wyXY2pOiad0Zs6ydLLaCcWB3yHiX_AXF2mAR4cFwoYq5VxHCAusE01AOP24kdKzxS3NhTI3M7nAA03zzV0G7rF9y6n3YkUp0Z-FzYL5N35fUBPsFUJQaJZCC9qb2cXxFfGL_u1PmI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_xsPH_WNFWXqnuxvebu8bjQC9oVmJ2c_0_aVIEFBeeZw.css?delta=1&amp;language=it&amp;theme=unimi&amp;include=eJyVUtFuwyAM_CEaPikywUm8GowwpM2-fknL2m6alO4FfOeTjfE5hs_VOlA0TqRoyZD6BBmmLZjVPsjTkzSDyJlQbbs7Jveb-9DcaVkZd3VG63NNwB18wNWMEgtcUCWgfYm7C7odaucyRK_HuqFqkXCs81WKRDwWZpwqQz4W6gw5MU1zeVP7v8oqTP4N7XuyMlM05DC71OO1_LnT05YwDKvU0nvSQRbMq90-bRA2L35oe3wyXY2pOiad0Zs6ydLLaCcWB3yHiX_AXF2mAR4cFwoYq5VxHCAusE01AOP24kdKzxS3NhTI3M7nAA03zzV0G7rF9y6n3YkUp0Z-FzYL5N35fUBPsFUJQaJZCC9qb2cXxFfGL_u1PmI" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"it\/","currentPath":"node\/13178","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"it"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyVU9GSgyAM_CEqn-QEiZgrECaAPe_rD1tP7c3NtPeC2c0GQlyMh69FG-IOPuBTGeaSi0DSe9QnwZ4ilVMyceIZ5cQUZl8oqVMZCLgWTPnY63KQamC-Ema9fT-ydIONf9G5LB73gn4kX1D0M9yzDjRE8Euh4ShxBZxel8YIais1ge8G9h5SxieyXauVgr8UMFmNHAvcMHNAfYq7G5oV5s4IRPuGbqi5cHits5ULR3wtFHTVg7wW5gkkeXJTeVP7v50ze7JvaN-TlYmicszOY7__s1_44dQnMigyKCb1-Fn-dNulJZSHhWvpLeVhde-i26CbB9TJqZsJDqarMVXjKU9oVXU89zxq59mAf8Dkn6BUI80-O9ceRcBYdTtfIB94gmCquGbcneJxHCDO0IbV_IdtEHsqXym2TiiQuq8aUjtlomp_iP3SG96cv6H7cLf40dllfVQU3UamNhuUXjDTF26cINicEK5rk3fmp58N3oD6AM3WrGYQAxn7gJagHR4CRzUT3rK-r49_diYC2-rxG3y5xq8","theme":"unimi","theme_token":null},"ajaxTrustedUrl":[],"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"google\nnonGooglePixels\nnonGoogleScripts\nnonGoogleIframes","blocklist_classes":"customScripts\ncustomPixels","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-PNWRPR"]},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"600","tooltip_html":1,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"cookies":{"cookiesjsr":{"config":{"cookie":{"name":"cookiesjsr","expires":15552000000,"domain":"","sameSite":"Lax","secure":false},"library":{"libBasePath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist","libPath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist\/cookiesjsr.min.js","scrollLimit":0},"callback":{"method":"post","url":"\/it\/cookies\/consent\/callback.json","headers":[]},"interface":{"openSettingsHash":"#editCookieSettings","showDenyAll":true,"denyAllOnLayerClose":false,"settingsAsLink":false,"availableLangs":["it","en"],"defaultLang":"it","groupConsent":false,"cookieDocs":true}},"services":{"functional":{"id":"functional","services":[{"key":"functional","type":"functional","name":"Required functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EDefault expiration time\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EDescription\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 month\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EIf you are logged in to this website, a session cookie is required to identify and connect your browser to your user account in the server backend of this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 year\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWhen you visited this website for the first time, you were asked for your permission to use several services (including those from third parties) that require data to be saved in your browser (cookies, local storage). Your decisions about each service (allow, deny) are stored in this cookie and are reused each time you visit this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"full_html"},"uri":"","needConsent":false}],"weight":1},"tracking":{"id":"tracking","services":[{"key":"analytics","type":"tracking","name":"Google Analytics","info":{"value":"","format":"full_html"},"uri":"","needConsent":true},{"key":"matomo","type":"tracking","name":"Matomo","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"new_relic","type":"tracking","name":"New Relic","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true}],"weight":10},"performance":{"id":"performance","services":[{"key":"gtag","type":"performance","name":"Google Tag Manager","info":{"value":"","format":"full_html"},"uri":"","needConsent":true},{"key":"infogram_","type":"performance","name":"Infogram ","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"microsoft_power_bi","type":"performance","name":"Microsoft Power BI","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"openstreetmap","type":"performance","name":"OpenStreetMap","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true}],"weight":30},"video":{"id":"video","services":[{"key":"video","type":"video","name":"Video forniti da YouTube, Vimeo","info":{"value":"","format":"full_html"},"uri":"","needConsent":true}],"weight":40}},"translation":{"_core":{"default_config_hash":"C8aQz-3d6YpwuU4QQc1iaWHb3RDkc_C9qcEsgR7HR74"},"langcode":"it","bannerText":"Questo sito utilizza cookie tecnici e di profilazione, propri e di terze parti, per garantire la corretta navigazione, analizzare il traffico e misurare l\u0027efficacia delle attivit\u00e0 di comunicazione istituzionale.\r\nSe prosegui la navigazione o clicchi su \u0022Accetta tutti\u0022 ne acconsenti l\u0027utilizzo, oppure puoi personalizzare la scelta salvando le tue preferenze e scegliendo quali cookie attivare.\r\nPer maggiori informazioni e per sapere come gestirli clicca sul bottone \u0022Impostazione dei cookie\u0022.","privacyPolicy":"Privacy policy","privacyUri":"https:\/\/www.unimi.it\/it\/ateneo\/normative\/privacy","imprint":"Imprint","imprintUri":"","cookieDocs":"Documentazione cookie","cookieDocsUri":"https:\/\/www.unimi.it\/it\/privacy-e-cookie","officialWebsite":"Official website","denyAll":"Rifiuta tutti","alwaysActive":"Sempre Attivo","settings":"Impostazione dei cookie","acceptAll":"Accetta tutti","requiredCookies":"Cookie necessari","cookieSettings":"Impostazione dei cookie","close":"Chiudi","readMore":"Leggi tutto","allowed":"","denied":"negato","settingsAllServices":"Impostazioni per tutti i servizi di cookie","saveSettings":"Salva le impostazioni","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Azienda","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies","functional":{"title":"Functional","details":"I cookie sono piccoli file di testo che il Sito invia al terminale dell\u0027utente, dove sono memorizzati per poi essere ritrasmessi al sito alla visita successiva."},"tracking":{"title":"Cookie di tracciamento","details":"L\u0027utilizzo dei cookie di tracciamento in forma anonima consente la raccolta dei dati in merito alla navigazione delle pagine di questo sito web. In questa maniera ci aiuti a migliorare l\u0027esperienza utente del sito web."},"performance":{"title":"Cookie di prestazione","details":"Utilizziamo alcune funzionalit\u00e0 fornite da altre organizzazioni (\u201cTerze parti\u201d) per migliorare l\u2019esperienza di navigazione degli utenti."},"video":{"title":"Video","details":"I servizi di condivisione video aiutano il sito ad essere maggiormente fruibile e aumentano la visibilit\u00e0."}}},"cookiesTexts":{"_core":{"default_config_hash":"C8aQz-3d6YpwuU4QQc1iaWHb3RDkc_C9qcEsgR7HR74"},"langcode":"it","bannerText":"Questo sito utilizza cookie tecnici e di profilazione, propri e di terze parti, per garantire la corretta navigazione, analizzare il traffico e misurare l\u0027efficacia delle attivit\u00e0 di comunicazione istituzionale.\r\nSe prosegui la navigazione o clicchi su \u0022Accetta tutti\u0022 ne acconsenti l\u0027utilizzo, oppure puoi personalizzare la scelta salvando le tue preferenze e scegliendo quali cookie attivare.\r\nPer maggiori informazioni e per sapere come gestirli clicca sul bottone \u0022Impostazione dei cookie\u0022.","privacyPolicy":"Privacy policy","privacyUri":"https:\/\/www.unimi.it\/it\/ateneo\/normative\/privacy","imprint":"Imprint","imprintUri":"","cookieDocs":"Documentazione cookie","cookieDocsUri":"https:\/\/www.unimi.it\/it\/privacy-e-cookie","officialWebsite":"Official website","denyAll":"Rifiuta tutti","alwaysActive":"Sempre Attivo","settings":"Impostazione dei cookie","acceptAll":"Accetta tutti","requiredCookies":"Cookie necessari","cookieSettings":"Impostazione dei cookie","close":"Chiudi","readMore":"Leggi tutto","allowed":"","denied":"negato","settingsAllServices":"Impostazioni per tutti i servizi di cookie","saveSettings":"Salva le impostazioni","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Azienda","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies"},"services":{"analytics":{"uuid":"f3111266-83e7-4afa-a238-ed86f09a383f","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_ga"]}},"_core":{"default_config_hash":"aYbFdFXbVPCH9Lp3OmPtEGUPT48_WuWxK8pzqzYTUj4"},"id":"analytics","label":"Google Analytics","group":"tracking","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because google analytics cookies have not been accepted.","placeholderAcceptText":"Only accept google analytics cookies"},"functional":{"uuid":"3577cc4e-e48a-43c0-9a0a-6c5c097f09dc","langcode":"it","status":true,"dependencies":[],"id":"functional","label":"Required functional","group":"functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EDefault expiration time\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EDescription\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 month\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EIf you are logged in to this website, a session cookie is required to identify and connect your browser to your user account in the server backend of this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 year\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWhen you visited this website for the first time, you were asked for your permission to use several services (including those from third parties) that require data to be saved in your browser (cookies, local storage). Your decisions about each service (allow, deny) are stored in this cookie and are reused each time you visit this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"full_html"},"consentRequired":false,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because required functional cookies have not been accepted.","placeholderAcceptText":"Only accept required functional cookies"},"gtag":{"uuid":"f66d5e9f-4da7-485e-a2f9-681a9a191055","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_gtag"]}},"_core":{"default_config_hash":"IyQS406QuLa6fAnbDgux4OI6Y6fsu_-J_bZDtoXExEI"},"id":"gtag","label":"Google Tag Manager","group":"performance","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because google tag manager cookies have not been accepted.","placeholderAcceptText":"Only accept google tag manager cookies"},"infogram_":{"uuid":"61dcc425-a844-42ac-addd-23c732c62ad0","langcode":"it","status":true,"dependencies":[],"id":"infogram_","label":"Infogram ","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because infogram cookies have not been accepted.","placeholderAcceptText":"Only accept infogram cookies"},"matomo":{"uuid":"85f1ecf7-421a-477e-98b7-d50f58d1c438","langcode":"it","status":true,"dependencies":[],"id":"matomo","label":"Matomo","group":"tracking","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because matomo cookies have not been accepted.","placeholderAcceptText":"Only accept matomo cookies"},"microsoft_power_bi":{"uuid":"679e34c7-74da-41be-99a6-9c22797f79d8","langcode":"it","status":true,"dependencies":[],"id":"microsoft_power_bi","label":"Microsoft Power BI","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because microsoft power bi cookies have not been accepted.","placeholderAcceptText":"Only accept microsoft power bi cookies"},"new_relic":{"uuid":"11e38e83-5876-442d-922e-6d38b5f10186","langcode":"it","status":true,"dependencies":[],"id":"new_relic","label":"New Relic","group":"tracking","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because new relic cookies have not been accepted.","placeholderAcceptText":"Only accept new relic cookies"},"openstreetmap":{"uuid":"c35ea00a-d2aa-40f8-ac35-322bc97b8083","langcode":"it","status":true,"dependencies":[],"id":"openstreetmap","label":"OpenStreetMap","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because openstreetmap cookies have not been accepted.","placeholderAcceptText":"Only accept openstreetmap cookies"},"video":{"uuid":"681f159c-953b-4040-a53e-bb8a387ad23c","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_video"]}},"_core":{"default_config_hash":"MJL9EOZszmZMiNnJZL1uau0Vw_-w5cJON2cTornaww8"},"id":"video","label":"Video forniti da YouTube, Vimeo","group":"video","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because video forniti da youtube, vimeo cookies have not been accepted.","placeholderAcceptText":"Only accept video forniti da youtube, vimeo cookies"}},"groups":{"functional":{"uuid":"5b1c3951-fa37-4ef2-9212-6ed624800116","langcode":"it","status":true,"dependencies":[],"id":"functional","label":"Functional","weight":1,"title":"Functional","details":"I cookie sono piccoli file di testo che il Sito invia al terminale dell\u0027utente, dove sono memorizzati per poi essere ritrasmessi al sito alla visita successiva."},"performance":{"uuid":"c9fc9322-3cc7-4402-8226-f517fab0cff4","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"Jv3uIJviBj7D282Qu1ZpEQwuOEb3lCcDvx-XVHeOJpw"},"id":"performance","label":"Performance","weight":30,"title":"Cookie di prestazione","details":"Utilizziamo alcune funzionalit\u00e0 fornite da altre organizzazioni (\u201cTerze parti\u201d) per migliorare l\u2019esperienza di navigazione degli utenti."},"social":{"uuid":"18c2516e-81d5-4b3e-944c-80ccf4699353","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"vog2tbqqQHjVkue0anA0RwlzvOTPNTvP7_JjJxRMVAQ"},"id":"social","label":"Social Plugins","weight":20,"title":"Social Plugins","details":"Comments managers facilitate the filing of comments and fight against spam."},"tracking":{"uuid":"86841c59-0daf-4a3d-9f00-0c470616422e","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"_gYDe3qoEc6L5uYR6zhu5V-3ARLlyis9gl1diq7Tnf4"},"id":"tracking","label":"Tracking","weight":10,"title":"Cookie di tracciamento","details":"L\u0027utilizzo dei cookie di tracciamento in forma anonima consente la raccolta dei dati in merito alla navigazione delle pagine di questo sito web. In questa maniera ci aiuti a migliorare l\u0027esperienza utente del sito web."},"video":{"uuid":"2b75a78d-1d81-4d17-8090-5d4c38d2d624","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"w1WnCmP2Xfgx24xbx5u9T27XLF_ZFw5R0MlO-eDDPpQ"},"id":"video","label":"Video","weight":40,"title":"Video","details":"I servizi di condivisione video aiutano il sito ad essere maggiormente fruibile e aumentano la visibilit\u00e0."}}},"field_group":{"details":{"mode":"full","context":"view","settings":{"classes":"bottom0","id":"","open":false,"description":""}},"html_element":{"mode":"default","context":"view","settings":{"classes":"imgplace","id":"imgplace","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast","show_empty_fields":false}},"tabs":{"mode":"full","context":"view","settings":{"classes":"mobile-tab","id":"","direction":"vertical","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","effect":"none","speed":"fast","attributes":""}},"tab":{"mode":"full","context":"view","settings":{"classes":"","id":"","formatter":"closed","description":"","direction":"vertical","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","effect":"none","speed":"fast","attributes":"","show_empty_fields":false}}},"views":{"ajax_path":"\/it\/views\/ajax","ajaxViews":{"views_dom_id:5a7a79d336639601b30a8f01909bc2f6b331d4595281060c7810643ed240c1d7":{"view_name":"w4_cdsi","view_display_id":"block_12","view_args":"13178","view_path":"\/node\/13178","view_base_path":"docenticdl","view_dom_id":"5a7a79d336639601b30a8f01909bc2f6b331d4595281060c7810643ed240c1d7","pager_element":0},"views_dom_id:4c3b554cd7ed3bbf950c59269891f4aff80d6dcdcf484cccd0fb0ba1971e9e41":{"view_name":"w4_cdsi","view_display_id":"block_11","view_args":"GBB+G60","view_path":"\/node\/13178","view_base_path":"docenticdl","view_dom_id":"4c3b554cd7ed3bbf950c59269891f4aff80d6dcdcf484cccd0fb0ba1971e9e41","pager_element":0}}},"widthBreakpoint":640,"ultimenu":{"canvasOff":"#header","canvasOn":"#main-wrapper, .featured-top, .site-footer"},"user":{"uid":0,"permissionsHash":"0f3fc343222685b393a24eba61ac8d525b4adefbc0f573776a36a876db18dc99"}}</script>
+<script src="/sites/default/files/js/js_iNnXVIv9c8NqPVT6Cdf6-HiO9Ziqf8lvk0gxIFyJlhQ.js?scope=header&amp;delta=0&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="/modules/contrib/cookies/js/cookiesjsr.conf.js?v=10.5.1" defer></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?tlncrt" type="text/plain" id="cookies_gtag_gtag" data-cookieconsent="gtag"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?tlncrt" type="text/plain" id="cookies_gtag_gtm" data-cookieconsent="gtag"></script>
+
+  </head>
+  <body class="is-ultimenu-canvas is-ultimenu-canvas--hover site-default path-node page-node-type-cdl-scheda has-glyphicons">
+    <div role="navigation">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Salta al contenuto principale
+    </a>
+    </div>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNWRPR"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+              <header class="navbar navbar-default container" id="navbar">
+            <div class="navbar-header-top full-width">
+         <div class="topnavbar container">
+            <div class="region region-navigation-top">
+    <section class="language-switcher-language-url block block-language block-language-blocklanguage-interface clearfix" id="block-languageswitcher" role="navigation">
+  
+      <h2 class="block-title">Language switcher</h2>
+    
+
+      <ul class="links"><li hreflang="it" data-drupal-link-system-path="node/13178" class="it is-active" aria-current="page"><a href="/it/corsi/laurea-magistrale/scienze-e-tecnologie-alimentari-magistrale" class="language-link is-active" aria-label="Lingua Italiana" title="Italiano" hreflang="it" data-drupal-link-system-path="node/13178" aria-current="page">ITA</a></li><li hreflang="en" data-drupal-link-system-path="node/13178" class="en"><a href="/en/education/master-programme/food-science-and-technology-master" class="language-link" aria-label="English language" title="English" hreflang="en" data-drupal-link-system-path="node/13178">ENG</a></li></ul>
+  </section>
+
+<nav role="navigation" aria-labelledby="block-unimi-profili-menu" id="block-unimi-profili" class="navbar-profili menu_right hidden-xs hidden-sm">
+            
+  <h2 class="visually-hidden" id="block-unimi-profili-menu">Profili</h2>
+  
+
+        
+      <ul class="menu menu--profili nav">
+                      <li class="first">
+                                        <a href="https://unimia.unimi.it/">Unimia</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie</a>
+              </li>
+                      <li>
+                                        <a href="https://ariel.unimi.it/" title="Portale elearning">Ariel</a>
+              </li>
+                      <li>
+                                        <a href="https://sba.unimi.it/" title="Biblioteche">Biblioteche</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e dove</a>
+              </li>
+                      <li>
+                                        <a href="https://mail.unimi.it/">Webmail</a>
+              </li>
+                      <li>
+                                        <a href="https://work.unimi.it">laStatale@work</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Info per <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/taxonomy/term/10" data-drupal-link-system-path="taxonomy/term/10">Futuri studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/11" data-drupal-link-system-path="taxonomy/term/11">Studenti iscritti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/12" data-drupal-link-system-path="taxonomy/term/12">Laureati</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/8" data-drupal-link-system-path="taxonomy/term/8">Dottorandi</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/13" data-drupal-link-system-path="taxonomy/term/13">Studenti internazionali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/taxonomy/term/9" data-drupal-link-system-path="taxonomy/term/9">Enti e aziende</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="https://lastatalenews.unimi.it/" title="statale news">LaStataleNews</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/sostenere-la-statale/cinque-mille?clickOrigin=menu" title="5x1000" data-drupal-link-query="{&quot;clickOrigin&quot;:&quot;menu&quot;}" data-drupal-link-system-path="node/1229">5x1000</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+         </div>
+     </div>
+      <div class="navbar-header">
+          <div class="region region-navigation">
+          <a class="logo navbar-btn pull-left" href="/it" title="Home" rel="home">
+      <img src="/themes/custom/unimi/img/LogoHeader.svg" alt="Home" />
+    </a>
+      <section id="block-ultimenumainnavigation" class="hidden-xs hidden-sm block block-ultimenu block-ultimenu-blockultimenu-main clearfix">
+  
+    
+
+      
+<ul id="ultimenu-main" data-ultimenu="main" class="ultimenu ultimenu--hover ultimenu-- ultimenu--htb ultimenu--horizontal unimi"><li class="ultimenu__item uitem uitem--corsi uitem--b550ac76 uitem--1"><a href="/it/corsi" data-drupal-link-system-path="node/7725" title="" class="ultimenu__link">Corsi</a></li><li class="ultimenu__item uitem uitem--studiare uitem--3e1f0e09 uitem--2"><a href="/it/studiare" data-drupal-link-system-path="node/7726" title="" class="ultimenu__link">Studiare</a></li><li class="ultimenu__item uitem uitem--ricerca uitem--133224dc uitem--3"><a href="/it/ricerca" data-drupal-link-system-path="node/7727" title="" class="ultimenu__link">Ricerca</a></li><li class="ultimenu__item uitem uitem--terza-missione uitem--8391b5f2 uitem--4"><a href="/it/terza-missione" data-drupal-link-system-path="node/38988" title="" class="ultimenu__link">Terza missione</a></li><li class="ultimenu__item uitem uitem--ateneo uitem--ca313063 uitem--5"><a href="/it/ateneo" data-drupal-link-system-path="node/7728" title="" class="ultimenu__link">Ateneo</a></li><li class="ultimenu__item uitem uitem--internazionale uitem--d93d43c5 uitem--6"><a href="/it/internazionale" data-drupal-link-system-path="node/7729" title="" class="ultimenu__link">Internazionale</a></li><li class="ultimenu__item uitem uitem--cerca uitem--4e413781 uitem--7 has-ultimenu"><a href="" data-drupal-link-system-path="" title="" class="ultimenu__link">Cerca<span class="caret" aria-hidden="true"></span></a><section class="ultimenu__flyout is-htb"><div class="ultimenu-wrapper fullwidth"><div class="container ultimenu-content"><div class="close-wrap"><a href class="close-button"><img src="/themes/custom/unimi/img/cross.svg" alt="close item"></a></div><div class="ultimenu__region region region--count-3 region-ultimenu-main-4e413781"><section id="block-unimi-search" class="clearfix mega-search block block-block-content block-block-content363d513a-c2cf-48a9-a4a7-d31381dfa1f6"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><form accept-charset="UTF-8" action="https://apps.unimi.it/sitesearch/unimi-new/search.jsp" id="search-block-form-2" method="get"><div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group"><label class="control-label sr-only" for="edit-keys-2">Cerca</label><div class="input-group"><input class="form-search form-control" data-drupal-selector="edit-keys-2" data-original-title="Inserisci i termini da cercare." data-toggle="tooltip" id="edit-keys-2" maxlength="128" name="q" placeholder="Cerca" required="true" size="15" title type="search" value><span class="input-group-btn"><button class="button js-form-submit form-submit btn-primary btn icon-only" type="submit" value="Cerca"><span class="sr-only">Cerca</span></button></span></div></div><div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions-2" id="edit-actions-2">&nbsp;</div></form></div></section><nav role="navigation" aria-labelledby="block-unimi-menuprincipale-menu" id="block-unimi-menuprincipale" class="col-sm-12 clearfix"><h2 class="visually-hidden" id="block-unimi-menuprincipale-menu">Menu principale</h2><ul class="menu menu--main nav navbar-nav"><li class="first"><a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a></li><li><a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a></li><li><a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a></li><li><a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a></li><li class="last"><a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a></li></ul></nav><section id="block-unimi-megamenufooter" class="col-sm-12 clearfix block block-block-content block-block-content4a59a823-49d1-4c08-8e2b-8558f0ed52de"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a class="mega-news" href="https://lastatalenews.unimi.it">News</a><a class="mega-logo" href="/it">Logo</a></p></div></section></div></div></div></section></li><li class="ultimenu__item uitem uitem--home uitem--front-page uitem--8 has-ultimenu"><a href="/it" data-drupal-link-system-path="&lt;front&gt;" title="" class="ultimenu__link">Home<span class="caret" aria-hidden="true"></span></a><section class="ultimenu__flyout is-htb"><div class="ultimenu-wrapper fullwidth"><div class="container ultimenu-content"><div class="close-wrap"><a href class="close-button"><img src="/themes/custom/unimi/img/cross.svg" alt="close item"></a></div><div class="ultimenu__region region region--count-3 region-ultimenu-main-standard__front-page"><nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="col-sm-12"><h2 class="visually-hidden" id="block-mainnavigation-menu">I corsi</h2><ul class="menu menu--main nav"><li class="expanded dropdown"><a href="/it/corsi">Corsi</a><ul class="dropdown-menu"><li><a href="/it/corsi/orientarsi-e-scegliere" data-drupal-link-system-path="node/727">Orientarsi e scegliere</a></li><li><a href="/it/corsi/facolta-e-scuole" data-drupal-link-system-path="node/710">Facoltà e scuole</a></li><li><a href="/it/corsi/corsi-di-laurea-triennali-e-magistrali-ciclo-unico" data-drupal-link-system-path="node/1071">Lauree triennali e magistrali ciclo unico</a></li><li><a href="/it/corsi/corsi-di-laurea-magistrale" data-drupal-link-system-path="node/13968">Lauree Magistrali</a></li><li><a href="/it/corsi/la-statale-open" data-drupal-link-system-path="node/53900">La Statale Open - laurea online</a></li><li><a href="/it/corsi/insegnamenti-dei-corsi-di-laurea" data-drupal-link-system-path="node/1074">Insegnamenti dei corsi di laurea</a></li><li><a href="/it/corsi/tutte-le-offerte-formative" data-drupal-link-system-path="node/13005">Tutte le offerte formative - corsi di laurea</a></li><li><a href="/it/corsi/percorso-di-eccellenza-iuss-pavia" data-drupal-link-system-path="node/44362">Percorso di eccellenza IUSS Pavia</a></li><li><a href="/it/corsi/corsi-post-laurea-e-formazione-continua" data-drupal-link-system-path="node/1072">Corsi post laurea e formazione continua</a></li><li><a href="/it/corsi/esami-di-stato" data-drupal-link-system-path="node/271">Esami di stato</a></li><li><a href="/it/corsi/summer-e-winter-schools" data-drupal-link-system-path="node/32">Summer school</a></li><li><a href="/it/corsi/didattica-online" data-drupal-link-system-path="node/708">Didattica online</a></li><li><a href="/it/corsi/studiare-carcere" data-drupal-link-system-path="node/37118">Studiare in carcere</a></li></ul></li><li class="expanded dropdown"><a href="/it/studiare">Studiare</a><ul class="dropdown-menu"><li><a href="/it/studiare/immatricolarsi-e-iscriversi" data-drupal-link-system-path="node/13253">Immatricolarsi e iscriversi</a></li><li><a href="/it/studiare/frequentare-un-corso-di-laurea" data-drupal-link-system-path="node/726">Frequentare un corso di laurea</a></li><li><a href="/it/studiare/frequentare-un-corso-post-laurea" data-drupal-link-system-path="node/729">Frequentare un corso post laurea</a></li><li><a href="/it/studiare/seguire-un-corso-singolo" data-drupal-link-system-path="node/168">Seguire un corso singolo</a></li><li><a href="/it/studiare/borse-premi-mense-e-alloggi" data-drupal-link-system-path="node/730">Borse, premi, mense e alloggi</a></li><li><a href="/it/studiare/competenze-linguistiche" data-drupal-link-system-path="node/12716">Competenze linguistiche</a></li><li><a href="/it/studiare/stage-e-lavoro" data-drupal-link-system-path="node/1058">Stage e lavoro</a></li><li><a href="/it/studiare/servizi-gli-studenti" data-drupal-link-system-path="node/723">Servizi per gli studenti</a></li><li><a href="/it/studiare/biblioteche" data-drupal-link-system-path="node/464">Biblioteche</a></li><li><a href="/it/studiare/vivere-luniversita" data-drupal-link-system-path="node/1070">Vivere l&#039;Università</a></li></ul></li><li class="expanded dropdown"><a href="/it/ricerca">Ricerca</a><ul class="dropdown-menu"><li><a href="/it/ricerca/pnrr-i-progetti-delluniversita-statale" data-drupal-link-system-path="node/49935">PNRR: i progetti dell’Università Statale</a></li><li><a href="/it/ricerca/facts-figures" data-drupal-link-system-path="node/1185">Facts &amp; Figures</a></li><li><a href="/it/ricerca/cosa-studiamo" data-drupal-link-system-path="node/1193">Cosa studiamo</a></li><li><a href="/it/ricerca/fare-ricerca-da-noi" data-drupal-link-system-path="node/1187">Fare ricerca da noi</a></li><li><a href="/it/ricerca/luoghi-organizzazione-e-infrastrutture" data-drupal-link-system-path="node/1188">Luoghi, organizzazione e infrastrutture</a></li><li><a href="/it/ricerca/policies-e-principi" data-drupal-link-system-path="node/1186">Policies e principi</a></li><li><a href="/it/ricerca/dati-e-prodotti-della-ricerca" data-drupal-link-system-path="node/1190">Dati e prodotti della ricerca</a></li><li><a href="/it/ricerca/ricerca-tutti" data-drupal-link-system-path="node/1181">Ricerca per tutti</a></li></ul></li><li class="expanded dropdown"><a href="/it/terza-missione">Terza missione</a><ul class="dropdown-menu"><li><a href="/it/terza-missione/innovazione-ricerca-e-imprese" data-drupal-link-system-path="node/1183">Innovazione, ricerca e imprese</a></li><li><a href="/it/terza-missione/terza-missione-organizzazione-e-governance" data-drupal-link-system-path="node/39512">Terza missione, organizzazione e governance</a></li><li><a href="/it/terza-missione/patrimonio-storico-e-culturale" data-drupal-link-system-path="node/601">Patrimonio storico e culturale</a></li><li><a href="/it/terza-missione/responsabilita-sociale" data-drupal-link-system-path="node/14844">Responsabilità sociale</a></li></ul></li><li class="expanded dropdown"><a href="/it/ateneo">Ateneo</a><ul class="dropdown-menu"><li><a href="/it/ateneo/la-statale" data-drupal-link-system-path="node/1216">La Statale</a></li><li><a href="/it/ateneo/governance-e-linee-strategiche" data-drupal-link-system-path="node/1217">Governance e linee strategiche</a></li><li><a href="/it/ateneo/uffici-e-strutture" data-drupal-link-system-path="node/1218">Uffici e strutture</a></li><li><a href="/it/ateneo/carta-dei-servizi" data-drupal-link-system-path="node/39238">Carta dei servizi</a></li><li><a href="/it/ateneo/lavora-con-noi" data-drupal-link-system-path="node/1220">Lavora con noi</a></li><li><a href="/it/ateneo/bandi-di-gare-e-contratti" data-drupal-link-system-path="node/1227">Bandi di gare e contratti</a></li><li><a href="/it/ateneo/normative" data-drupal-link-system-path="node/383">Normative</a></li><li><a href="/it/ateneo/assicurazione-della-qualita" data-drupal-link-system-path="node/521">Assicurazione della qualità</a></li><li><a href="/it/ateneo/fundraising" data-drupal-link-system-path="node/1223">Fundraising</a></li><li><a href="/it/ateneo/amministrazione-trasparente" data-drupal-link-system-path="node/12893">Amministrazione trasparente</a></li></ul></li><li class="expanded dropdown"><a href="/it/internazionale">Internazionale</a><ul class="dropdown-menu"><li><a href="/it/internazionale/cooperazione-internazionale" data-drupal-link-system-path="node/44305">Cooperazione internazionale allo sviluppo</a></li><li><a href="/it/internazionale/la-statale-nel-mondo" data-drupal-link-system-path="node/12742">La Statale nel mondo</a></li><li><a href="/it/internazionale/studiare-allestero" data-drupal-link-system-path="node/273">Studiare all&#039;estero</a></li><li><a href="/it/internazionale/venire-studiare-dallestero" data-drupal-link-system-path="node/295">Venire a studiare dall&#039;estero</a></li><li><a href="/it/internazionale/mobilita-docenti-e-ricercatori" data-drupal-link-system-path="node/1204">Mobilità docenti e ricercatori</a></li></ul></li><li class="expanded dropdown"><a href="">Cerca</a><ul class="dropdown-menu"><li><a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a></li><li><a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a></li><li><a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a></li><li><a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a></li><li><a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a></li></ul></li><li><a href="/it" data-drupal-link-system-path="&lt;front&gt;">Home</a></li></ul></nav><section class="views-element-container col-sm-12 block block-views block-views-blockprofili-block-1 clearfix" id="block-unimi-views-block-profili-block-1"><div class="form-group"><div class="view view-profili view-id-profili view-display-id-block_1 js-view-dom-id-1cee4a6a178e46cbea08c4c23729d0dc5313e28cf523f5a559c0da6b86514e62"><div class="view-content"><div class="item-list fullwidth"><ul class="container"><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/10"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-signs-post" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Futuri studenti</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/11"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-circle-user" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Studenti iscritti</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/12"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-user-plus" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Laureati</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/8"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-graduation-cap" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Dottorandi</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/13"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-globe" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Studenti internazionali</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/9"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-building" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Enti e aziende</a></div></div></li></ul></div></div></div></div></section><section id="block-unimi-megamenufooter-2" class="col-sm-12 block block-block-content block-block-content4a59a823-49d1-4c08-8e2b-8558f0ed52de clearfix"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a class="mega-news" href="https://lastatalenews.unimi.it">News</a><a class="mega-logo" href="/it">Logo</a></p></div></section></div></div></div></section></li></ul><button data-ultimenu-button="#ultimenu-main" class="button button--ultimenu"
+        aria-label="Menu" value="Menu"><span class="bars">Menu</span></button>
+  </section>
+
+
+  </div>
+
+                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+              </div>
+
+                    <div id="navbar-collapse" class="navbar-collapse collapse">
+            <div class="region region-navigation-collapsible">
+    <section id="block-searchmobile" class="search-block-form hidden-lg hidden-md block block-search block-search-form-block block-block-content block-block-content4b159f0e-4fa2-4411-a21f-56afa0508e9f clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><form accept-charset="UTF-8" action="https://apps.unimi.it/sitesearch/unimi-new/search.jsp" id="search-block-form" method="get">
+<div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group"><label class="control-label sr-only" for="edit-keys">Cerca</label>
+<div class="input-group"><input class="form-search form-control" data-drupal-selector="edit-keys" data-original-title="Inserisci i termini da cercare." id="edit-keys" maxlength="128" name="q" placeholder="Cerca" size="15" title type="search" required="true" value><span class="input-group-btn"><button class="button js-form-submit form-submit btn-primary btn icon-only" type="submit" value="Cerca"><span class="sr-only">Cerca</span></button></span></div>
+</div>
+</form>
+</div>
+      
+  </section>
+
+<nav role="navigation" aria-labelledby="block-unimi-main-menu-menu" id="block-unimi-main-menu" class="hidden-md hidden-lg">
+            
+  <h2 class="visually-hidden" id="block-unimi-main-menu-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/it/corsi" data-drupal-link-system-path="node/7725">Corsi</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare" data-drupal-link-system-path="node/7726">Studiare</a>
+              </li>
+                      <li>
+                                        <a href="/it/ricerca" data-drupal-link-system-path="node/7727">Ricerca</a>
+              </li>
+                      <li>
+                                        <a href="/it/terza-missione" data-drupal-link-system-path="node/38988">Terza missione</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo" data-drupal-link-system-path="node/7728">Ateneo</a>
+              </li>
+                      <li>
+                                        <a href="/it/internazionale" data-drupal-link-system-path="node/7729">Internazionale</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Cerca <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="last">
+                                        <a href="/it" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-topnavbar-2-menu" id="block-topnavbar-2" class="hidden-md hidden-lg">
+            
+  <h2 class="visually-hidden" id="block-topnavbar-2-menu">Top navbar</h2>
+  
+
+        
+      <ul class="menu menu--profili nav">
+                      <li class="first">
+                                        <a href="https://unimia.unimi.it/">Unimia</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie</a>
+              </li>
+                      <li>
+                                        <a href="https://ariel.unimi.it/" title="Portale elearning">Ariel</a>
+              </li>
+                      <li>
+                                        <a href="https://sba.unimi.it/" title="Biblioteche">Biblioteche</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e dove</a>
+              </li>
+                      <li>
+                                        <a href="https://mail.unimi.it/">Webmail</a>
+              </li>
+                      <li>
+                                        <a href="https://work.unimi.it">laStatale@work</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Info per <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/taxonomy/term/10" data-drupal-link-system-path="taxonomy/term/10">Futuri studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/11" data-drupal-link-system-path="taxonomy/term/11">Studenti iscritti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/12" data-drupal-link-system-path="taxonomy/term/12">Laureati</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/8" data-drupal-link-system-path="taxonomy/term/8">Dottorandi</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/13" data-drupal-link-system-path="taxonomy/term/13">Studenti internazionali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/taxonomy/term/9" data-drupal-link-system-path="taxonomy/term/9">Enti e aziende</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="https://lastatalenews.unimi.it/" title="statale news">LaStataleNews</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/sostenere-la-statale/cinque-mille?clickOrigin=menu" title="5x1000" data-drupal-link-query="{&quot;clickOrigin&quot;:&quot;menu&quot;}" data-drupal-link-system-path="node/1229">5x1000</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+        </div>
+                </header>
+  
+  <div  id="main-container-unimi" role="main" class="main-container container js-quickedit-main-content">
+    <div class="row">
+
+                              <div class="col-sm-12">
+              <div class="region region-header">
+        <ol class="breadcrumb rs_skip">
+          <li >
+                  <a href="/it">Home</a>
+              </li>
+          <li >
+                  <a href="/it/corsi">Corsi </a>
+              </li>
+          <li >
+                  <a href="/it/corsi/laurea-magistrale">Laurea magistrale</a>
+              </li>
+          <li  class="active">
+                  Scienze e tecnologie alimentari - magistrale
+              </li>
+      </ol>
+
+
+  </div>
+
+          </div>
+              
+            
+                  <section class="col-sm-12">
+
+                
+                                      
+                  
+                          <a id="main-content"></a>
+            <div class="region region-content">
+        <h1 class="page-header">
+<span>Scienze e tecnologie alimentari - magistrale</span>
+</h1>
+
+<div data-drupal-messages-fallback class="hidden"></div>
+  <div class="row bs-2col-bricked node node--type-cdl-scheda node--view-mode-full">
+  
+
+  
+    <div class="col-xs-12 col-sm-8 col-md-8 col-lg-9 bs-region bs-region--top-left">
+    
+<div  class="top-left-cdl-scheda">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_6 js-view-dom-id-82339f8d17b407620f1d2fa05e0711881bcf6e0f0f1f668ca9e381fe024e8de1">
+  
+    
+      
+      <div class="view-content">
+          <div class="area-header area-G area-caratipo-a"><div class="banner-area banner-area-G"><span>SCIENZE AGRARIE E ALIMENTARI</span></div>  <img loading="lazy" src="/sites/default/files/styles/scheda_cdl/public/2025-03/gbb.jpg?h=1017c59c&amp;itok=NMLoiw0_" width="1240" height="400" alt="&quot; &quot;" title="" class="img-responsive rs_skip" />
+
+
+<div class="info-group new-info-group"><div class="carat-laurea">Corso in presenza</div>
+<div class="title-laurea">Scienze e tecnologie alimentari - magistrale</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+
+
+  </div>
+  </div>
+  
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3 bs-region bs-region--top-right">
+    
+<div  class="top-right-cdl-scheda">
+    
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-intestazione field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_49 js-view-dom-id-f359e3afd7ff166334783263a81cb1f8f562505e80b8f5f55471eb473c3e8bc7">
+  
+    
+      
+      <div class="view-content">
+          <div class="cdl-intestazione codice-area-G "><div><div class="scheda-corso">Scheda del corso</div>
+<div class="anno">A.A. 2026/2027 </div>
+<div class="tipo-laurea">Laurea magistrale</div>
+
+<div class="field--name-uof-cdsclass">LM-70 R - Scienze e tecnologie alimentari</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+            <div  class="paragraph paragraph--type--bp-action paragraph--type--bp-action-blu">
+        
+            <div  class="field--name-bp-link">
+                  <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_32 js-view-dom-id-a9c770295046fd7cbddc8f73e4ea0968f83d6fae8b898c05eac56d126cc6af43">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-sito-corso"><div class="field-content"><a href="https://scienzealimentari-lm.cdl.unimi.it" target="_blank" aria-label="Vai al sito del corso di Scienze e tecnologie alimentari (Classe LM-70 R)">Vai al sito del corso</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+      </div>
+  
+    </div>
+
+
+  </div>
+  </div>
+  
+    <div class="col-xs-12 bs-region bs-region--middle">
+    
+<div >
+    
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-barra field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="barra-dati top40 bottom40 view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_4 js-view-dom-id-76d778aaafb80ca0bba9931028d18b3b38d25dfd6a9af345194b5036a759530d">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-cdstype"><div class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-university fa-stack-1x fa-inverse"></span>
+</span>
+
+<div class="views-label views-label-uof-cdstype">Laurea magistrale</div></div></div><div class="views-field views-field-cfu"><span class="field-content"><span class="fa-stack fa-3x">
+    <span class="fa fa-circle fa-stack-2x"></span>
+    <span class="fa-stack-1x fa fa-ticket fa-inverse"></span>
+ </span>
+<div class="views-label views-label-cfu">120</div>
+Crediti</span></div><div class="views-field views-field-uof-ma1"><div class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+<span class="fas fa-sign-in-alt fa-stack-1x fa-inverse "></span>
+</span>
+<div class="views-label views-label-uof-ma1">Accesso</div>
+Libero con valutazione dei requisiti di accesso</div></div><div class="views-field views-field-durata-anni"><span class="field-content"><span class="fa-stack fa-3x">
+ <span class="fa fa-circle fa-stack-2x"></span>
+    <span class="fas fa-calendar-o fa-stack-1x fa-inverse"></span>
+  </span>
+<div class="views-label views-label-durata-anni">2</div>
+Anni
+</span></div><div class="views-field views-field-polo-fisico"><div class="field-content">  <span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-building-o  fa-stack-1x fa-inverse"></span>
+</span>
+<div class="views-label views-label-polo-fisico">Sede</div>
+Milano </div></div><div class="views-field views-field-nothing"><span class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-flag fa-stack-1x fa-inverse"></span>
+</span>
+<div class="views-label views-label-uof-lingua">Lingua</div>
+Italiano, Inglese</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div><div class="mobile-tab field-group-tabs-wrapper"><div data-vertical-tabs-panes><input class="vertical-tabs__active-tab" type="hidden" /><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-objectives">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-objectives--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-objectives--content">Obiettivi formativi</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-objectives--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-obiettivi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_7 js-view-dom-id-0e986f2a46a19d0d8432f69ddb00b8ebb47ebd38fb13eca5cfd8bba1bba3cf5b">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-obiettivi-formativi"><div class="field-content">Il corso di laurea magistrale in Scienze e Tecnologie Alimentari (STAL), in accordo con gli obiettivi formativi stabiliti dalla classe, ha la finalità di formare laureate e laureati specialisti nell'ambito delle scienze e tecnologie alimentari con approfondite conoscenze interdisciplinari, in grado di svolgere attività complesse per rispondere efficacemente ai mutamenti demografici, culturali e tecnologici che aprono continue sfide al contesto produttivo alimentare. Le priorità formative includono gli ambiti della sicurezza, qualità, integrità e sostenibilità alimentare in accordo con i principi della bioeconomia sanciti dalle Nazioni Unite, integrati con l'efficienza e la produttività del settore alimentare, in linea con l'applicazione di tecnologie di automazione e digitalizzazione proprie di industria 4.0.<br>Il corso di studio fornisce i fondamenti teorici, metodologici e applicativi per preparare le laureate e i laureati da un lato a supportare la resilienza e l'ottimizzazione delle produzioni di eccellenza tradizionali, dall'altro a ideare e sviluppare produzioni innovative. La formazione ottenuta permetterà ai laureati e alle laureate di svolgere attività manageriali nelle industrie alimentari e in tutte le aziende collegate alla produzione, trasformazione, conservazione e distribuzione dei prodotti alimentari, di packaging e di prodotti ausiliari, nelle aziende della Grande Distribuzione Organizzata, negli Enti pubblici e privati che conducono attività di analisi, controllo, certificazione, nonché in quelli che svolgono indagini scientifiche per la tutela e la valorizzazione delle produzioni alimentari, negli enti di formazione e in attività di libera professione di competenza dell'Albo dei Tecnologi Alimentari. Il corso inoltre apre l'accesso al dottorato di ricerca nelle discipline delle scienze e tecnologie alimentari, sia a livello nazionale che internazionale.<br>Il corso di studio sviluppa, in particolare, solide conoscenze e abilità nei seguenti ambiti e settori:<br>- processi di produzione, confezionamento, conservazione e distribuzione degli alimenti;<br>- sicurezza, integrità e qualità degli alimenti<br>- integrazione di tradizione e innovazione nelle produzioni alimentari;<br>- sviluppo di nuovi prodotti alimentari tenendo conto delle esigenze e dei gusti dei consumatori;<br>- chimica, biochimica e nutrizione umana orientate agli aspetti applicativi del settore alimentare;<br>- comunicazione in ambienti interdisciplinari, inclusi quelli economici;<br>- gestione ed utilizzo delle risorse microbiche nelle diverse applicazioni in campo alimentare e nutrizionale.
+
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-career-and-employment">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-career-and-employment--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-career-and-employment--content">Sbocchi professionali</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-career-and-employment--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-sbocchi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_8 js-view-dom-id-3d707bf52d716de52b7c91265e4ad4c9adf953308b52181f1acb08ff103e795a">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-sbocchi-occupazionali"><div class="field-content"><div class="bottom40">Profilo professionale: tecnologo alimentare (professione istituita dalla Legge ordinaria n. 59, 1994 e successivi decreti applicativi, con riferimento anche alla circolare del Ministero della Sanità del 6.12.2000 in merito all'obbligatorietà di iscrizione agli albi degli Ordini professionali). <br>Funzione in un contesto di lavoro<br>Il tecnologo alimentare è in grado di gestire, organizzare e progettare la produzione, la conservazione e la distribuzione di alimenti nella garanzia della sostenibilità e della eco-compatibilità delle attività industriali, recependo e proponendo le innovazioni relative alle diverse attività professionali del settore.<br>Il laureato/la laureata magistrale in Scienze e Tecnologie Alimentari svolge attività di programmazione, gestione, controllo, coordinamento e formazione relativamente alla produzione, conservazione, distribuzione e somministrazione degli alimenti. È in grado di risolvere problematiche complesse e di pianificare e sviluppare autonomamente soluzioni innovative.<br>Obiettivo fondamentale della formazione del laureato/della laureata magistrale in Scienze e Tecnologie Alimentari è la gestione di funzioni professionali finalizzate al miglioramento costante dei prodotti alimentari nella garanzia della sostenibilità e della eco-compatibilità delle attività industriali, recependo e proponendo le innovazioni relative alle diverse attività professionali del settore.<br>L'ampio spettro di conoscenze, maturate a livello avanzato, connota un/una professionista che può ricoprire tutte le funzioni utili nell'industria alimentare e nelle attività produttive correlate quali:<br>- il coordinamento e la responsabilità di processi relativi alla trasformazione e commercializzazione degli alimenti, alla selezione dei fornitori di materie prime, additivi, coadiuvanti, materiali di imballaggio e impianti;<br>- lo studio, la progettazione e l'ottimizzazione dei processi di lavorazione degli alimenti: dalla modellazione alle prove pilota, allo scaling-up, con particolare riguardo a problematiche ambientali e di sostenibilità economica;<br>- la gestione integrata della qualità nella filiera produttiva, finalizzata a conseguire obiettivi di sicurezza, qualità e autenticità dei prodotti, responsabilità sociale e tutela dell'ambiente;<br>- la capacità di sviluppare protocolli analitici innovativi per il controllo della sicurezza, l'identificazione dei rischi emergenti e per la valutazione dei requisiti di qualità e integrità delle produzioni alimentari;<br>- le funzioni peritali ed arbitrali in ordine alle attribuzioni elencate nelle lettere precedenti;<br>- le ricerche di mercato, i sondaggi presso i consumatori e il benchmarking in relazione alla produzione alimentare.<br><br>Competenze associate alla funzione:<br>- gestione e progettazione degli impianti di produzione degli alimenti;<br>- progettazione e ottimizzazione di alimenti (food design), formulazione e sviluppo di nuovi prodotti alimentari (alimenti funzionali, novel foods);<br>- gestione integrata del processo alimentare;<br>- competenze nella qualità e sicurezza alimentare: attività regolatoria e sistemi di gestione;<br>- competenze nelle tecnologie emergenti di trasformazione, conservazione, condizionamento e i metodi di ottimizzazione dei processi e dei prodotti;<br>- competenze nutrizionali e biochimiche nel rapporto tra alimenti e alimentazione;<br>- competenze riguardanti le risorse microbiche per il sistema alimentare;<br>- competenze riguardanti l'economia e la gestione dell'innovazione nell'industria alimentare e il marketing;<br>- gestione del sistema di assicurazione/certificazione della qualità degli alimenti con aspetti che includono la tracciabilità e rintracciabilità.<br><br>Sbocchi professionali<br>L'attività professionale del laureato/della laureato/a magistrale in Scienze e Tecnologie Alimentari si svolge prevalentemente nelle industrie alimentari e in tutte le aziende collegate alla produzione, trasformazione, confezionamento e commercializzazione dei prodotti alimentari, nelle aziende della Grande Distribuzione Organizzata, negli Enti pubblici e privati che conducono attività di ricerca, pianificazione, analisi, controllo, certificazione, informazione e comunicazione nonché in quelli che svolgono indagini scientifiche per la tutela e la valorizzazione delle produzioni alimentari, negli enti di formazione e nella libera professione.<br><br><a class="top40" href="https://statistiche.almalaurea.it/universita/statistiche/trasparenza?codicione=0150107307100001">Statistiche occupazionali (Almalaurea)</a></div>
+<div></div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-study-abroad">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-study-abroad--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-study-abroad--content">Studio all'estero</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-study-abroad--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-studi-estero field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_9 js-view-dom-id-86dc74e1a485bda925e79491a19b93921cd04ce9675dc2a0adb7e3bd42f625b8">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-esperienze-estero"><div class="field-content">Le possibilità di studio nel quadro del Programma Erasmus+, le modalità di partecipazione e i criteri di selezione degli studenti/delle studentesse sono descritti in un bando specifico di Area Alimentare, che prevede la mobilità verso 40 università partner ampiamente distribuite in Europa e selezionate sulla base della loro affinità didattica con il corso di studi. Le aree di studio che possono essere sviluppate all'estero includono le biotecnologie microbiche, la nutrizione applicata, la progettazione e la gestione degli impianti nell'impresa alimentare, l'economia e la gestione dell'innovazione, la logistica e le tecnologie di confezionamento e la modellazione, l'ottimizzazione e l'innovazione di processo. La definizione del programma di studio (learning agreement) avviene in collaborazione con il/la responsabile Erasmus del corso di studi, sia per quanto riguarda la scelta degli esami che per l'organizzazione delle attività collegate alla tesi presso l'università partner. Prima della compilazione del learning agreement, lo studente/la studentessa deve ottenere l'approvazione formale degli esami da svolgere presso l'università ospitante da parte di docenti titolari di insegnamenti equivalenti o affini presso l'Università degli Studi di Milano. Per lo svolgimento all'estero di un'attività sperimentale che può costituire una parte o la totalità delle attività collegate alla tesi viene richiesta una lettera di consenso da parte di un/una docente dell'università partner e l'approvazione formale degli obiettivi, del programma e del periodo di svolgimento del tirocinio da parte di un/una docente del corso di studi che funge da relatore/relatrice. Al termine del periodo di studio all'estero, lo studente/la studentessa consegna la certificazione delle attività svolte (transcript of records) rilasciata dall'università ospitante e ottiene, con delibera del Collegio Didattico, il riconoscimento dei crediti e dei relativi voti. Il corso di studio partecipa attivamente al Programma Erasmus+ Placement che prevede la mobilità degli studenti/delle studentesse finalizzata allo svolgimento della tesi di laurea in strutture altamente qualificate (università, centri di ricerca sia pubblici che privati) e selezionate anche sulla base del percorso formativo dello studente. Inoltre, è supportata anche la partecipazione degli studenti e delle studentesse al bando tesi all'estero finanziato dall'Ateneo che permette di effettuare la tesi di laurea in strutture qualificate anche al di fuori dell'unione europea.</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-attendance">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-attendance--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-attendance--content">Obbligo di frequenza</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-attendance--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-frequenza field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_10 js-view-dom-id-0e92f9de25534aa7df3f25311895ff260d752c8180a9629edfaed918a7b3ff91">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-frequenza"><div class="field-content">La frequenza delle attività formative è fortemente raccomandata.</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+</div>
+</div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Immatricolazione</div>
+    <div class="bottom0 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--5">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--5--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--5--content">Requisiti, modalità di verifica e obblighi formativi</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--5--content" class="panel-body panel-collapse collapse fade">
+                  <div  class="paragraph scheda-cds-requisiti-accesso">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_11 js-view-dom-id-e21b78a2983796ac4c2bfa3785611df38a91fce37a936d59bc0befcdfd9cefc6">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-requisiti-accesso"><div class="field-content">Requisiti e conoscenze richieste per l'accesso<br>Per essere ammessi al corso di studio occorre essere in possesso di un titolo di laurea conseguito nella classe L-26, nonché nella corrispondente classe relativa al D.M. 509/1999, ovvero altro titolo di studio conseguito all'estero e riconosciuto idoneo, o del diploma universitario di durata triennale (l'università, in autonomia, valuta i titoli accademici stranieri, applicando gli Artt. 2 e 3, della Legge 148/02, allo scopo di rilasciare gli analoghi titoli italiani).<br>Possono accedere alla laurea magistrale le laureate/i laureati in altre classi purché in possesso dei seguenti requisiti minimi: almeno 50 CFU nei seguenti Settori Scientifici Disciplinari (SSD):<br><br>MAT/01-09<br>FIS/01-08<br>CHIM/01 Chimica analitica, CHIM/02 Chimica fisica, CHIM/03 Chimica generale e inorganica, CHIM/06 Chimica organica, CHIM/10 Chimica degli alimenti<br>AGR/01 Economia ed estimo rurale<br>AGR/15 Scienze e tecnologie alimentari<br>AGR/16 Microbiologia agraria<br>BIO/10 Biochimica <br>BIO/09 Fisiologia, MED/49 Scienze tecniche dietetiche applicate<br><br>Tra questi avendo acquisito almeno:<br>9 CFU nel SSD AGR/15- Scienze e tecnologie alimentari <br>6 CFU nel SSD AGR/16- Microbiologia agraria  <br>6 CFU nel SSD MED/49- Scienze tecniche dietetiche applicate oppure BIO/09- Fisiologia<br><br>Qualora il candidato/la candidata non sia in possesso degli specifici requisiti curriculari, su indicazione del Collegio didattico, potrà eventualmente frequentare singoli insegnamenti offerti dall'Ateneo prima di accedere alla verifica della preparazione personale.<br><br>È requisito di ingresso una conoscenza della lingua inglese pari o superiore al livello B1 del Quadro Comune Europeo di Riferimento per le lingue (QCER). <br>Il livello B1 è verificato dal Centro linguistico d'Ateneo SLAM durante la fase di ammissione nei seguenti modi: <br>- certificazione linguistica conseguita non oltre i 3 anni, di livello B1 o superiore (per la lista delle certificazioni linguistiche riconosciute dall'Ateneo si rimanda al sito: (<a href="https://www.unimi.it/it/node/39267">https://www.unimi.it/it/node/39267</a>)  La certificazione deve essere caricata durante la procedura di ammissione;<br>- livello di inglese conseguito durante un corso di laurea Unimi tramite il Centro Linguistico d'Ateneo SLAM, comprese le certificazioni validate durante la carriera triennale. Sono ritenuti validi gli accertamenti conseguiti da meno di quattro anni dalla data di presentazione della domanda. La verifica avviene d'ufficio senza alcuna necessità di allegare attestati;<br>- test di ingresso, erogato dal Centro SLAM, secondo il calendario pubblicato sul sito: (<a href="https://www.unimi.it/it/node/39267">https://www.unimi.it/it/node/39267</a>). Tutti coloro che non invieranno una certificazione valida né risulteranno con livello valido saranno convocati al test tramite la procedura di ammissione.<br>In caso di non sostenimento o non superamento del test di ingresso, la candidata/il candidato dovrà conseguire una certificazione tra quelle riconosciute (<a href="https://www.unimi.it/it/node/39322">https://www.unimi.it/it/node/39322</a>) e inviarla al Centro SLAM tramite il servizio Informastudenti entro la scadenza definita dal corso di laurea magistrale (<a href="https://www.unimi.it/it/node/39267/">https://www.unimi.it/it/node/39267/</a>).<br>In caso di non soddisfazione del requisito entro tale termine la candidata/il candidato non sarà ammessa/o al corso di laurea magistrale e non potrà accedere ad ulteriori test.<br><br>Modalità di verifica delle conoscenze e della preparazione personale<br>I laureati e le laureate nella classe delle Lauree Triennali in Scienze e Tecnologie Alimentari (classe L-26) con un voto finale di laurea uguale o superiore a 80/110 (ovvero con una media ponderata negli esami di profitto superiore a 21/30 nel caso di candidati non laureati) sono ammessi direttamente al corso di laurea magistrale in Scienze e Tecnologie Alimentari. La verifica dell'adeguatezza della preparazione personale per i/le laureati/e triennali nella classe L-26 con votazione inferiore a 80/110 o in altre classi è svolta tramite prova o colloquio condotto (anche in forma telematica) da una commissione nominata dal Collegio docenti.<br>Le conoscenze di base oggetto della verifica dell'adeguatezza della personale preparazione sono le seguenti:<br>- microbiologia generale e degli alimenti: conoscenze di base del ruolo dei microorganismi nei processi di trasformazione e conservazione degli alimenti;<br>- tecnologie alimentari: conoscenza delle fondamentali operazioni unitarie e dei processi di conservazione e trasformazione delle materie prime di origine vegetale e animale;<br>- impianti per la produzione e/o la preparazione degli alimenti: conoscenze di base riguardo agli impianti per la trasformazione e la conservazione degli alimenti;<br>- principi di economia e marketing;<br>- chimica e analisi chimiche degli alimenti: nozioni fondamentali sulla composizione degli alimenti, sulle tecniche analitiche, anche in considerazione della tutela dei consumatori;<br>- basi di alimentazione e nutrizione umana.<br><br>Le modalità organizzative per l'immatricolazione alla laurea magistrale saranno disponibili sul sito <a href="https://scienzealimentari-lm.cdl.unimi.it/it/iscriversi">https://scienzealimentari-lm.cdl.unimi.it/it/iscriversi</a>
+
+ 
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--6">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--6--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--6--content">Ammissione e immatricolazione</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--6--content" class="panel-body panel-collapse collapse fade">
+            
+<div  class="paragraph paragraph--type--bp-two-columns paragraph--style--66-33">
+    
+<div  class="paragraph__column">
+    
+<div  class="bp_two_col_left col-md-8">
+          <div  class="top20">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_2 js-view-dom-id-b0b6c2aee1aad181c9415650db52619f4ab5821a1975e328a4dacdf6109faafe">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-bando-scadenze"><div class="field-content"><h3>Immatricolazione</h3>
+<p><strong>Domanda di ammissione:</strong> dal 22/01/2026 al 25/08/2026</p>
+<p><strong>Domanda di immatricolazione:</strong> dal 05/05/2026 al 15/01/2027</p>
+<p><br><strong>Allegati e documenti</strong></p>
+<p><a href="https://apps.unimi.it/files/bandi/avviso-ammissione-2027-1-scienze-e-tecnologie-alimentari-%28classe-lm-70-r%29.pdf?30-MAR-26">Avviso di ammissione</a></p>
+<p><br><strong> </strong></p>
+<p>Gli studenti non UE richiedenti visto possono presentare domanda di ammissione entro il 30 aprile 2026.</p></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+  </div>
+<div  class="bp_two_col_right col-md-4 paragraph__column">
+          <div  class="bottom40 flowroot">
+            <div  class="titolo-grande bottom20 field-label-above">Servizi online</div>
+  
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node-2 view-id-w4_cdsi_to_node_2 view-display-id-block_5 js-view-dom-id-886796919962a5bdffad8a70795adfdbea24c377c52ace45f3431d84174dff68">
+  
+    
+      
+      <div class="view-content">
+          <div><div class="views-field views-field-bando-al-servizio"><div class="field-content"><div class="actionlink-wrapper alw-of alw-serv alw-2"><div class="actionlink al-servizio al-ammissioni"><a href="https://ammissionimagistrali.unimi.it/">Domanda di ammissione</a></div><div class="actionlink al-servizio al-immatricolazione"><a href="https://studente.unimi.it/immatricolazioni/magistrale/checkLogin.asp">Immatricolazione</a></div></div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-action-informazione field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node-2 view-id-w4_cdsi_to_node_2 view-display-id-block_4 js-view-dom-id-bfe673fb21a6193a163bcb1c1228367a836361c0e760167785f185c6e2085cba">
+  
+    
+      
+      <div class="view-content">
+          <div><div class="views-field views-field-bando-al-informazione"><div class="field-content"><div class="paragraph paragraph--type--bp-card-action bgcolor-ebf0f6">
+  <div class="card-content">
+    <div class="bp-title">Per approfondire:</div>
+<div class="actionlink-wrapper alw-of alw-info alw-1"><div class="actionlink al-informazione al-informazioni"><a href="https://www.unimi.it/it/node/92">Come iscriversi</a></div></div>
+</div>
+</div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div>
+  </div>
+  </div>
+          </div>
+  
+    
+</div>
+
+  </div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Manifesto ed elenco insegnamenti</div>
+          <div  class="bottom20">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_3 js-view-dom-id-ec99c35e61e2e6e4f5cab7f2c047beece5eabd76ebf6bbdada1b133ef11a6bb0">
+  
+    
+      
+      <div class="view-content">
+          <div class="padl30 views-row"><div><span class="file">
+  <span class="file-icon" aria-hidden="true">
+    <span class="far fa-file"></span>
+  </span>
+  <span class="file-link"><a href="https://apps.unimi.it/files/manifesti/ita_manifesto_GBBof2_2027.pdf">Manifesto degli studi [GBBof2_2027]</a></span>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-piano-didattico field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_12 js-view-dom-id-47c17db57d4dc415ee00bd7f566a2c1e30f5e0c74985e404851bbe070fdae0af">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-rendered-entity"><span class="field-content">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+            <div class="field field--name-ugov-piano-didattico field--type-map field--label-hidden field--item"><div class="ugov_of_pd ugov_of_pd_type_2 ugov_of_pd_it">
+
+<div class="accordion bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="curr-accordion">
+      <div>
+    <!-- curr_default 0 - curr_number  - curr_tot_number 3 -->
+
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title" aria-expanded="false" aria-controls="curr-20270000gbbof2-GBB-A" role="button" href="#curr-20270000gbbof2-GBB-A">
+                  Curriculum: Development and innovation in the food system
+              </a>
+    </div>
+
+    <div id="curr-20270000gbbof2-GBB-A" class="panel-collapse collapse ">
+      <div class="panel-body">
+
+                  <ul class="nav nav-tabs ugov-of-pd-years">
+                          <li class="active"><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000gbbof2-GBB-A-0"><div>
+
+  Anno: 1
+</div>
+</a></li>
+                          <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000gbbof2-GBB-A-1"><div>
+
+  Anno: 2
+</div>
+</a></li>
+                          <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000gbbof2-GBB-A-2"><div>
+
+  Anno di corso a scelta dello studente
+</div>
+</a></li>
+                      </ul>
+        
+                  <div class="tab-content">
+                          <div id="ugov-of-pd-year-af-20270000gbbof2-GBB-A-0" class="tab-pane fade in active">
+                
+                                                                            <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/economia-e-politiche-del-sistema-alimentare">Economia e politiche del sistema alimentare</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/qualita-e-sicurezza-alimentare-attivita-regolatoria-e-sistemi-di-gestione-0">Qualità e sicurezza alimentare: attività regolatoria e sistemi di gestione</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/risorse-microbiche-il-sistema-alimentare-0">Risorse microbiche per il sistema alimentare</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-08/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tecnologie-e-impianti-processi-alimentari-sostenibili">Tecnologie e impianti per processi alimentari sostenibili</a>
+</td>
+<td data-title="Crediti massimi">9</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-04/B AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/alimentazione-e-promozione-della-salute-aspetti-nutrizionali-e-biochimici">Alimentazione e promozione della salute: aspetti nutrizionali e biochimici</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">70</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-07/A MEDS-08/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/funzioni-e-trasformazioni-chimiche-e-biochimiche-delle-molecole-negli-alimenti">Funzioni e trasformazioni chimiche e biochimiche delle molecole negli alimenti</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-07/A CHEM-02/A CHEM-07/B</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/progettazione-di-prodotti-e-processi-alimentari-mediante-quality-design-e-consumer-science-0">Progettazione di prodotti e processi alimentari mediante quality by design e consumer science</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Periodo non definito</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/accertamento-di-lingua-inglese-livello-b2-3-cfu">Accertamento di lingua inglese - livello b2 (3 CFU)</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Attività conclusive</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tirocinio-curriculare-internship/mentorship">Tirocinio curriculare (internship/mentorship)</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">20</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000gbbof2-GBB-A-1" class="tab-pane fade">
+                                  <div class="noteanno">sarà attivato dall&#039;A.A. 2027/2028</div>
+                
+                                                                            <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/advanced-dairy-technologies">Advanced dairy technologies</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/chemo-sensing-and-consumer-acceptability-food-innovation-0">Chemo-sensing and consumer acceptability for food innovation</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-07/A CHEM-05/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/enzymes-food-industry-0">Enzymes in food industry</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">BIOS-07/A CHEM-07/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/fermented-foods">Fermented foods</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-08/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/product-development-food-industry-challenges-0">Product development for food industry challenges</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/alternative-protein-sources-properties-and-processing-0">Alternative protein sources: properties and processing</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-05/A AGRI-07/A AGRI-08/A BIOS-07/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/innovation-food-packaging-0">Innovation in food packaging</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-07/A CHEM-07/B CHEM-07/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/process-and-product-innovation-cereals-and-pulses-0">Process and product innovation in cereals and pulses</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Attività conclusive</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/prova-finale-tesi-magistrale">Prova finale (tesi magistrale)</a>
+</td>
+<td data-title="Crediti massimi">22</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Regole di composizione</div>
+                                          <div class="ugov-of-pd-year-rules-1"><div> - Attività formative del curriculum Development and innovation in the food system<br/><br/>Lo studente deve acquisire 24 CFU scegliendo 4 insegnamenti tra quelli indicati:<br/>- almeno 1 insegnamento (6 CFU) deve essere scelto all'interno del Gruppo A</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-1">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/advanced-dairy-technologies">Advanced dairy technologies</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-07/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/fermented-foods">Fermented foods</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-08/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/product-development-food-industry-challenges-0">Product development for food industry challenges</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-07/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/process-and-product-innovation-cereals-and-pulses-0">Process and product innovation in cereals and pulses</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-07/A</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                                <div class="ugov-of-pd-year-rules-1"><div> - - almeno 1 insegnamento (6 CFU) deve essere scelto all'interno del Gruppo B</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-1">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/chemo-sensing-and-consumer-acceptability-food-innovation-0">Chemo-sensing and consumer acceptability for food innovation</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-07/A CHEM-05/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/enzymes-food-industry-0">Enzymes in food industry</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">BIOS-07/A CHEM-07/C</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/alternative-protein-sources-properties-and-processing-0">Alternative protein sources: properties and processing</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-05/A AGRI-07/A AGRI-08/A BIOS-07/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/innovation-food-packaging-0">Innovation in food packaging</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-07/A CHEM-07/B CHEM-07/C</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                            </div>
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000gbbof2-GBB-A-2" class="tab-pane fade">
+                
+                                                                            <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/biotechnological-production-food-ingredients">Biotechnological production of food ingredients</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-08/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/economics-and-management-innovation-food-system-0">Economics and management of the innovation in the food system</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/innovation-trends-products-animal-origin-0">Innovation trends in products of animal origin</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/medical-foods-0">Medical foods</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">MEDS-08/C</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/design-experiments-process-and-product-optimization-0">Design of experiments for process and product optimization</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/nanotechnology-food-industry-0">Nanotechnology in the food industry</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tailor-made-confectionery-products-raw-materials-and-technologies-0">Tailor-made confectionery products: raw materials and technologies</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/water-microbiology-0">Water microbiology</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-08/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Regole di composizione</div>
+                                          <div class="ugov-of-pd-year-rules-2"><div> - Lo studente/la studentessa ha a disposizione 8 CFU da destinare ad attività formative liberamente scelte tra gli insegnamenti offerti dall'Università degli Studi di Milano purché coerenti con il progetto formativo; nella tabella sottostante sono elencate le attività formative a libera scelta proposte dal Collegio Didattico di Scienze e Tecnologie Alimentari.<br/>Fino ad un massimo di 4 CFU possono eventualmente essere acquisiti seguendo con profitto seminari, convegni, corsi di aggiornamento, od altre attività organizzate dall'Ateneo o da un altro Ente: queste attività devono essere comunque certificate e possono essere intraprese soltanto dopo parere favorevole del Collegio Didattico. Per le regole da seguire nella scelta di queste attività si veda il paragrafo "Struttura del corso - presentazione del piano di studi".</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-2">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/biotechnological-production-food-ingredients">Biotechnological production of food ingredients</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-08/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/economics-and-management-innovation-food-system-0">Economics and management of the innovation in the food system</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-01/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/innovation-trends-products-animal-origin-0">Innovation trends in products of animal origin</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-07/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/medical-foods-0">Medical foods</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">MEDS-08/C</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/design-experiments-process-and-product-optimization-0">Design of experiments for process and product optimization</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-07/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/nanotechnology-food-industry-0">Nanotechnology in the food industry</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-07/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tailor-made-confectionery-products-raw-materials-and-technologies-0">Tailor-made confectionery products: raw materials and technologies</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-07/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/water-microbiology-0">Water microbiology</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-08/A</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                            </div>
+                
+              </div>
+                      </div>
+        
+        
+        
+      </div>
+    </div>
+  </div>
+  <div>
+    <!-- curr_default 0 - curr_number  - curr_tot_number 3 -->
+
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title" aria-expanded="false" aria-controls="curr-20270000gbbof2-GBB-B" role="button" href="#curr-20270000gbbof2-GBB-B">
+                  Curriculum: Gestione e qualità del sistema alimentare.
+              </a>
+    </div>
+
+    <div id="curr-20270000gbbof2-GBB-B" class="panel-collapse collapse ">
+      <div class="panel-body">
+
+                  <ul class="nav nav-tabs ugov-of-pd-years">
+                          <li class="active"><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000gbbof2-GBB-B-0"><div>
+
+  Anno: 1
+</div>
+</a></li>
+                          <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000gbbof2-GBB-B-1"><div>
+
+  Anno: 2
+</div>
+</a></li>
+                          <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000gbbof2-GBB-B-2"><div>
+
+  Anno di corso a scelta dello studente
+</div>
+</a></li>
+                      </ul>
+        
+                  <div class="tab-content">
+                          <div id="ugov-of-pd-year-af-20270000gbbof2-GBB-B-0" class="tab-pane fade in active">
+                
+                                                                            <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/economia-e-politiche-del-sistema-alimentare">Economia e politiche del sistema alimentare</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/qualita-e-sicurezza-alimentare-attivita-regolatoria-e-sistemi-di-gestione-0">Qualità e sicurezza alimentare: attività regolatoria e sistemi di gestione</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/risorse-microbiche-il-sistema-alimentare-0">Risorse microbiche per il sistema alimentare</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-08/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tecnologie-e-impianti-processi-alimentari-sostenibili">Tecnologie e impianti per processi alimentari sostenibili</a>
+</td>
+<td data-title="Crediti massimi">9</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-04/B AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/alimentazione-e-promozione-della-salute-aspetti-nutrizionali-e-biochimici">Alimentazione e promozione della salute: aspetti nutrizionali e biochimici</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">70</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-07/A MEDS-08/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/funzioni-e-trasformazioni-chimiche-e-biochimiche-delle-molecole-negli-alimenti">Funzioni e trasformazioni chimiche e biochimiche delle molecole negli alimenti</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-07/A CHEM-02/A CHEM-07/B</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/progettazione-di-prodotti-e-processi-alimentari-mediante-quality-design-e-consumer-science-0">Progettazione di prodotti e processi alimentari mediante quality by design e consumer science</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Periodo non definito</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/accertamento-di-lingua-inglese-livello-b2-3-cfu">Accertamento di lingua inglese - livello b2 (3 CFU)</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Attività conclusive</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tirocinio-curriculare-internship/mentorship">Tirocinio curriculare (internship/mentorship)</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">20</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000gbbof2-GBB-B-1" class="tab-pane fade">
+                                  <div class="noteanno">sarà attivato dall&#039;A.A. 2027/2028</div>
+                
+                                                                            <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/automazione-robotica-e-intelligenza-artificiale-lindustria-alimentare-0">Automazione, robotica e intelligenza artificiale per l&#039;industria alimentare</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-04/B</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/contaminanti-di-origine-biotica-e-xenobiotici-nelle-matrici-alimentari-0">Contaminanti di origine biotica e xenobiotici nelle matrici alimentari</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-05/A AGRI-05/B</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/marketing-dei-prodotti-agro-alimentari-0">Marketing dei prodotti agro-alimentari</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/metodi-analitici-e-chemiometrici-la-valutazione-dellintegrita-alimentare-0">Metodi analitici e chemiometrici per la valutazione dell&#039;integrità alimentare</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-07/A CHEM-01/A CHEM-05/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/struttura-degli-alimenti-concetti-e-metodi-0">Struttura degli alimenti: concetti e metodi</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/recupero-e-valorizzazione-di-sottoprodotti-e-scarti-alimentari-0">Recupero e valorizzazione di sottoprodotti e scarti alimentari</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-06/B AGRI-07/A CHEM-05/A CHEM-07/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/shelf-life-dei-prodotti-alimentari-0">Shelf-life dei prodotti alimentari</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-07/A AGRI-08/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tracciabilita-molecolare-degli-alimenti-0">Tracciabilità molecolare degli alimenti</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-07/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Attività conclusive</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/prova-finale-tesi-magistrale">Prova finale (tesi magistrale)</a>
+</td>
+<td data-title="Crediti massimi">22</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Regole di composizione</div>
+                                          <div class="ugov-of-pd-year-rules-1"><div> - Attività formative del curriculum Gestione e qualità del sistema alimentare<br/><br/>Lo studente deve acquisire 24 CFU scegliendo 4 insegnamenti tra quelli indicati:<br/>- almeno 1 insegnamento (6 CFU) deve essere scelto all'interno del Gruppo A<br/>(gli insegnamenti "Automazione, robotica e intelligenza artificiale per l'industria alimentare" e "Marketing dei prodotti agroalimentari" sono in alternativa tra loro; lo studente può quindi sceglierne uno solo)</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-1">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/automazione-robotica-e-intelligenza-artificiale-lindustria-alimentare-0">Automazione, robotica e intelligenza artificiale per l&#039;industria alimentare</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-04/B</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/marketing-dei-prodotti-agro-alimentari-0">Marketing dei prodotti agro-alimentari</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-01/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/struttura-degli-alimenti-concetti-e-metodi-0">Struttura degli alimenti: concetti e metodi</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-07/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tracciabilita-molecolare-degli-alimenti-0">Tracciabilità molecolare degli alimenti</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">BIOS-07/A</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                                <div class="ugov-of-pd-year-rules-1"><div> - - almeno 1 insegnamento (6 CFU) deve essere scelto all'interno del Gruppo B</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-1">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/contaminanti-di-origine-biotica-e-xenobiotici-nelle-matrici-alimentari-0">Contaminanti di origine biotica e xenobiotici nelle matrici alimentari</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-05/A AGRI-05/B</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/metodi-analitici-e-chemiometrici-la-valutazione-dellintegrita-alimentare-0">Metodi analitici e chemiometrici per la valutazione dell&#039;integrità alimentare</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-07/A CHEM-01/A CHEM-05/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/recupero-e-valorizzazione-di-sottoprodotti-e-scarti-alimentari-0">Recupero e valorizzazione di sottoprodotti e scarti alimentari</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-06/B AGRI-07/A CHEM-05/A CHEM-07/C</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/shelf-life-dei-prodotti-alimentari-0">Shelf-life dei prodotti alimentari</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-07/A AGRI-08/A</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                            </div>
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000gbbof2-GBB-B-2" class="tab-pane fade">
+                
+                                                                            <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/biotechnological-production-food-ingredients">Biotechnological production of food ingredients</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-08/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/economics-and-management-innovation-food-system-0">Economics and management of the innovation in the food system</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/innovation-trends-products-animal-origin-0">Innovation trends in products of animal origin</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/medical-foods-0">Medical foods</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">MEDS-08/C</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/design-experiments-process-and-product-optimization-0">Design of experiments for process and product optimization</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/nanotechnology-food-industry-0">Nanotechnology in the food industry</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tailor-made-confectionery-products-raw-materials-and-technologies-0">Tailor-made confectionery products: raw materials and technologies</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-07/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/water-microbiology-0">Water microbiology</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-08/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Regole di composizione</div>
+                                          <div class="ugov-of-pd-year-rules-2"><div> - Lo studente/la studentessa ha a disposizione 8 CFU da destinare ad attività formative liberamente scelte tra gli insegnamenti offerti dall'Università degli Studi di Milano purché coerenti con il progetto formativo; nella tabella sottostante sono elencate le attività formative a libera scelta proposte dal Collegio Didattico di Scienze e Tecnologie Alimentari.<br/>Fino ad un massimo di 4 CFU possono eventualmente essere acquisiti seguendo con profitto seminari, convegni, corsi di aggiornamento, od altre attività organizzate dall'Ateneo o da un altro Ente: queste attività devono essere comunque certificate e possono essere intraprese soltanto dopo parere favorevole del Collegio Didattico. Per le regole da seguire nella scelta di queste attività si veda il paragrafo "Struttura del corso - presentazione del piano di studi".</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-2">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/biotechnological-production-food-ingredients">Biotechnological production of food ingredients</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-08/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/economics-and-management-innovation-food-system-0">Economics and management of the innovation in the food system</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-01/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/innovation-trends-products-animal-origin-0">Innovation trends in products of animal origin</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-07/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/medical-foods-0">Medical foods</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">MEDS-08/C</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/design-experiments-process-and-product-optimization-0">Design of experiments for process and product optimization</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-07/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/nanotechnology-food-industry-0">Nanotechnology in the food industry</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-07/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tailor-made-confectionery-products-raw-materials-and-technologies-0">Tailor-made confectionery products: raw materials and technologies</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">40</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-07/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/water-microbiology-0">Water microbiology</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">36</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-08/A</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                            </div>
+                
+              </div>
+                      </div>
+        
+        
+        
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Altre informazioni</div>
+    <div class="mobile-tab field-group-tabs-wrapper"><div data-vertical-tabs-panes><input class="vertical-tabs__active-tab" type="hidden" /><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-aiuto-e-orientamento">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-aiuto-e-orientamento--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-aiuto-e-orientamento--content">Aiuto e orientamento</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-aiuto-e-orientamento--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-aiuto-e-orientamento field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_48 js-view-dom-id-38a6b1db610731735c3bcbaa2d2e9a425c1fd9b06e85aa31ae7459fc5ddbdf57">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-view"><span class="field-content"><div class="view view-paragrafi view-id-paragrafi view-display-id-block_2 js-view-dom-id-07104cb6cb4175ae08ed0a3e42b484ecf4e53efd507533dd0d95be50888265be">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id='parid-16321'  class="paragraph paragraph--type--bp-simple paragraph--view-mode--default paragraph--id--16321">
+  <div class="paragraph__column">
+    
+    
+<div  class="box-content">
+    
+<div  id="imgplace" class="imgplace">
+    <div class="bp-text"><p>Orientamento:</p>
+
+<ul>
+	<li><a href="https://www.unimi.it/it/node/66">Scegliere il corso giusto: i servizi del centro di orientamento di Ateneo</a></li>
+</ul>
+
+<p>Info su ammissioni e immatricolazioni</p>
+
+<ul>
+	<li><a href="https://www.unimi.it/it/node/359/">Contatta le segreterie</a></li>
+	<li><a href="https://informastudenti.unimi.it/saw/ess?AUTH=SAML">Sportello online <strong>InformaStudenti</strong></a></li>
+	<li>Studenti internazionali:<a href="https://www.unimi.it/it/node/352/">&nbsp;welcome desk</a></li>
+	<li><a href="https://www.unimi.it/it/node/35900">Studenti con disabilità</a></li>
+	<li><a href="https://www.unimi.it/it/node/35899">Studenti con DSA</a></li>
+</ul></div>
+  </div>
+  </div>
+  </div>
+</div>
+
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-location">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-location--content" aria-expanded="true" aria-pressed="true" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-location--content">Sede</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-location--content" class="panel-body panel-collapse collapse fade in">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-sedi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_13 js-view-dom-id-d0e4c7321426453db08bbc81be946c3cdf7d75ff8477bb397d00e13b77afc75a">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-polo-fisico"><div class="field-content">Milano</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-reference-professors-and-c">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-reference-professors-and-c--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-reference-professors-and-c--content">Referenti e contatti</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-reference-professors-and-c--content" class="panel-body panel-collapse collapse fade">
+            
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-presidente-collegio field--type-ds field--label-above">
+    <div class="field--label">Presidente del Collegio didattico</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_33 js-view-dom-id-ba8c5270af5c5ef5560f7324f4d7199b6abddae5d181c860ba7f38d62c010740">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/francesco-molinari" hreflang="it">Molinari Francesco Enzo</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-riferimenti-1 field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_14 js-view-dom-id-f5e32dfb1e20032cc93f05fa23f2864fe68c1b8394e78f90246dd33daebf1cdd">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-orientamento field--type-ds field--label-above">
+    <div class="field--label">Tutor per l'orientamento</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_36 js-view-dom-id-458b8fbeba843e11c96de37b1b39ab0149ddf045a4e616776f08f5b7265f5241">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/stefania-arioli" hreflang="it">Arioli Stefania</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/silvia-grassi" hreflang="it">Grassi Silvia</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/stefania-iametti" hreflang="it">Iametti Stefania</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/manuela-rollini" hreflang="it">Rollini Manuela Silvia</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-erasmus field--type-ds field--label-above">
+    <div class="field--label">Tutor per la mobilità internazionale e l'Erasmus</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_37 js-view-dom-id-bc57f483be79a52a8b786a3849f7309b5df636ca9291f9939bd0a1c0aa982964">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/alberto-barbiroli" hreflang="it">Barbiroli Alberto Giuseppe</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-referente-aq field--type-ds field--label-above">
+    <div class="field--label">Referente AQ del corso di studio</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_35 js-view-dom-id-90e8245faba1af3198b4dd08345f69f0228be0e999dd9e9b7b7cd17561df117d">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/manuela-rollini" hreflang="it">Rollini Manuela Silvia</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-strutture field--type-ds field--label-above">
+    <div class="field--label">Strutture di riferimento</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_16 js-view-dom-id-151197fe61cf54ef3af69577df23076f34c95f1ca03b442b7b8dd7b4217b78b5">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-scienze-gli-alimenti-la-nutrizione-e-lambiente" hreflang="it">Dipartimento di Scienze per gli Alimenti, la Nutrizione e l&#039;Ambiente</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-scienze-agrarie-e-ambientali-produzione-territorio-agroenergia" hreflang="it">Dipartimento di Scienze Agrarie e Ambientali - Produzione, Territorio, Agroenergia</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-scienze-e-politiche-ambientali" hreflang="it">Dipartimento di Scienze e Politiche Ambientali</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-riferimenti-2 field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_15 js-view-dom-id-111a6ea0cec8222f67cfe230ae02922a59bbdbbca3f4fc52a73ac38e06aae152">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div><span class="field--label">Contatti</span><div class="field--type-text-long"><ul><li>Presidenza del corso di laurea<br><a href="/cdn-cgi/l/email-protection#52222037213b36373c28337f2126333e12273c3b3f3b7c3b26"><span class="__cf_email__" data-cfemail="9aeae8ffe9f3fefff4e0fbb7e9eefbf6daeff4f3f7f3b4f3ee">[email&#160;protected]</span></a><br><a href="tel:+390250319148">+390250319148</a></li><li>Segreteria didattica della Facoltà di Scienze agrarie e alimentari (Settore SE.FA. Area Scientifico Tecnologica)<br>via Celoria 2 - Milano Città Studi<br><a href="/cdn-cgi/l/email-protection#c380acadb7a2b7b7acf9e3abb7b7b3b0f9ececaaada5acb1aea2b0b7b6a7a6adb7aaedb6adaaaeaaedaab7ecb0a2b4eca6b0b0fc8296978bfe90828e8f">Contatto: https://informastudenti.unimi.it/saw/ess?AUTH=SAML</a><br><a href="tel:+390250316511">+390250316511</a><br>Orario di apertura al pubblico: lunedì dalle 10 alle 12 e dalle 14 alle 16</li><li>Segreteria Studenti<br>via Celoria 18 - Milano Città Studi<br><a href="https://www.unimi.it/it/node/359" title="Apri la pagina in una nuova finestra" onclick="window.open(this.href);return false">https://www.unimi.it/it/node/359</a><br><a href="tel:+390250325032">+390250325032</a><br><a href="https://www.unimi.it/it/node/360">https://www.unimi.it/it/node/360</a></li></ul></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-bando-scadenze">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-bando-scadenze--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-bando-scadenze--content">Costi e agevolazioni</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-bando-scadenze--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-blocco-action field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_47 js-view-dom-id-5f5d5dacb9f2f122d283dc5b27b3b8a5b10f57ccde6acc1863ce00bea7e08fd2">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-view"><span class="field-content"><div class="view view-paragrafi view-id-paragrafi view-display-id-block_1 js-view-dom-id-f057b091608c30edd364a4bf3c50ff06373d403d7fb3785a27e7cf08751ab9e3">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id='parid-11581'  class="paragraph paragraph--type--bp-simple paragraph--view-mode--default paragraph--id--11581">
+  <div class="paragraph__column">
+    
+    
+<div  class="box-content">
+    
+<div  id="imgplace--2" class="imgplace">
+    <div class="bp-text"><p>Le tasse universitarie per gli studenti iscritti ai corsi di laurea, di laurea magistrale e a ciclo unico sono suddivise in due rate:</p><ul><li>la <strong>prima rata</strong> ha importo uguale per tutti e si paga al momento dell’immatricolazione;</li><li>la<strong> seconda rata  </strong>varia in base al valore ISEE Università e al Corso di laurea;</li><li>per gli <strong>studenti internazionali </strong>con redditi e patrimoni all’estero la seconda rata varia in base al Paese di provenienza</li></ul><p><strong>Diritto allo studio e altre agevolazioni&nbsp;</strong>&nbsp;</p><p>L’Ateneo prevede borse di studio, mense, alloggi e altre agevolazioni a favore dei propri studenti con specifici requisiti di merito e condizioni economiche.</p><p><strong>Maggiori informazioni</strong></p></div>
+  </div>
+<div  class="correlati-content top20">
+    
+<ul>        <li class="bp-link odd first"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare">Come e quanto pagare</a></li>      <li class="bp-link even first"><a href="/it/studiare/borse-premi-mense-e-alloggi">Borse, premi, mense e alloggi </a></li>      <li class="bp-link odd first"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare/esonero-tasse">Esonero tasse</a></li>        <li class="bp-link even first last"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare/iscrizioni-tempo-parziale">Iscrizioni a tempo parziale</a></li></ul>
+
+  </div>
+  </div>
+  </div>
+</div>
+
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+</div>
+</div>
+  </div>
+  </div>
+  
+  
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    
+<div  class="paragraph--type--bp-links box-fullbg riquadro bottom40">
+  <div class="bp-title">Documenti ufficiali</div>
+          <div  class="top10">
+        
+            <div  class="top0">
+                  <div class="media media--type-file media--view-mode-default ds-1col clearfix">
+
+  
+
+        <span  class="file-link">
+        
+            <span class="file file--mime-application-pdf file--application-pdf icon-before"><span class="file-icon" aria-hidden="true"><span class="far fa-file"></span></span><span class="file-link"><a href="https://www.unimi.it/sites/default/files/2025-10/RegolamentoScienze%20e%20tecnologie%20alimentari.pdf" type="application/pdf; length=376471" title="RegolamentoScienze e tecnologie alimentari.pdf [367.65 KB] - the file opens in new window" target="_blank">Regolamento didattico</a></span></span>
+      
+  
+    </span>
+
+
+
+</div>
+
+
+      
+      </div>
+  
+    </div>
+
+
+  </div><div class="accordion top40 bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--11">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--11--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--11--content">Altre offerte</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--11--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-elenco-cdsi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi view-id-w4_cdsi view-display-id-block_12 js-view-dom-id-5a7a79d336639601b30a8f01909bc2f6b331d4595281060c7810643ed240c1d7">
+  
+    
+      
+      <div class="view-content">
+          <div class="area-"><div class="view view-w4-cdsi view-id-w4_cdsi view-display-id-block_11 js-view-dom-id-4c3b554cd7ed3bbf950c59269891f4aff80d6dcdcf484cccd0fb0ba1971e9e41">
+  
+    
+      
+      <div class="view-content">
+        <h3>A.A. 2026/2027</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2026/2027/scienze-e-tecnologie-alimentari-classe-lm-70-r-immatricolati-nellanno-accademico-2026/2027" hreflang="it">Scienze e tecnologie alimentari (Classe LM-70 R)-immatricolati nell&#039;anno accademico 2026/2027</a> [GBBof2 2027]</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2026/2027/scienze-e-tecnologie-alimentari-classe-lm-70-r-immatricolati-nellanno-accademico-2025/2026" hreflang="it">Scienze e tecnologie alimentari (Classe LM-70 R)-immatricolati nell&#039;anno accademico 2025/2026</a> [GBBof1 2027]</span></div></div>
+  <h3>A.A. 2025/2026</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2025/2026/scienze-e-tecnologie-alimentari-classe-lm-70-r-immatricolati-nellanno-accademico-2025/26" hreflang="it">Scienze e tecnologie alimentari (Classe LM-70 R)-immatricolati nell&#039;anno accademico 2025/26</a> [GBBof1 2026]</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2025/2026/scienze-e-tecnologie-alimentari-classe-lm-70-immatricolati-dallanno-accademico-2008/09-allanno" hreflang="it">Scienze e tecnologie alimentari (Classe LM-70)-immatricolati dall&#039;anno accademico 2008/09 all&#039;anno accademico 2024/25</a> [G60of1 2026]</span></div></div>
+  <h3>A.A. 2024/2025</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2024/2025/scienze-e-tecnologie-alimentari-classe-lm-70-immatricolati-dallanno-accademico-2008/09" hreflang="it">Scienze e tecnologie alimentari (Classe LM-70)-immatricolati dall&#039;anno accademico 2008/09</a> [G60of1 2025]</span></div></div>
+  <h3>A.A. 2023/2024</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2023/2024/scienze-e-tecnologie-alimentari-classe-lm-70-immatricolati-dallanno-accademico-2008/09" hreflang="it">Scienze e tecnologie alimentari (Classe LM-70)-immatricolati dall&#039;anno accademico 2008/09</a> [G60of1 2024]</span></div></div>
+  <h3>A.A. 2022/2023</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2022/2023/scienze-e-tecnologie-alimentari-classe-lm-70-immatricolati-dallanno-accademico-2008/09" hreflang="it">Scienze e tecnologie alimentari (Classe LM-70)-immatricolati dall&#039;anno accademico 2008/09</a> [G60of1 2023]</span></div></div>
+  <h3>A.A. 2021/2022</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2021/2022/scienze-e-tecnologie-alimentari-classe-lm-70-immatricolati-dallanno-accademico-2008/09" hreflang="it">Scienze e tecnologie alimentari (Classe LM-70)-immatricolati dall&#039;anno accademico 2008/09</a> [G60of1 2022]</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+
+  </div>
+  
+</div>
+
+
+<section id="block-cookiesui" class="block block-cookies block-cookies-ui-block clearfix">
+  
+    
+
+        
+<div id="cookiesjsr"></div>
+
+  </section>
+
+
+  </div>
+
+              </section>
+
+                </div>
+  </div>
+
+      <footer class="footer full-width">
+      <div class="container">
+          <div class="region region-footer">
+    <nav role="navigation" aria-labelledby="block-piedipagina-menu" id="block-piedipagina" class="col-sm-3 top10">
+      
+  <h2 id="block-piedipagina-menu">Strutture</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/corsi/facolta-e-scuole" data-drupal-link-system-path="node/710">Facoltà e scuole</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/dipartimenti" title="Tutti i dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/uffici-e-strutture" data-drupal-link-system-path="node/1218">Uffici</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-3-menu" id="block-piedipagina-3" class="col-sm-3 block-servizi top10">
+      
+  <h2 id="block-piedipagina-3-menu">Servizi</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/biblioteche" data-drupal-link-system-path="node/464">Servizio bibliotecario</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-studenti-con-disabilita" title="Servizi di orientamento, accoglienza, supporto allo studio e alla mobilità" data-drupal-link-system-path="node/35900">Servizi per studenti con disabilità</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-studenti-con-dsa" title="Servizi per studenti con Disturbi Specifici dell&#039;Apprendimento" data-drupal-link-system-path="node/35899">Servizi per studenti con DSA</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-tecnologici-e-online" data-drupal-link-system-path="node/393">Servizi tecnologici</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-4-menu" id="block-piedipagina-4" class="col-sm-3 top10">
+      
+  <h2 id="block-piedipagina-4-menu">Concorsi, selezioni e gare</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-professori" data-drupal-link-system-path="node/577">Professori </a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-ricercatori" data-drupal-link-system-path="node/12942">Ricercatori</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-personale-tecnico-amministrativo" title="Bandi PTAB" data-drupal-link-system-path="node/576">Tecnici amministrativi e bibliotecari</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/consulenze-e-collaborazioni" data-drupal-link-system-path="node/500">Consulenze e collaborazioni</a>
+              </li>
+                      <li>
+                                        <a href="/it/ricerca/fare-ricerca-da-noi/incarichi-di-ricerca/bandi-incarichi-di-ricerca" title="Bandi incarichi di ricerca" data-drupal-link-system-path="node/53011">Incarichi di ricerca</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/bandi-di-gare-e-contratti" title="Bandi di gara e contratti" data-drupal-link-system-path="node/1227">Gare e contratti</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-2-menu" id="block-piedipagina-2" class="col-sm-3 buttonlist block-comefareper">
+            
+  <h2 class="visually-hidden" id="block-piedipagina-2-menu">Come fare per</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/corsi/orientarsi-e-scegliere" data-drupal-link-system-path="node/727">Orientarsi e scegliere</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contattare l&#039;Università</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti/fai-sentire-la-tua-voce" title="Fai sentire la tua voce" data-drupal-link-system-path="node/54275">Fai sentire la tua voce</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/fundraising" data-drupal-link-system-path="node/1223">Fundraising</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/studiare/vivere-luniversita/unimi-store-il-merchandising-delluniversita-degli-studi-di-milano" title="Unimi Store" data-drupal-link-system-path="node/45180">Unimi Store</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-5-menu" id="block-piedipagina-5" class="col-sm-12 col-md-12 col-lg-12 links_list_inline block-menu-footer">
+            
+  <h2 class="visually-hidden" id="block-piedipagina-5-menu">footer</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/ateneo/amministrazione-trasparente" data-drupal-link-system-path="node/12893">Amministrazione trasparente</a>
+              </li>
+                      <li>
+                                        <a href="https://form.agid.gov.it/view/b6345040-993a-11f0-b789-d70c35e61f53" title="Dichiarazione di accessibilità">Dichiarazione di accessibilità</a>
+              </li>
+                      <li>
+                                        <a href="/it/privacy-e-cookie" data-drupal-link-system-path="node/7393">Privacy e cookie</a>
+              </li>
+                      <li>
+                                        <a href="#editCookieSettings">Cookie settings</a>
+              </li>
+                      <li>
+                                        <a href="/it/note-legali" data-drupal-link-system-path="node/7394">Note legali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/sitemap" data-drupal-link-system-path="sitemap">Mappa del sito</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-footertext" class="col-sm-4 col-lg-3 block-footertext block block-block-content block-block-content5af82d4a-b448-4107-a29a-5bfa144da5b5 clearfix">
+  
+    
+
+      
+  <div class="field field--name-field-testo field--type-text-long field--label-visually_hidden">
+    <div class="field--label sr-only">Testo</div>
+              <div class="field--item"><p>Università degli Studi di Milano<br>
+Via Festa del Perdono 7 - 20122 Milano<br>
+<a href="tel:+390250325032">Tel: +39 02 5032 5032</a><br>
+<a href="https://informastudenti.unimi.it/saw/ess?AUTH=SAML">InformaStudenti</a><br>
+<a href="/posta-elettronica-certificata-pec">Posta Elettronica Certificata</a><br>
+C.F. 80012650158 - P.I. 03064870151<br>
+<a href="https://www.registrolei.it/leicert/?lei=9845000B7798E81BEB72">Codice LEI</a><br>
+©Copyright 2025</p></div>
+          </div>
+
+  </section>
+
+<nav role="navigation" aria-labelledby="block-social-menu" id="block-social" class="col-sm-5 col-lg-6 links_list_inline block-social">
+            
+  <h2 class="visually-hidden" id="block-social-menu">social</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="https://lastatalenews.unimi.it/" title="News">News</a>
+              </li>
+                      <li>
+                                        <a href="https://video.unimi.it/" title="PortaleVideo">PortaleVideo</a>
+              </li>
+                      <li>
+                                        <a href="https://www.facebook.com/laStatale/" title="facebook">facebook</a>
+              </li>
+                      <li>
+                                        <a href="https://www.instagram.com/lastatale_milano_official/" title="Instagram">Instagram</a>
+              </li>
+                      <li>
+                                        <a href="http://twitter.com/LaStatale" title="twitter">twitter</a>
+              </li>
+                      <li>
+                                        <a href="https://www.youtube.com/user/UnimiVideo" title="youtube">youtube</a>
+              </li>
+                      <li>
+                                        <a href="https://www.linkedin.com/school/university-of-milan" title="linkedin">linkedin</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.spreaker.com/user/16503036" title="LaStatale podcast">LaStatale podcast</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-logofooter" class="col-sm-3 col-lg-3 block-logofooter block block-block-content block-block-content2c04e5b1-54ed-4593-a8b3-db0218705c4d clearfix">
+  
+    
+
+      
+  <div class="field field--name-field-logo field--type-entity-reference field--label-visually_hidden">
+    <div class="field--label sr-only">Logo</div>
+              <div class="field--item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+          
+              <img loading="lazy" src="/sites/default/files/2019-05/LogoFooter_a9f0c3692bf29c71609e5f204522c5d4_0.png" width="488" height="164" alt="Università degli Studi di Milano" class="img-responsive rs_skip" />
+
+
+      
+  
+
+
+    </div>
+  </div>
+
+</div>
+          </div>
+
+  </section>
+
+
+  </div>
+
+      </div>
+    </footer>
+  
+
+
+  </div>
+
+    
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/sites/default/files/js/js_Hfl5TWGPoiw8m71d7OKJb2ZY2E6075w3f6a1Dy-5PaI.js?scope=footer&amp;delta=0&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="https://cdn.jsdelivr.net/gh/jfeltkamp/cookiesjsr@1/dist/cookiesjsr-preloader.min.js" defer></script>
+<script src="/sites/default/files/js/js_ZsyWzDxLX0OwMesgXZHsDeMoCWZl-EQtw1NZwgt5HiM.js?scope=footer&amp;delta=2&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="/modules/contrib/google_tag/js/gtag.ajax.js?tlncrt" type="text/plain" id="cookies_gtag_gtag_ajax" data-cookieconsent="gtag"></script>
+<script src="/sites/default/files/js/js_DRmM7Xhr9JVeKzDdk7xyocoDB_WQpxS0ChAS0Ix3iuU.js?scope=footer&amp;delta=4&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"55deaaaf42984e8db8c703ed1c4d39a5","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

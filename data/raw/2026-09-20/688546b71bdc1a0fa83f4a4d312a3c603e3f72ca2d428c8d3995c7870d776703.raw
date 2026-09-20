@@ -1,0 +1,1991 @@
+<!DOCTYPE html>
+<html  lang="it" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.unimi.it/it/corsi/laurea-triennale/biotecnologie-mediche" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="unimi-published" content="2019/02/27" />
+<meta name="unimi-last-modified" content="2026/03/31" />
+<link rel="icon" href="/sites/default/files/favicon_0_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="it" href="https://www.unimi.it/it/corsi/laurea-triennale/biotecnologie-mediche" />
+<link rel="alternate" hreflang="en" href="https://www.unimi.it/en/education/bachelor/medical-biotechnology" />
+
+    <title>Biotecnologie mediche | Università degli Studi di Milano Statale</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_ypd-FuAFnkm6TvFwpk_wsW3XFyhEw35mMoWt9mpQf_Y.css?delta=0&amp;language=it&amp;theme=unimi&amp;include=eJyVUtFuwyAM_CEaPikywUm8GowwpM2-fknL2m6alO4FfOeTjfE5hs_VOlA0TqRoyZD6BBmmLZjVPsjTkzSDyJlQbbs7Jveb-9DcaVkZd3VG63NNwB18wNWMEgtcUCWgfYm7C7odaucyRK_HuqFqkXCs81WKRDwWZpwqQz4W6gw5MU1zeVP7v8oqTP4N7XuyMlM05DC71OO1_LnT05YwDKvU0nvSQRbMq90-bRA2L35oe3wyXY2pOiad0Zs6ydLLaCcWB3yHiX_AXF2mAR4cFwoYq5VxHCAusE01AOP24kdKzxS3NhTI3M7nAA03zzV0G7rF9y6n3YkUp0Z-FzYL5N35fUBPsFUJQaJZCC9qb2cXxFfGL_u1PmI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_xsPH_WNFWXqnuxvebu8bjQC9oVmJ2c_0_aVIEFBeeZw.css?delta=1&amp;language=it&amp;theme=unimi&amp;include=eJyVUtFuwyAM_CEaPikywUm8GowwpM2-fknL2m6alO4FfOeTjfE5hs_VOlA0TqRoyZD6BBmmLZjVPsjTkzSDyJlQbbs7Jveb-9DcaVkZd3VG63NNwB18wNWMEgtcUCWgfYm7C7odaucyRK_HuqFqkXCs81WKRDwWZpwqQz4W6gw5MU1zeVP7v8oqTP4N7XuyMlM05DC71OO1_LnT05YwDKvU0nvSQRbMq90-bRA2L35oe3wyXY2pOiad0Zs6ydLLaCcWB3yHiX_AXF2mAR4cFwoYq5VxHCAusE01AOP24kdKzxS3NhTI3M7nAA03zzV0G7rF9y6n3YkUp0Z-FzYL5N35fUBPsFUJQaJZCC9qb2cXxFfGL_u1PmI" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"it\/","currentPath":"node\/13100","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"it"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyVU9GSgyAM_CEqn-QEiZgrECaAPe_rD1tP7c3NtPeC2c0GQlyMh69FG-IOPuBTGeaSi0DSe9QnwZ4ilVMyceIZ5cQUZl8oqVMZCLgWTPnY63KQamC-Ema9fT-ydIONf9G5LB73gn4kX1D0M9yzDjRE8Euh4ShxBZxel8YIais1ge8G9h5SxieyXauVgr8UMFmNHAvcMHNAfYq7G5oV5s4IRPuGbqi5cHits5ULR3wtFHTVg7wW5gkkeXJTeVP7v50ze7JvaN-TlYmicszOY7__s1_44dQnMigyKCb1-Fn-dNulJZSHhWvpLeVhde-i26CbB9TJqZsJDqarMVXjKU9oVXU89zxq59mAf8Dkn6BUI80-O9ceRcBYdTtfIB94gmCquGbcneJxHCDO0IbV_IdtEHsqXym2TiiQuq8aUjtlomp_iP3SG96cv6H7cLf40dllfVQU3UamNhuUXjDTF26cINicEK5rk3fmp58N3oD6AM3WrGYQAxn7gJagHR4CRzUT3rK-r49_diYC2-rxG3y5xq8","theme":"unimi","theme_token":null},"ajaxTrustedUrl":[],"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"google\nnonGooglePixels\nnonGoogleScripts\nnonGoogleIframes","blocklist_classes":"customScripts\ncustomPixels","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-PNWRPR"]},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"600","tooltip_html":1,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"cookies":{"cookiesjsr":{"config":{"cookie":{"name":"cookiesjsr","expires":15552000000,"domain":"","sameSite":"Lax","secure":false},"library":{"libBasePath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist","libPath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist\/cookiesjsr.min.js","scrollLimit":0},"callback":{"method":"post","url":"\/it\/cookies\/consent\/callback.json","headers":[]},"interface":{"openSettingsHash":"#editCookieSettings","showDenyAll":true,"denyAllOnLayerClose":false,"settingsAsLink":false,"availableLangs":["it","en"],"defaultLang":"it","groupConsent":false,"cookieDocs":true}},"services":{"functional":{"id":"functional","services":[{"key":"functional","type":"functional","name":"Required functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EDefault expiration time\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EDescription\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 month\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EIf you are logged in to this website, a session cookie is required to identify and connect your browser to your user account in the server backend of this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 year\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWhen you visited this website for the first time, you were asked for your permission to use several services (including those from third parties) that require data to be saved in your browser (cookies, local storage). Your decisions about each service (allow, deny) are stored in this cookie and are reused each time you visit this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"full_html"},"uri":"","needConsent":false}],"weight":1},"tracking":{"id":"tracking","services":[{"key":"analytics","type":"tracking","name":"Google Analytics","info":{"value":"","format":"full_html"},"uri":"","needConsent":true},{"key":"matomo","type":"tracking","name":"Matomo","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"new_relic","type":"tracking","name":"New Relic","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true}],"weight":10},"performance":{"id":"performance","services":[{"key":"gtag","type":"performance","name":"Google Tag Manager","info":{"value":"","format":"full_html"},"uri":"","needConsent":true},{"key":"infogram_","type":"performance","name":"Infogram ","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"microsoft_power_bi","type":"performance","name":"Microsoft Power BI","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"openstreetmap","type":"performance","name":"OpenStreetMap","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true}],"weight":30},"video":{"id":"video","services":[{"key":"video","type":"video","name":"Video forniti da YouTube, Vimeo","info":{"value":"","format":"full_html"},"uri":"","needConsent":true}],"weight":40}},"translation":{"_core":{"default_config_hash":"C8aQz-3d6YpwuU4QQc1iaWHb3RDkc_C9qcEsgR7HR74"},"langcode":"it","bannerText":"Questo sito utilizza cookie tecnici e di profilazione, propri e di terze parti, per garantire la corretta navigazione, analizzare il traffico e misurare l\u0027efficacia delle attivit\u00e0 di comunicazione istituzionale.\r\nSe prosegui la navigazione o clicchi su \u0022Accetta tutti\u0022 ne acconsenti l\u0027utilizzo, oppure puoi personalizzare la scelta salvando le tue preferenze e scegliendo quali cookie attivare.\r\nPer maggiori informazioni e per sapere come gestirli clicca sul bottone \u0022Impostazione dei cookie\u0022.","privacyPolicy":"Privacy policy","privacyUri":"https:\/\/www.unimi.it\/it\/ateneo\/normative\/privacy","imprint":"Imprint","imprintUri":"","cookieDocs":"Documentazione cookie","cookieDocsUri":"https:\/\/www.unimi.it\/it\/privacy-e-cookie","officialWebsite":"Official website","denyAll":"Rifiuta tutti","alwaysActive":"Sempre Attivo","settings":"Impostazione dei cookie","acceptAll":"Accetta tutti","requiredCookies":"Cookie necessari","cookieSettings":"Impostazione dei cookie","close":"Chiudi","readMore":"Leggi tutto","allowed":"","denied":"negato","settingsAllServices":"Impostazioni per tutti i servizi di cookie","saveSettings":"Salva le impostazioni","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Azienda","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies","functional":{"title":"Functional","details":"I cookie sono piccoli file di testo che il Sito invia al terminale dell\u0027utente, dove sono memorizzati per poi essere ritrasmessi al sito alla visita successiva."},"tracking":{"title":"Cookie di tracciamento","details":"L\u0027utilizzo dei cookie di tracciamento in forma anonima consente la raccolta dei dati in merito alla navigazione delle pagine di questo sito web. In questa maniera ci aiuti a migliorare l\u0027esperienza utente del sito web."},"performance":{"title":"Cookie di prestazione","details":"Utilizziamo alcune funzionalit\u00e0 fornite da altre organizzazioni (\u201cTerze parti\u201d) per migliorare l\u2019esperienza di navigazione degli utenti."},"video":{"title":"Video","details":"I servizi di condivisione video aiutano il sito ad essere maggiormente fruibile e aumentano la visibilit\u00e0."}}},"cookiesTexts":{"_core":{"default_config_hash":"C8aQz-3d6YpwuU4QQc1iaWHb3RDkc_C9qcEsgR7HR74"},"langcode":"it","bannerText":"Questo sito utilizza cookie tecnici e di profilazione, propri e di terze parti, per garantire la corretta navigazione, analizzare il traffico e misurare l\u0027efficacia delle attivit\u00e0 di comunicazione istituzionale.\r\nSe prosegui la navigazione o clicchi su \u0022Accetta tutti\u0022 ne acconsenti l\u0027utilizzo, oppure puoi personalizzare la scelta salvando le tue preferenze e scegliendo quali cookie attivare.\r\nPer maggiori informazioni e per sapere come gestirli clicca sul bottone \u0022Impostazione dei cookie\u0022.","privacyPolicy":"Privacy policy","privacyUri":"https:\/\/www.unimi.it\/it\/ateneo\/normative\/privacy","imprint":"Imprint","imprintUri":"","cookieDocs":"Documentazione cookie","cookieDocsUri":"https:\/\/www.unimi.it\/it\/privacy-e-cookie","officialWebsite":"Official website","denyAll":"Rifiuta tutti","alwaysActive":"Sempre Attivo","settings":"Impostazione dei cookie","acceptAll":"Accetta tutti","requiredCookies":"Cookie necessari","cookieSettings":"Impostazione dei cookie","close":"Chiudi","readMore":"Leggi tutto","allowed":"","denied":"negato","settingsAllServices":"Impostazioni per tutti i servizi di cookie","saveSettings":"Salva le impostazioni","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Azienda","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies"},"services":{"analytics":{"uuid":"f3111266-83e7-4afa-a238-ed86f09a383f","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_ga"]}},"_core":{"default_config_hash":"aYbFdFXbVPCH9Lp3OmPtEGUPT48_WuWxK8pzqzYTUj4"},"id":"analytics","label":"Google Analytics","group":"tracking","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because google analytics cookies have not been accepted.","placeholderAcceptText":"Only accept google analytics cookies"},"functional":{"uuid":"3577cc4e-e48a-43c0-9a0a-6c5c097f09dc","langcode":"it","status":true,"dependencies":[],"id":"functional","label":"Required functional","group":"functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EDefault expiration time\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EDescription\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 month\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EIf you are logged in to this website, a session cookie is required to identify and connect your browser to your user account in the server backend of this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 year\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWhen you visited this website for the first time, you were asked for your permission to use several services (including those from third parties) that require data to be saved in your browser (cookies, local storage). Your decisions about each service (allow, deny) are stored in this cookie and are reused each time you visit this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"full_html"},"consentRequired":false,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because required functional cookies have not been accepted.","placeholderAcceptText":"Only accept required functional cookies"},"gtag":{"uuid":"f66d5e9f-4da7-485e-a2f9-681a9a191055","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_gtag"]}},"_core":{"default_config_hash":"IyQS406QuLa6fAnbDgux4OI6Y6fsu_-J_bZDtoXExEI"},"id":"gtag","label":"Google Tag Manager","group":"performance","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because google tag manager cookies have not been accepted.","placeholderAcceptText":"Only accept google tag manager cookies"},"infogram_":{"uuid":"61dcc425-a844-42ac-addd-23c732c62ad0","langcode":"it","status":true,"dependencies":[],"id":"infogram_","label":"Infogram ","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because infogram cookies have not been accepted.","placeholderAcceptText":"Only accept infogram cookies"},"matomo":{"uuid":"85f1ecf7-421a-477e-98b7-d50f58d1c438","langcode":"it","status":true,"dependencies":[],"id":"matomo","label":"Matomo","group":"tracking","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because matomo cookies have not been accepted.","placeholderAcceptText":"Only accept matomo cookies"},"microsoft_power_bi":{"uuid":"679e34c7-74da-41be-99a6-9c22797f79d8","langcode":"it","status":true,"dependencies":[],"id":"microsoft_power_bi","label":"Microsoft Power BI","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because microsoft power bi cookies have not been accepted.","placeholderAcceptText":"Only accept microsoft power bi cookies"},"new_relic":{"uuid":"11e38e83-5876-442d-922e-6d38b5f10186","langcode":"it","status":true,"dependencies":[],"id":"new_relic","label":"New Relic","group":"tracking","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because new relic cookies have not been accepted.","placeholderAcceptText":"Only accept new relic cookies"},"openstreetmap":{"uuid":"c35ea00a-d2aa-40f8-ac35-322bc97b8083","langcode":"it","status":true,"dependencies":[],"id":"openstreetmap","label":"OpenStreetMap","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because openstreetmap cookies have not been accepted.","placeholderAcceptText":"Only accept openstreetmap cookies"},"video":{"uuid":"681f159c-953b-4040-a53e-bb8a387ad23c","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_video"]}},"_core":{"default_config_hash":"MJL9EOZszmZMiNnJZL1uau0Vw_-w5cJON2cTornaww8"},"id":"video","label":"Video forniti da YouTube, Vimeo","group":"video","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because video forniti da youtube, vimeo cookies have not been accepted.","placeholderAcceptText":"Only accept video forniti da youtube, vimeo cookies"}},"groups":{"functional":{"uuid":"5b1c3951-fa37-4ef2-9212-6ed624800116","langcode":"it","status":true,"dependencies":[],"id":"functional","label":"Functional","weight":1,"title":"Functional","details":"I cookie sono piccoli file di testo che il Sito invia al terminale dell\u0027utente, dove sono memorizzati per poi essere ritrasmessi al sito alla visita successiva."},"performance":{"uuid":"c9fc9322-3cc7-4402-8226-f517fab0cff4","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"Jv3uIJviBj7D282Qu1ZpEQwuOEb3lCcDvx-XVHeOJpw"},"id":"performance","label":"Performance","weight":30,"title":"Cookie di prestazione","details":"Utilizziamo alcune funzionalit\u00e0 fornite da altre organizzazioni (\u201cTerze parti\u201d) per migliorare l\u2019esperienza di navigazione degli utenti."},"social":{"uuid":"18c2516e-81d5-4b3e-944c-80ccf4699353","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"vog2tbqqQHjVkue0anA0RwlzvOTPNTvP7_JjJxRMVAQ"},"id":"social","label":"Social Plugins","weight":20,"title":"Social Plugins","details":"Comments managers facilitate the filing of comments and fight against spam."},"tracking":{"uuid":"86841c59-0daf-4a3d-9f00-0c470616422e","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"_gYDe3qoEc6L5uYR6zhu5V-3ARLlyis9gl1diq7Tnf4"},"id":"tracking","label":"Tracking","weight":10,"title":"Cookie di tracciamento","details":"L\u0027utilizzo dei cookie di tracciamento in forma anonima consente la raccolta dei dati in merito alla navigazione delle pagine di questo sito web. In questa maniera ci aiuti a migliorare l\u0027esperienza utente del sito web."},"video":{"uuid":"2b75a78d-1d81-4d17-8090-5d4c38d2d624","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"w1WnCmP2Xfgx24xbx5u9T27XLF_ZFw5R0MlO-eDDPpQ"},"id":"video","label":"Video","weight":40,"title":"Video","details":"I servizi di condivisione video aiutano il sito ad essere maggiormente fruibile e aumentano la visibilit\u00e0."}}},"field_group":{"details":{"mode":"full","context":"view","settings":{"classes":"bottom0","id":"","open":false,"description":""}},"html_element":{"mode":"default","context":"view","settings":{"classes":"imgplace","id":"imgplace","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast","show_empty_fields":false}},"tabs":{"mode":"full","context":"view","settings":{"classes":"mobile-tab","id":"","direction":"vertical","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","effect":"none","speed":"fast","attributes":""}},"tab":{"mode":"full","context":"view","settings":{"classes":"","id":"","formatter":"closed","description":"","direction":"vertical","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","effect":"none","speed":"fast","attributes":"","show_empty_fields":false}}},"views":{"ajax_path":"\/it\/views\/ajax","ajaxViews":{"views_dom_id:7ddb0bfb06659a468ddd01686db0fbf2740575e970b1d586fde13c3c00e3e771":{"view_name":"w4_cdsi","view_display_id":"block_12","view_args":"13100","view_path":"\/node\/13100","view_base_path":"docenticdl","view_dom_id":"7ddb0bfb06659a468ddd01686db0fbf2740575e970b1d586fde13c3c00e3e771","pager_element":0},"views_dom_id:7731845d940d7eeab0debc675b0272fd3ec4d1c3d9e39b3c45c78f8ea52f8e65":{"view_name":"w4_cdsi","view_display_id":"block_11","view_args":"DAB+D47","view_path":"\/node\/13100","view_base_path":"docenticdl","view_dom_id":"7731845d940d7eeab0debc675b0272fd3ec4d1c3d9e39b3c45c78f8ea52f8e65","pager_element":0}}},"widthBreakpoint":640,"ultimenu":{"canvasOff":"#header","canvasOn":"#main-wrapper, .featured-top, .site-footer"},"user":{"uid":0,"permissionsHash":"0f3fc343222685b393a24eba61ac8d525b4adefbc0f573776a36a876db18dc99"}}</script>
+<script src="/sites/default/files/js/js_iNnXVIv9c8NqPVT6Cdf6-HiO9Ziqf8lvk0gxIFyJlhQ.js?scope=header&amp;delta=0&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="/modules/contrib/cookies/js/cookiesjsr.conf.js?v=10.5.1" defer></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?tlncrt" type="text/plain" id="cookies_gtag_gtag" data-cookieconsent="gtag"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?tlncrt" type="text/plain" id="cookies_gtag_gtm" data-cookieconsent="gtag"></script>
+
+  </head>
+  <body class="is-ultimenu-canvas is-ultimenu-canvas--hover site-default path-node page-node-type-cdl-scheda has-glyphicons">
+    <div role="navigation">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Salta al contenuto principale
+    </a>
+    </div>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNWRPR"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+              <header class="navbar navbar-default container" id="navbar">
+            <div class="navbar-header-top full-width">
+         <div class="topnavbar container">
+            <div class="region region-navigation-top">
+    <section class="language-switcher-language-url block block-language block-language-blocklanguage-interface clearfix" id="block-languageswitcher" role="navigation">
+  
+      <h2 class="block-title">Language switcher</h2>
+    
+
+      <ul class="links"><li hreflang="it" data-drupal-link-system-path="node/13100" class="it is-active" aria-current="page"><a href="/it/corsi/laurea-triennale/biotecnologie-mediche" class="language-link is-active" aria-label="Lingua Italiana" title="Italiano" hreflang="it" data-drupal-link-system-path="node/13100" aria-current="page">ITA</a></li><li hreflang="en" data-drupal-link-system-path="node/13100" class="en"><a href="/en/education/bachelor/medical-biotechnology" class="language-link" aria-label="English language" title="English" hreflang="en" data-drupal-link-system-path="node/13100">ENG</a></li></ul>
+  </section>
+
+<nav role="navigation" aria-labelledby="block-unimi-profili-menu" id="block-unimi-profili" class="navbar-profili menu_right hidden-xs hidden-sm">
+            
+  <h2 class="visually-hidden" id="block-unimi-profili-menu">Profili</h2>
+  
+
+        
+      <ul class="menu menu--profili nav">
+                      <li class="first">
+                                        <a href="https://unimia.unimi.it/">Unimia</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie</a>
+              </li>
+                      <li>
+                                        <a href="https://ariel.unimi.it/" title="Portale elearning">Ariel</a>
+              </li>
+                      <li>
+                                        <a href="https://sba.unimi.it/" title="Biblioteche">Biblioteche</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e dove</a>
+              </li>
+                      <li>
+                                        <a href="https://mail.unimi.it/">Webmail</a>
+              </li>
+                      <li>
+                                        <a href="https://work.unimi.it">laStatale@work</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Info per <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/taxonomy/term/10" data-drupal-link-system-path="taxonomy/term/10">Futuri studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/11" data-drupal-link-system-path="taxonomy/term/11">Studenti iscritti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/12" data-drupal-link-system-path="taxonomy/term/12">Laureati</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/8" data-drupal-link-system-path="taxonomy/term/8">Dottorandi</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/13" data-drupal-link-system-path="taxonomy/term/13">Studenti internazionali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/taxonomy/term/9" data-drupal-link-system-path="taxonomy/term/9">Enti e aziende</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="https://lastatalenews.unimi.it/" title="statale news">LaStataleNews</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/sostenere-la-statale/cinque-mille?clickOrigin=menu" title="5x1000" data-drupal-link-query="{&quot;clickOrigin&quot;:&quot;menu&quot;}" data-drupal-link-system-path="node/1229">5x1000</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+         </div>
+     </div>
+      <div class="navbar-header">
+          <div class="region region-navigation">
+          <a class="logo navbar-btn pull-left" href="/it" title="Home" rel="home">
+      <img src="/themes/custom/unimi/img/LogoHeader.svg" alt="Home" />
+    </a>
+      <section id="block-ultimenumainnavigation" class="hidden-xs hidden-sm block block-ultimenu block-ultimenu-blockultimenu-main clearfix">
+  
+    
+
+      
+<ul id="ultimenu-main" data-ultimenu="main" class="ultimenu ultimenu--hover ultimenu-- ultimenu--htb ultimenu--horizontal unimi"><li class="ultimenu__item uitem uitem--corsi uitem--b550ac76 uitem--1"><a href="/it/corsi" data-drupal-link-system-path="node/7725" title="" class="ultimenu__link">Corsi</a></li><li class="ultimenu__item uitem uitem--studiare uitem--3e1f0e09 uitem--2"><a href="/it/studiare" data-drupal-link-system-path="node/7726" title="" class="ultimenu__link">Studiare</a></li><li class="ultimenu__item uitem uitem--ricerca uitem--133224dc uitem--3"><a href="/it/ricerca" data-drupal-link-system-path="node/7727" title="" class="ultimenu__link">Ricerca</a></li><li class="ultimenu__item uitem uitem--terza-missione uitem--8391b5f2 uitem--4"><a href="/it/terza-missione" data-drupal-link-system-path="node/38988" title="" class="ultimenu__link">Terza missione</a></li><li class="ultimenu__item uitem uitem--ateneo uitem--ca313063 uitem--5"><a href="/it/ateneo" data-drupal-link-system-path="node/7728" title="" class="ultimenu__link">Ateneo</a></li><li class="ultimenu__item uitem uitem--internazionale uitem--d93d43c5 uitem--6"><a href="/it/internazionale" data-drupal-link-system-path="node/7729" title="" class="ultimenu__link">Internazionale</a></li><li class="ultimenu__item uitem uitem--cerca uitem--4e413781 uitem--7 has-ultimenu"><a href="" data-drupal-link-system-path="" title="" class="ultimenu__link">Cerca<span class="caret" aria-hidden="true"></span></a><section class="ultimenu__flyout is-htb"><div class="ultimenu-wrapper fullwidth"><div class="container ultimenu-content"><div class="close-wrap"><a href class="close-button"><img src="/themes/custom/unimi/img/cross.svg" alt="close item"></a></div><div class="ultimenu__region region region--count-3 region-ultimenu-main-4e413781"><section id="block-unimi-search" class="clearfix mega-search block block-block-content block-block-content363d513a-c2cf-48a9-a4a7-d31381dfa1f6"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><form accept-charset="UTF-8" action="https://apps.unimi.it/sitesearch/unimi-new/search.jsp" id="search-block-form-2" method="get"><div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group"><label class="control-label sr-only" for="edit-keys-2">Cerca</label><div class="input-group"><input class="form-search form-control" data-drupal-selector="edit-keys-2" data-original-title="Inserisci i termini da cercare." data-toggle="tooltip" id="edit-keys-2" maxlength="128" name="q" placeholder="Cerca" required="true" size="15" title type="search" value><span class="input-group-btn"><button class="button js-form-submit form-submit btn-primary btn icon-only" type="submit" value="Cerca"><span class="sr-only">Cerca</span></button></span></div></div><div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions-2" id="edit-actions-2">&nbsp;</div></form></div></section><nav role="navigation" aria-labelledby="block-unimi-menuprincipale-menu" id="block-unimi-menuprincipale" class="col-sm-12 clearfix"><h2 class="visually-hidden" id="block-unimi-menuprincipale-menu">Menu principale</h2><ul class="menu menu--main nav navbar-nav"><li class="first"><a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a></li><li><a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a></li><li><a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a></li><li><a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a></li><li class="last"><a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a></li></ul></nav><section id="block-unimi-megamenufooter" class="col-sm-12 clearfix block block-block-content block-block-content4a59a823-49d1-4c08-8e2b-8558f0ed52de"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a class="mega-news" href="https://lastatalenews.unimi.it">News</a><a class="mega-logo" href="/it">Logo</a></p></div></section></div></div></div></section></li><li class="ultimenu__item uitem uitem--home uitem--front-page uitem--8 has-ultimenu"><a href="/it" data-drupal-link-system-path="&lt;front&gt;" title="" class="ultimenu__link">Home<span class="caret" aria-hidden="true"></span></a><section class="ultimenu__flyout is-htb"><div class="ultimenu-wrapper fullwidth"><div class="container ultimenu-content"><div class="close-wrap"><a href class="close-button"><img src="/themes/custom/unimi/img/cross.svg" alt="close item"></a></div><div class="ultimenu__region region region--count-3 region-ultimenu-main-standard__front-page"><nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="col-sm-12"><h2 class="visually-hidden" id="block-mainnavigation-menu">I corsi</h2><ul class="menu menu--main nav"><li class="expanded dropdown"><a href="/it/corsi">Corsi</a><ul class="dropdown-menu"><li><a href="/it/corsi/orientarsi-e-scegliere" data-drupal-link-system-path="node/727">Orientarsi e scegliere</a></li><li><a href="/it/corsi/facolta-e-scuole" data-drupal-link-system-path="node/710">Facoltà e scuole</a></li><li><a href="/it/corsi/corsi-di-laurea-triennali-e-magistrali-ciclo-unico" data-drupal-link-system-path="node/1071">Lauree triennali e magistrali ciclo unico</a></li><li><a href="/it/corsi/corsi-di-laurea-magistrale" data-drupal-link-system-path="node/13968">Lauree Magistrali</a></li><li><a href="/it/corsi/la-statale-open" data-drupal-link-system-path="node/53900">La Statale Open - laurea online</a></li><li><a href="/it/corsi/insegnamenti-dei-corsi-di-laurea" data-drupal-link-system-path="node/1074">Insegnamenti dei corsi di laurea</a></li><li><a href="/it/corsi/tutte-le-offerte-formative" data-drupal-link-system-path="node/13005">Tutte le offerte formative - corsi di laurea</a></li><li><a href="/it/corsi/percorso-di-eccellenza-iuss-pavia" data-drupal-link-system-path="node/44362">Percorso di eccellenza IUSS Pavia</a></li><li><a href="/it/corsi/corsi-post-laurea-e-formazione-continua" data-drupal-link-system-path="node/1072">Corsi post laurea e formazione continua</a></li><li><a href="/it/corsi/esami-di-stato" data-drupal-link-system-path="node/271">Esami di stato</a></li><li><a href="/it/corsi/summer-e-winter-schools" data-drupal-link-system-path="node/32">Summer school</a></li><li><a href="/it/corsi/didattica-online" data-drupal-link-system-path="node/708">Didattica online</a></li><li><a href="/it/corsi/studiare-carcere" data-drupal-link-system-path="node/37118">Studiare in carcere</a></li></ul></li><li class="expanded dropdown"><a href="/it/studiare">Studiare</a><ul class="dropdown-menu"><li><a href="/it/studiare/immatricolarsi-e-iscriversi" data-drupal-link-system-path="node/13253">Immatricolarsi e iscriversi</a></li><li><a href="/it/studiare/frequentare-un-corso-di-laurea" data-drupal-link-system-path="node/726">Frequentare un corso di laurea</a></li><li><a href="/it/studiare/frequentare-un-corso-post-laurea" data-drupal-link-system-path="node/729">Frequentare un corso post laurea</a></li><li><a href="/it/studiare/seguire-un-corso-singolo" data-drupal-link-system-path="node/168">Seguire un corso singolo</a></li><li><a href="/it/studiare/borse-premi-mense-e-alloggi" data-drupal-link-system-path="node/730">Borse, premi, mense e alloggi</a></li><li><a href="/it/studiare/competenze-linguistiche" data-drupal-link-system-path="node/12716">Competenze linguistiche</a></li><li><a href="/it/studiare/stage-e-lavoro" data-drupal-link-system-path="node/1058">Stage e lavoro</a></li><li><a href="/it/studiare/servizi-gli-studenti" data-drupal-link-system-path="node/723">Servizi per gli studenti</a></li><li><a href="/it/studiare/biblioteche" data-drupal-link-system-path="node/464">Biblioteche</a></li><li><a href="/it/studiare/vivere-luniversita" data-drupal-link-system-path="node/1070">Vivere l&#039;Università</a></li></ul></li><li class="expanded dropdown"><a href="/it/ricerca">Ricerca</a><ul class="dropdown-menu"><li><a href="/it/ricerca/pnrr-i-progetti-delluniversita-statale" data-drupal-link-system-path="node/49935">PNRR: i progetti dell’Università Statale</a></li><li><a href="/it/ricerca/facts-figures" data-drupal-link-system-path="node/1185">Facts &amp; Figures</a></li><li><a href="/it/ricerca/cosa-studiamo" data-drupal-link-system-path="node/1193">Cosa studiamo</a></li><li><a href="/it/ricerca/fare-ricerca-da-noi" data-drupal-link-system-path="node/1187">Fare ricerca da noi</a></li><li><a href="/it/ricerca/luoghi-organizzazione-e-infrastrutture" data-drupal-link-system-path="node/1188">Luoghi, organizzazione e infrastrutture</a></li><li><a href="/it/ricerca/policies-e-principi" data-drupal-link-system-path="node/1186">Policies e principi</a></li><li><a href="/it/ricerca/dati-e-prodotti-della-ricerca" data-drupal-link-system-path="node/1190">Dati e prodotti della ricerca</a></li><li><a href="/it/ricerca/ricerca-tutti" data-drupal-link-system-path="node/1181">Ricerca per tutti</a></li></ul></li><li class="expanded dropdown"><a href="/it/terza-missione">Terza missione</a><ul class="dropdown-menu"><li><a href="/it/terza-missione/innovazione-ricerca-e-imprese" data-drupal-link-system-path="node/1183">Innovazione, ricerca e imprese</a></li><li><a href="/it/terza-missione/terza-missione-organizzazione-e-governance" data-drupal-link-system-path="node/39512">Terza missione, organizzazione e governance</a></li><li><a href="/it/terza-missione/patrimonio-storico-e-culturale" data-drupal-link-system-path="node/601">Patrimonio storico e culturale</a></li><li><a href="/it/terza-missione/responsabilita-sociale" data-drupal-link-system-path="node/14844">Responsabilità sociale</a></li></ul></li><li class="expanded dropdown"><a href="/it/ateneo">Ateneo</a><ul class="dropdown-menu"><li><a href="/it/ateneo/la-statale" data-drupal-link-system-path="node/1216">La Statale</a></li><li><a href="/it/ateneo/governance-e-linee-strategiche" data-drupal-link-system-path="node/1217">Governance e linee strategiche</a></li><li><a href="/it/ateneo/uffici-e-strutture" data-drupal-link-system-path="node/1218">Uffici e strutture</a></li><li><a href="/it/ateneo/carta-dei-servizi" data-drupal-link-system-path="node/39238">Carta dei servizi</a></li><li><a href="/it/ateneo/lavora-con-noi" data-drupal-link-system-path="node/1220">Lavora con noi</a></li><li><a href="/it/ateneo/bandi-di-gare-e-contratti" data-drupal-link-system-path="node/1227">Bandi di gare e contratti</a></li><li><a href="/it/ateneo/normative" data-drupal-link-system-path="node/383">Normative</a></li><li><a href="/it/ateneo/assicurazione-della-qualita" data-drupal-link-system-path="node/521">Assicurazione della qualità</a></li><li><a href="/it/ateneo/fundraising" data-drupal-link-system-path="node/1223">Fundraising</a></li><li><a href="/it/ateneo/amministrazione-trasparente" data-drupal-link-system-path="node/12893">Amministrazione trasparente</a></li></ul></li><li class="expanded dropdown"><a href="/it/internazionale">Internazionale</a><ul class="dropdown-menu"><li><a href="/it/internazionale/cooperazione-internazionale" data-drupal-link-system-path="node/44305">Cooperazione internazionale allo sviluppo</a></li><li><a href="/it/internazionale/la-statale-nel-mondo" data-drupal-link-system-path="node/12742">La Statale nel mondo</a></li><li><a href="/it/internazionale/studiare-allestero" data-drupal-link-system-path="node/273">Studiare all&#039;estero</a></li><li><a href="/it/internazionale/venire-studiare-dallestero" data-drupal-link-system-path="node/295">Venire a studiare dall&#039;estero</a></li><li><a href="/it/internazionale/mobilita-docenti-e-ricercatori" data-drupal-link-system-path="node/1204">Mobilità docenti e ricercatori</a></li></ul></li><li class="expanded dropdown"><a href="">Cerca</a><ul class="dropdown-menu"><li><a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a></li><li><a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a></li><li><a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a></li><li><a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a></li><li><a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a></li></ul></li><li><a href="/it" data-drupal-link-system-path="&lt;front&gt;">Home</a></li></ul></nav><section class="views-element-container col-sm-12 block block-views block-views-blockprofili-block-1 clearfix" id="block-unimi-views-block-profili-block-1"><div class="form-group"><div class="view view-profili view-id-profili view-display-id-block_1 js-view-dom-id-b76114f22d40d61366c9a04f9db3a0671ae9b0d8ab5ceac4c30a25b3e46c607e"><div class="view-content"><div class="item-list fullwidth"><ul class="container"><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/10"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-signs-post" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Futuri studenti</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/11"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-circle-user" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Studenti iscritti</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/12"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-user-plus" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Laureati</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/8"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-graduation-cap" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Dottorandi</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/13"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-globe" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Studenti internazionali</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/9"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-building" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Enti e aziende</a></div></div></li></ul></div></div></div></div></section><section id="block-unimi-megamenufooter-2" class="col-sm-12 block block-block-content block-block-content4a59a823-49d1-4c08-8e2b-8558f0ed52de clearfix"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a class="mega-news" href="https://lastatalenews.unimi.it">News</a><a class="mega-logo" href="/it">Logo</a></p></div></section></div></div></div></section></li></ul><button data-ultimenu-button="#ultimenu-main" class="button button--ultimenu"
+        aria-label="Menu" value="Menu"><span class="bars">Menu</span></button>
+  </section>
+
+
+  </div>
+
+                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+              </div>
+
+                    <div id="navbar-collapse" class="navbar-collapse collapse">
+            <div class="region region-navigation-collapsible">
+    <section id="block-searchmobile" class="search-block-form hidden-lg hidden-md block block-search block-search-form-block block-block-content block-block-content4b159f0e-4fa2-4411-a21f-56afa0508e9f clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><form accept-charset="UTF-8" action="https://apps.unimi.it/sitesearch/unimi-new/search.jsp" id="search-block-form" method="get">
+<div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group"><label class="control-label sr-only" for="edit-keys">Cerca</label>
+<div class="input-group"><input class="form-search form-control" data-drupal-selector="edit-keys" data-original-title="Inserisci i termini da cercare." id="edit-keys" maxlength="128" name="q" placeholder="Cerca" size="15" title type="search" required="true" value><span class="input-group-btn"><button class="button js-form-submit form-submit btn-primary btn icon-only" type="submit" value="Cerca"><span class="sr-only">Cerca</span></button></span></div>
+</div>
+</form>
+</div>
+      
+  </section>
+
+<nav role="navigation" aria-labelledby="block-unimi-main-menu-menu" id="block-unimi-main-menu" class="hidden-md hidden-lg">
+            
+  <h2 class="visually-hidden" id="block-unimi-main-menu-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/it/corsi" data-drupal-link-system-path="node/7725">Corsi</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare" data-drupal-link-system-path="node/7726">Studiare</a>
+              </li>
+                      <li>
+                                        <a href="/it/ricerca" data-drupal-link-system-path="node/7727">Ricerca</a>
+              </li>
+                      <li>
+                                        <a href="/it/terza-missione" data-drupal-link-system-path="node/38988">Terza missione</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo" data-drupal-link-system-path="node/7728">Ateneo</a>
+              </li>
+                      <li>
+                                        <a href="/it/internazionale" data-drupal-link-system-path="node/7729">Internazionale</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Cerca <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="last">
+                                        <a href="/it" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-topnavbar-2-menu" id="block-topnavbar-2" class="hidden-md hidden-lg">
+            
+  <h2 class="visually-hidden" id="block-topnavbar-2-menu">Top navbar</h2>
+  
+
+        
+      <ul class="menu menu--profili nav">
+                      <li class="first">
+                                        <a href="https://unimia.unimi.it/">Unimia</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie</a>
+              </li>
+                      <li>
+                                        <a href="https://ariel.unimi.it/" title="Portale elearning">Ariel</a>
+              </li>
+                      <li>
+                                        <a href="https://sba.unimi.it/" title="Biblioteche">Biblioteche</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e dove</a>
+              </li>
+                      <li>
+                                        <a href="https://mail.unimi.it/">Webmail</a>
+              </li>
+                      <li>
+                                        <a href="https://work.unimi.it">laStatale@work</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Info per <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/taxonomy/term/10" data-drupal-link-system-path="taxonomy/term/10">Futuri studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/11" data-drupal-link-system-path="taxonomy/term/11">Studenti iscritti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/12" data-drupal-link-system-path="taxonomy/term/12">Laureati</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/8" data-drupal-link-system-path="taxonomy/term/8">Dottorandi</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/13" data-drupal-link-system-path="taxonomy/term/13">Studenti internazionali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/taxonomy/term/9" data-drupal-link-system-path="taxonomy/term/9">Enti e aziende</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="https://lastatalenews.unimi.it/" title="statale news">LaStataleNews</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/sostenere-la-statale/cinque-mille?clickOrigin=menu" title="5x1000" data-drupal-link-query="{&quot;clickOrigin&quot;:&quot;menu&quot;}" data-drupal-link-system-path="node/1229">5x1000</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+        </div>
+                </header>
+  
+  <div  id="main-container-unimi" role="main" class="main-container container js-quickedit-main-content">
+    <div class="row">
+
+                              <div class="col-sm-12">
+              <div class="region region-header">
+        <ol class="breadcrumb rs_skip">
+          <li >
+                  <a href="/it">Home</a>
+              </li>
+          <li >
+                  <a href="/it/corsi">Corsi </a>
+              </li>
+          <li >
+                  <a href="/it/corsi/laurea-triennale">Laurea triennale</a>
+              </li>
+          <li  class="active">
+                  Biotecnologie mediche
+              </li>
+      </ol>
+
+
+  </div>
+
+          </div>
+              
+            
+                  <section class="col-sm-12">
+
+                
+                                      
+                  
+                          <a id="main-content"></a>
+            <div class="region region-content">
+        <h1 class="page-header">
+<span>Biotecnologie mediche</span>
+</h1>
+
+<div data-drupal-messages-fallback class="hidden"></div>
+  <div class="row bs-2col-bricked node node--type-cdl-scheda node--view-mode-full">
+  
+
+  
+    <div class="col-xs-12 col-sm-8 col-md-8 col-lg-9 bs-region bs-region--top-left">
+    
+<div  class="top-left-cdl-scheda">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_6 js-view-dom-id-85ebcae3dfeee2667a22e138dc194772ee4d51ba0dbc6cf436e3ae5e370079b7">
+  
+    
+      
+      <div class="view-content">
+          <div class="area-header area-D area-caratipo-a"><div class="banner-area banner-area-D"><span>MEDICINA E CHIRURGIA</span></div>  <img loading="lazy" src="/sites/default/files/styles/scheda_cdl/public/2019-05/medchir-47-s.jpg?h=bfa41935&amp;itok=G_UF6W_0" width="1240" height="400" alt="Microscopio: particolare" title="" class="img-responsive rs_skip" />
+
+
+<div class="info-group new-info-group"><div class="carat-laurea">Corso in presenza</div>
+<div class="title-laurea">Biotecnologie mediche</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+
+
+  </div>
+  </div>
+  
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3 bs-region bs-region--top-right">
+    
+<div  class="top-right-cdl-scheda">
+    
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-intestazione field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_49 js-view-dom-id-54340d65bc8cc2a45f6a2cdfa5e64a5185eb28dd147520e0d217c701e4a8bd41">
+  
+    
+      
+      <div class="view-content">
+          <div class="cdl-intestazione codice-area-D "><div><div class="scheda-corso">Scheda del corso</div>
+<div class="anno">A.A. 2026/2027 </div>
+<div class="tipo-laurea">Laurea triennale</div>
+
+<div class="field--name-uof-cdsclass">L-2 R - Biotecnologie</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+            <div  class="paragraph paragraph--type--bp-action paragraph--type--bp-action-blu">
+        
+            <div  class="field--name-bp-link">
+                  <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_32 js-view-dom-id-86ae6dab972992c6ea417bded5259294f523c7749649211c72c872ee71cb744c">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-sito-corso"><div class="field-content"><a href="https://biotecnologiemediche.cdl.unimi.it" target="_blank" aria-label="Vai al sito del corso di Biotecnologie mediche (Classe L-2 R)">Vai al sito del corso</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+      </div>
+  
+    </div>
+
+
+  </div>
+  </div>
+  
+    <div class="col-xs-12 bs-region bs-region--middle">
+    
+<div >
+    
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-barra field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="barra-dati top40 bottom40 view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_4 js-view-dom-id-5964c896db7f530a6e0f3b013d531251ea9287ba104ae7fe8d048bfe22a3bdca">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-cdstype"><div class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-university fa-stack-1x fa-inverse"></span>
+</span>
+
+<div class="views-label views-label-uof-cdstype">Laurea triennale</div></div></div><div class="views-field views-field-cfu"><span class="field-content"><span class="fa-stack fa-3x">
+    <span class="fa fa-circle fa-stack-2x"></span>
+    <span class="fa-stack-1x fa fa-ticket fa-inverse"></span>
+ </span>
+<div class="views-label views-label-cfu">180</div>
+Crediti</span></div><div class="views-field views-field-uof-ma1"><div class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+<span class="fas fa-sign-in-alt fa-stack-1x fa-inverse "></span>
+</span>
+<div class="views-label views-label-uof-ma1">Accesso</div>
+Programmato</div></div><div class="views-field views-field-durata-anni"><span class="field-content"><span class="fa-stack fa-3x">
+ <span class="fa fa-circle fa-stack-2x"></span>
+    <span class="fas fa-calendar-o fa-stack-1x fa-inverse"></span>
+  </span>
+<div class="views-label views-label-durata-anni">3</div>
+Anni
+</span></div><div class="views-field views-field-polo-fisico"><div class="field-content">  <span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-building-o  fa-stack-1x fa-inverse"></span>
+</span>
+<div class="views-label views-label-polo-fisico">Sede</div>
+Milano </div></div><div class="views-field views-field-nothing"><span class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-flag fa-stack-1x fa-inverse"></span>
+</span>
+<div class="views-label views-label-uof-lingua">Lingua</div>
+Italiano</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div><div class="mobile-tab field-group-tabs-wrapper"><div data-vertical-tabs-panes><input class="vertical-tabs__active-tab" type="hidden" /><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-objectives">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-objectives--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-objectives--content">Obiettivi formativi</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-objectives--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-obiettivi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_7 js-view-dom-id-afeb3632582cba4ab21f048a439c6c1995517837b4a41708f34d06279b79e1d0">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-obiettivi-formativi"><div class="field-content">Il Corso di Laurea in Biotecnologie Mediche, di cui il Dipartimento di Biotecnologie Mediche e Medicina Traslazionale (BioMeTra) è referente nell'ambito della Facoltà di Medicina e Chirurgia, ha lo scopo di preparare laureati in possesso (I) di una solida preparazione di base di tipo chimico - biologico, (II) di approfondite conoscenze nell'ambito della biochimica, biologia molecolare, fisiologia, patologia, farmacologia applicate all'uomo, (III) dei fondamenti della fisiopatologia e della diagnostica e di una consistente conoscenza interdisciplinare delle metodologie biotecnologiche da applicare ai diversi campi delle biotecnologie di interesse medico, con particolare attenzione ai settori della ricerca, diagnostico, terapeutico, riproduttivo, medico-legale, nel rispetto delle normative e delle problematiche deontologiche e bioetiche.<br>Attraverso l'acquisizione di queste conoscenze, il corso di laurea in Biotecnologie Mediche si prefigge di preparare una figura professionale dotata di buone conoscenze di base e tecnico-applicative in campo biomedico, con buone capacità di comunicazione scientifica, relazionale e di team-working che la rendano capace di partecipare alla programmazione e applicazione delle biotecnologie in campo biomedico in stretta collaborazione con le altre figure professionali operanti in questo ambito. A tal fine, il percorso formativo è strutturato con attività di base, caratterizzanti, affini e integrative che consentono di acquisire una profonda comprensione dei sistemi biologici a livello cellulare, strutturale, biochimico e molecolare sia in condizioni fisiologiche che patologiche, sulla quale viene costruita una solida conoscenza delle più recenti applicazioni biotecnologiche in medicina e delle tecniche utilizzate a questo scopo, inclusi gli approcci omici e bioinformatici, l'editing genomico, le terapie mediche avanzate. La conoscenza di queste innovazioni non si limita alla loro efficacia e utilità in ambito medico ma, attraverso la lente della bioetica, è estesa alle implicazioni morali, sociali e ambientali che ne derivano. <br>Accanto alle attività didattiche svolte in aula, sono previste attività pratiche condotte presso laboratori didattici dell'Ateneo che si differenziano per le metodiche da apprendere e che possono riguardare i settori dell'anatomia e istologia; biologia cellulare, applicata, molecolare; biochimica; genetica; microbiologia. Queste attività pratiche precedono il periodo di tirocinio, che viene svolto presso strutture di ricerca e assistenziali della facoltà di Medicina e Chirurgia, oppure in enti assistenziali o di ricerca non accademici pubblici o privati, o aziende con una vocazione biotecnologica medica, anche a livello internazionale. Il tirocinio sarà la base per la redazione di un elaborato scritto che lo studente dovrà discutere come prova finale per il conseguimento della laurea. Inoltre, le laureate e i laureati in Biotecnologie Mediche saranno preparati a proseguire la loro formazione o a inserirsi negli ambienti di lavoro non solo livello nazionale ma anche internazionale, grazie alla capacità di utilizzare efficacemente la lingua inglese. L'organizzazione di giornate di studio e seminari di approfondimento tenuti in inglese e caratterizzati dalla presenza di ospiti internazionali, la discussione ed elaborazione di lavori scientifici in inglese e la possibilità di trascorrere periodi di soggiorno all?estero durante il periodo del tirocinio favoriranno sia la comprensione che la pratica di questa lingua.
+
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-career-and-employment">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-career-and-employment--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-career-and-employment--content">Sbocchi professionali</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-career-and-employment--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-sbocchi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_8 js-view-dom-id-8929750707a50d6e5632b861e49304f1adecfcf7435c9ff97c0a8907dbe60a88">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-sbocchi-occupazionali"><div class="field-content"><div class="bottom40">Il laureato in Biotecnologie Mediche sarà in grado di applicare, con gradi di autonomia definiti, protocolli biotecnologici in ambito medico e di collaborare a programmi di sviluppo e sorveglianza delle biotecnologie applicate all'uomo, tenendo conto non solo degli aspetti tecnici ma anche di quelli etici, economici e amministrativi.<br>Su queste basi, potrà inserirsi con successo nei pertinenti ambienti di lavoro in ambito nazionale ed internazionale, possedendo appropriate competenze tecnico-scientifiche, anche attinenti la comunicazione e la gestione dell'informazione ed essendo in grado di utilizzare adeguatamente la lingua inglese.<br>Le competenze acquisite dai laureati in Biotecnologie Mediche possono trovare applicazione nei seguenti contesti lavorativi:<br>-  Strutture del Sistema Sanitario Nazionale, aziende ospedaliere, laboratori di analisi cliniche specializzate pubblici e privati;<br>-  Università e altri istituti ed enti di ricerca pubblici e privati;<br>-  Industria farmaceutica e biotecnologica;<br>-  Centri di ricerca e sviluppo di prodotti diagnostici biotecnologici dell'area sanitaria;<br>-  Centri di servizi biotecnologici nell'area medica;<br>-  Enti preposti alla elaborazione di normative sanitarie o brevettuali riguardanti lo sfruttamento di prodotti biotecnologici per la tutela della salute umana.<br>Lo specifico ruolo e professionalità del laureato in Biotecnologie Mediche in base alla nomenclatura e classificazione redatta dall'ISTAT quella di Tecnici di laboratorio biochimico (3.2.2.3.1).<br><br><a class="top40" href="https://statistiche.almalaurea.it/universita/statistiche/trasparenza?codicione=0150106200200003">Statistiche occupazionali (Almalaurea)</a></div>
+<div><div class="field--label">Percorsi consigliati dopo laurea</div>
+<div class="field--item">Al compimento degli studi viene conseguita la laurea in Biotecnologie Mediche, classe delle lauree in Biotecnologie L-2, che consente l'accesso alle lauree magistrali attivate in Ateneo e in altri Atenei delle seguenti classi: LM-7, LM-8, LM-9, LM-55. Le lauree magistrali delle suddette classi attivate presso l'Università degli Studi di Milano sono:<br>- Medical biotechnology and molecular medicine (classe LM-9) in inglese<br>- Biomedical omics (classe LM-9) in inglese<br>- Scienze cognitive e processi decisionali (LM-55)<br>- Biotechnology for the Bioeconomy (classe LM-7) in inglese<br>- Molecular Biotechnology and Bioinformatics (classe LM-8) in inglese<br>- Biotecnologie del Farmaco (classe LM-9, un curriculum in inglese)<br>- Scienze biotecnologiche veterinarie (LM-9)<br>- Safety Assessment of Xenobiotics and Biotechnological Products (SAXBI) (classe LM-9) in inglese<br>- Quantitative Biology (classe LM-8) in inglese<br>- Bioinformatics for computational genomics (classe LM-8) in inglese<br>A queste si aggiungono tutte le lauree magistrali aperte ai laureati della classe L-2, come indicato nei rispettivi Manifesti pubblicati nel sito di Ateneo</div></div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-study-abroad">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-study-abroad--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-study-abroad--content">Studio all'estero</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-study-abroad--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-studi-estero field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_9 js-view-dom-id-9a8849c4f2779c9ec928edc3821c61cdf7cb8b7f93a92ddadd6531cfe1957f17">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-esperienze-estero"><div class="field-content">Il Corso di Laurea in Biotecnologie Mediche favorisce l'acquisizione di crediti da parte degli studenti attraverso esperienze maturate all'estero, promuove gli scambi internazionali e l'apertura a nuove attività per l'internazionalizzazione.<br>In particolare, nell'ambito del progetto Erasmus+, sono attivi accordi bilaterali con l'Università Cattolica di Lovanio (Katolieke Universiteit Leuven, Belgio), l'Università di Lleida (Universitat de Lleida, Spagna), il LUMC (Leids Universitair Medish Centrum) dell'Università di Leiden (Olanda) e l'Università di Cantabria a Santander (Spagna). Presso queste sedi è possibile svolgere -durante il terzo anno di corso - il tirocinio pratico in laboratorio, vivendo una esperienza che arricchisce di una dimensione europea il loro percorso formativo. Un numero significativo di studenti ha potuto godere di periodi per la formazione all'estero, volti a sviluppare la loro professionalità e la dimensione europea del loro percorso formativo. Le Università associate rappresentano prestigiose istituzioni europee con scuole di riferimento (master, PhD) nelle scienze biomediche e offrono la possibilità di svolgere attività di ricerca in un ampio ventaglio di ambiti scientifici caratterizzanti il corso stesso. Lo studente ha quindi l'opportunità di arricchire il curriculum formativo e valutare il proprio interesse rispetto al proseguimento della sua formazione in ambito internazionale.<br>Specificatamente la durata dell'esperienza è di tre mesi e prevede un riconoscimento in carriera pari a 14 crediti universitari (8 CFU di tirocinio pratico + 6 CFU di attività formative a scelta), subordinato al giudizio positivo da parte del referente nel laboratorio straniero e del docente di riferimento UNIMI, oltre che all'approvazione del Collegio Didattico.<br>Oltre agli incontri organizzati annualmente dall'Ateneo, il Corso di Laurea di Biotecnologie Mediche, tramite il tutor per la mobilità, organizza almeno un incontro informativo all'anno specifico per gli studenti del Corso di Laurea ed offre  attività di supporto agli studenti selezionati.</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-attendance">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-attendance--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-attendance--content">Obbligo di frequenza</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-attendance--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-frequenza field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_10 js-view-dom-id-86cb81c55da8319a3f64c183a40587dcda626aa441adf8bd692e57337dbacae4">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-frequenza"><div class="field-content">La frequenza è obbligatoria  per  tutte le attività didattiche, con una tolleranza non superiore al 30% delle ore. Pertanto gli studenti sono tenuti a dichiarare la propria presenza ad ogni attività formativa durante la rilevazione della stessa da parte dei docenti.</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+</div>
+</div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Immatricolazione</div>
+    <div class="bottom0 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--5">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--5--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--5--content">Requisiti, modalità di verifica e obblighi formativi</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--5--content" class="panel-body panel-collapse collapse fade">
+                  <div  class="paragraph scheda-cds-requisiti-accesso">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_11 js-view-dom-id-6d82f81e0a95a8c9e77da98ded47bd70a43ef760c50b09c979c4e6ae83b6c4c3">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-requisiti-accesso"><div class="field-content">Possono essere ammessi al corso di Laurea in Biotecnologie Mediche i candidati in possesso del diploma di scuola media superiore o di titolo estero equipollente ai sensi del D.M. 22 ottobre 2004 n.270. L'accesso al Corso di Laurea è programmato a livello locale e limitato a 120 studenti + 5 studenti non comunitari residenti all'estero, selezionati in base ai risultati di una prova selettiva che dovrà essere sostenuta preliminarmente all'iscrizione. Il Corso di studio aderisce al sistema dei test on-line di tipo S (TOLC-S) approntati a livello nazionale dal Consorzio Interuniversitario Sistemi Integrati per l'Accesso (C.I.S.I.A.). La data della prova selettiva e le modalità di determinazione della graduatoria di merito per l'accesso al Corso di laurea in Biotecnologie Mediche saranno definite nel bando di concorso.<br><br>Obblighi formativi aggiuntivi e modalità per il recupero (OFA)<br>Alle matricole che non raggiungono un punteggio maggiore o uguale a 10 nel modulo di Matematica di base del TOLC-S, saranno assegnati Obblighi Formativi Aggiuntivi (OFA), che prevedono attività di supporto nel periodo ottobre-dicembre, seguite da una prova di recupero con la quale lo studente dovrà dimostrare di aver migliorato la propria preparazione. Coloro che non avranno raggiunto gli obiettivi richiesti non potranno sostenere l'esame di Matematica.<br><br>Ammissione ad anni successivi al primo e casi di esonero dal test<br>Gli studenti che intendono trasferirsi al corso di laurea in Biotecnologie mediche o già in possesso di Diploma di Laurea, sono comunque tenuti a sostenere il test e a conseguire una posizione utile in graduatoria ai fini dell'immatricolazione. La presentazione dell'eventuale carriera pregressa, previa valutazione da parte del Collegio Didattico e nel limite dei posti disponibili per singolo anno programmato a livello d'Ateneo ai sensi della Legge n.264 del 02.08.199, potrebbe consentire di essere ammessi ad anni successivi al primo.<br>Fanno eccezione gli studenti e i laureati della classe L-2 dell'Università degli Studi di Milano (laurea in Biotecnologia) che potranno essere ammessi ad anni successivi al primo, sempre nel rispetto dei limiti di legge riportati, e quindi esonerati dal test, a condizione di rispettare i requisiti, la procedura e le scadenze indicate nel bando di ammissione.
+
+ 
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--6">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--6--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--6--content">Ammissione e immatricolazione</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--6--content" class="panel-body panel-collapse collapse fade">
+            
+<div  class="paragraph paragraph--type--bp-two-columns paragraph--style--66-33">
+    
+<div  class="paragraph__column">
+    
+<div  class="bp_two_col_left col-md-8">
+          <div  class="top20">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_2 js-view-dom-id-841f15eabd5a26a813a9ea9981258484e008fdf4c4a46ee2e3a4239b072742ec">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-bando-scadenze"><div class="field-content"><p><strong>Posti disponibili</strong>: 120  + 5 riservati a cittadini Extra UE</p>
+<h3>Bando di ammissione</h3>
+<p>Consulta il bando per scoprire le <strong>date</strong> e i <strong>contenuti</strong> del test e <strong>tutte le informazioni</strong> su come iscriverti.</p>
+<h3>Sessione: 1</h3>
+<p><strong>Domanda di ammissione:</strong> dal 12/03/2026 al 11/06/2026</p>
+<p><strong>Domanda di immatricolazione:</strong> dal 18/06/2026 al 30/06/2026</p>
+<p><strong><a href="https://apps.unimi.it/files/bandi/bando-2027-t-biotecnologie-mediche-%28classe-l-2-r%29.pdf?27-MAR-26">Leggi il Bando</a></strong></p>
+<h3>Sessione: 2</h3>
+<p><strong>Domanda di ammissione:</strong> dal 02/07/2026 al 10/09/2026</p>
+<p><strong>Domanda di immatricolazione:</strong> dal 16/09/2026 al 23/09/2026</p>
+<p><strong><a href="https://apps.unimi.it/files/bandi/bando-2027-t-biotecnologie-mediche-%28classe-l-2-r%29.pdf?27-MAR-26">Leggi il Bando</a></strong></p></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+  </div>
+<div  class="bp_two_col_right col-md-4 paragraph__column">
+          <div  class="bottom40 flowroot">
+            <div  class="titolo-grande bottom20 field-label-above">Servizi online</div>
+  
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node-2 view-id-w4_cdsi_to_node_2 view-display-id-block_5 js-view-dom-id-5341b081d3a624d31517127876020bddab275f98645fe9af95208a3e7fcde741">
+  
+    
+      
+      <div class="view-content">
+          <div><div class="views-field views-field-bando-al-servizio"><div class="field-content"><div class="actionlink-wrapper alw-of alw-serv alw-3"><div class="actionlink al-servizio al-ammissioni"><a href="https://ammissionitriennali.unimi.it/programmato/">Domanda di ammissione</a></div><div class="actionlink al-servizio al-graduatorie"><a href="https://studente.unimi.it/graduatorie/selezioneCorso/it/P.html">Graduatorie</a></div><div class="actionlink al-servizio al-immatricolazione"><a href="https://studente.unimi.it/immatricolazioni/primoLivello/checkLogin.asp">Immatricolazione</a></div></div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-action-informazione field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node-2 view-id-w4_cdsi_to_node_2 view-display-id-block_4 js-view-dom-id-4ef39e09d8018c2f299bd439ee11e3a69893b5456e27f5c865427b5209cefeff">
+  
+    
+      
+      <div class="view-content">
+          <div><div class="views-field views-field-bando-al-informazione"><div class="field-content"><div class="paragraph paragraph--type--bp-card-action bgcolor-ebf0f6">
+  <div class="card-content">
+    <div class="bp-title">Per approfondire:</div>
+<div class="actionlink-wrapper alw-of alw-info alw-1"><div class="actionlink al-informazione al-informazioni"><a href="https://www.unimi.it/it/node/84">Come iscriversi</a></div></div>
+</div>
+</div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div>
+  </div>
+  </div>
+          </div>
+  
+    
+</div>
+
+  </div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Manifesto ed elenco insegnamenti</div>
+          <div  class="bottom20">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_3 js-view-dom-id-4f81ceeb6edbbce7e53c49411a21d87d7c3c3f6f945f49637b034d77694e2fc7">
+  
+    
+      
+      <div class="view-content">
+          <div class="padl30 views-row"><div><span class="file">
+  <span class="file-icon" aria-hidden="true">
+    <span class="far fa-file"></span>
+  </span>
+  <span class="file-link"><a href="https://apps.unimi.it/files/manifesti/ita_manifesto_DABof2_2027.pdf">Manifesto degli studi [DABof2_2027]</a></span>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-piano-didattico field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_12 js-view-dom-id-7a46a2e6bbed951dc29b4f855b916ecc861f9dedd8e325c180ee2d3f160a476e">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-rendered-entity"><span class="field-content">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+            <div class="field field--name-ugov-piano-didattico field--type-map field--label-hidden field--item"><div class="ugov_of_pd ugov_of_pd_type_2 ugov_of_pd_it">
+
+<div class="accordion bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="curr-accordion">
+    <div>
+    <!-- curr_default 1 - curr_number  - curr_tot_number 1 -->
+
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title" aria-expanded="false" aria-controls="curr-20270000dabof2-DAB-0" role="button" href="#curr-20270000dabof2-DAB-0">
+                  Piano didattico
+              </a>
+    </div>
+
+    <div id="curr-20270000dabof2-DAB-0" class="panel-collapse collapse ">
+      <div class="panel-body">
+
+                  <ul class="nav nav-tabs ugov-of-pd-years">
+                          <li class="active"><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000dabof2-DAB-0-0"><div>
+
+  Anno: 1
+</div>
+</a></li>
+                          <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000dabof2-DAB-0-1"><div>
+
+  Anno: 2
+</div>
+</a></li>
+                          <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000dabof2-DAB-0-2"><div>
+
+  Anno: 3
+</div>
+</a></li>
+                      </ul>
+        
+                  <div class="tab-content">
+                          <div id="ugov-of-pd-year-af-20270000dabof2-DAB-0-0" class="tab-pane fade in active">
+                
+                                                                            <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/biologia-generale-e-cellulare-0">Biologia generale e cellulare</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-10/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/chimica-generale-e-inorganica-1">Chimica generale e inorganica</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">CHEM-03/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/matematica-2">Matematica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MATH-03/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/chimica-organica-1">Chimica organica</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">CHEM-05/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/fisica-applicata-0">Fisica applicata</a>
+</td>
+<td data-title="Crediti massimi">9</td>
+<td data-title="Ore totali">84</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-06/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/genetica-0">Genetica</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">68</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-10/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/istologia-e-anatomia-umana-1">Istologia e anatomia umana</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">68</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-12/A BIOS-13/A</td>
+</tr>
+<tr><td> - Anatomia umana</td><td>4</td><td>40</td><td aria-label="ND" ></td><td>BIOS-12/A</td> </tr>
+<tr><td> - Istologia</td><td>3</td><td>28</td><td aria-label="ND" ></td><td>BIOS-13/A</td> </tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Regole di composizione</div>
+                                          <div class="ugov-of-pd-year-rules-0"><div>1° Anno - ALTRE ATTIVITA' OBBLIGATORIE<br/>Lo studente deve inoltre maturare 2 CFU relativi all'accertamento della lingua inglese.</div>
+</div>
+                                                            </div>
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000dabof2-DAB-0-1" class="tab-pane fade">
+                                  <div class="noteanno">sarà attivato dall&#039;A.A. 2027/2028</div>
+                
+                                                                            <div class="top30 titoletto">annuale</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/biochimica-e-fondamenti-di-biochimica-umana-1">Biochimica e fondamenti di biochimica umana</a>
+</td>
+<td data-title="Crediti massimi">11</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-07/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/fisiologia-umana-6">Fisiologia umana</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-06/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/laboratorio-di-metodologie-cellulari-e-molecolari-1">Laboratorio di metodologie cellulari e molecolari</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">120</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-07/A BIOS-10/A</td>
+</tr>
+<tr><td> - Metodologie cellulari</td><td>5</td><td>56</td><td aria-label="ND" ></td><td>BIOS-10/A</td> </tr>
+<tr><td> - Metodologie molecolari</td><td>5</td><td>64</td><td aria-label="ND" ></td><td>BIOS-07/A</td> </tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/aspetti-giuridici-gestionali-e-bioetici-le-biotecnologie-1">Aspetti giuridici, gestionali e bioetici per le biotecnologie</a>
+</td>
+<td data-title="Crediti massimi">9</td>
+<td data-title="Ore totali">72</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">AGRI-01/A GIUR-01/A MEDS-02/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/genetica-molecolare-umana-1">Genetica molecolare umana</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-10/A MEDS-01/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/microbiologia-e-virologia-medica-1">Microbiologia e virologia medica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-03/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/patologia-generale-e-immunologia-1">Patologia generale e immunologia</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-02/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Periodo non specificato</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/biologia-molecolare-1">Biologia molecolare</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">68</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-08/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000dabof2-DAB-0-2" class="tab-pane fade">
+                                  <div class="noteanno">sarà attivato dall&#039;A.A. 2028/2029</div>
+                
+                                                                            <div class="top30 titoletto">annuale</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/farmacologia-medica-1">Farmacologia medica</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-11/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/biotecnologie-nella-diagnostica-di-laboratorio-e-fondamenti-di-statistica-0">Biotecnologie nella diagnostica di laboratorio e fondamenti di statistica</a>
+</td>
+<td data-title="Crediti massimi">9</td>
+<td data-title="Ore totali">84</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">BIOS-09/A MEDS-02/B MEDS-24/A MEDS-26/D</td>
+</tr>
+<tr><td> - Biotecnologie in diagnostica</td><td>5</td><td>48</td><td aria-label="ND" ></td><td>BIOS-09/A,MEDS-02/B</td> </tr>
+<tr><td> - Statistica nella sperimentazione biomedic</td><td>4</td><td>36</td><td aria-label="ND" ></td><td>MEDS-24/A,MEDS-26/D</td> </tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/fisiopatologia-medica-e-principi-di-diagnostica-e-terapia-biotecnologica-1">Fisiopatologia medica e principi di diagnostica e terapia biotecnologica</a>
+</td>
+<td data-title="Crediti massimi">9</td>
+<td data-title="Ore totali">84</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-05/A MEDS-06/A MEDS-08/A MEDS-09/A MEDS-09/B MEDS-12/A</td>
+</tr>
+<tr><td> - Fisiopatologia medica</td><td>5</td><td>48</td><td aria-label="ND" ></td><td>MEDS-05/A,MEDS-08/A,MEDS-09/B</td> </tr>
+<tr><td> - Principi di diagnostica e terapia biotecnologica</td><td>4</td><td>36</td><td aria-label="ND" ></td><td>MEDS-06/A,MEDS-09/A,MEDS-12/A</td> </tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/applicazioni-biotecnologiche-medicina-0">Applicazioni biotecnologiche in medicina</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MEDS-04/A MEDS-21/A MEDS-24/B MEDS-25/A MEDS-25/B MEDS-26/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Attività conclusive</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tirocinio-pratico-0">Tirocinio pratico</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">200</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Attività conclusive</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/prova-finale-70">Prova finale</a>
+</td>
+<td data-title="Crediti massimi">4</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Regole di composizione</div>
+                                          <div class="ugov-of-pd-year-rules-2"><div>3° Anno - Lo studente, al terzo anno, deve altresì maturare 12 CFU in attività formative a scelta</div>
+</div>
+                                                            </div>
+                
+              </div>
+                      </div>
+        
+        
+                  <div class="accordion bottom20 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="curr-20270000dabof2-DAB-0-accordion-p">
+            <div class="absoluteWrapper">
+              <div class="panel-heading">
+                <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title top30" aria-expanded="false" aria-controls="curr-20270000dabof2-DAB-0-p" role="button" href="#curr-20270000dabof2-DAB-0-p">Propedeuticità del curriculum</a>
+              </div>
+              <div id="curr-20270000dabof2-DAB-0-p" class="panel-collapse collapse">
+                <div class="panel-body">
+                                      <div id="prop-cds-content" class="ugov-of-pd-rules-p-af-text">Il corso di studi prevede le propedeuticità obbligatorie elencate in tabella. Per ciascuna delle attività formative che prevedono delle propedeuticità, lo studente dovrà sostenere gli esami dei corsi propedeutici (colonna di destra) prima di presentarsi a sostenere l'esame relativo all'attività didattica per la quale le propedeuticità sono previste (colonna di sinistra).</div>
+                                                        <div class="titoletto top20">Propedeuticità sulle attività formative</div>
+                    <div id="propcontent" class="ugov-of-pd-rules-p-af-text">﻿<div class="ugov-propedeuticita-af no-more-tables">
+<table class="">
+<thead>
+<tr><th>Attività formativa</th><th>Attività formative propedeutiche</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td data-title="Attività formativa">Applicazioni biotecnologiche in medicina</td>
+  <td data-title="Attività formative propedeutiche">
+Patologia generale e immunologia (obbligatoria), Genetica molecolare umana (obbligatoria), Laboratorio di metodologie cellulari e molecolari (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Biochimica e fondamenti di biochimica umana</td>
+  <td data-title="Attività formative propedeutiche">
+Chimica organica (consigliata), Chimica generale e inorganica (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Biologia molecolare</td>
+  <td data-title="Attività formative propedeutiche">
+Biologia generale e cellulare (obbligatoria), Genetica (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Biotecnologie nella diagnostica di laboratorio e fondamenti di statistica</td>
+  <td data-title="Attività formative propedeutiche">
+Patologia generale e immunologia (obbligatoria), Laboratorio di metodologie cellulari e molecolari (obbligatoria), Biochimica e fondamenti di biochimica umana (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Farmacologia medica</td>
+  <td data-title="Attività formative propedeutiche">
+Patologia generale e immunologia (obbligatoria), Genetica molecolare umana (obbligatoria), Biochimica e fondamenti di biochimica umana (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Fisiologia umana</td>
+  <td data-title="Attività formative propedeutiche">
+Fisica applicata (obbligatoria), Istologia e anatomia umana (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Fisiopatologia medica e principi di diagnostica e terapia biotecnologica</td>
+  <td data-title="Attività formative propedeutiche">
+Patologia generale e immunologia (obbligatoria), Fisiologia umana (obbligatoria), Biochimica e fondamenti di biochimica umana (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Genetica molecolare umana</td>
+  <td data-title="Attività formative propedeutiche">
+Laboratorio di metodologie cellulari e molecolari (obbligatoria), Biologia molecolare (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Laboratorio di metodologie cellulari e molecolari</td>
+  <td data-title="Attività formative propedeutiche">
+Biologia generale e cellulare (obbligatoria), Genetica (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Microbiologia e virologia medica</td>
+  <td data-title="Attività formative propedeutiche">
+Biologia generale e cellulare (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Patologia generale e immunologia</td>
+  <td data-title="Attività formative propedeutiche">
+Biologia generale e cellulare (obbligatoria), Genetica (obbligatoria)  </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+                                  </div>
+              </div>
+            </div>
+          </div>
+        
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Altre informazioni</div>
+    <div class="mobile-tab field-group-tabs-wrapper"><div data-vertical-tabs-panes><input class="vertical-tabs__active-tab" type="hidden" /><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-aiuto-e-orientamento">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-aiuto-e-orientamento--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-aiuto-e-orientamento--content">Aiuto e orientamento</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-aiuto-e-orientamento--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-aiuto-e-orientamento field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_48 js-view-dom-id-3850809de9c40f80ce87ba19f4d99bdc118fe7d02da421e13f1e878abf8aa0ca">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-view"><span class="field-content"><div class="view view-paragrafi view-id-paragrafi view-display-id-block_2 js-view-dom-id-28a2b46bd3dd1fc171b2444b184a823cff038574277cb5944b96eaab3e9b2912">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id='parid-16321'  class="paragraph paragraph--type--bp-simple paragraph--view-mode--default paragraph--id--16321">
+  <div class="paragraph__column">
+    
+    
+<div  class="box-content">
+    
+<div  id="imgplace" class="imgplace">
+    <div class="bp-text"><p>Orientamento:</p>
+
+<ul>
+	<li><a href="https://www.unimi.it/it/node/66">Scegliere il corso giusto: i servizi del centro di orientamento di Ateneo</a></li>
+</ul>
+
+<p>Info su ammissioni e immatricolazioni</p>
+
+<ul>
+	<li><a href="https://www.unimi.it/it/node/359/">Contatta le segreterie</a></li>
+	<li><a href="https://informastudenti.unimi.it/saw/ess?AUTH=SAML">Sportello online <strong>InformaStudenti</strong></a></li>
+	<li>Studenti internazionali:<a href="https://www.unimi.it/it/node/352/">&nbsp;welcome desk</a></li>
+	<li><a href="https://www.unimi.it/it/node/35900">Studenti con disabilità</a></li>
+	<li><a href="https://www.unimi.it/it/node/35899">Studenti con DSA</a></li>
+</ul></div>
+  </div>
+  </div>
+  </div>
+</div>
+
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-location">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-location--content" aria-expanded="true" aria-pressed="true" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-location--content">Sede</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-location--content" class="panel-body panel-collapse collapse fade in">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-sedi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_13 js-view-dom-id-3b1ce627df8d299dd2cc30c41c1033ac7c4b0ca58af1de77bcd8bd39af3efb08">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-polo-fisico"><div class="field-content">Milano</div></div><div class="views-field views-field-risorse-didattica"><span class="views-label views-label-risorse-didattica field--label">Sedi didattiche</span><div class="field-content">La sede del Corso di Laurea è il Polo didattico/scientifico LITA (Laboratorio Interdisciplinare di Tecnologie Avanzate), via F.lli Cervi, 93 - Segrate (MI).<br>Le attività didattiche relative al I semestre del I anno si svolgono presso il Settore Didattico di Città Studi mentre dal II semestre si svolgono presso il Polo Didattico Scientifico LITA (Segrate), sede delle lezioni del II e III anno. I tirocini possono svolgersi presso strutture afferenti alla Facoltà di Medicina e Chirurgia o esterne, dotate di moderne attrezzature scientifiche e assistenziali, con un elevato grado di competenze nell'ambito delle biotecnologie applicate alle scienze mediche.</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-reference-professors-and-c">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-reference-professors-and-c--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-reference-professors-and-c--content">Referenti e contatti</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-reference-professors-and-c--content" class="panel-body panel-collapse collapse fade">
+            
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-presidente-collegio field--type-ds field--label-above">
+    <div class="field--label">Presidente del Collegio didattico</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_33 js-view-dom-id-3287d213f09c72f5d5fa9c39916bd54b50e0dbd6958d08f985dc3aa11488aedf">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/raffaella-molteni" hreflang="it">Molteni Raffaella</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-riferimenti-1 field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_14 js-view-dom-id-6f7566af512fcd6b1b41e363d8c66690e5e6739c66d60b893b4ab72142c605b5">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-orientamento field--type-ds field--label-above">
+    <div class="field--label">Tutor per l'orientamento</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_36 js-view-dom-id-6e3972c33898df697d3632eceb2b4dc4721de501648718398b9487e1599a0113">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/angelisa-frasca" hreflang="it">Frasca Angelisa</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-erasmus field--type-ds field--label-above">
+    <div class="field--label">Tutor per la mobilità internazionale e l'Erasmus</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_37 js-view-dom-id-062455e90ad1878666f5e39e794b7a2f1ad81ac592da76d49a6a2ea50c56549e">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/elena-chiricozzi" hreflang="it">Chiricozzi Elena</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-stage-tirocini field--type-ds field--label-above">
+    <div class="field--label">Tutor per stage e tirocini</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_39 js-view-dom-id-2386c475e9df3229bda7b313914997f8b13ccab733b33adbd6b5db0de245a718">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/rosaria-bassi" hreflang="it">Bassi Rosaria</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-referente-aq field--type-ds field--label-above">
+    <div class="field--label">Referente AQ del corso di studio</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_35 js-view-dom-id-104266309c41138cc7389e868f92827aad86d8460888009adf00901620c93f92">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/elena-borroni" hreflang="it">Borroni Elena Monica</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-strutture field--type-ds field--label-above">
+    <div class="field--label">Strutture di riferimento</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_16 js-view-dom-id-0228cb868f349cba1c95fb56e08b8562ba64fa63d50913d1ac5d97d0d8a4c436">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-biotecnologie-mediche-e-medicina-traslazionale" hreflang="it">Dipartimento di Biotecnologie Mediche e Medicina Traslazionale</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-fisiopatologia-medico-chirurgica-e-dei-trapianti" hreflang="it">Dipartimento di Fisiopatologia Medico-Chirurgica e dei Trapianti</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-scienze-biomediche-la-salute" hreflang="it">Dipartimento di Scienze Biomediche per la Salute</a></div></div></div>
+    <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-scienze-cliniche-e-di-comunita" hreflang="it">Dipartimento di Scienze Cliniche e di Comunità</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-riferimenti-2 field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_15 js-view-dom-id-b526d92eacd96469013c8a57f69666eba566ee9e516f209f8b409460e5eba02d">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div><span class="field--label">Contatti</span><div class="field--type-text-long"><ul><li>Segreteria didattica I°, II° e III° anno Sig.ra Lucia Loseto<br>Dipartimento di Biotecnologie Mediche e Medicina Traslazionale<br><a href="/cdn-cgi/l/email-protection#83e1eaecf7e6e0edecefece4eae6adeee6e7eae0ebe6c3f6edeaeeeaadeaf7"><span class="__cf_email__" data-cfemail="d5b7bcbaa1b0b6bbbab9bab2bcb0fbb8b0b1bcb6bdb095a0bbbcb8bcfbbca1">[email&#160;protected]</span></a><br><a href="tel:+3902/50317123">+3902/50317123</a></li></ul></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-bando-scadenze">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-bando-scadenze--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-bando-scadenze--content">Costi e agevolazioni</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-bando-scadenze--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-blocco-action field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_47 js-view-dom-id-b7f63609c29e4f4cdfaa8deef6ce185154111366b30820542bcb4fb376dd6e98">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-view"><span class="field-content"><div class="view view-paragrafi view-id-paragrafi view-display-id-block_1 js-view-dom-id-de20a049ce593a67d524371264fb3f4d35cc6f66ed0917ed6e2b4c1a581ca9c4">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id='parid-11581'  class="paragraph paragraph--type--bp-simple paragraph--view-mode--default paragraph--id--11581">
+  <div class="paragraph__column">
+    
+    
+<div  class="box-content">
+    
+<div  id="imgplace--2" class="imgplace">
+    <div class="bp-text"><p>Le tasse universitarie per gli studenti iscritti ai corsi di laurea, di laurea magistrale e a ciclo unico sono suddivise in due rate:</p><ul><li>la <strong>prima rata</strong> ha importo uguale per tutti e si paga al momento dell’immatricolazione;</li><li>la<strong> seconda rata  </strong>varia in base al valore ISEE Università e al Corso di laurea;</li><li>per gli <strong>studenti internazionali </strong>con redditi e patrimoni all’estero la seconda rata varia in base al Paese di provenienza</li></ul><p><strong>Diritto allo studio e altre agevolazioni&nbsp;</strong>&nbsp;</p><p>L’Ateneo prevede borse di studio, mense, alloggi e altre agevolazioni a favore dei propri studenti con specifici requisiti di merito e condizioni economiche.</p><p><strong>Maggiori informazioni</strong></p></div>
+  </div>
+<div  class="correlati-content top20">
+    
+<ul>        <li class="bp-link odd first"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare">Come e quanto pagare</a></li>      <li class="bp-link even first"><a href="/it/studiare/borse-premi-mense-e-alloggi">Borse, premi, mense e alloggi </a></li>      <li class="bp-link odd first"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare/esonero-tasse">Esonero tasse</a></li>        <li class="bp-link even first last"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare/iscrizioni-tempo-parziale">Iscrizioni a tempo parziale</a></li></ul>
+
+  </div>
+  </div>
+  </div>
+</div>
+
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+</div>
+</div>
+  </div>
+  </div>
+  
+  
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    
+<div  class="paragraph--type--bp-links box-fullbg riquadro bottom40">
+  <div class="bp-title">Documenti ufficiali</div>
+          <div  class="top10">
+        
+            <div  class="top0">
+                  <div class="media media--type-file media--view-mode-default ds-1col clearfix">
+
+  
+
+        <span  class="file-link">
+        
+            <span class="file file--mime-application-pdf file--application-pdf icon-before"><span class="file-icon" aria-hidden="true"><span class="far fa-file"></span></span><span class="file-link"><a href="https://www.unimi.it/sites/default/files/2025-10/DAB%20L-2%20Biotecnologie%20mediche%20%282025%29.pdf" type="application/pdf; length=228157" title="DAB L-2 Biotecnologie mediche (2025).pdf [222.81 KB] - the file opens in new window" target="_blank">Regolamento didattico</a></span></span>
+      
+  
+    </span>
+
+
+
+</div>
+
+
+      
+      </div>
+  
+    </div>
+
+
+  </div><div class="accordion top40 bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--11">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--11--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--11--content">Altre offerte</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--11--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-elenco-cdsi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi view-id-w4_cdsi view-display-id-block_12 js-view-dom-id-7ddb0bfb06659a468ddd01686db0fbf2740575e970b1d586fde13c3c00e3e771">
+  
+    
+      
+      <div class="view-content">
+          <div class="area-"><div class="view view-w4-cdsi view-id-w4_cdsi view-display-id-block_11 js-view-dom-id-7731845d940d7eeab0debc675b0272fd3ec4d1c3d9e39b3c45c78f8ea52f8e65">
+  
+    
+      
+      <div class="view-content">
+        <h3>A.A. 2026/2027</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2026/2027/biotecnologie-mediche-classe-l-2-r-immatricolati-nellanno-accademico-2026/27" hreflang="it">Biotecnologie mediche (Classe L-2 R)-immatricolati nell&#039;anno accademico 2026/27</a> [DABof2 2027]</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2026/2027/biotecnologie-mediche-classe-l-2-r-immatricolati-nellanno-accademico-2025/26" hreflang="it">Biotecnologie mediche (Classe L-2 R)-immatricolati nell&#039;anno accademico 2025/26</a> [DABof1 2027]</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2026/2027/biotecnologie-mediche-classe-l-2-immatricolati-dallanno-accademico-2014/2015-allanno-accademico-2024" hreflang="it">Biotecnologie mediche (Classe L-2)-immatricolati dall&#039;anno accademico 2014/2015 all&#039;anno accademico 2024/25</a> [D47of3 2027]</span></div></div>
+  <h3>A.A. 2025/2026</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2025/2026/biotecnologie-mediche-classe-l-2-r-immatricolati-nellanno-accademico-2025/26" hreflang="it">Biotecnologie mediche (Classe L-2 R)-immatricolati nell&#039;anno accademico 2025/26</a> [DABof1 2026]</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2025/2026/biotecnologie-mediche-classe-l-2-immatricolati-dallanno-accademico-2014/2015-allanno-accademico-2024" hreflang="it">Biotecnologie mediche (Classe L-2)-immatricolati dall&#039;anno accademico 2014/2015 all&#039;anno accademico 2024/25</a> [D47of3 2026]</span></div></div>
+  <h3>A.A. 2024/2025</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2024/2025/biotecnologie-mediche-classe-l-2-immatricolati-dallanno-accademico-2014/2015" hreflang="it">Biotecnologie mediche (Classe L-2)-immatricolati dall&#039;anno accademico 2014/2015</a> [D47of3 2025]</span></div></div>
+  <h3>A.A. 2023/2024</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2023/2024/biotecnologie-mediche-classe-l-2-immatricolati-dallanno-accademico-2014/2015" hreflang="it">Biotecnologie mediche (Classe L-2)-immatricolati dall&#039;anno accademico 2014/2015</a> [D47of3 2024]</span></div></div>
+  <h3>A.A. 2022/2023</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2022/2023/biotecnologie-mediche-classe-l-2-immatricolati-dallanno-accademico-2014/2015" hreflang="it">Biotecnologie mediche (Classe L-2)-immatricolati dall&#039;anno accademico 2014/2015</a> [D47of3 2023]</span></div></div>
+  <h3>A.A. 2021/2022</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2021/2022/biotecnologie-mediche-classe-l-2-immatricolati-dallanno-accademico-2014/2015" hreflang="it">Biotecnologie mediche (Classe L-2)-immatricolati dall&#039;anno accademico 2014/2015</a> [D47of3 2022]</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+
+  </div>
+  
+</div>
+
+
+<section id="block-cookiesui" class="block block-cookies block-cookies-ui-block clearfix">
+  
+    
+
+        
+<div id="cookiesjsr"></div>
+
+  </section>
+
+
+  </div>
+
+              </section>
+
+                </div>
+  </div>
+
+      <footer class="footer full-width">
+      <div class="container">
+          <div class="region region-footer">
+    <nav role="navigation" aria-labelledby="block-piedipagina-menu" id="block-piedipagina" class="col-sm-3 top10">
+      
+  <h2 id="block-piedipagina-menu">Strutture</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/corsi/facolta-e-scuole" data-drupal-link-system-path="node/710">Facoltà e scuole</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/dipartimenti" title="Tutti i dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/uffici-e-strutture" data-drupal-link-system-path="node/1218">Uffici</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-3-menu" id="block-piedipagina-3" class="col-sm-3 block-servizi top10">
+      
+  <h2 id="block-piedipagina-3-menu">Servizi</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/biblioteche" data-drupal-link-system-path="node/464">Servizio bibliotecario</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-studenti-con-disabilita" title="Servizi di orientamento, accoglienza, supporto allo studio e alla mobilità" data-drupal-link-system-path="node/35900">Servizi per studenti con disabilità</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-studenti-con-dsa" title="Servizi per studenti con Disturbi Specifici dell&#039;Apprendimento" data-drupal-link-system-path="node/35899">Servizi per studenti con DSA</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-tecnologici-e-online" data-drupal-link-system-path="node/393">Servizi tecnologici</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-4-menu" id="block-piedipagina-4" class="col-sm-3 top10">
+      
+  <h2 id="block-piedipagina-4-menu">Concorsi, selezioni e gare</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-professori" data-drupal-link-system-path="node/577">Professori </a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-ricercatori" data-drupal-link-system-path="node/12942">Ricercatori</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-personale-tecnico-amministrativo" title="Bandi PTAB" data-drupal-link-system-path="node/576">Tecnici amministrativi e bibliotecari</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/consulenze-e-collaborazioni" data-drupal-link-system-path="node/500">Consulenze e collaborazioni</a>
+              </li>
+                      <li>
+                                        <a href="/it/ricerca/fare-ricerca-da-noi/incarichi-di-ricerca/bandi-incarichi-di-ricerca" title="Bandi incarichi di ricerca" data-drupal-link-system-path="node/53011">Incarichi di ricerca</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/bandi-di-gare-e-contratti" title="Bandi di gara e contratti" data-drupal-link-system-path="node/1227">Gare e contratti</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-2-menu" id="block-piedipagina-2" class="col-sm-3 buttonlist block-comefareper">
+            
+  <h2 class="visually-hidden" id="block-piedipagina-2-menu">Come fare per</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/corsi/orientarsi-e-scegliere" data-drupal-link-system-path="node/727">Orientarsi e scegliere</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contattare l&#039;Università</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti/fai-sentire-la-tua-voce" title="Fai sentire la tua voce" data-drupal-link-system-path="node/54275">Fai sentire la tua voce</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/fundraising" data-drupal-link-system-path="node/1223">Fundraising</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/studiare/vivere-luniversita/unimi-store-il-merchandising-delluniversita-degli-studi-di-milano" title="Unimi Store" data-drupal-link-system-path="node/45180">Unimi Store</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-5-menu" id="block-piedipagina-5" class="col-sm-12 col-md-12 col-lg-12 links_list_inline block-menu-footer">
+            
+  <h2 class="visually-hidden" id="block-piedipagina-5-menu">footer</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/ateneo/amministrazione-trasparente" data-drupal-link-system-path="node/12893">Amministrazione trasparente</a>
+              </li>
+                      <li>
+                                        <a href="https://form.agid.gov.it/view/b6345040-993a-11f0-b789-d70c35e61f53" title="Dichiarazione di accessibilità">Dichiarazione di accessibilità</a>
+              </li>
+                      <li>
+                                        <a href="/it/privacy-e-cookie" data-drupal-link-system-path="node/7393">Privacy e cookie</a>
+              </li>
+                      <li>
+                                        <a href="#editCookieSettings">Cookie settings</a>
+              </li>
+                      <li>
+                                        <a href="/it/note-legali" data-drupal-link-system-path="node/7394">Note legali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/sitemap" data-drupal-link-system-path="sitemap">Mappa del sito</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-footertext" class="col-sm-4 col-lg-3 block-footertext block block-block-content block-block-content5af82d4a-b448-4107-a29a-5bfa144da5b5 clearfix">
+  
+    
+
+      
+  <div class="field field--name-field-testo field--type-text-long field--label-visually_hidden">
+    <div class="field--label sr-only">Testo</div>
+              <div class="field--item"><p>Università degli Studi di Milano<br>
+Via Festa del Perdono 7 - 20122 Milano<br>
+<a href="tel:+390250325032">Tel: +39 02 5032 5032</a><br>
+<a href="https://informastudenti.unimi.it/saw/ess?AUTH=SAML">InformaStudenti</a><br>
+<a href="/posta-elettronica-certificata-pec">Posta Elettronica Certificata</a><br>
+C.F. 80012650158 - P.I. 03064870151<br>
+<a href="https://www.registrolei.it/leicert/?lei=9845000B7798E81BEB72">Codice LEI</a><br>
+©Copyright 2025</p></div>
+          </div>
+
+  </section>
+
+<nav role="navigation" aria-labelledby="block-social-menu" id="block-social" class="col-sm-5 col-lg-6 links_list_inline block-social">
+            
+  <h2 class="visually-hidden" id="block-social-menu">social</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="https://lastatalenews.unimi.it/" title="News">News</a>
+              </li>
+                      <li>
+                                        <a href="https://video.unimi.it/" title="PortaleVideo">PortaleVideo</a>
+              </li>
+                      <li>
+                                        <a href="https://www.facebook.com/laStatale/" title="facebook">facebook</a>
+              </li>
+                      <li>
+                                        <a href="https://www.instagram.com/lastatale_milano_official/" title="Instagram">Instagram</a>
+              </li>
+                      <li>
+                                        <a href="http://twitter.com/LaStatale" title="twitter">twitter</a>
+              </li>
+                      <li>
+                                        <a href="https://www.youtube.com/user/UnimiVideo" title="youtube">youtube</a>
+              </li>
+                      <li>
+                                        <a href="https://www.linkedin.com/school/university-of-milan" title="linkedin">linkedin</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.spreaker.com/user/16503036" title="LaStatale podcast">LaStatale podcast</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-logofooter" class="col-sm-3 col-lg-3 block-logofooter block block-block-content block-block-content2c04e5b1-54ed-4593-a8b3-db0218705c4d clearfix">
+  
+    
+
+      
+  <div class="field field--name-field-logo field--type-entity-reference field--label-visually_hidden">
+    <div class="field--label sr-only">Logo</div>
+              <div class="field--item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+          
+              <img loading="lazy" src="/sites/default/files/2019-05/LogoFooter_a9f0c3692bf29c71609e5f204522c5d4_0.png" width="488" height="164" alt="Università degli Studi di Milano" class="img-responsive rs_skip" />
+
+
+      
+  
+
+
+    </div>
+  </div>
+
+</div>
+          </div>
+
+  </section>
+
+
+  </div>
+
+      </div>
+    </footer>
+  
+
+
+  </div>
+
+    
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/sites/default/files/js/js_Hfl5TWGPoiw8m71d7OKJb2ZY2E6075w3f6a1Dy-5PaI.js?scope=footer&amp;delta=0&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="https://cdn.jsdelivr.net/gh/jfeltkamp/cookiesjsr@1/dist/cookiesjsr-preloader.min.js" defer></script>
+<script src="/sites/default/files/js/js_ZsyWzDxLX0OwMesgXZHsDeMoCWZl-EQtw1NZwgt5HiM.js?scope=footer&amp;delta=2&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="/modules/contrib/google_tag/js/gtag.ajax.js?tlncrt" type="text/plain" id="cookies_gtag_gtag_ajax" data-cookieconsent="gtag"></script>
+<script src="/sites/default/files/js/js_DRmM7Xhr9JVeKzDdk7xyocoDB_WQpxS0ChAS0Ix3iuU.js?scope=footer&amp;delta=4&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"55deaaaf42984e8db8c703ed1c4d39a5","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

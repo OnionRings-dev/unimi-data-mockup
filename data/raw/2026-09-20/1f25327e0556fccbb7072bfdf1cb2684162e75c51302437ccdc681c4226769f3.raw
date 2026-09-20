@@ -1,0 +1,2377 @@
+﻿<!DOCTYPE html>
+<html  lang="it" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.unimi.it/it/corsi/laurea-magistrale/global-environment-and-development" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="unimi-published" content="2023/02/28" />
+<meta name="unimi-last-modified" content="2026/07/22" />
+<link rel="icon" href="/sites/default/files/favicon_0_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="it" href="https://www.unimi.it/it/corsi/laurea-magistrale/global-environment-and-development" />
+<link rel="alternate" hreflang="en" href="https://www.unimi.it/en/education/master-programme/global-environment-and-development" />
+
+    <title>Global Environment and Development | Università degli Studi di Milano Statale</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_ypd-FuAFnkm6TvFwpk_wsW3XFyhEw35mMoWt9mpQf_Y.css?delta=0&amp;language=it&amp;theme=unimi&amp;include=eJyVUtFuwyAM_CEaPikywUm8GowwpM2-fknL2m6alO4FfOeTjfE5hs_VOlA0TqRoyZD6BBmmLZjVPsjTkzSDyJlQbbs7Jveb-9DcaVkZd3VG63NNwB18wNWMEgtcUCWgfYm7C7odaucyRK_HuqFqkXCs81WKRDwWZpwqQz4W6gw5MU1zeVP7v8oqTP4N7XuyMlM05DC71OO1_LnT05YwDKvU0nvSQRbMq90-bRA2L35oe3wyXY2pOiad0Zs6ydLLaCcWB3yHiX_AXF2mAR4cFwoYq5VxHCAusE01AOP24kdKzxS3NhTI3M7nAA03zzV0G7rF9y6n3YkUp0Z-FzYL5N35fUBPsFUJQaJZCC9qb2cXxFfGL_u1PmI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_xsPH_WNFWXqnuxvebu8bjQC9oVmJ2c_0_aVIEFBeeZw.css?delta=1&amp;language=it&amp;theme=unimi&amp;include=eJyVUtFuwyAM_CEaPikywUm8GowwpM2-fknL2m6alO4FfOeTjfE5hs_VOlA0TqRoyZD6BBmmLZjVPsjTkzSDyJlQbbs7Jveb-9DcaVkZd3VG63NNwB18wNWMEgtcUCWgfYm7C7odaucyRK_HuqFqkXCs81WKRDwWZpwqQz4W6gw5MU1zeVP7v8oqTP4N7XuyMlM05DC71OO1_LnT05YwDKvU0nvSQRbMq90-bRA2L35oe3wyXY2pOiad0Zs6ydLLaCcWB3yHiX_AXF2mAR4cFwoYq5VxHCAusE01AOP24kdKzxS3NhTI3M7nAA03zzV0G7rF9y6n3YkUp0Z-FzYL5N35fUBPsFUJQaJZCC9qb2cXxFfGL_u1PmI" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"it\/","currentPath":"node\/46346","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"it"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyVU9GSgyAM_CEqn-QEiZgrECaAPe_rD1tP7c3NtPeC2c0GQlyMh69FG-IOPuBTGeaSi0DSe9QnwZ4ilVMyceIZ5cQUZl8oqVMZCLgWTPnY63KQamC-Ema9fT-ydIONf9G5LB73gn4kX1D0M9yzDjRE8Euh4ShxBZxel8YIais1ge8G9h5SxieyXauVgr8UMFmNHAvcMHNAfYq7G5oV5s4IRPuGbqi5cHits5ULR3wtFHTVg7wW5gkkeXJTeVP7v50ze7JvaN-TlYmicszOY7__s1_44dQnMigyKCb1-Fn-dNulJZSHhWvpLeVhde-i26CbB9TJqZsJDqarMVXjKU9oVXU89zxq59mAf8Dkn6BUI80-O9ceRcBYdTtfIB94gmCquGbcneJxHCDO0IbV_IdtEHsqXym2TiiQuq8aUjtlomp_iP3SG96cv6H7cLf40dllfVQU3UamNhuUXjDTF26cINicEK5rk3fmp58N3oD6AM3WrGYQAxn7gJagHR4CRzUT3rK-r49_diYC2-rxG3y5xq8","theme":"unimi","theme_token":null},"ajaxTrustedUrl":[],"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"google\nnonGooglePixels\nnonGoogleScripts\nnonGoogleIframes","blocklist_classes":"customScripts\ncustomPixels","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-PNWRPR"]},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"600","tooltip_html":1,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"cookies":{"cookiesjsr":{"config":{"cookie":{"name":"cookiesjsr","expires":15552000000,"domain":"","sameSite":"Lax","secure":false},"library":{"libBasePath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist","libPath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist\/cookiesjsr.min.js","scrollLimit":0},"callback":{"method":"post","url":"\/it\/cookies\/consent\/callback.json","headers":[]},"interface":{"openSettingsHash":"#editCookieSettings","showDenyAll":true,"denyAllOnLayerClose":false,"settingsAsLink":false,"availableLangs":["it","en"],"defaultLang":"it","groupConsent":false,"cookieDocs":true}},"services":{"functional":{"id":"functional","services":[{"key":"functional","type":"functional","name":"Required functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EDefault expiration time\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EDescription\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 month\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EIf you are logged in to this website, a session cookie is required to identify and connect your browser to your user account in the server backend of this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 year\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWhen you visited this website for the first time, you were asked for your permission to use several services (including those from third parties) that require data to be saved in your browser (cookies, local storage). Your decisions about each service (allow, deny) are stored in this cookie and are reused each time you visit this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"full_html"},"uri":"","needConsent":false}],"weight":1},"tracking":{"id":"tracking","services":[{"key":"analytics","type":"tracking","name":"Google Analytics","info":{"value":"","format":"full_html"},"uri":"","needConsent":true},{"key":"matomo","type":"tracking","name":"Matomo","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"new_relic","type":"tracking","name":"New Relic","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true}],"weight":10},"performance":{"id":"performance","services":[{"key":"gtag","type":"performance","name":"Google Tag Manager","info":{"value":"","format":"full_html"},"uri":"","needConsent":true},{"key":"infogram_","type":"performance","name":"Infogram ","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"microsoft_power_bi","type":"performance","name":"Microsoft Power BI","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"openstreetmap","type":"performance","name":"OpenStreetMap","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true}],"weight":30},"video":{"id":"video","services":[{"key":"video","type":"video","name":"Video forniti da YouTube, Vimeo","info":{"value":"","format":"full_html"},"uri":"","needConsent":true}],"weight":40}},"translation":{"_core":{"default_config_hash":"C8aQz-3d6YpwuU4QQc1iaWHb3RDkc_C9qcEsgR7HR74"},"langcode":"it","bannerText":"Questo sito utilizza cookie tecnici e di profilazione, propri e di terze parti, per garantire la corretta navigazione, analizzare il traffico e misurare l\u0027efficacia delle attivit\u00e0 di comunicazione istituzionale.\r\nSe prosegui la navigazione o clicchi su \u0022Accetta tutti\u0022 ne acconsenti l\u0027utilizzo, oppure puoi personalizzare la scelta salvando le tue preferenze e scegliendo quali cookie attivare.\r\nPer maggiori informazioni e per sapere come gestirli clicca sul bottone \u0022Impostazione dei cookie\u0022.","privacyPolicy":"Privacy policy","privacyUri":"https:\/\/www.unimi.it\/it\/ateneo\/normative\/privacy","imprint":"Imprint","imprintUri":"","cookieDocs":"Documentazione cookie","cookieDocsUri":"https:\/\/www.unimi.it\/it\/privacy-e-cookie","officialWebsite":"Official website","denyAll":"Rifiuta tutti","alwaysActive":"Sempre Attivo","settings":"Impostazione dei cookie","acceptAll":"Accetta tutti","requiredCookies":"Cookie necessari","cookieSettings":"Impostazione dei cookie","close":"Chiudi","readMore":"Leggi tutto","allowed":"","denied":"negato","settingsAllServices":"Impostazioni per tutti i servizi di cookie","saveSettings":"Salva le impostazioni","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Azienda","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies","functional":{"title":"Functional","details":"I cookie sono piccoli file di testo che il Sito invia al terminale dell\u0027utente, dove sono memorizzati per poi essere ritrasmessi al sito alla visita successiva."},"tracking":{"title":"Cookie di tracciamento","details":"L\u0027utilizzo dei cookie di tracciamento in forma anonima consente la raccolta dei dati in merito alla navigazione delle pagine di questo sito web. In questa maniera ci aiuti a migliorare l\u0027esperienza utente del sito web."},"performance":{"title":"Cookie di prestazione","details":"Utilizziamo alcune funzionalit\u00e0 fornite da altre organizzazioni (\u201cTerze parti\u201d) per migliorare l\u2019esperienza di navigazione degli utenti."},"video":{"title":"Video","details":"I servizi di condivisione video aiutano il sito ad essere maggiormente fruibile e aumentano la visibilit\u00e0."}}},"cookiesTexts":{"_core":{"default_config_hash":"C8aQz-3d6YpwuU4QQc1iaWHb3RDkc_C9qcEsgR7HR74"},"langcode":"it","bannerText":"Questo sito utilizza cookie tecnici e di profilazione, propri e di terze parti, per garantire la corretta navigazione, analizzare il traffico e misurare l\u0027efficacia delle attivit\u00e0 di comunicazione istituzionale.\r\nSe prosegui la navigazione o clicchi su \u0022Accetta tutti\u0022 ne acconsenti l\u0027utilizzo, oppure puoi personalizzare la scelta salvando le tue preferenze e scegliendo quali cookie attivare.\r\nPer maggiori informazioni e per sapere come gestirli clicca sul bottone \u0022Impostazione dei cookie\u0022.","privacyPolicy":"Privacy policy","privacyUri":"https:\/\/www.unimi.it\/it\/ateneo\/normative\/privacy","imprint":"Imprint","imprintUri":"","cookieDocs":"Documentazione cookie","cookieDocsUri":"https:\/\/www.unimi.it\/it\/privacy-e-cookie","officialWebsite":"Official website","denyAll":"Rifiuta tutti","alwaysActive":"Sempre Attivo","settings":"Impostazione dei cookie","acceptAll":"Accetta tutti","requiredCookies":"Cookie necessari","cookieSettings":"Impostazione dei cookie","close":"Chiudi","readMore":"Leggi tutto","allowed":"","denied":"negato","settingsAllServices":"Impostazioni per tutti i servizi di cookie","saveSettings":"Salva le impostazioni","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Azienda","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies"},"services":{"analytics":{"uuid":"f3111266-83e7-4afa-a238-ed86f09a383f","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_ga"]}},"_core":{"default_config_hash":"aYbFdFXbVPCH9Lp3OmPtEGUPT48_WuWxK8pzqzYTUj4"},"id":"analytics","label":"Google Analytics","group":"tracking","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because google analytics cookies have not been accepted.","placeholderAcceptText":"Only accept google analytics cookies"},"functional":{"uuid":"3577cc4e-e48a-43c0-9a0a-6c5c097f09dc","langcode":"it","status":true,"dependencies":[],"id":"functional","label":"Required functional","group":"functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EDefault expiration time\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EDescription\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 month\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EIf you are logged in to this website, a session cookie is required to identify and connect your browser to your user account in the server backend of this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 year\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWhen you visited this website for the first time, you were asked for your permission to use several services (including those from third parties) that require data to be saved in your browser (cookies, local storage). Your decisions about each service (allow, deny) are stored in this cookie and are reused each time you visit this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"full_html"},"consentRequired":false,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because required functional cookies have not been accepted.","placeholderAcceptText":"Only accept required functional cookies"},"gtag":{"uuid":"f66d5e9f-4da7-485e-a2f9-681a9a191055","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_gtag"]}},"_core":{"default_config_hash":"IyQS406QuLa6fAnbDgux4OI6Y6fsu_-J_bZDtoXExEI"},"id":"gtag","label":"Google Tag Manager","group":"performance","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because google tag manager cookies have not been accepted.","placeholderAcceptText":"Only accept google tag manager cookies"},"infogram_":{"uuid":"61dcc425-a844-42ac-addd-23c732c62ad0","langcode":"it","status":true,"dependencies":[],"id":"infogram_","label":"Infogram ","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because infogram cookies have not been accepted.","placeholderAcceptText":"Only accept infogram cookies"},"matomo":{"uuid":"85f1ecf7-421a-477e-98b7-d50f58d1c438","langcode":"it","status":true,"dependencies":[],"id":"matomo","label":"Matomo","group":"tracking","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because matomo cookies have not been accepted.","placeholderAcceptText":"Only accept matomo cookies"},"microsoft_power_bi":{"uuid":"679e34c7-74da-41be-99a6-9c22797f79d8","langcode":"it","status":true,"dependencies":[],"id":"microsoft_power_bi","label":"Microsoft Power BI","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because microsoft power bi cookies have not been accepted.","placeholderAcceptText":"Only accept microsoft power bi cookies"},"new_relic":{"uuid":"11e38e83-5876-442d-922e-6d38b5f10186","langcode":"it","status":true,"dependencies":[],"id":"new_relic","label":"New Relic","group":"tracking","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because new relic cookies have not been accepted.","placeholderAcceptText":"Only accept new relic cookies"},"openstreetmap":{"uuid":"c35ea00a-d2aa-40f8-ac35-322bc97b8083","langcode":"it","status":true,"dependencies":[],"id":"openstreetmap","label":"OpenStreetMap","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because openstreetmap cookies have not been accepted.","placeholderAcceptText":"Only accept openstreetmap cookies"},"video":{"uuid":"681f159c-953b-4040-a53e-bb8a387ad23c","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_video"]}},"_core":{"default_config_hash":"MJL9EOZszmZMiNnJZL1uau0Vw_-w5cJON2cTornaww8"},"id":"video","label":"Video forniti da YouTube, Vimeo","group":"video","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because video forniti da youtube, vimeo cookies have not been accepted.","placeholderAcceptText":"Only accept video forniti da youtube, vimeo cookies"}},"groups":{"functional":{"uuid":"5b1c3951-fa37-4ef2-9212-6ed624800116","langcode":"it","status":true,"dependencies":[],"id":"functional","label":"Functional","weight":1,"title":"Functional","details":"I cookie sono piccoli file di testo che il Sito invia al terminale dell\u0027utente, dove sono memorizzati per poi essere ritrasmessi al sito alla visita successiva."},"performance":{"uuid":"c9fc9322-3cc7-4402-8226-f517fab0cff4","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"Jv3uIJviBj7D282Qu1ZpEQwuOEb3lCcDvx-XVHeOJpw"},"id":"performance","label":"Performance","weight":30,"title":"Cookie di prestazione","details":"Utilizziamo alcune funzionalit\u00e0 fornite da altre organizzazioni (\u201cTerze parti\u201d) per migliorare l\u2019esperienza di navigazione degli utenti."},"social":{"uuid":"18c2516e-81d5-4b3e-944c-80ccf4699353","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"vog2tbqqQHjVkue0anA0RwlzvOTPNTvP7_JjJxRMVAQ"},"id":"social","label":"Social Plugins","weight":20,"title":"Social Plugins","details":"Comments managers facilitate the filing of comments and fight against spam."},"tracking":{"uuid":"86841c59-0daf-4a3d-9f00-0c470616422e","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"_gYDe3qoEc6L5uYR6zhu5V-3ARLlyis9gl1diq7Tnf4"},"id":"tracking","label":"Tracking","weight":10,"title":"Cookie di tracciamento","details":"L\u0027utilizzo dei cookie di tracciamento in forma anonima consente la raccolta dei dati in merito alla navigazione delle pagine di questo sito web. In questa maniera ci aiuti a migliorare l\u0027esperienza utente del sito web."},"video":{"uuid":"2b75a78d-1d81-4d17-8090-5d4c38d2d624","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"w1WnCmP2Xfgx24xbx5u9T27XLF_ZFw5R0MlO-eDDPpQ"},"id":"video","label":"Video","weight":40,"title":"Video","details":"I servizi di condivisione video aiutano il sito ad essere maggiormente fruibile e aumentano la visibilit\u00e0."}}},"field_group":{"details":{"mode":"full","context":"view","settings":{"classes":"bottom0","id":"","open":false,"description":""}},"html_element":{"mode":"default","context":"view","settings":{"classes":"imgplace","id":"imgplace","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast","show_empty_fields":false}},"tabs":{"mode":"full","context":"view","settings":{"classes":"mobile-tab","id":"","direction":"vertical","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","effect":"none","speed":"fast","attributes":""}},"tab":{"mode":"full","context":"view","settings":{"classes":"","id":"","formatter":"closed","description":"","direction":"vertical","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","effect":"none","speed":"fast","attributes":"","show_empty_fields":false}}},"views":{"ajax_path":"\/it\/views\/ajax","ajaxViews":{"views_dom_id:e31b6d8bd9ba56e18b9ec3060138490b9b2f9fdc4cde5767b379f1e24ccf219f":{"view_name":"w4_cdsi","view_display_id":"block_12","view_args":"46346","view_path":"\/node\/46346","view_base_path":"docenticdl","view_dom_id":"e31b6d8bd9ba56e18b9ec3060138490b9b2f9fdc4cde5767b379f1e24ccf219f","pager_element":0},"views_dom_id:2124aad0da0bdc8a14cc309b078cc39bed42dac5a7e89df7a0591bda08ca4437":{"view_name":"w4_cdsi","view_display_id":"block_11","view_args":"GBG+G68","view_path":"\/node\/46346","view_base_path":"docenticdl","view_dom_id":"2124aad0da0bdc8a14cc309b078cc39bed42dac5a7e89df7a0591bda08ca4437","pager_element":0}}},"widthBreakpoint":640,"ultimenu":{"canvasOff":"#header","canvasOn":"#main-wrapper, .featured-top, .site-footer"},"user":{"uid":0,"permissionsHash":"0f3fc343222685b393a24eba61ac8d525b4adefbc0f573776a36a876db18dc99"}}</script>
+<script src="/sites/default/files/js/js_iNnXVIv9c8NqPVT6Cdf6-HiO9Ziqf8lvk0gxIFyJlhQ.js?scope=header&amp;delta=0&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="/modules/contrib/cookies/js/cookiesjsr.conf.js?v=10.5.1" defer></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?tlncrt" type="text/plain" id="cookies_gtag_gtag" data-cookieconsent="gtag"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?tlncrt" type="text/plain" id="cookies_gtag_gtm" data-cookieconsent="gtag"></script>
+
+  </head>
+  <body class="is-ultimenu-canvas is-ultimenu-canvas--hover site-default path-node page-node-type-cdl-scheda has-glyphicons">
+    <div role="navigation">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Salta al contenuto principale
+    </a>
+    </div>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNWRPR"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+              <header class="navbar navbar-default container" id="navbar">
+            <div class="navbar-header-top full-width">
+         <div class="topnavbar container">
+            <div class="region region-navigation-top">
+    <section class="language-switcher-language-url block block-language block-language-blocklanguage-interface clearfix" id="block-languageswitcher" role="navigation">
+  
+      <h2 class="block-title">Language switcher</h2>
+    
+
+      <ul class="links"><li hreflang="it" data-drupal-link-system-path="node/46346" class="it is-active" aria-current="page"><a href="/it/corsi/laurea-magistrale/global-environment-and-development" class="language-link is-active" aria-label="Lingua Italiana" title="Italiano" hreflang="it" data-drupal-link-system-path="node/46346" aria-current="page">ITA</a></li><li hreflang="en" data-drupal-link-system-path="node/46346" class="en"><a href="/en/education/master-programme/global-environment-and-development" class="language-link" aria-label="English language" title="English" hreflang="en" data-drupal-link-system-path="node/46346">ENG</a></li></ul>
+  </section>
+
+<nav role="navigation" aria-labelledby="block-unimi-profili-menu" id="block-unimi-profili" class="navbar-profili menu_right hidden-xs hidden-sm">
+            
+  <h2 class="visually-hidden" id="block-unimi-profili-menu">Profili</h2>
+  
+
+        
+      <ul class="menu menu--profili nav">
+                      <li class="first">
+                                        <a href="https://unimia.unimi.it/">Unimia</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie</a>
+              </li>
+                      <li>
+                                        <a href="https://ariel.unimi.it/" title="Portale elearning">Ariel</a>
+              </li>
+                      <li>
+                                        <a href="https://sba.unimi.it/" title="Biblioteche">Biblioteche</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e dove</a>
+              </li>
+                      <li>
+                                        <a href="https://mail.unimi.it/">Webmail</a>
+              </li>
+                      <li>
+                                        <a href="https://work.unimi.it">laStatale@work</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Info per <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/taxonomy/term/10" data-drupal-link-system-path="taxonomy/term/10">Futuri studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/11" data-drupal-link-system-path="taxonomy/term/11">Studenti iscritti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/12" data-drupal-link-system-path="taxonomy/term/12">Laureati</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/8" data-drupal-link-system-path="taxonomy/term/8">Dottorandi</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/13" data-drupal-link-system-path="taxonomy/term/13">Studenti internazionali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/taxonomy/term/9" data-drupal-link-system-path="taxonomy/term/9">Enti e aziende</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="https://lastatalenews.unimi.it/" title="statale news">LaStataleNews</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/sostenere-la-statale/cinque-mille?clickOrigin=menu" title="5x1000" data-drupal-link-query="{&quot;clickOrigin&quot;:&quot;menu&quot;}" data-drupal-link-system-path="node/1229">5x1000</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+         </div>
+     </div>
+      <div class="navbar-header">
+          <div class="region region-navigation">
+          <a class="logo navbar-btn pull-left" href="/it" title="Home" rel="home">
+      <img src="/themes/custom/unimi/img/LogoHeader.svg" alt="Home" />
+    </a>
+      <section id="block-ultimenumainnavigation" class="hidden-xs hidden-sm block block-ultimenu block-ultimenu-blockultimenu-main clearfix">
+  
+    
+
+      
+<ul id="ultimenu-main" data-ultimenu="main" class="ultimenu ultimenu--hover ultimenu-- ultimenu--htb ultimenu--horizontal unimi"><li class="ultimenu__item uitem uitem--corsi uitem--b550ac76 uitem--1"><a href="/it/corsi" data-drupal-link-system-path="node/7725" title="" class="ultimenu__link">Corsi</a></li><li class="ultimenu__item uitem uitem--studiare uitem--3e1f0e09 uitem--2"><a href="/it/studiare" data-drupal-link-system-path="node/7726" title="" class="ultimenu__link">Studiare</a></li><li class="ultimenu__item uitem uitem--ricerca uitem--133224dc uitem--3"><a href="/it/ricerca" data-drupal-link-system-path="node/7727" title="" class="ultimenu__link">Ricerca</a></li><li class="ultimenu__item uitem uitem--terza-missione uitem--8391b5f2 uitem--4"><a href="/it/terza-missione" data-drupal-link-system-path="node/38988" title="" class="ultimenu__link">Terza missione</a></li><li class="ultimenu__item uitem uitem--ateneo uitem--ca313063 uitem--5"><a href="/it/ateneo" data-drupal-link-system-path="node/7728" title="" class="ultimenu__link">Ateneo</a></li><li class="ultimenu__item uitem uitem--internazionale uitem--d93d43c5 uitem--6"><a href="/it/internazionale" data-drupal-link-system-path="node/7729" title="" class="ultimenu__link">Internazionale</a></li><li class="ultimenu__item uitem uitem--cerca uitem--4e413781 uitem--7 has-ultimenu"><a href="" data-drupal-link-system-path="" title="" class="ultimenu__link">Cerca<span class="caret" aria-hidden="true"></span></a><section class="ultimenu__flyout is-htb"><div class="ultimenu-wrapper fullwidth"><div class="container ultimenu-content"><div class="close-wrap"><a href class="close-button"><img src="/themes/custom/unimi/img/cross.svg" alt="close item"></a></div><div class="ultimenu__region region region--count-3 region-ultimenu-main-4e413781"><section id="block-unimi-search" class="clearfix mega-search block block-block-content block-block-content363d513a-c2cf-48a9-a4a7-d31381dfa1f6"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><form accept-charset="UTF-8" action="https://apps.unimi.it/sitesearch/unimi-new/search.jsp" id="search-block-form-2" method="get"><div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group"><label class="control-label sr-only" for="edit-keys-2">Cerca</label><div class="input-group"><input class="form-search form-control" data-drupal-selector="edit-keys-2" data-original-title="Inserisci i termini da cercare." data-toggle="tooltip" id="edit-keys-2" maxlength="128" name="q" placeholder="Cerca" required="true" size="15" title type="search" value><span class="input-group-btn"><button class="button js-form-submit form-submit btn-primary btn icon-only" type="submit" value="Cerca"><span class="sr-only">Cerca</span></button></span></div></div><div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions-2" id="edit-actions-2">&nbsp;</div></form></div></section><nav role="navigation" aria-labelledby="block-unimi-menuprincipale-menu" id="block-unimi-menuprincipale" class="col-sm-12 clearfix"><h2 class="visually-hidden" id="block-unimi-menuprincipale-menu">Menu principale</h2><ul class="menu menu--main nav navbar-nav"><li class="first"><a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a></li><li><a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a></li><li><a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a></li><li><a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a></li><li class="last"><a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a></li></ul></nav><section id="block-unimi-megamenufooter" class="col-sm-12 clearfix block block-block-content block-block-content4a59a823-49d1-4c08-8e2b-8558f0ed52de"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a class="mega-news" href="https://lastatalenews.unimi.it">News</a><a class="mega-logo" href="/it">Logo</a></p></div></section></div></div></div></section></li><li class="ultimenu__item uitem uitem--home uitem--front-page uitem--8 has-ultimenu"><a href="/it" data-drupal-link-system-path="&lt;front&gt;" title="" class="ultimenu__link">Home<span class="caret" aria-hidden="true"></span></a><section class="ultimenu__flyout is-htb"><div class="ultimenu-wrapper fullwidth"><div class="container ultimenu-content"><div class="close-wrap"><a href class="close-button"><img src="/themes/custom/unimi/img/cross.svg" alt="close item"></a></div><div class="ultimenu__region region region--count-3 region-ultimenu-main-standard__front-page"><nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="col-sm-12"><h2 class="visually-hidden" id="block-mainnavigation-menu">I corsi</h2><ul class="menu menu--main nav"><li class="expanded dropdown"><a href="/it/corsi">Corsi</a><ul class="dropdown-menu"><li><a href="/it/corsi/orientarsi-e-scegliere" data-drupal-link-system-path="node/727">Orientarsi e scegliere</a></li><li><a href="/it/corsi/facolta-e-scuole" data-drupal-link-system-path="node/710">Facoltà e scuole</a></li><li><a href="/it/corsi/corsi-di-laurea-triennali-e-magistrali-ciclo-unico" data-drupal-link-system-path="node/1071">Lauree triennali e magistrali ciclo unico</a></li><li><a href="/it/corsi/corsi-di-laurea-magistrale" data-drupal-link-system-path="node/13968">Lauree Magistrali</a></li><li><a href="/it/corsi/la-statale-open" data-drupal-link-system-path="node/53900">La Statale Open - laurea online</a></li><li><a href="/it/corsi/insegnamenti-dei-corsi-di-laurea" data-drupal-link-system-path="node/1074">Insegnamenti dei corsi di laurea</a></li><li><a href="/it/corsi/tutte-le-offerte-formative" data-drupal-link-system-path="node/13005">Tutte le offerte formative - corsi di laurea</a></li><li><a href="/it/corsi/percorso-di-eccellenza-iuss-pavia" data-drupal-link-system-path="node/44362">Percorso di eccellenza IUSS Pavia</a></li><li><a href="/it/corsi/corsi-post-laurea-e-formazione-continua" data-drupal-link-system-path="node/1072">Corsi post laurea e formazione continua</a></li><li><a href="/it/corsi/esami-di-stato" data-drupal-link-system-path="node/271">Esami di stato</a></li><li><a href="/it/corsi/summer-e-winter-schools" data-drupal-link-system-path="node/32">Summer school</a></li><li><a href="/it/corsi/didattica-online" data-drupal-link-system-path="node/708">Didattica online</a></li><li><a href="/it/corsi/studiare-carcere" data-drupal-link-system-path="node/37118">Studiare in carcere</a></li></ul></li><li class="expanded dropdown"><a href="/it/studiare">Studiare</a><ul class="dropdown-menu"><li><a href="/it/studiare/immatricolarsi-e-iscriversi" data-drupal-link-system-path="node/13253">Immatricolarsi e iscriversi</a></li><li><a href="/it/studiare/frequentare-un-corso-di-laurea" data-drupal-link-system-path="node/726">Frequentare un corso di laurea</a></li><li><a href="/it/studiare/frequentare-un-corso-post-laurea" data-drupal-link-system-path="node/729">Frequentare un corso post laurea</a></li><li><a href="/it/studiare/seguire-un-corso-singolo" data-drupal-link-system-path="node/168">Seguire un corso singolo</a></li><li><a href="/it/studiare/borse-premi-mense-e-alloggi" data-drupal-link-system-path="node/730">Borse, premi, mense e alloggi</a></li><li><a href="/it/studiare/competenze-linguistiche" data-drupal-link-system-path="node/12716">Competenze linguistiche</a></li><li><a href="/it/studiare/stage-e-lavoro" data-drupal-link-system-path="node/1058">Stage e lavoro</a></li><li><a href="/it/studiare/servizi-gli-studenti" data-drupal-link-system-path="node/723">Servizi per gli studenti</a></li><li><a href="/it/studiare/biblioteche" data-drupal-link-system-path="node/464">Biblioteche</a></li><li><a href="/it/studiare/vivere-luniversita" data-drupal-link-system-path="node/1070">Vivere l&#039;Università</a></li></ul></li><li class="expanded dropdown"><a href="/it/ricerca">Ricerca</a><ul class="dropdown-menu"><li><a href="/it/ricerca/pnrr-i-progetti-delluniversita-statale" data-drupal-link-system-path="node/49935">PNRR: i progetti dell’Università Statale</a></li><li><a href="/it/ricerca/facts-figures" data-drupal-link-system-path="node/1185">Facts &amp; Figures</a></li><li><a href="/it/ricerca/cosa-studiamo" data-drupal-link-system-path="node/1193">Cosa studiamo</a></li><li><a href="/it/ricerca/fare-ricerca-da-noi" data-drupal-link-system-path="node/1187">Fare ricerca da noi</a></li><li><a href="/it/ricerca/luoghi-organizzazione-e-infrastrutture" data-drupal-link-system-path="node/1188">Luoghi, organizzazione e infrastrutture</a></li><li><a href="/it/ricerca/policies-e-principi" data-drupal-link-system-path="node/1186">Policies e principi</a></li><li><a href="/it/ricerca/dati-e-prodotti-della-ricerca" data-drupal-link-system-path="node/1190">Dati e prodotti della ricerca</a></li><li><a href="/it/ricerca/ricerca-tutti" data-drupal-link-system-path="node/1181">Ricerca per tutti</a></li></ul></li><li class="expanded dropdown"><a href="/it/terza-missione">Terza missione</a><ul class="dropdown-menu"><li><a href="/it/terza-missione/innovazione-ricerca-e-imprese" data-drupal-link-system-path="node/1183">Innovazione, ricerca e imprese</a></li><li><a href="/it/terza-missione/terza-missione-organizzazione-e-governance" data-drupal-link-system-path="node/39512">Terza missione, organizzazione e governance</a></li><li><a href="/it/terza-missione/patrimonio-storico-e-culturale" data-drupal-link-system-path="node/601">Patrimonio storico e culturale</a></li><li><a href="/it/terza-missione/responsabilita-sociale" data-drupal-link-system-path="node/14844">Responsabilità sociale</a></li></ul></li><li class="expanded dropdown"><a href="/it/ateneo">Ateneo</a><ul class="dropdown-menu"><li><a href="/it/ateneo/la-statale" data-drupal-link-system-path="node/1216">La Statale</a></li><li><a href="/it/ateneo/governance-e-linee-strategiche" data-drupal-link-system-path="node/1217">Governance e linee strategiche</a></li><li><a href="/it/ateneo/uffici-e-strutture" data-drupal-link-system-path="node/1218">Uffici e strutture</a></li><li><a href="/it/ateneo/carta-dei-servizi" data-drupal-link-system-path="node/39238">Carta dei servizi</a></li><li><a href="/it/ateneo/lavora-con-noi" data-drupal-link-system-path="node/1220">Lavora con noi</a></li><li><a href="/it/ateneo/bandi-di-gare-e-contratti" data-drupal-link-system-path="node/1227">Bandi di gare e contratti</a></li><li><a href="/it/ateneo/normative" data-drupal-link-system-path="node/383">Normative</a></li><li><a href="/it/ateneo/assicurazione-della-qualita" data-drupal-link-system-path="node/521">Assicurazione della qualità</a></li><li><a href="/it/ateneo/fundraising" data-drupal-link-system-path="node/1223">Fundraising</a></li><li><a href="/it/ateneo/amministrazione-trasparente" data-drupal-link-system-path="node/12893">Amministrazione trasparente</a></li></ul></li><li class="expanded dropdown"><a href="/it/internazionale">Internazionale</a><ul class="dropdown-menu"><li><a href="/it/internazionale/cooperazione-internazionale" data-drupal-link-system-path="node/44305">Cooperazione internazionale allo sviluppo</a></li><li><a href="/it/internazionale/la-statale-nel-mondo" data-drupal-link-system-path="node/12742">La Statale nel mondo</a></li><li><a href="/it/internazionale/studiare-allestero" data-drupal-link-system-path="node/273">Studiare all&#039;estero</a></li><li><a href="/it/internazionale/venire-studiare-dallestero" data-drupal-link-system-path="node/295">Venire a studiare dall&#039;estero</a></li><li><a href="/it/internazionale/mobilita-docenti-e-ricercatori" data-drupal-link-system-path="node/1204">Mobilità docenti e ricercatori</a></li></ul></li><li class="expanded dropdown"><a href="">Cerca</a><ul class="dropdown-menu"><li><a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a></li><li><a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a></li><li><a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a></li><li><a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a></li><li><a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a></li></ul></li><li><a href="/it" data-drupal-link-system-path="&lt;front&gt;">Home</a></li></ul></nav><section class="views-element-container col-sm-12 block block-views block-views-blockprofili-block-1 clearfix" id="block-unimi-views-block-profili-block-1"><div class="form-group"><div class="view view-profili view-id-profili view-display-id-block_1 js-view-dom-id-d972dd2529867bc3d43336e229c247ec6af347b4245e815db6ddf9fc66a2f284"><div class="view-content"><div class="item-list fullwidth"><ul class="container"><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/10"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-signs-post" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Futuri studenti</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/11"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-circle-user" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Studenti iscritti</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/12"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-user-plus" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Laureati</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/8"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-graduation-cap" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Dottorandi</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/13"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-globe" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Studenti internazionali</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/9"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-building" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Enti e aziende</a></div></div></li></ul></div></div></div></div></section><section id="block-unimi-megamenufooter-2" class="col-sm-12 block block-block-content block-block-content4a59a823-49d1-4c08-8e2b-8558f0ed52de clearfix"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a class="mega-news" href="https://lastatalenews.unimi.it">News</a><a class="mega-logo" href="/it">Logo</a></p></div></section></div></div></div></section></li></ul><button data-ultimenu-button="#ultimenu-main" class="button button--ultimenu"
+        aria-label="Menu" value="Menu"><span class="bars">Menu</span></button>
+  </section>
+
+
+  </div>
+
+                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+              </div>
+
+                    <div id="navbar-collapse" class="navbar-collapse collapse">
+            <div class="region region-navigation-collapsible">
+    <section id="block-searchmobile" class="search-block-form hidden-lg hidden-md block block-search block-search-form-block block-block-content block-block-content4b159f0e-4fa2-4411-a21f-56afa0508e9f clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><form accept-charset="UTF-8" action="https://apps.unimi.it/sitesearch/unimi-new/search.jsp" id="search-block-form" method="get">
+<div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group"><label class="control-label sr-only" for="edit-keys">Cerca</label>
+<div class="input-group"><input class="form-search form-control" data-drupal-selector="edit-keys" data-original-title="Inserisci i termini da cercare." id="edit-keys" maxlength="128" name="q" placeholder="Cerca" size="15" title type="search" required="true" value><span class="input-group-btn"><button class="button js-form-submit form-submit btn-primary btn icon-only" type="submit" value="Cerca"><span class="sr-only">Cerca</span></button></span></div>
+</div>
+</form>
+</div>
+      
+  </section>
+
+<nav role="navigation" aria-labelledby="block-unimi-main-menu-menu" id="block-unimi-main-menu" class="hidden-md hidden-lg">
+            
+  <h2 class="visually-hidden" id="block-unimi-main-menu-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/it/corsi" data-drupal-link-system-path="node/7725">Corsi</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare" data-drupal-link-system-path="node/7726">Studiare</a>
+              </li>
+                      <li>
+                                        <a href="/it/ricerca" data-drupal-link-system-path="node/7727">Ricerca</a>
+              </li>
+                      <li>
+                                        <a href="/it/terza-missione" data-drupal-link-system-path="node/38988">Terza missione</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo" data-drupal-link-system-path="node/7728">Ateneo</a>
+              </li>
+                      <li>
+                                        <a href="/it/internazionale" data-drupal-link-system-path="node/7729">Internazionale</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Cerca <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="last">
+                                        <a href="/it" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-topnavbar-2-menu" id="block-topnavbar-2" class="hidden-md hidden-lg">
+            
+  <h2 class="visually-hidden" id="block-topnavbar-2-menu">Top navbar</h2>
+  
+
+        
+      <ul class="menu menu--profili nav">
+                      <li class="first">
+                                        <a href="https://unimia.unimi.it/">Unimia</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie</a>
+              </li>
+                      <li>
+                                        <a href="https://ariel.unimi.it/" title="Portale elearning">Ariel</a>
+              </li>
+                      <li>
+                                        <a href="https://sba.unimi.it/" title="Biblioteche">Biblioteche</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e dove</a>
+              </li>
+                      <li>
+                                        <a href="https://mail.unimi.it/">Webmail</a>
+              </li>
+                      <li>
+                                        <a href="https://work.unimi.it">laStatale@work</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Info per <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/taxonomy/term/10" data-drupal-link-system-path="taxonomy/term/10">Futuri studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/11" data-drupal-link-system-path="taxonomy/term/11">Studenti iscritti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/12" data-drupal-link-system-path="taxonomy/term/12">Laureati</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/8" data-drupal-link-system-path="taxonomy/term/8">Dottorandi</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/13" data-drupal-link-system-path="taxonomy/term/13">Studenti internazionali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/taxonomy/term/9" data-drupal-link-system-path="taxonomy/term/9">Enti e aziende</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="https://lastatalenews.unimi.it/" title="statale news">LaStataleNews</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/sostenere-la-statale/cinque-mille?clickOrigin=menu" title="5x1000" data-drupal-link-query="{&quot;clickOrigin&quot;:&quot;menu&quot;}" data-drupal-link-system-path="node/1229">5x1000</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+        </div>
+                </header>
+  
+  <div  id="main-container-unimi" role="main" class="main-container container js-quickedit-main-content">
+    <div class="row">
+
+                              <div class="col-sm-12">
+              <div class="region region-header">
+        <ol class="breadcrumb rs_skip">
+          <li >
+                  <a href="/it">Home</a>
+              </li>
+          <li >
+                  <a href="/it/corsi">Corsi </a>
+              </li>
+          <li >
+                  <a href="/it/corsi/laurea-magistrale">Laurea magistrale</a>
+              </li>
+          <li  class="active">
+                  Global Environment and Development
+              </li>
+      </ol>
+
+
+  </div>
+
+          </div>
+              
+            
+                  <section class="col-sm-12">
+
+                
+                                      
+                  
+                          <a id="main-content"></a>
+            <div class="region region-content">
+        <h1 class="page-header">
+<span>Global Environment and Development</span>
+</h1>
+
+<div data-drupal-messages-fallback class="hidden"></div>
+  <div class="row bs-2col-bricked node node--type-cdl-scheda node--view-mode-full">
+  
+
+  
+    <div class="col-xs-12 col-sm-8 col-md-8 col-lg-9 bs-region bs-region--top-left">
+    
+<div  class="top-left-cdl-scheda">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_6 js-view-dom-id-1c5e438b17dcbdc9bfbab2f314294b9c89dab5fab90dbdf8cf63347b37e28a99">
+  
+    
+      
+      <div class="view-content">
+          <div class="area-header area-G area-caratipo-a"><div class="banner-area banner-area-G"><span>SCIENZE AGRARIE E ALIMENTARI</span></div>  <img loading="lazy" src="/sites/default/files/styles/scheda_cdl/public/2024-02/g68.jpg?h=82f92a78&amp;itok=iyUvsthY" width="1240" height="400" alt="&quot;&quot;" title="" class="img-responsive rs_skip" />
+
+
+<div class="info-group new-info-group"><div class="carat-laurea">Corso in presenza</div>
+<div class="title-laurea">Global Environment and Development</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+
+
+  </div>
+  </div>
+  
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3 bs-region bs-region--top-right">
+    
+<div  class="top-right-cdl-scheda">
+    
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-intestazione field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_49 js-view-dom-id-0ef5bb1c703ed11da93ae44e43f2bc40e6b4a670c6561323ce0d0df12db88296">
+  
+    
+      
+      <div class="view-content">
+          <div class="cdl-intestazione codice-area-G "><div><div class="scheda-corso">Scheda del corso</div>
+<div class="anno">A.A. 2026/2027 </div>
+<div class="tipo-laurea">Laurea magistrale</div>
+<div class="field">interateneo University of Copenhagen, Warsaw University</div>
+<div class="field--name-uof-cdsclass">LM-69 R - Scienze e tecnologie agrarie</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+            <div  class="paragraph paragraph--type--bp-action paragraph--type--bp-action-blu">
+        
+            <div  class="field--name-bp-link">
+                  <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_32 js-view-dom-id-0e6e139ed8890aa687f4372ae1531107e291596eac04dc4a81b90a5035914676">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-sito-corso"><div class="field-content"><a href="https://merged.cdl.unimi.it" target="_blank" aria-label="Vai al sito del corso di Global environment and development (Classe LM-69 R)">Vai al sito del corso</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+      </div>
+  
+    </div>
+
+
+  </div>
+  </div>
+  
+    <div class="col-xs-12 bs-region bs-region--middle">
+    
+<div >
+    
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-barra field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="barra-dati top40 bottom40 view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_4 js-view-dom-id-c2584a6cc90f3cf0d2dd82b345037888a1aef3c30a6e5f53a6cb9a264ebefd73">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-cdstype"><div class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-university fa-stack-1x fa-inverse"></span>
+</span>
+
+<div class="views-label views-label-uof-cdstype">Laurea magistrale</div></div></div><div class="views-field views-field-cfu"><span class="field-content"><span class="fa-stack fa-3x">
+    <span class="fa fa-circle fa-stack-2x"></span>
+    <span class="fa-stack-1x fa fa-ticket fa-inverse"></span>
+ </span>
+<div class="views-label views-label-cfu">120</div>
+Crediti</span></div><div class="views-field views-field-uof-ma1"><div class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+<span class="fas fa-sign-in-alt fa-stack-1x fa-inverse "></span>
+</span>
+<div class="views-label views-label-uof-ma1">Accesso</div>
+Programmato</div></div><div class="views-field views-field-durata-anni"><span class="field-content"><span class="fa-stack fa-3x">
+ <span class="fa fa-circle fa-stack-2x"></span>
+    <span class="fas fa-calendar-o fa-stack-1x fa-inverse"></span>
+  </span>
+<div class="views-label views-label-durata-anni">2</div>
+Anni
+</span></div><div class="views-field views-field-polo-fisico"><div class="field-content">  <span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-building-o  fa-stack-1x fa-inverse"></span>
+</span>
+<div class="views-label views-label-polo-fisico">Sede</div>
+Copenaghen, Milano, Varsavia </div></div><div class="views-field views-field-nothing"><span class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-flag fa-stack-1x fa-inverse"></span>
+</span>
+<div class="views-label views-label-uof-lingua">Lingua</div>
+Inglese</span></div><div class="views-field views-field-uof-intern"><div class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-globe fa-stack-1x fa-inverse"></span>
+</span>
+<div class="views-label views-label-uof-intern">International title</div>
+Joint Degree</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div><div class="mobile-tab field-group-tabs-wrapper"><div data-vertical-tabs-panes><input class="vertical-tabs__active-tab" type="hidden" /><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-objectives">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-objectives--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-objectives--content">Obiettivi formativi</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-objectives--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-obiettivi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_7 js-view-dom-id-32d72723e7e5d83464a0226ffd5bd9ca23548e7ebe9ac15fd63432b00d646e4b">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-obiettivi-formativi"><div class="field-content">Global Environment and Development (MERGED) is an Erasmus Mundus Joint Master (<a href="https://merged.info/">https://merged.info/</a>).<br>The course aims to create globally competitive graduates that can identify critical aspects of sustainable natural resource management for economic, environmental, institutional, and societal development in both the global south and the global north and develop sustainable, appropriate, and feasible solutions. The programme will educate high-quality digitally- competent graduates to become professionals in private and public companies, I/NGOs, government bodies, and research institutions. Through interdisciplinary and disciplinary, multicultural real-life experiences and laboratory experiments, students will learn to identify, analyse, understand, and forecast complex systems. MERGES provides two curricula: in Agricultural Development (at the university of Milano) or in Sustainable Environmental Development (at the university of Warsaw).<br>The MERGED graduate with a specialization in Agricultural Development is an innovative professional figure, equipped with a solid technical-scientific culture, a broad multidisciplinary vision of the environmental and agricultural system and a high operational preparation to manage economic and productive activities related to agriculture and natural resources in a global framework and long-term sustainability. The figure can operate in international contexts, both in the North and in the South of the world.<br>The MERGED professional figure in Sustainable Environmental Development is equipped with the ability to interpret the principles and processes that inform sustainable development on a global level from an economic, sociological, and legal point of view.<br>During the first year at the University of Copenhagen the student acquires skills also through practical and interdisciplinary courses, which include training visits in other continents. During the second year at the university of Milano the subjects offered are dealing with interdisciplinary disciplines of natural, environmental, and territorial resource management; disciplines of animal production; engineering disciplines and biosystem design; disciplines of the sustainability of crop production. The student refines his/her knowledge in the field of sustainability for agricultural systems, in particular by acquiring: a) knowledge with a strong applicative nature, based on case studies in real scenarios, on a global scale; b) skills with a technical and quantitative slant, based on scientific knowledge and acquisitions and on the applications of technological innovations. During the second year at the university of Warsaw, the students acquire a socio-economic and legal perspective on environmental issues from a global perspective. The aim is to allow the student to master the tools to be used in the analysis of the sustainability of the global environmental development.<br>As a consequence of the knowledge and skills acquired, the graduates in Global Environment and development:<br>- have a solid technical and cultural preparation, a multidisciplinary and global vision, and a good command of the scientific methods of the sciences of environmental and agricultural sustainability<br>- have in-depth knowledge of the qualitative criteria and quantitative methods necessary to plan, evaluate, and manage agricultural production systems and processes in a sustainable way, integrating the technical, economic, regulatory and environmental aspects, in a global context<br>- know how to formulate and apply quantitative assessments using conceptual models and IT tools, to animal and plant production and to choose the most suitable and sustainable technologies<br>- know how to manage the global climate change challenges to the management of water resources<br>- know how to manage the technical and economic quality of products and processed products in the plant and animal production chains, to be able to operate in support of regulatory policies with governmental and non-governmental bodies, and private companies.
+
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-career-and-employment">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-career-and-employment--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-career-and-employment--content">Sbocchi professionali</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-career-and-employment--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-sbocchi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_8 js-view-dom-id-df0f9b208eb798a593a804cf95a7123fbce30d201c60ec96ec79c6151de20702">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-sbocchi-occupazionali"><div class="field-content"><div class="bottom40">Expert, manager and consultant of policies and rural and environmental development in private companies, public administration and public bodies with international interests, and international organizations (governmental and non- governmental) in the agro-food sector.<br>In the private sector, the graduate can take on the organization, evaluation and management of the interaction between agri- environmental activities and systems.<br>In the public sector, the graduate supports administrations on environmental and territorial policies, especially on issues related to sustainable husbandry and agricultural engineering. The international bodies are a preferred career opportunity provider.<br>MERGED graduates can disseminate, within institutions, the principles of environmental sustainability, promote a culture oriented towards safety and the protection of the agricultural environment, also through the awareness of public opinion.<br><br>Skills associated with the function<br>Those who complete the MERGED study path are able to carry out analyses, evaluations and monitoring of natural, territorial and environmental resources, carrying out environmental impact studies with tools deriving from social sciences, economics, law, agricultural business management and environmental planning. These tools are made available through the first-year interdisciplinary courses. The skills allow to operate in interdisciplinary and diversified contexts (such as those outlined by the European Green Deal and similar policies) and/or continue the studies with further masters and courses. Those who complete MERGED can contribute to: implementing and certifying environmental management systems in rural areas; carry out interventions on the production of goods and services to improve environmental quality; plan and implement interventions for the prevention of environmental risks, increasing safety, especially in agriculture.<br>The professional trained by MERGED has a holistic vision and can synthesize complex ideas and concepts deriving from the analysis of the agricultural reality at a global level.<br><br>Employment opportunities<br>The skills acquired allow to work in companies and organizations that operate - even globally - in the green economy and bioeconomy; in professional studies dealing with territorial analyses, agricultural environmental impact assessment, resource management in rural environments. Those who complete the MERGED study cycle find employment in the public administration and in local public bodies; in supranational organizations; in universities or research institutes (in Italy, such as CNR, ENEA, CREA, State Technical Services, National and Regional Agencies and Bodies for the Environment and the Territory, Parks and Protected Areas, Watershed Authority, Technical Services and Regional, Provincial and Municipal Departments, Land Reclamation and Irrigation Consortia, Mountain Communities and Mountain Watershed Consortia). Furthermore, they can work at NGOs globally, where they are able to understand and design the development of agricultural systems even under conditions of climate change.<br><br>The master's degrees of the LM-69 class allow to obtain the qualification for the profession of doctor of agronomy which can be accessed after a qualifying exam.<br><br><a class="top40" href="https://statistiche.almalaurea.it/universita/statistiche/trasparenza?codicione=0150107307000005">Statistiche occupazionali (Almalaurea)</a></div>
+<div></div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-study-abroad">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-study-abroad--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-study-abroad--content">Studio all'estero</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-study-abroad--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-studi-estero field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_9 js-view-dom-id-8d86a0dce640aee07faae9f3cdfb9506e8d4e36aa65841c71aedc80e63dc7529">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-esperienze-estero"><div class="field-content">MERGED is a master based on international mobility, as it requires the student to complete the first year at the university of Copenhagen and the second year either at the university of Milano or at the university of Warsaw. The thesis work can be completed at a foreign university.<br>Competitive fellowships are available from ERASMUS MUNDUS program.<br>The participation costs for EU (Erasmus+ Programme Country) students for the two-year MERGED programme are set at euro 0/year.<br>The tuition fee for non-EU participants who are not selected for a scholarship is 30.000 Euro.<br>Students selected for an Erasmus Mundus Scholarship will automatically be granted a tuition waiver. Student with scholarship will be granted: Full coverage of participation costs, consisting of tuition fee, tutoring fee, and insurance. The fellowship includes the following costs: enrolment; registration; access to mandatory and elective modules; the optional language courses to be taken locally and all other participation costs for curriculum activities (excursions, fieldwork, etc.).</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-attendance">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-attendance--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-attendance--content">Obbligo di frequenza</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-attendance--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-frequenza field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_10 js-view-dom-id-08b9b9fdc5bff992bba56efbfd2ec16cca3fcac1a25bb6097ea1586eba7ba5e1">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-frequenza"><div class="field-content">Lesson attendance is strongly suggested.</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+</div>
+</div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Immatricolazione</div>
+    <div class="bottom0 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--5">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--5--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--5--content">Requisiti, modalità di verifica e obblighi formativi</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--5--content" class="panel-body panel-collapse collapse fade">
+                  <div  class="paragraph scheda-cds-requisiti-accesso">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_11 js-view-dom-id-d0f3a482a2c739c9dd93e28aff56873a5be4251a71b05fced61483c5c3bc2df3">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-requisiti-accesso"><div class="field-content">Requirements and knowledge required for access<br>Admission to MERGED requires possession of a three-year degree, or other educational qualification recognized as equivalent, after verification by the MERGED Commission of the curricular requirements, based on the documentation produced by the candidate.<br>English is the official language of MERGED. Level C1 is required by UCPH where the student enrolls. English knowledge should be documented as follows:<br>- holding a full degree (minimum 2 years of fulltime studies) in English (i.e. a secondary school diploma, Bachelor's degree or Master's degree from USA, Canada, Australia, New Zealand, UK or Ireland) exempts the candidate from the language requirement<br>- if not exempted, the candidate should provide an English language test:<br>IELTS Academic (6.5 overall test score). Only the overall score will be considered TOEFL iBT (83), TOEFL iBT paper edition or TOEFL iBT Home Edition<br>Cambridge Advanced English or Cambridge English: Proficiency (CPE) passed at level C1 or C2.<br><br>MERGED is an international course that can be accessed by students who have completed three-year degree courses from different university systems. The range of disciplines is wide because the nature of the CdL is strongly interdisciplinary, and its teaching capacity depends on the presence of students with various backgrounds. Furthermore, students can undertake two paths with distinct characteristics, and which benefit from different starting skills.<br>For students coming from foreign universities, the following disciplinary areas are considered eligible: Agriculture, Agronomy, Agrobiology, Agricultural Economics, Forestry, Animal Science, Biochemistry, Biology, Biotechnology, Food and Nutrition, Food Science, Geography, Geology, Geoinformatics, Landscape Architecture, Natural Resources, Anthropology, Psychology, Sociology, Development Studies, Rural Development, Economics, Interdisciplinary Economic- managerial studies, Environmental Science, Natural Science.<br>For graduates from Italian universities, the following degree classes are considered eligible: L-2 (Biotechnology), L-13 (Biological Sciences), L-18 (Economics and Business Management), L- 21 (Sciences of territorial, urban, landscape and environmental planning), L-25 (Agricultural and forestry sciences and technologies), L-26 (Agri-food sciences and technologies), L-32 (Sciences and technologies for the environment and nature), L-36 (Political sciences and international relations), L-37 (Social sciences for cooperation, development and peace), L-38 (Zootechnical sciences and animal production technologies). Students from different Italian degrees can access if they have acquired at least 60 credits in the following disciplinary scientific sector, grouped by affinity:<br>Disciplines of engineering applied to agriculture and the environment (at least 14 credits) <br>AGR/08 Idraulica agraria<br>AGR/09 Meccanica agraria <br>AGR/10 Costruzioni rurali<br>ING-IND/11 Fisica tecnica ambientale <br>ING-IND/06 Fluidodinamica<br>Disciplines of agricultural production (at least 14 credits) <br>AGR/02 Agronomia e coltivazioni erbacee<br>AGR/03 Arboricoltura generale e coltivazioni arboree <br>AGR/04 Orticoltura e floricoltura<br>AGR/05 Assestamento forestale e selvicoltura <br>AGR/12 Patologia vegetale<br>AGR/19 Zootecnica speciale <br>AGR/20 Zoocolture<br>Disciplines of fertility, conservation and soil study (at least 10 ECTS) <br>AGR/13 Chimica agraria<br>AGR/14 Pedologia <br>BIO/04 Fisiologia vegetale<br>GEO/05 Geologia applicata<br>Economics-management and data analysis disciplines (at least 10 credits) <br>AGR/01 Economia ed estimo rurale<br>SECS-S/01 Statistica<br>SECS-S/02 Statistica per la ricerca sperimentale <br>SECS-S/03 Statistica economica<br>SECS-S/05 Statistica sociale<br>SPS/10 Sociologia dell'ambiente e del territorio<br>Biological, chemical and physical disciplines (at least 6 ECTS) <br>BIO/01 Biologia molecolare<br>BIO/07 Ecologia <br>BIO/08 Antropologia<br>BIO/13 Biologia applicata <br>FIS/07 Fisica applicata<br>CHIM/12 Chimica dell'ambiente e dei beni culturali <br>Disciplines of genetic improvement (at least 6 credits) <br>AGR/07 Genetica agraria<br>AGR/17 Zootecnica generale e miglioramento genetico<br>       <br>English is the official language of MERGED and prior to enrolment, knowledge of the English language equal to level C1 of the Common European Framework of Reference or equivalent is required. Those in possession of a qualification obtained abroad, recognized as suitable, can also access, provided they demonstrate that they possess the necessary skills to profitably follow their studies. The verification of personal preparation will take place at the same time as the selection by an international panel of the Course, the Commission, which is responsible for this evaluation.<br>The requirements specifically requested by UW are listed in the MERGED website and in the UW website (<a href="https://merged.info/index.php/application-procedure/">https://merged.info/index.php/application-procedure/</a>).<br>The course has limited access and the number of places available for enrollment in the first year for each cohort is 40. Access to the course is regulated by the evaluation - by an international panel of the course (Commission) - of documentation including the academic curriculum. A motivation letter and references will contribute to better calibrate the didactic compatibility of the student with MERGED.
+
+ 
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--6">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--6--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--6--content">Ammissione e immatricolazione</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--6--content" class="panel-body panel-collapse collapse fade">
+                  <div  class="paragraph--type--bp-card-action bgcolor-ebf0f6 riquadro">
+        
+            <p>Applications for admission are managed by the&nbsp;<a href="https://merged.info/index.php/application-procedure/"><strong>University of Copenhagen</strong></a></p>
+      
+  
+    </div>
+
+
+          </div>
+  
+    
+</div>
+
+  </div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Manifesto ed elenco insegnamenti</div>
+          <div  class="bottom20">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_3 js-view-dom-id-41503af25eeb76e6c7261baed51e6b1411b7a8159a0b7e9598662ce34661329a">
+  
+    
+      
+      <div class="view-content">
+          <div class="padl30 views-row"></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+        <div  class="field-label-above">Piano didattico</div>
+  
+            <div class="media media--type-file media--view-mode-default ds-1col clearfix">
+
+  
+
+        <span  class="file-link">
+        
+            <span class="file file--mime-application-pdf file--application-pdf icon-before"><span class="file-icon" aria-hidden="true"><span class="far fa-file"></span></span><span class="file-link"><a href="https://www.unimi.it/sites/default/files/2026-04/ita_manifesto_GBGof2_2027.pdf" type="application/pdf; length=206537" title="ita_manifesto_GBGof2_2027.pdf [201.7 KB] - the file opens in new window" target="_blank"> Manifesto degli studi [GBGof2_2027]</a></span></span>
+      
+  
+    </span>
+
+
+
+</div>
+
+
+      
+  
+
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-piano-didattico field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_12 js-view-dom-id-f0cd1b092a615f825a9db4c8c7c1705454cc51991324a379cdcf39b2cc5020db">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-rendered-entity"><span class="field-content">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+            <div class="field field--name-ugov-piano-didattico field--type-map field--label-hidden field--item"><div class="ugov_of_pd ugov_of_pd_type_2 ugov_of_pd_it">
+
+<div class="accordion bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="curr-accordion">
+    <div>
+    <!-- curr_default 1 - curr_number  - curr_tot_number 1 -->
+
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title" aria-expanded="false" aria-controls="curr-20270000gbgof2-GBG-0" role="button" href="#curr-20270000gbgof2-GBG-0">
+                  Piano didattico
+              </a>
+    </div>
+
+    <div id="curr-20270000gbgof2-GBG-0" class="panel-collapse collapse ">
+      <div class="panel-body">
+
+                  <ul class="nav nav-tabs ugov-of-pd-years">
+                          <li class="active"><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000gbgof2-GBG-0-0"><div>
+
+  Anno: 1
+</div>
+</a></li>
+                          <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000gbgof2-GBG-0-1"><div>
+
+  Anno: 2
+</div>
+</a></li>
+                      </ul>
+        
+                  <div class="tab-content">
+                          <div id="ugov-of-pd-year-af-20270000gbgof2-GBG-0-0" class="tab-pane fade in active">
+                
+                                                                            <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/global-challenges-environment-and-development-0">Global challenges in environment and development</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">96</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-02/A AGRI-02/B AGRI-03/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/quantitative-and-qualitative-methods-environment-and-development-0">Quantitative and qualitative methods in environment and development</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/advanced-crop-production">Advanced crop production</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">96</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-02/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/agroforestry-0">Agroforestry</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">96</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-03/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/applied-insect-ecology-and-biological-control-0">Applied insect ecology and biological control</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-05/B</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/experimental-soil-analysis">Experimental soil analysis</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-06/B</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/life-cycle-assessment-within-biological-production-systems">Life cycle assessment within biological production systems</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-02/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tropical-crop-production">Tropical crop production</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-02/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tropical-forest-restoration-0">Tropical forest restoration</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-02/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/practicing-interdisciplinarity-field-research-environment-0">Practicing interdisciplinarity field research on the environment</a>
+</td>
+<td data-title="Crediti massimi">15</td>
+<td data-title="Ore totali">176</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-02/A AGRI-02/B AGRI-03/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/agricultural-value-chains-developing-countries-0">Agricultural value chains in developing countries</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/applied-statistics-data-results">Applied statistics: from data to results</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-02/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/entrepreneurship-and-innovation-0">Entrepreneurship and innovation</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/environmental-impact-assessment">Environmental impact assessment</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">96</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-02/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/global-environmental-governance-0">Global environmental governance</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/land-use-and-environmental-modelling-0">Land use and environmental modelling</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-02/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/plant-ecophysiology-changing-climate-0">Plant ecophysiology in a changing climate</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-06/B</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/project-practice-0">Project in practice</a>
+</td>
+<td data-title="Crediti massimi">15</td>
+<td data-title="Ore totali">120</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/project-outside-course-scope-0">Project outside the course scope</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Regole di composizione</div>
+                                          <div class="ugov-of-pd-year-rules-0"><div> - I year - elective teachings at the University of Copenaghen (UCPH) for the mobility track AGRICULTURAL DEVELOPMENT- University of Milan (UMIL): choose 30 ECTS</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-0">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/advanced-crop-production">Advanced crop production</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">96</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-02/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/agroforestry-0">Agroforestry</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">96</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-03/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/applied-insect-ecology-and-biological-control-0">Applied insect ecology and biological control</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-05/B</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/experimental-soil-analysis">Experimental soil analysis</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-06/B</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/life-cycle-assessment-within-biological-production-systems">Life cycle assessment within biological production systems</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-02/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tropical-crop-production">Tropical crop production</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-02/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tropical-forest-restoration-0">Tropical forest restoration</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-02/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/agricultural-value-chains-developing-countries-0">Agricultural value chains in developing countries</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-01/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/applied-statistics-data-results">Applied statistics: from data to results</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-02/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/entrepreneurship-and-innovation-0">Entrepreneurship and innovation</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-01/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/environmental-impact-assessment">Environmental impact assessment</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">96</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-02/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/global-environmental-governance-0">Global environmental governance</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-01/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/land-use-and-environmental-modelling-0">Land use and environmental modelling</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-02/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/plant-ecophysiology-changing-climate-0">Plant ecophysiology in a changing climate</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-06/B</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/project-practice-0">Project in practice</a>
+</td>
+<td data-title="Crediti massimi">15</td>
+<td data-title="Ore totali">120</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-01/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/project-outside-course-scope-0">Project outside the course scope</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-01/A</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                            </div>
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000gbgof2-GBG-0-1" class="tab-pane fade">
+                                  <div class="noteanno">sarà attivato dall&#039;A.A. 2027/2028</div>
+                
+                                                                            <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/laboratory-sustainability-agricultural-mechanization-0">Laboratory of sustainability of agricultural mechanization</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-04/B</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/laboratory-sustainability-livestock-systems-0">Laboratory of sustainability of livestock systems</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">68</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-09/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/laboratory-sustainability-water-management-0">Laboratory of sustainability of water management</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-04/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/agricultural-systems-and-soil-science-2">Agricultural systems and soil science</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-02/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/bioeconomy-management-assessment-and-intellectual-property-2">Bioeconomy: management, assessment and intellectual property</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/natural-resource-economics-2">Natural resource economics</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-01/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/environmental-plant-biotechnology-2">Environmental plant biotechnology</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-06/B</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/international-cooperation-and-crop-livestock-systems-2">International cooperation and crop-livestock systems</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-09/B</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/land-planning-and-life-cycle-assessment-2">Land planning and life cycle assessment</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-04/C</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/merged-intra-semester-workshop">Merged intra-semester workshop</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">24</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/plants-biofactories-2">Plants as biofactories</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-06/A</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/statistical-methods-environmental-research-2">Statistical methods for the environmental research</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">AGRI-02/A</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Periodo non definito</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/additional-internship">Additional internship</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/additional-language-skills-italian-3-ects">Additional language skills: italian (3 ECTS)</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Attività conclusive</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th scope="col">Attività formative</th>
+                            <th scope="col">Crediti massimi</th>
+                            <th scope="col">Ore totali</th>
+                            <th scope="col">Lingua</th>
+                            <th scope="col">SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/experimental-internship">Experimental internship</a>
+</td>
+<td data-title="Crediti massimi">17</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                                                          <tr>
+                                <tr><td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/final-exam-18">Final exam</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">NN</td>
+</tr>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                                      
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Regole di composizione</div>
+                                          <div class="ugov-of-pd-year-rules-1"><div> - II year - elective teachings at the University of Milan (UMIL) for the mobility track AGRICULTURAL DEVELOPMENT:<br/>choose 6 ECTS</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-1">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/agricultural-systems-and-soil-science-2">Agricultural systems and soil science</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-02/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/bioeconomy-management-assessment-and-intellectual-property-2">Bioeconomy: management, assessment and intellectual property</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-01/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/natural-resource-economics-2">Natural resource economics</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">AGRI-01/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/environmental-plant-biotechnology-2">Environmental plant biotechnology</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-06/B</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/international-cooperation-and-crop-livestock-systems-2">International cooperation and crop-livestock systems</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-09/B</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/land-planning-and-life-cycle-assessment-2">Land planning and life cycle assessment</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">52</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-04/C</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/plants-biofactories-2">Plants as biofactories</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-06/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/statistical-methods-environmental-research-2">Statistical methods for the environmental research</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">AGRI-02/A</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                                <div class="ugov-of-pd-year-rules-1"><div> - Students who do not hold an Italian high school diploma or degree can obtain an A2 or higher level proficiency certificate in Italian, worth 3 ECTS.<br/><br/>Italian students must acquire an additional 3 credits in activities dedicated to thesis work.</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-1">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/additional-internship">Additional internship</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Periodo non definito</td>
+<td data-title="SSD">NN</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/additional-language-skills-italian-3-ects">Additional language skills: italian (3 ECTS)</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Periodo non definito</td>
+<td data-title="SSD">NN</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                                <div class="ugov-of-pd-year-rules-1"><div> - STUDENTS HAVE TO CHOOSE FREE-CHOICE COURSES FOR 8 ECTS.<br/>A further 8 credits derive from free-choice courses, including 3 ECTS from the intra-semester workshop. The workshop is a strongly suggested, EU funded, interdisciplinary activity for all students, i.e. students from the university of Milano and from the university of Warsaw. The teaching tutors support students in selecting the elective courses.</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-1">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th scope="col">Attività formative</th>
+                                <th scope="col">Crediti massimi</th>
+                                <th scope="col">Ore totali</th>
+                                <th scope="col">Lingua</th>
+                                <th scope="col">Periodo</th>
+                                <th scope="col">SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/merged-intra-semester-workshop">Merged intra-semester workshop</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">24</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">NN</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                            </div>
+                
+              </div>
+                      </div>
+        
+        
+        
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Altre informazioni</div>
+    <div class="mobile-tab field-group-tabs-wrapper"><div data-vertical-tabs-panes><input class="vertical-tabs__active-tab" type="hidden" /><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-aiuto-e-orientamento">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-aiuto-e-orientamento--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-aiuto-e-orientamento--content">Aiuto e orientamento</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-aiuto-e-orientamento--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-aiuto-e-orientamento field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_48 js-view-dom-id-4420f36e06bba58f6831cc086eb04eb837d568bbe99569981533dabf2bfde57b">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-view"><span class="field-content"><div class="view view-paragrafi view-id-paragrafi view-display-id-block_2 js-view-dom-id-ac44f11214fa8cfe12ae6245f0b93f8896ea599049c5b9ff731781d0e8cbb2eb">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id='parid-16321'  class="paragraph paragraph--type--bp-simple paragraph--view-mode--default paragraph--id--16321">
+  <div class="paragraph__column">
+    
+    
+<div  class="box-content">
+    
+<div  id="imgplace" class="imgplace">
+    <div class="bp-text"><p>Orientamento:</p>
+
+<ul>
+	<li><a href="https://www.unimi.it/it/node/66">Scegliere il corso giusto: i servizi del centro di orientamento di Ateneo</a></li>
+</ul>
+
+<p>Info su ammissioni e immatricolazioni</p>
+
+<ul>
+	<li><a href="https://www.unimi.it/it/node/359/">Contatta le segreterie</a></li>
+	<li><a href="https://informastudenti.unimi.it/saw/ess?AUTH=SAML">Sportello online <strong>InformaStudenti</strong></a></li>
+	<li>Studenti internazionali:<a href="https://www.unimi.it/it/node/352/">&nbsp;welcome desk</a></li>
+	<li><a href="https://www.unimi.it/it/node/35900">Studenti con disabilità</a></li>
+	<li><a href="https://www.unimi.it/it/node/35899">Studenti con DSA</a></li>
+</ul></div>
+  </div>
+  </div>
+  </div>
+</div>
+
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-location">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-location--content" aria-expanded="true" aria-pressed="true" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-location--content">Sede</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-location--content" class="panel-body panel-collapse collapse fade in">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-sedi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_13 js-view-dom-id-c909f1f14c481ff4f51cae2f171b300852fe0aec9c639a8c5970543ee25f6e8f">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-polo-fisico"><div class="field-content">Copenaghen, Milano, Varsavia</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-reference-professors-and-c">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-reference-professors-and-c--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-reference-professors-and-c--content">Referenti e contatti</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-reference-professors-and-c--content" class="panel-body panel-collapse collapse fade">
+            
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-presidente-collegio field--type-ds field--label-above">
+    <div class="field--label">Presidente del Collegio didattico</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_33 js-view-dom-id-51df568d250659986c7ad0d92714d00b1b7d34aaa96929c53e7db27bc45a11b5">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/carlo-pozzi" hreflang="it">Pozzi Carlo Massimo</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-riferimenti-1 field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_14 js-view-dom-id-0e23245afa149a93010eacd12876586dc84eab96fa71524ed58370ccf31c5ea3">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-orientamento field--type-ds field--label-above">
+    <div class="field--label">Tutor per l'orientamento</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_36 js-view-dom-id-959d44e2c2f8311f532339fce6200923e77b963608d1a9c07a52c47ec1671589">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/bischetti" hreflang="it">Bischetti Gian Battista</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-erasmus field--type-ds field--label-above">
+    <div class="field--label">Tutor per la mobilità internazionale e l'Erasmus</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_37 js-view-dom-id-f52be35601cf579abfcd7ce458120b74c7cb9e1879dd34455f5ae5143743a6dc">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/stefano-corsi" hreflang="it">Corsi Stefano</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-piani-di-studio field--type-ds field--label-above">
+    <div class="field--label">Tutor per i piani di studio</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_38 js-view-dom-id-9563303f0b02d85292cdabe5f96213b8558148baf616a00b6ceabf583bea1945">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/carlo-pozzi" hreflang="it">Pozzi Carlo Massimo</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-stage-tirocini field--type-ds field--label-above">
+    <div class="field--label">Tutor per stage e tirocini</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_39 js-view-dom-id-0c667fa313d9658d9e673b27a7bd5da671cdba0a8c940770614718c31958ef91">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/stefania-colombini" hreflang="it">Colombini Stefania</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-per-laboratori field--type-ds field--label-above">
+    <div class="field--label">Tutor per laboratori e altre attività</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_40 js-view-dom-id-eb2f85b3ba71ece397c771304509a44293b5ddf9ab0e90eb995753ee8b02702e">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/luca-rapetti" hreflang="it">Rapetti Luca</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-tesi-di-laurea field--type-ds field--label-above">
+    <div class="field--label">Tutor per tesi di laurea</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_41 js-view-dom-id-9a2fe40884e350c90f1622efdceb5fa95c60eddeae0d84bdb18674198a116446">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/bischetti" hreflang="it">Bischetti Gian Battista</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-trasferimenti field--type-ds field--label-above">
+    <div class="field--label">Tutor per trasferimenti</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_42 js-view-dom-id-a22d33a158b6ef594dcea80c32c3bd2eb3837e97b0356526c194b94bd71c42fb">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/claudio-gandolfi" hreflang="it">Gandolfi Claudio</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-amm-lauree-magi field--type-ds field--label-above">
+    <div class="field--label">Tutor per ammissioni lauree magistrali</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_43 js-view-dom-id-c99678a113436f68a35ead71c17fe7f6bc37762e9e73b88a4340e41446285b01">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/claudio-gandolfi" hreflang="it">Gandolfi Claudio</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-tutor-ricon-crediti field--type-ds field--label-above">
+    <div class="field--label">Tutor per riconoscimento crediti</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_44 js-view-dom-id-436c2f72c2e2f77075f41dabb162df2ece52b14f9ae87ec0ac6f8b863513a673">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/marco-fiala" hreflang="it">Fiala Marco</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-referente-aq field--type-ds field--label-above">
+    <div class="field--label">Referente AQ del corso di studio</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_35 js-view-dom-id-813413d1fb2c38e8bd044ea43b888df71e24ac151495bcab4fe8e4900c90b350">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/paola-crepaldi" hreflang="it">Crepaldi Paola</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-strutture field--type-ds field--label-above">
+    <div class="field--label">Strutture di riferimento</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_16 js-view-dom-id-0100e9191b91652458bdb87db590bc4387d961ae5dca53e399f7cd3f04e54174">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-scienze-agrarie-e-ambientali-produzione-territorio-agroenergia" hreflang="it">Dipartimento di Scienze Agrarie e Ambientali - Produzione, Territorio, Agroenergia</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-riferimenti-2 field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_15 js-view-dom-id-19f311086c79533b5550b47377c893aa5cb53442f239d570150d35524902c609">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div><span class="field--label">Contatti</span><div class="field--type-text-long"><ul><li>Didactic Secretariat of the Faculty of Agricultural and Food Sciences<br>via Celoria 2 - 20133 Milano<br><a href="https://informastudenti.unimi.it/saw/ess?AUTH=SAML" title="Apri la pagina in una nuova finestra" onclick="window.open(this.href);return false">https://informastudenti.unimi.it/saw/ess?AUTH=SAML</a><br><a href="tel:+390250316511">+390250316511</a><br>Public opening hours: Monday from 10 am to 12 am and from 2 pm to 4 pm</li><li>Student registrar<br>via Celoria 18 - 20133 Milano<br><a href="https://www.unimi.it/en/node/360" title="Apri la pagina in una nuova finestra" onclick="window.open(this.href);return false">https://www.unimi.it/en/node/360</a><br><a href="tel:+390250325032">+390250325032</a><br><a href="https://www.unimi.it/en/node/359">https://www.unimi.it/en/node/359</a></li><li>Head of MERGED Commission (International Management Commission of the Study Programme which coordinates with the local commissions, for Italy the "Collegio didattico")<br>prof. Carsten Smith-Hall</li><li>International web site of the Master Degree Course<br><a href="https://merged.info" title="Apri la pagina in una nuova finestra" onclick="window.open(this.href);return false">https://merged.info</a></li><li>Representative for disability services and specific learning disabilities<br>prof. Giulio Senes</li></ul></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-bando-scadenze">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-bando-scadenze--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-bando-scadenze--content">Costi e agevolazioni</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-bando-scadenze--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-blocco-action field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_47 js-view-dom-id-a701c031387d0519ab5e0bcd570e3a3ecc248df4781cccfe2d1e0c61903ce4c8">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-view"><span class="field-content"><div class="view view-paragrafi view-id-paragrafi view-display-id-block_1 js-view-dom-id-515a44e87275f4a2eb9ae9157230b018fadae0a0fb077d447496240138e49e19">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id='parid-11581'  class="paragraph paragraph--type--bp-simple paragraph--view-mode--default paragraph--id--11581">
+  <div class="paragraph__column">
+    
+    
+<div  class="box-content">
+    
+<div  id="imgplace--2" class="imgplace">
+    <div class="bp-text"><p>Le tasse universitarie per gli studenti iscritti ai corsi di laurea, di laurea magistrale e a ciclo unico sono suddivise in due rate:</p><ul><li>la <strong>prima rata</strong> ha importo uguale per tutti e si paga al momento dell’immatricolazione;</li><li>la<strong> seconda rata  </strong>varia in base al valore ISEE Università e al Corso di laurea;</li><li>per gli <strong>studenti internazionali </strong>con redditi e patrimoni all’estero la seconda rata varia in base al Paese di provenienza</li></ul><p><strong>Diritto allo studio e altre agevolazioni&nbsp;</strong>&nbsp;</p><p>L’Ateneo prevede borse di studio, mense, alloggi e altre agevolazioni a favore dei propri studenti con specifici requisiti di merito e condizioni economiche.</p><p><strong>Maggiori informazioni</strong></p></div>
+  </div>
+<div  class="correlati-content top20">
+    
+<ul>        <li class="bp-link odd first"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare">Come e quanto pagare</a></li>      <li class="bp-link even first"><a href="/it/studiare/borse-premi-mense-e-alloggi">Borse, premi, mense e alloggi </a></li>      <li class="bp-link odd first"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare/esonero-tasse">Esonero tasse</a></li>        <li class="bp-link even first last"><a href="/it/studiare/frequentare-un-corso-di-laurea/come-e-quanto-pagare/iscrizioni-tempo-parziale">Iscrizioni a tempo parziale</a></li></ul>
+
+  </div>
+  </div>
+  </div>
+</div>
+
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+</div>
+</div>
+  </div>
+  </div>
+  
+  
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    
+<div  class="paragraph--type--bp-links box-fullbg riquadro bottom40">
+  <div class="bp-title">Documenti ufficiali</div>
+          <div  class="top10">
+        
+            <div  class="top0">
+                  <div class="media media--type-file media--view-mode-default ds-1col clearfix">
+
+  
+
+        <span  class="file-link">
+        
+            <span class="file file--mime-application-pdf file--application-pdf icon-before"><span class="file-icon" aria-hidden="true"><span class="far fa-file"></span></span><span class="file-link"><a href="https://www.unimi.it/sites/default/files/2025-10/Regolamento%20Global%20environment%20and%20development.pdf" type="application/pdf; length=423910" title="Regolamento Global environment and development.pdf [413.97 KB] - the file opens in new window" target="_blank">Regolamento didattico</a></span></span>
+      
+  
+    </span>
+
+
+
+</div>
+
+
+      
+      </div>
+  
+    </div>
+
+
+  </div><div class="accordion top40 bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--11">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--11--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--11--content">Altre offerte</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--11--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-elenco-cdsi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi view-id-w4_cdsi view-display-id-block_12 js-view-dom-id-e31b6d8bd9ba56e18b9ec3060138490b9b2f9fdc4cde5767b379f1e24ccf219f">
+  
+    
+      
+      <div class="view-content">
+          <div class="area-"><div class="view view-w4-cdsi view-id-w4_cdsi view-display-id-block_11 js-view-dom-id-2124aad0da0bdc8a14cc309b078cc39bed42dac5a7e89df7a0591bda08ca4437">
+  
+    
+      
+      <div class="view-content">
+        <h3>A.A. 2026/2027</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2026/2027/global-environment-and-development-classe-lm-69-r-enrolled-2026/2027-academic-year" hreflang="it">Global environment and development (Classe LM-69 R)-enrolled in the 2026/2027 academic year</a> [GBGof2 2027]</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2026/2027/global-environment-and-development-classe-lm-69-r-enrolled-2025/26-academic-year" hreflang="it">Global environment and development (Classe LM-69 R)-enrolled in the 2025/26 academic year</a> [GBGof1 2027]</span></div></div>
+  <h3>A.A. 2025/2026</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2025/2026/global-environment-and-development-classe-lm-69-r-enrolled-2025/26-academic-year" hreflang="it">Global environment and development (Classe LM-69 R)-enrolled in the 2025/26 academic year</a> [GBGof1 2026]</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2025/2026/global-environment-and-development-classe-lm-69-enrolled-2023/24-2024/25-academic-year" hreflang="it">Global environment and development (Classe LM-69)-enrolled from 2023/24 to 2024/25 academic year</a> [G68of1 2026]</span></div></div>
+  <h3>A.A. 2024/2025</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2024/2025/global-environment-and-development-classe-lm-69-immatricolati-dallaa-2023/2024" hreflang="it">Global environment and development (Classe LM-69)-immatricolati dall&#039;a.a. 2023/2024</a> [G68of1 2025]</span></div></div>
+  <h3>A.A. 2023/2024</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2023/2024/global-environment-and-development-classe-lm-69-immatricolati-dallaa-2023/2024" hreflang="it">Global environment and development (Classe LM-69)-immatricolati dall&#039;a.a. 2023/2024</a> [G68of1 2024]</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+
+  </div>
+  
+</div>
+
+
+<section id="block-cookiesui" class="block block-cookies block-cookies-ui-block clearfix">
+  
+    
+
+        
+<div id="cookiesjsr"></div>
+
+  </section>
+
+
+  </div>
+
+              </section>
+
+                </div>
+  </div>
+
+      <footer class="footer full-width">
+      <div class="container">
+          <div class="region region-footer">
+    <nav role="navigation" aria-labelledby="block-piedipagina-menu" id="block-piedipagina" class="col-sm-3 top10">
+      
+  <h2 id="block-piedipagina-menu">Strutture</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/corsi/facolta-e-scuole" data-drupal-link-system-path="node/710">Facoltà e scuole</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/dipartimenti" title="Tutti i dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/uffici-e-strutture" data-drupal-link-system-path="node/1218">Uffici</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-3-menu" id="block-piedipagina-3" class="col-sm-3 block-servizi top10">
+      
+  <h2 id="block-piedipagina-3-menu">Servizi</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/biblioteche" data-drupal-link-system-path="node/464">Servizio bibliotecario</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-studenti-con-disabilita" title="Servizi di orientamento, accoglienza, supporto allo studio e alla mobilità" data-drupal-link-system-path="node/35900">Servizi per studenti con disabilità</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-studenti-con-dsa" title="Servizi per studenti con Disturbi Specifici dell&#039;Apprendimento" data-drupal-link-system-path="node/35899">Servizi per studenti con DSA</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-tecnologici-e-online" data-drupal-link-system-path="node/393">Servizi tecnologici</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-4-menu" id="block-piedipagina-4" class="col-sm-3 top10">
+      
+  <h2 id="block-piedipagina-4-menu">Concorsi, selezioni e gare</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-professori" data-drupal-link-system-path="node/577">Professori </a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-ricercatori" data-drupal-link-system-path="node/12942">Ricercatori</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-personale-tecnico-amministrativo" title="Bandi PTAB" data-drupal-link-system-path="node/576">Tecnici amministrativi e bibliotecari</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/consulenze-e-collaborazioni" data-drupal-link-system-path="node/500">Consulenze e collaborazioni</a>
+              </li>
+                      <li>
+                                        <a href="/it/ricerca/fare-ricerca-da-noi/incarichi-di-ricerca/bandi-incarichi-di-ricerca" title="Bandi incarichi di ricerca" data-drupal-link-system-path="node/53011">Incarichi di ricerca</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/bandi-di-gare-e-contratti" title="Bandi di gara e contratti" data-drupal-link-system-path="node/1227">Gare e contratti</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-2-menu" id="block-piedipagina-2" class="col-sm-3 buttonlist block-comefareper">
+            
+  <h2 class="visually-hidden" id="block-piedipagina-2-menu">Come fare per</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/corsi/orientarsi-e-scegliere" data-drupal-link-system-path="node/727">Orientarsi e scegliere</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contattare l&#039;Università</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti/fai-sentire-la-tua-voce" title="Fai sentire la tua voce" data-drupal-link-system-path="node/54275">Fai sentire la tua voce</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/fundraising" data-drupal-link-system-path="node/1223">Fundraising</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/studiare/vivere-luniversita/unimi-store-il-merchandising-delluniversita-degli-studi-di-milano" title="Unimi Store" data-drupal-link-system-path="node/45180">Unimi Store</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-5-menu" id="block-piedipagina-5" class="col-sm-12 col-md-12 col-lg-12 links_list_inline block-menu-footer">
+            
+  <h2 class="visually-hidden" id="block-piedipagina-5-menu">footer</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/ateneo/amministrazione-trasparente" data-drupal-link-system-path="node/12893">Amministrazione trasparente</a>
+              </li>
+                      <li>
+                                        <a href="https://form.agid.gov.it/view/b6345040-993a-11f0-b789-d70c35e61f53" title="Dichiarazione di accessibilità">Dichiarazione di accessibilità</a>
+              </li>
+                      <li>
+                                        <a href="/it/privacy-e-cookie" data-drupal-link-system-path="node/7393">Privacy e cookie</a>
+              </li>
+                      <li>
+                                        <a href="#editCookieSettings">Cookie settings</a>
+              </li>
+                      <li>
+                                        <a href="/it/note-legali" data-drupal-link-system-path="node/7394">Note legali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/sitemap" data-drupal-link-system-path="sitemap">Mappa del sito</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-footertext" class="col-sm-4 col-lg-3 block-footertext block block-block-content block-block-content5af82d4a-b448-4107-a29a-5bfa144da5b5 clearfix">
+  
+    
+
+      
+  <div class="field field--name-field-testo field--type-text-long field--label-visually_hidden">
+    <div class="field--label sr-only">Testo</div>
+              <div class="field--item"><p>Università degli Studi di Milano<br>
+Via Festa del Perdono 7 - 20122 Milano<br>
+<a href="tel:+390250325032">Tel: +39 02 5032 5032</a><br>
+<a href="https://informastudenti.unimi.it/saw/ess?AUTH=SAML">InformaStudenti</a><br>
+<a href="/posta-elettronica-certificata-pec">Posta Elettronica Certificata</a><br>
+C.F. 80012650158 - P.I. 03064870151<br>
+<a href="https://www.registrolei.it/leicert/?lei=9845000B7798E81BEB72">Codice LEI</a><br>
+©Copyright 2025</p></div>
+          </div>
+
+  </section>
+
+<nav role="navigation" aria-labelledby="block-social-menu" id="block-social" class="col-sm-5 col-lg-6 links_list_inline block-social">
+            
+  <h2 class="visually-hidden" id="block-social-menu">social</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="https://lastatalenews.unimi.it/" title="News">News</a>
+              </li>
+                      <li>
+                                        <a href="https://video.unimi.it/" title="PortaleVideo">PortaleVideo</a>
+              </li>
+                      <li>
+                                        <a href="https://www.facebook.com/laStatale/" title="facebook">facebook</a>
+              </li>
+                      <li>
+                                        <a href="https://www.instagram.com/lastatale_milano_official/" title="Instagram">Instagram</a>
+              </li>
+                      <li>
+                                        <a href="http://twitter.com/LaStatale" title="twitter">twitter</a>
+              </li>
+                      <li>
+                                        <a href="https://www.youtube.com/user/UnimiVideo" title="youtube">youtube</a>
+              </li>
+                      <li>
+                                        <a href="https://www.linkedin.com/school/university-of-milan" title="linkedin">linkedin</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.spreaker.com/user/16503036" title="LaStatale podcast">LaStatale podcast</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-logofooter" class="col-sm-3 col-lg-3 block-logofooter block block-block-content block-block-content2c04e5b1-54ed-4593-a8b3-db0218705c4d clearfix">
+  
+    
+
+      
+  <div class="field field--name-field-logo field--type-entity-reference field--label-visually_hidden">
+    <div class="field--label sr-only">Logo</div>
+              <div class="field--item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+          
+              <img loading="lazy" src="/sites/default/files/2019-05/LogoFooter_a9f0c3692bf29c71609e5f204522c5d4_0.png" width="488" height="164" alt="Università degli Studi di Milano" class="img-responsive rs_skip" />
+
+
+      
+  
+
+
+    </div>
+  </div>
+
+</div>
+          </div>
+
+  </section>
+
+
+  </div>
+
+      </div>
+    </footer>
+  
+
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_Hfl5TWGPoiw8m71d7OKJb2ZY2E6075w3f6a1Dy-5PaI.js?scope=footer&amp;delta=0&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="https://cdn.jsdelivr.net/gh/jfeltkamp/cookiesjsr@1/dist/cookiesjsr-preloader.min.js" defer></script>
+<script src="/sites/default/files/js/js_ZsyWzDxLX0OwMesgXZHsDeMoCWZl-EQtw1NZwgt5HiM.js?scope=footer&amp;delta=2&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+<script src="/modules/contrib/google_tag/js/gtag.ajax.js?tlncrt" type="text/plain" id="cookies_gtag_gtag_ajax" data-cookieconsent="gtag"></script>
+<script src="/sites/default/files/js/js_DRmM7Xhr9JVeKzDdk7xyocoDB_WQpxS0ChAS0Ix3iuU.js?scope=footer&amp;delta=4&amp;language=it&amp;theme=unimi&amp;include=eJxdj1FywzAIRC-kmiNpsExdEmQYJCV1Tl8lcdw4P8A-BmZ3FLytMLIOeMLfMKrWUh0N9imaU-SF69vS1PRC_kaqqlS2kFTPTAW2fio-pGl54fjNUsnhKPftjIALylo5lX9YcYZ76cQJJm-GMiQVQSt0gN1SP0X5qjiWMKvOQnE__9DPwAeYQ-shMi0NXkNoC2cGNOf0w23iDezJN22CK3l0KnyjjTnhVIzw3CM-ycfXK3LMWDVruDBdCzzqw9gf_52fzg"></script>
+
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"55deaaaf42984e8db8c703ed1c4d39a5","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

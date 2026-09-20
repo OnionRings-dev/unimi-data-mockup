@@ -1,0 +1,1562 @@
+<!DOCTYPE html>
+<html  lang="it" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.unimi.it/it/corsi/laurea-triennale/sicurezza-informatica-e-intelligenza-artificiale" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="unimi-published" content="2026/03/27" />
+<meta name="unimi-last-modified" content="2026/09/15" />
+<link rel="icon" href="/sites/default/files/favicon_0_0.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="it" href="https://www.unimi.it/it/corsi/laurea-triennale/sicurezza-informatica-e-intelligenza-artificiale" />
+<link rel="alternate" hreflang="en" href="https://www.unimi.it/en/education/bachelor/cybersecurity-and-artificial-intelligence" />
+
+    <title>Sicurezza informatica e intelligenza artificiale | Università degli Studi di Milano Statale</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_sRmumOeDd4_tx2pZ73-Pk0SBk_A5fxJ5deD9cPzSdn0.css?delta=0&amp;language=it&amp;theme=unimi&amp;include=eJyVU-1uwyAMfCEaHiky4CReDY4wpM2efqRNP1ZNavfH-M4nozPGMXyv1oGicSJFS4a5nyHD2JJJ7Z08PEjjRY6EavezY3Kv3JfmTsvKuKkz2pDrDNzBF5zNIKnACVUi2qe8O6HboHYuQwr6XuerFonvdaFKkYTvhRnHypDfC3WCPDONU_lQ-7_OKkzhA-1nsjJRMuQwu7nHc_nzTQ-tYBhWqaUPpF4WzKttQ_PCJmIgsILRYegGyRFKwWye1mR_3gfT1TRXx6QTBlNHWXoZ7MjigK9w5l8wV5fJw53jQhFTtTIMHtICzawHxmbkXtIjpXYNRTKX-PC1430Vd3SZxZ5fbzlsC0pp3MlbY7NA3j5Ef7XtJUZJL-QNLRRQmhdY2zwWwpPaS-yihMr4A3vvVQ8" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_xsPH_WNFWXqnuxvebu8bjQC9oVmJ2c_0_aVIEFBeeZw.css?delta=1&amp;language=it&amp;theme=unimi&amp;include=eJyVU-1uwyAMfCEaHiky4CReDY4wpM2efqRNP1ZNavfH-M4nozPGMXyv1oGicSJFS4a5nyHD2JJJ7Z08PEjjRY6EavezY3Kv3JfmTsvKuKkz2pDrDNzBF5zNIKnACVUi2qe8O6HboHYuQwr6XuerFonvdaFKkYTvhRnHypDfC3WCPDONU_lQ-7_OKkzhA-1nsjJRMuQwu7nHc_nzTQ-tYBhWqaUPpF4WzKttQ_PCJmIgsILRYegGyRFKwWye1mR_3gfT1TRXx6QTBlNHWXoZ7MjigK9w5l8wV5fJw53jQhFTtTIMHtICzawHxmbkXtIjpXYNRTKX-PC1430Vd3SZxZ5fbzlsC0pp3MlbY7NA3j5Ef7XtJUZJL-QNLRRQmhdY2zwWwpPaS-yihMr4A3vvVQ8" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"it\/","currentPath":"node\/54212","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"it"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyVU-GSsyAMfCEqj-QEiZgrECaAvd7Tf1it2pubab8_mN0kEJfFePi5a0PcwRd8K8NcchFIeo_6JNhTpHJKJk48o5yYwuwLJXVqAwHXgikfe10OUg3MV8Kst-9Xlm6w8S86l7vHvaEfyRcU_Qr3rAMNEfy90HC0uAJOL0tjBLWVmsB3A3sPKeML2X6rtYK_FDBZjRwL3DBzQH2KuxuaBebOCET7Qd1Qc-Hwvs5WLhzxfaGgqx7kfWGeQJInN5UPa_9v58ye7Ae1n5WViaJyzM5jv9_ZL7w69YUMigyKST1-lz_ddmkJ5eHOtfSW8rC4966b0M0DKqAl0IzBoO1GlgBlcdTJwJs3DqarMVXjKU9oVXU89zxq59mAX2HyL1CqkeaqnWtvJWCsuo0lkA88QTBVXDt9p3gcB4gzNA2bLbHps6fylWKbhAKpx6ohtVMmqvZJ7FpseHsQG3povsXrZJflrVF0G5maZCi9YKYf3DhBsDkhXJchH8xzng3egPomIQdWM4iBjP2q8MAhcPxFPtFMFrlfD1Qz4S3rx7re9pkIbKvHf8eV3Vw","theme":"unimi","theme_token":null},"ajaxTrustedUrl":[],"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"google\nnonGooglePixels\nnonGoogleScripts\nnonGoogleIframes","blocklist_classes":"customScripts\ncustomPixels","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-PNWRPR"]},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"600","tooltip_html":1,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"cookies":{"cookiesjsr":{"config":{"cookie":{"name":"cookiesjsr","expires":15552000000,"domain":"","sameSite":"Lax","secure":false},"library":{"libBasePath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist","libPath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist\/cookiesjsr.min.js","scrollLimit":0},"callback":{"method":"post","url":"\/it\/cookies\/consent\/callback.json","headers":[]},"interface":{"openSettingsHash":"#editCookieSettings","showDenyAll":true,"denyAllOnLayerClose":false,"settingsAsLink":false,"availableLangs":["it","en"],"defaultLang":"it","groupConsent":false,"cookieDocs":true}},"services":{"functional":{"id":"functional","services":[{"key":"functional","type":"functional","name":"Required functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EDefault expiration time\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EDescription\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 month\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EIf you are logged in to this website, a session cookie is required to identify and connect your browser to your user account in the server backend of this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 year\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWhen you visited this website for the first time, you were asked for your permission to use several services (including those from third parties) that require data to be saved in your browser (cookies, local storage). Your decisions about each service (allow, deny) are stored in this cookie and are reused each time you visit this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"full_html"},"uri":"","needConsent":false}],"weight":1},"tracking":{"id":"tracking","services":[{"key":"analytics","type":"tracking","name":"Google Analytics","info":{"value":"","format":"full_html"},"uri":"","needConsent":true},{"key":"matomo","type":"tracking","name":"Matomo","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"new_relic","type":"tracking","name":"New Relic","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true}],"weight":10},"performance":{"id":"performance","services":[{"key":"gtag","type":"performance","name":"Google Tag Manager","info":{"value":"","format":"full_html"},"uri":"","needConsent":true},{"key":"infogram_","type":"performance","name":"Infogram ","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"microsoft_power_bi","type":"performance","name":"Microsoft Power BI","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"openstreetmap","type":"performance","name":"OpenStreetMap","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true}],"weight":30},"video":{"id":"video","services":[{"key":"video","type":"video","name":"Video forniti da YouTube, Vimeo","info":{"value":"","format":"full_html"},"uri":"","needConsent":true}],"weight":40}},"translation":{"_core":{"default_config_hash":"C8aQz-3d6YpwuU4QQc1iaWHb3RDkc_C9qcEsgR7HR74"},"langcode":"it","bannerText":"Questo sito utilizza cookie tecnici e di profilazione, propri e di terze parti, per garantire la corretta navigazione, analizzare il traffico e misurare l\u0027efficacia delle attivit\u00e0 di comunicazione istituzionale.\r\nSe prosegui la navigazione o clicchi su \u0022Accetta tutti\u0022 ne acconsenti l\u0027utilizzo, oppure puoi personalizzare la scelta salvando le tue preferenze e scegliendo quali cookie attivare.\r\nPer maggiori informazioni e per sapere come gestirli clicca sul bottone \u0022Impostazione dei cookie\u0022.","privacyPolicy":"Privacy policy","privacyUri":"https:\/\/www.unimi.it\/it\/ateneo\/normative\/privacy","imprint":"Imprint","imprintUri":"","cookieDocs":"Documentazione cookie","cookieDocsUri":"https:\/\/www.unimi.it\/it\/privacy-e-cookie","officialWebsite":"Official website","denyAll":"Rifiuta tutti","alwaysActive":"Sempre Attivo","settings":"Impostazione dei cookie","acceptAll":"Accetta tutti","requiredCookies":"Cookie necessari","cookieSettings":"Impostazione dei cookie","close":"Chiudi","readMore":"Leggi tutto","allowed":"","denied":"negato","settingsAllServices":"Impostazioni per tutti i servizi di cookie","saveSettings":"Salva le impostazioni","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Azienda","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies","functional":{"title":"Functional","details":"I cookie sono piccoli file di testo che il Sito invia al terminale dell\u0027utente, dove sono memorizzati per poi essere ritrasmessi al sito alla visita successiva."},"tracking":{"title":"Cookie di tracciamento","details":"L\u0027utilizzo dei cookie di tracciamento in forma anonima consente la raccolta dei dati in merito alla navigazione delle pagine di questo sito web. In questa maniera ci aiuti a migliorare l\u0027esperienza utente del sito web."},"performance":{"title":"Cookie di prestazione","details":"Utilizziamo alcune funzionalit\u00e0 fornite da altre organizzazioni (\u201cTerze parti\u201d) per migliorare l\u2019esperienza di navigazione degli utenti."},"video":{"title":"Video","details":"I servizi di condivisione video aiutano il sito ad essere maggiormente fruibile e aumentano la visibilit\u00e0."}}},"cookiesTexts":{"_core":{"default_config_hash":"C8aQz-3d6YpwuU4QQc1iaWHb3RDkc_C9qcEsgR7HR74"},"langcode":"it","bannerText":"Questo sito utilizza cookie tecnici e di profilazione, propri e di terze parti, per garantire la corretta navigazione, analizzare il traffico e misurare l\u0027efficacia delle attivit\u00e0 di comunicazione istituzionale.\r\nSe prosegui la navigazione o clicchi su \u0022Accetta tutti\u0022 ne acconsenti l\u0027utilizzo, oppure puoi personalizzare la scelta salvando le tue preferenze e scegliendo quali cookie attivare.\r\nPer maggiori informazioni e per sapere come gestirli clicca sul bottone \u0022Impostazione dei cookie\u0022.","privacyPolicy":"Privacy policy","privacyUri":"https:\/\/www.unimi.it\/it\/ateneo\/normative\/privacy","imprint":"Imprint","imprintUri":"","cookieDocs":"Documentazione cookie","cookieDocsUri":"https:\/\/www.unimi.it\/it\/privacy-e-cookie","officialWebsite":"Official website","denyAll":"Rifiuta tutti","alwaysActive":"Sempre Attivo","settings":"Impostazione dei cookie","acceptAll":"Accetta tutti","requiredCookies":"Cookie necessari","cookieSettings":"Impostazione dei cookie","close":"Chiudi","readMore":"Leggi tutto","allowed":"","denied":"negato","settingsAllServices":"Impostazioni per tutti i servizi di cookie","saveSettings":"Salva le impostazioni","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Azienda","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies"},"services":{"analytics":{"uuid":"f3111266-83e7-4afa-a238-ed86f09a383f","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_ga"]}},"_core":{"default_config_hash":"aYbFdFXbVPCH9Lp3OmPtEGUPT48_WuWxK8pzqzYTUj4"},"id":"analytics","label":"Google Analytics","group":"tracking","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because google analytics cookies have not been accepted.","placeholderAcceptText":"Only accept google analytics cookies"},"functional":{"uuid":"3577cc4e-e48a-43c0-9a0a-6c5c097f09dc","langcode":"it","status":true,"dependencies":[],"id":"functional","label":"Required functional","group":"functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EDefault expiration time\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EDescription\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 month\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EIf you are logged in to this website, a session cookie is required to identify and connect your browser to your user account in the server backend of this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 year\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWhen you visited this website for the first time, you were asked for your permission to use several services (including those from third parties) that require data to be saved in your browser (cookies, local storage). Your decisions about each service (allow, deny) are stored in this cookie and are reused each time you visit this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"full_html"},"consentRequired":false,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because required functional cookies have not been accepted.","placeholderAcceptText":"Only accept required functional cookies"},"gtag":{"uuid":"f66d5e9f-4da7-485e-a2f9-681a9a191055","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_gtag"]}},"_core":{"default_config_hash":"IyQS406QuLa6fAnbDgux4OI6Y6fsu_-J_bZDtoXExEI"},"id":"gtag","label":"Google Tag Manager","group":"performance","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because google tag manager cookies have not been accepted.","placeholderAcceptText":"Only accept google tag manager cookies"},"infogram_":{"uuid":"61dcc425-a844-42ac-addd-23c732c62ad0","langcode":"it","status":true,"dependencies":[],"id":"infogram_","label":"Infogram ","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because infogram cookies have not been accepted.","placeholderAcceptText":"Only accept infogram cookies"},"matomo":{"uuid":"85f1ecf7-421a-477e-98b7-d50f58d1c438","langcode":"it","status":true,"dependencies":[],"id":"matomo","label":"Matomo","group":"tracking","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because matomo cookies have not been accepted.","placeholderAcceptText":"Only accept matomo cookies"},"microsoft_power_bi":{"uuid":"679e34c7-74da-41be-99a6-9c22797f79d8","langcode":"it","status":true,"dependencies":[],"id":"microsoft_power_bi","label":"Microsoft Power BI","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because microsoft power bi cookies have not been accepted.","placeholderAcceptText":"Only accept microsoft power bi cookies"},"new_relic":{"uuid":"11e38e83-5876-442d-922e-6d38b5f10186","langcode":"it","status":true,"dependencies":[],"id":"new_relic","label":"New Relic","group":"tracking","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because new relic cookies have not been accepted.","placeholderAcceptText":"Only accept new relic cookies"},"openstreetmap":{"uuid":"c35ea00a-d2aa-40f8-ac35-322bc97b8083","langcode":"it","status":true,"dependencies":[],"id":"openstreetmap","label":"OpenStreetMap","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because openstreetmap cookies have not been accepted.","placeholderAcceptText":"Only accept openstreetmap cookies"},"video":{"uuid":"681f159c-953b-4040-a53e-bb8a387ad23c","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_video"]}},"_core":{"default_config_hash":"MJL9EOZszmZMiNnJZL1uau0Vw_-w5cJON2cTornaww8"},"id":"video","label":"Video forniti da YouTube, Vimeo","group":"video","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because video forniti da youtube, vimeo cookies have not been accepted.","placeholderAcceptText":"Only accept video forniti da youtube, vimeo cookies"}},"groups":{"functional":{"uuid":"5b1c3951-fa37-4ef2-9212-6ed624800116","langcode":"it","status":true,"dependencies":[],"id":"functional","label":"Functional","weight":1,"title":"Functional","details":"I cookie sono piccoli file di testo che il Sito invia al terminale dell\u0027utente, dove sono memorizzati per poi essere ritrasmessi al sito alla visita successiva."},"performance":{"uuid":"c9fc9322-3cc7-4402-8226-f517fab0cff4","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"Jv3uIJviBj7D282Qu1ZpEQwuOEb3lCcDvx-XVHeOJpw"},"id":"performance","label":"Performance","weight":30,"title":"Cookie di prestazione","details":"Utilizziamo alcune funzionalit\u00e0 fornite da altre organizzazioni (\u201cTerze parti\u201d) per migliorare l\u2019esperienza di navigazione degli utenti."},"social":{"uuid":"18c2516e-81d5-4b3e-944c-80ccf4699353","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"vog2tbqqQHjVkue0anA0RwlzvOTPNTvP7_JjJxRMVAQ"},"id":"social","label":"Social Plugins","weight":20,"title":"Social Plugins","details":"Comments managers facilitate the filing of comments and fight against spam."},"tracking":{"uuid":"86841c59-0daf-4a3d-9f00-0c470616422e","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"_gYDe3qoEc6L5uYR6zhu5V-3ARLlyis9gl1diq7Tnf4"},"id":"tracking","label":"Tracking","weight":10,"title":"Cookie di tracciamento","details":"L\u0027utilizzo dei cookie di tracciamento in forma anonima consente la raccolta dei dati in merito alla navigazione delle pagine di questo sito web. In questa maniera ci aiuti a migliorare l\u0027esperienza utente del sito web."},"video":{"uuid":"2b75a78d-1d81-4d17-8090-5d4c38d2d624","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"w1WnCmP2Xfgx24xbx5u9T27XLF_ZFw5R0MlO-eDDPpQ"},"id":"video","label":"Video","weight":40,"title":"Video","details":"I servizi di condivisione video aiutano il sito ad essere maggiormente fruibile e aumentano la visibilit\u00e0."}}},"field_group":{"details":{"mode":"full","context":"view","settings":{"classes":"bottom0","id":"","open":false,"description":""}},"html_element":{"mode":"default","context":"view","settings":{"classes":"imgplace","id":"imgplace","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast","show_empty_fields":false}},"tabs":{"mode":"full","context":"view","settings":{"classes":"mobile-tab","id":"","direction":"vertical","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","effect":"none","speed":"fast","attributes":""}},"tab":{"mode":"full","context":"view","settings":{"classes":"","id":"","formatter":"open","description":"","direction":"vertical","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","effect":"none","speed":"fast","attributes":"","show_empty_fields":false}}},"views":{"ajax_path":"\/it\/views\/ajax","ajaxViews":{"views_dom_id:5857134f43f2d681e861e9195119ef4a7fd69cc517d6dcc506e808eb1210dca9":{"view_name":"w4_cdsi","view_display_id":"block_12","view_args":"54212","view_path":"\/node\/54212","view_base_path":"docenticdl","view_dom_id":"5857134f43f2d681e861e9195119ef4a7fd69cc517d6dcc506e808eb1210dca9","pager_element":0},"views_dom_id:4b2ce2e3cdd92017f132084c2c466c09ab34ae6e02245d30fb2905eaad19f921":{"view_name":"w4_cdsi","view_display_id":"block_11","view_args":"FAO","view_path":"\/node\/54212","view_base_path":"docenticdl","view_dom_id":"4b2ce2e3cdd92017f132084c2c466c09ab34ae6e02245d30fb2905eaad19f921","pager_element":0}}},"widthBreakpoint":640,"ultimenu":{"canvasOff":"#header","canvasOn":"#main-wrapper, .featured-top, .site-footer"},"user":{"uid":0,"permissionsHash":"0f3fc343222685b393a24eba61ac8d525b4adefbc0f573776a36a876db18dc99"}}</script>
+<script src="/sites/default/files/js/js_iNnXVIv9c8NqPVT6Cdf6-HiO9Ziqf8lvk0gxIFyJlhQ.js?scope=header&amp;delta=0&amp;language=it&amp;theme=unimi&amp;include=eJxdj_2SgzAIxF8olUfKrIaztIlkSLRnn_5s_bjaf4D9MeywbcRzpla0wQ2_rlWtpRoyHZPPxl4GqR_LrFkntg9SVWOV7DrVu3Chrd-KNV0Ydux_JFY2Ostj24MwIM5VuvIPK3p6lYUYU7AxIzadxohc-ASXl5ZTxEtFW1yv2kf2x_mXXgOfYHLjEiLxMNI-uHGQJIRs0l1lDLKBI_mmc8TM5o2LPHljxgglM-5LxJV8uT4gPqFqUjfBWhT2iYOAdjVJYPWrt5uEH4Xe9f37H9XMrbI"></script>
+<script src="/modules/contrib/cookies/js/cookiesjsr.conf.js?v=10.5.1" defer></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?tlncrt" type="text/plain" id="cookies_gtag_gtag" data-cookieconsent="gtag"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?tlncrt" type="text/plain" id="cookies_gtag_gtm" data-cookieconsent="gtag"></script>
+
+  </head>
+  <body class="is-ultimenu-canvas is-ultimenu-canvas--hover site-default path-node page-node-type-cdl-scheda has-glyphicons">
+    <div role="navigation">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Salta al contenuto principale
+    </a>
+    </div>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNWRPR"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+              <header class="navbar navbar-default container" id="navbar">
+            <div class="navbar-header-top full-width">
+         <div class="topnavbar container">
+            <div class="region region-navigation-top">
+    <section class="language-switcher-language-url block block-language block-language-blocklanguage-interface clearfix" id="block-languageswitcher" role="navigation">
+  
+      <h2 class="block-title">Language switcher</h2>
+    
+
+      <ul class="links"><li hreflang="it" data-drupal-link-system-path="node/54212" class="it is-active" aria-current="page"><a href="/it/corsi/laurea-triennale/sicurezza-informatica-e-intelligenza-artificiale" class="language-link is-active" aria-label="Lingua Italiana" title="Italiano" hreflang="it" data-drupal-link-system-path="node/54212" aria-current="page">ITA</a></li><li hreflang="en" data-drupal-link-system-path="node/54212" class="en"><a href="/en/education/bachelor/cybersecurity-and-artificial-intelligence" class="language-link" aria-label="English language" title="English" hreflang="en" data-drupal-link-system-path="node/54212">ENG</a></li></ul>
+  </section>
+
+<nav role="navigation" aria-labelledby="block-unimi-profili-menu" id="block-unimi-profili" class="navbar-profili menu_right hidden-xs hidden-sm">
+            
+  <h2 class="visually-hidden" id="block-unimi-profili-menu">Profili</h2>
+  
+
+        
+      <ul class="menu menu--profili nav">
+                      <li class="first">
+                                        <a href="https://unimia.unimi.it/">Unimia</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie</a>
+              </li>
+                      <li>
+                                        <a href="https://ariel.unimi.it/" title="Portale elearning">Ariel</a>
+              </li>
+                      <li>
+                                        <a href="https://sba.unimi.it/" title="Biblioteche">Biblioteche</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e dove</a>
+              </li>
+                      <li>
+                                        <a href="https://mail.unimi.it/">Webmail</a>
+              </li>
+                      <li>
+                                        <a href="https://work.unimi.it">laStatale@work</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Info per <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/taxonomy/term/10" data-drupal-link-system-path="taxonomy/term/10">Futuri studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/11" data-drupal-link-system-path="taxonomy/term/11">Studenti iscritti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/12" data-drupal-link-system-path="taxonomy/term/12">Laureati</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/8" data-drupal-link-system-path="taxonomy/term/8">Dottorandi</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/13" data-drupal-link-system-path="taxonomy/term/13">Studenti internazionali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/taxonomy/term/9" data-drupal-link-system-path="taxonomy/term/9">Enti e aziende</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="https://lastatalenews.unimi.it/" title="statale news">LaStataleNews</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/sostenere-la-statale/cinque-mille?clickOrigin=menu" title="5x1000" data-drupal-link-query="{&quot;clickOrigin&quot;:&quot;menu&quot;}" data-drupal-link-system-path="node/1229">5x1000</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+         </div>
+     </div>
+      <div class="navbar-header">
+          <div class="region region-navigation">
+          <a class="logo navbar-btn pull-left" href="/it" title="Home" rel="home">
+      <img src="/themes/custom/unimi/img/LogoHeader.svg" alt="Home" />
+    </a>
+      <section id="block-ultimenumainnavigation" class="hidden-xs hidden-sm block block-ultimenu block-ultimenu-blockultimenu-main clearfix">
+  
+    
+
+      
+<ul id="ultimenu-main" data-ultimenu="main" class="ultimenu ultimenu--hover ultimenu-- ultimenu--htb ultimenu--horizontal unimi"><li class="ultimenu__item uitem uitem--corsi uitem--b550ac76 uitem--1"><a href="/it/corsi" data-drupal-link-system-path="node/7725" title="" class="ultimenu__link">Corsi</a></li><li class="ultimenu__item uitem uitem--studiare uitem--3e1f0e09 uitem--2"><a href="/it/studiare" data-drupal-link-system-path="node/7726" title="" class="ultimenu__link">Studiare</a></li><li class="ultimenu__item uitem uitem--ricerca uitem--133224dc uitem--3"><a href="/it/ricerca" data-drupal-link-system-path="node/7727" title="" class="ultimenu__link">Ricerca</a></li><li class="ultimenu__item uitem uitem--terza-missione uitem--8391b5f2 uitem--4"><a href="/it/terza-missione" data-drupal-link-system-path="node/38988" title="" class="ultimenu__link">Terza missione</a></li><li class="ultimenu__item uitem uitem--ateneo uitem--ca313063 uitem--5"><a href="/it/ateneo" data-drupal-link-system-path="node/7728" title="" class="ultimenu__link">Ateneo</a></li><li class="ultimenu__item uitem uitem--internazionale uitem--d93d43c5 uitem--6"><a href="/it/internazionale" data-drupal-link-system-path="node/7729" title="" class="ultimenu__link">Internazionale</a></li><li class="ultimenu__item uitem uitem--cerca uitem--4e413781 uitem--7 has-ultimenu"><a href="" data-drupal-link-system-path="" title="" class="ultimenu__link">Cerca<span class="caret" aria-hidden="true"></span></a><section class="ultimenu__flyout is-htb"><div class="ultimenu-wrapper fullwidth"><div class="container ultimenu-content"><div class="close-wrap"><a href class="close-button"><img src="/themes/custom/unimi/img/cross.svg" alt="close item"></a></div><div class="ultimenu__region region region--count-3 region-ultimenu-main-4e413781"><section id="block-unimi-search" class="clearfix mega-search block block-block-content block-block-content363d513a-c2cf-48a9-a4a7-d31381dfa1f6"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><form accept-charset="UTF-8" action="https://apps.unimi.it/sitesearch/unimi-new/search.jsp" id="search-block-form-2" method="get"><div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group"><label class="control-label sr-only" for="edit-keys-2">Cerca</label><div class="input-group"><input class="form-search form-control" data-drupal-selector="edit-keys-2" data-original-title="Inserisci i termini da cercare." data-toggle="tooltip" id="edit-keys-2" maxlength="128" name="q" placeholder="Cerca" required="true" size="15" title type="search" value><span class="input-group-btn"><button class="button js-form-submit form-submit btn-primary btn icon-only" type="submit" value="Cerca"><span class="sr-only">Cerca</span></button></span></div></div><div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions-2" id="edit-actions-2">&nbsp;</div></form></div></section><nav role="navigation" aria-labelledby="block-unimi-menuprincipale-menu" id="block-unimi-menuprincipale" class="col-sm-12 clearfix"><h2 class="visually-hidden" id="block-unimi-menuprincipale-menu">Menu principale</h2><ul class="menu menu--main nav navbar-nav"><li class="first"><a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a></li><li><a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a></li><li><a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a></li><li><a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a></li><li class="last"><a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a></li></ul></nav><section id="block-unimi-megamenufooter" class="col-sm-12 clearfix block block-block-content block-block-content4a59a823-49d1-4c08-8e2b-8558f0ed52de"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a class="mega-news" href="https://lastatalenews.unimi.it">News</a><a class="mega-logo" href="/it">Logo</a></p></div></section></div></div></div></section></li><li class="ultimenu__item uitem uitem--home uitem--front-page uitem--8 has-ultimenu"><a href="/it" data-drupal-link-system-path="&lt;front&gt;" title="" class="ultimenu__link">Home<span class="caret" aria-hidden="true"></span></a><section class="ultimenu__flyout is-htb"><div class="ultimenu-wrapper fullwidth"><div class="container ultimenu-content"><div class="close-wrap"><a href class="close-button"><img src="/themes/custom/unimi/img/cross.svg" alt="close item"></a></div><div class="ultimenu__region region region--count-3 region-ultimenu-main-standard__front-page"><nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="col-sm-12"><h2 class="visually-hidden" id="block-mainnavigation-menu">I corsi</h2><ul class="menu menu--main nav"><li class="expanded dropdown"><a href="/it/corsi">Corsi</a><ul class="dropdown-menu"><li><a href="/it/corsi/orientarsi-e-scegliere" data-drupal-link-system-path="node/727">Orientarsi e scegliere</a></li><li><a href="/it/corsi/facolta-e-scuole" data-drupal-link-system-path="node/710">Facoltà e scuole</a></li><li><a href="/it/corsi/corsi-di-laurea-triennali-e-magistrali-ciclo-unico" data-drupal-link-system-path="node/1071">Lauree triennali e magistrali ciclo unico</a></li><li><a href="/it/corsi/corsi-di-laurea-magistrale" data-drupal-link-system-path="node/13968">Lauree Magistrali</a></li><li><a href="/it/corsi/la-statale-open" data-drupal-link-system-path="node/53900">La Statale Open - laurea online</a></li><li><a href="/it/corsi/insegnamenti-dei-corsi-di-laurea" data-drupal-link-system-path="node/1074">Insegnamenti dei corsi di laurea</a></li><li><a href="/it/corsi/tutte-le-offerte-formative" data-drupal-link-system-path="node/13005">Tutte le offerte formative - corsi di laurea</a></li><li><a href="/it/corsi/percorso-di-eccellenza-iuss-pavia" data-drupal-link-system-path="node/44362">Percorso di eccellenza IUSS Pavia</a></li><li><a href="/it/corsi/corsi-post-laurea-e-formazione-continua" data-drupal-link-system-path="node/1072">Corsi post laurea e formazione continua</a></li><li><a href="/it/corsi/esami-di-stato" data-drupal-link-system-path="node/271">Esami di stato</a></li><li><a href="/it/corsi/summer-e-winter-schools" data-drupal-link-system-path="node/32">Summer school</a></li><li><a href="/it/corsi/didattica-online" data-drupal-link-system-path="node/708">Didattica online</a></li><li><a href="/it/corsi/studiare-carcere" data-drupal-link-system-path="node/37118">Studiare in carcere</a></li></ul></li><li class="expanded dropdown"><a href="/it/studiare">Studiare</a><ul class="dropdown-menu"><li><a href="/it/studiare/immatricolarsi-e-iscriversi" data-drupal-link-system-path="node/13253">Immatricolarsi e iscriversi</a></li><li><a href="/it/studiare/frequentare-un-corso-di-laurea" data-drupal-link-system-path="node/726">Frequentare un corso di laurea</a></li><li><a href="/it/studiare/frequentare-un-corso-post-laurea" data-drupal-link-system-path="node/729">Frequentare un corso post laurea</a></li><li><a href="/it/studiare/seguire-un-corso-singolo" data-drupal-link-system-path="node/168">Seguire un corso singolo</a></li><li><a href="/it/studiare/borse-premi-mense-e-alloggi" data-drupal-link-system-path="node/730">Borse, premi, mense e alloggi</a></li><li><a href="/it/studiare/competenze-linguistiche" data-drupal-link-system-path="node/12716">Competenze linguistiche</a></li><li><a href="/it/studiare/stage-e-lavoro" data-drupal-link-system-path="node/1058">Stage e lavoro</a></li><li><a href="/it/studiare/servizi-gli-studenti" data-drupal-link-system-path="node/723">Servizi per gli studenti</a></li><li><a href="/it/studiare/biblioteche" data-drupal-link-system-path="node/464">Biblioteche</a></li><li><a href="/it/studiare/vivere-luniversita" data-drupal-link-system-path="node/1070">Vivere l&#039;Università</a></li></ul></li><li class="expanded dropdown"><a href="/it/ricerca">Ricerca</a><ul class="dropdown-menu"><li><a href="/it/ricerca/pnrr-i-progetti-delluniversita-statale" data-drupal-link-system-path="node/49935">PNRR: i progetti dell’Università Statale</a></li><li><a href="/it/ricerca/facts-figures" data-drupal-link-system-path="node/1185">Facts &amp; Figures</a></li><li><a href="/it/ricerca/cosa-studiamo" data-drupal-link-system-path="node/1193">Cosa studiamo</a></li><li><a href="/it/ricerca/fare-ricerca-da-noi" data-drupal-link-system-path="node/1187">Fare ricerca da noi</a></li><li><a href="/it/ricerca/luoghi-organizzazione-e-infrastrutture" data-drupal-link-system-path="node/1188">Luoghi, organizzazione e infrastrutture</a></li><li><a href="/it/ricerca/policies-e-principi" data-drupal-link-system-path="node/1186">Policies e principi</a></li><li><a href="/it/ricerca/dati-e-prodotti-della-ricerca" data-drupal-link-system-path="node/1190">Dati e prodotti della ricerca</a></li><li><a href="/it/ricerca/ricerca-tutti" data-drupal-link-system-path="node/1181">Ricerca per tutti</a></li></ul></li><li class="expanded dropdown"><a href="/it/terza-missione">Terza missione</a><ul class="dropdown-menu"><li><a href="/it/terza-missione/innovazione-ricerca-e-imprese" data-drupal-link-system-path="node/1183">Innovazione, ricerca e imprese</a></li><li><a href="/it/terza-missione/terza-missione-organizzazione-e-governance" data-drupal-link-system-path="node/39512">Terza missione, organizzazione e governance</a></li><li><a href="/it/terza-missione/patrimonio-storico-e-culturale" data-drupal-link-system-path="node/601">Patrimonio storico e culturale</a></li><li><a href="/it/terza-missione/responsabilita-sociale" data-drupal-link-system-path="node/14844">Responsabilità sociale</a></li></ul></li><li class="expanded dropdown"><a href="/it/ateneo">Ateneo</a><ul class="dropdown-menu"><li><a href="/it/ateneo/la-statale" data-drupal-link-system-path="node/1216">La Statale</a></li><li><a href="/it/ateneo/governance-e-linee-strategiche" data-drupal-link-system-path="node/1217">Governance e linee strategiche</a></li><li><a href="/it/ateneo/uffici-e-strutture" data-drupal-link-system-path="node/1218">Uffici e strutture</a></li><li><a href="/it/ateneo/carta-dei-servizi" data-drupal-link-system-path="node/39238">Carta dei servizi</a></li><li><a href="/it/ateneo/lavora-con-noi" data-drupal-link-system-path="node/1220">Lavora con noi</a></li><li><a href="/it/ateneo/bandi-di-gare-e-contratti" data-drupal-link-system-path="node/1227">Bandi di gare e contratti</a></li><li><a href="/it/ateneo/normative" data-drupal-link-system-path="node/383">Normative</a></li><li><a href="/it/ateneo/assicurazione-della-qualita" data-drupal-link-system-path="node/521">Assicurazione della qualità</a></li><li><a href="/it/ateneo/fundraising" data-drupal-link-system-path="node/1223">Fundraising</a></li><li><a href="/it/ateneo/amministrazione-trasparente" data-drupal-link-system-path="node/12893">Amministrazione trasparente</a></li></ul></li><li class="expanded dropdown"><a href="/it/internazionale">Internazionale</a><ul class="dropdown-menu"><li><a href="/it/internazionale/cooperazione-internazionale" data-drupal-link-system-path="node/44305">Cooperazione internazionale allo sviluppo</a></li><li><a href="/it/internazionale/la-statale-nel-mondo" data-drupal-link-system-path="node/12742">La Statale nel mondo</a></li><li><a href="/it/internazionale/studiare-allestero" data-drupal-link-system-path="node/273">Studiare all&#039;estero</a></li><li><a href="/it/internazionale/venire-studiare-dallestero" data-drupal-link-system-path="node/295">Venire a studiare dall&#039;estero</a></li><li><a href="/it/internazionale/mobilita-docenti-e-ricercatori" data-drupal-link-system-path="node/1204">Mobilità docenti e ricercatori</a></li></ul></li><li class="expanded dropdown"><a href="">Cerca</a><ul class="dropdown-menu"><li><a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a></li><li><a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a></li><li><a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a></li><li><a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a></li><li><a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a></li></ul></li><li><a href="/it" data-drupal-link-system-path="&lt;front&gt;">Home</a></li></ul></nav><section class="views-element-container col-sm-12 block block-views block-views-blockprofili-block-1 clearfix" id="block-unimi-views-block-profili-block-1"><div class="form-group"><div class="view view-profili view-id-profili view-display-id-block_1 js-view-dom-id-6dc0c3df8fe3fc4ecd38e877e7625fd65463e14f94d46d398cd4f177aaf939e9"><div class="view-content"><div class="item-list fullwidth"><ul class="container"><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/10"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-signs-post" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Futuri studenti</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/11"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-circle-user" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Studenti iscritti</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/12"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-user-plus" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Laureati</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/8"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-graduation-cap" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Dottorandi</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/13"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-globe" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Studenti internazionali</a></div></div></li><li class="col-md-2"><div class="views-field views-field-field-icon"><div class="field-content icon"><a href="/it/taxonomy/term/9"><div class="fontawesome-icons"><div class="fontawesome-icon"><span class="fas fa-building" data-fa-transform="" data-fa-mask=""></span></div></div>
+
+Enti e aziende</a></div></div></li></ul></div></div></div></div></section><section id="block-unimi-megamenufooter-2" class="col-sm-12 block block-block-content block-block-content4a59a823-49d1-4c08-8e2b-8558f0ed52de clearfix"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a class="mega-news" href="https://lastatalenews.unimi.it">News</a><a class="mega-logo" href="/it">Logo</a></p></div></section></div></div></div></section></li></ul><button data-ultimenu-button="#ultimenu-main" class="button button--ultimenu"
+        aria-label="Menu" value="Menu"><span class="bars">Menu</span></button>
+  </section>
+
+
+  </div>
+
+                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+              </div>
+
+                    <div id="navbar-collapse" class="navbar-collapse collapse">
+            <div class="region region-navigation-collapsible">
+    <section id="block-searchmobile" class="search-block-form hidden-lg hidden-md block block-search block-search-form-block block-block-content block-block-content4b159f0e-4fa2-4411-a21f-56afa0508e9f clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><form accept-charset="UTF-8" action="https://apps.unimi.it/sitesearch/unimi-new/search.jsp" id="search-block-form" method="get">
+<div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group"><label class="control-label sr-only" for="edit-keys">Cerca</label>
+<div class="input-group"><input class="form-search form-control" data-drupal-selector="edit-keys" data-original-title="Inserisci i termini da cercare." id="edit-keys" maxlength="128" name="q" placeholder="Cerca" size="15" title type="search" required="true" value><span class="input-group-btn"><button class="button js-form-submit form-submit btn-primary btn icon-only" type="submit" value="Cerca"><span class="sr-only">Cerca</span></button></span></div>
+</div>
+</form>
+</div>
+      
+  </section>
+
+<nav role="navigation" aria-labelledby="block-unimi-main-menu-menu" id="block-unimi-main-menu" class="hidden-md hidden-lg">
+            
+  <h2 class="visually-hidden" id="block-unimi-main-menu-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/it/corsi" data-drupal-link-system-path="node/7725">Corsi</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare" data-drupal-link-system-path="node/7726">Studiare</a>
+              </li>
+                      <li>
+                                        <a href="/it/ricerca" data-drupal-link-system-path="node/7727">Ricerca</a>
+              </li>
+                      <li>
+                                        <a href="/it/terza-missione" data-drupal-link-system-path="node/38988">Terza missione</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo" data-drupal-link-system-path="node/7728">Ateneo</a>
+              </li>
+                      <li>
+                                        <a href="/it/internazionale" data-drupal-link-system-path="node/7729">Internazionale</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Cerca <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/archivio-avvisi" title="Avvisi" data-drupal-link-system-path="node/7704">Avvisi</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e Dove </a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contatti</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi </a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="last">
+                                        <a href="/it" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-topnavbar-2-menu" id="block-topnavbar-2" class="hidden-md hidden-lg">
+            
+  <h2 class="visually-hidden" id="block-topnavbar-2-menu">Top navbar</h2>
+  
+
+        
+      <ul class="menu menu--profili nav">
+                      <li class="first">
+                                        <a href="https://unimia.unimi.it/">Unimia</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie</a>
+              </li>
+                      <li>
+                                        <a href="https://ariel.unimi.it/" title="Portale elearning">Ariel</a>
+              </li>
+                      <li>
+                                        <a href="https://sba.unimi.it/" title="Biblioteche">Biblioteche</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/chi-e-dove" data-drupal-link-system-path="node/7663">Chi e dove</a>
+              </li>
+                      <li>
+                                        <a href="https://mail.unimi.it/">Webmail</a>
+              </li>
+                      <li>
+                                        <a href="https://work.unimi.it">laStatale@work</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Info per <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/it/taxonomy/term/10" data-drupal-link-system-path="taxonomy/term/10">Futuri studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/11" data-drupal-link-system-path="taxonomy/term/11">Studenti iscritti</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/12" data-drupal-link-system-path="taxonomy/term/12">Laureati</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/8" data-drupal-link-system-path="taxonomy/term/8">Dottorandi</a>
+              </li>
+                      <li>
+                                        <a href="/it/taxonomy/term/13" data-drupal-link-system-path="taxonomy/term/13">Studenti internazionali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/taxonomy/term/9" data-drupal-link-system-path="taxonomy/term/9">Enti e aziende</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="https://lastatalenews.unimi.it/" title="statale news">LaStataleNews</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/sostenere-la-statale/cinque-mille?clickOrigin=menu" title="5x1000" data-drupal-link-query="{&quot;clickOrigin&quot;:&quot;menu&quot;}" data-drupal-link-system-path="node/1229">5x1000</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+        </div>
+                </header>
+  
+  <div  id="main-container-unimi" role="main" class="main-container container js-quickedit-main-content">
+    <div class="row">
+
+                              <div class="col-sm-12">
+              <div class="region region-header">
+        <ol class="breadcrumb rs_skip">
+          <li >
+                  <a href="/it">Home</a>
+              </li>
+          <li >
+                  <a href="/it/corsi">Corsi </a>
+              </li>
+          <li >
+                  <a href="/it/corsi/laurea-triennale">Laurea triennale</a>
+              </li>
+          <li  class="active">
+                  Sicurezza informatica e intelligenza artificiale
+              </li>
+      </ol>
+
+
+  </div>
+
+          </div>
+              
+            
+                  <section class="col-sm-12">
+
+                
+                                      
+                  
+                          <a id="main-content"></a>
+            <div class="region region-content">
+        <h1 class="page-header">
+<span>Sicurezza informatica e intelligenza artificiale</span>
+</h1>
+
+<div data-drupal-messages-fallback class="hidden"></div>
+  <div class="row bs-2col-bricked node node--type-cdl-scheda node--view-mode-full">
+  
+
+  
+    <div class="col-xs-12 col-sm-8 col-md-8 col-lg-9 bs-region bs-region--top-left">
+    
+<div  class="top-left-cdl-scheda">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_6 js-view-dom-id-4df4363ee9cc39484da3e8519de0d00920ea94d5017c6d64ed61fe42102d31ae">
+  
+    
+      
+      <div class="view-content">
+          <div class="area-header area-F area-caratipo-d"><div class="banner-area banner-area-F"><span>SCIENZE E TECNOLOGIE</span></div>  <img loading="lazy" src="/sites/default/files/styles/scheda_cdl/public/2026-06/immagine_l31.jpg?h=2c61325d&amp;itok=_EXboRO2" width="1240" height="400" alt="secai" title="" class="img-responsive rs_skip" />
+
+
+<div class="info-group new-info-group"><div class="carat-laurea">Corso totalmente online</div>
+<div class="title-laurea">Sicurezza informatica e intelligenza artificiale</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+
+
+  </div>
+  </div>
+  
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3 bs-region bs-region--top-right">
+    
+<div  class="top-right-cdl-scheda">
+    
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-intestazione field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_49 js-view-dom-id-19bf211bc32c7980a0162135ab3a59287e7fc843062e3f1988c50272e40083b9">
+  
+    
+      
+      <div class="view-content">
+          <div class="cdl-intestazione codice-area-F "><div><div class="scheda-corso">Scheda del corso</div>
+<div class="anno">A.A. 2026/2027 </div>
+<div class="tipo-laurea">Laurea triennale</div>
+
+<div class="field--name-uof-cdsclass">L-31 R - Scienze e tecnologie informatiche</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+            <div  class="paragraph paragraph--type--bp-action">
+        
+            <div  class="field--name-bp-link action-link">
+                  <a href="https://form.lastataleopen.unimi.it/it">Contattaci</a>
+      
+      </div>
+  
+    </div>
+
+      <div  class="paragraph paragraph--type--bp-action">
+        
+            <div  class="field--name-bp-link action-link">
+                  <a href="https://www.unimi.it/sites/default/files/2026-08/FAQ_IT.pdf">FAQ</a>
+      
+      </div>
+  
+    </div>
+
+      <div  class="paragraph paragraph--type--bp-action paragraph--type--bp-action-blu">
+        
+            <div  class="field--name-bp-link">
+                  <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_32 js-view-dom-id-b4a1da5040de0d775d0edff6411b850fe460b557066871b2f2aa87f72510be49">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-sito-corso"><div class="field-content"><a href="https://secaionline.cdl.unimi.it/" target="_blank" aria-label="Vai al sito del corso di Sicurezza informatica e intelligenza artificiale (L-31)">Vai al sito del corso</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+      </div>
+  
+    </div>
+
+
+  </div>
+  </div>
+  
+    <div class="col-xs-12 bs-region bs-region--middle">
+    
+<div >
+    
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-barra field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="barra-dati top40 bottom40 view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_4 js-view-dom-id-697047335c94fcb49c1b608ffdc7f5a60c657c60c750196d684e08312ea50266">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-cdstype"><div class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-university fa-stack-1x fa-inverse"></span>
+</span>
+
+<div class="views-label views-label-uof-cdstype">Laurea triennale</div></div></div><div class="views-field views-field-cfu"><span class="field-content"><span class="fa-stack fa-3x">
+    <span class="fa fa-circle fa-stack-2x"></span>
+    <span class="fa-stack-1x fa fa-ticket fa-inverse"></span>
+ </span>
+<div class="views-label views-label-cfu">180</div>
+Crediti</span></div><div class="views-field views-field-uof-ma1"><div class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+<span class="fas fa-sign-in-alt fa-stack-1x fa-inverse "></span>
+</span>
+<div class="views-label views-label-uof-ma1">Accesso</div>
+Libero</div></div><div class="views-field views-field-durata-anni"><span class="field-content"><span class="fa-stack fa-3x">
+ <span class="fa fa-circle fa-stack-2x"></span>
+    <span class="fas fa-calendar-o fa-stack-1x fa-inverse"></span>
+  </span>
+<div class="views-label views-label-durata-anni">3</div>
+Anni
+</span></div><div class="views-field views-field-polo-fisico"><div class="field-content">  <span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-building-o  fa-stack-1x fa-inverse"></span>
+</span>
+<div class="views-label views-label-polo-fisico">Sede</div>
+Milano </div></div><div class="views-field views-field-nothing"><span class="field-content"><span class="fa-stack fa-3x">
+  <span class="fa fa-circle fa-stack-2x"></span>
+  <span class="fa fa-flag fa-stack-1x fa-inverse"></span>
+</span>
+<div class="views-label views-label-uof-lingua">Lingua</div>
+Italiano</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div><div class="mobile-tab field-group-tabs-wrapper"><div data-vertical-tabs-panes><input class="vertical-tabs__active-tab" type="hidden" /><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-introduction">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-introduction--content" aria-expanded="true" aria-pressed="true" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-introduction--content">Il corso in breve</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-introduction--content" class="panel-body panel-collapse collapse fade in">
+            
+            <div class="field field--name-field-presentazione-del-corso field--type-text-long field--label-hidden field--item"><p>Partecipa al <a href="https://cosp.orientamentounimi.it/dettagli_evento.php?id=664&amp;s=0"><strong>Webinar del 24 settembre</strong></a>.</p><p><span><strong>Cosa si studia?</strong></span></p><p>Il corso di laurea triennale in&nbsp;<strong>Sicurezza informatica e intelligenza artificiale&nbsp;</strong>offre un'ampia, solida e approfondita <strong>preparazione tecnologica e metodologica nell'area informatica</strong>, con una particolare attenzione ai temi della sicurezza e dell'intelligenza artificiale e alle problematiche relative alla realizzazione di servizi/software sicuri a livello infrastrutturale e applicativo.&nbsp;</p><p><span><strong>Come si studia?</strong>&nbsp;</span><br><span>Il corso online consente iscrizioni lungo tutto l’anno e si articola in&nbsp;<strong>insegnamenti cluster</strong>&nbsp;(da 18 a 30 CFU) composti da&nbsp;<strong>più moduli</strong>. Ogni modulo equivale a circa<strong>&nbsp;40 ore</strong>&nbsp;<strong>di apprendimento online</strong>, suddivise tra ore di <strong>didattica erogativa</strong> (lezioni sincrone comunque registrate, videolezioni asincrone, materiali digitali e risorse multimediali) e ore <strong>didattica interattiva</strong> (e-tivity come esercitazioni, forum, attività collaborative online.</span></p><p><span><strong>Che impegno prevede?&nbsp;</strong></span><br><span>Gli studenti possono <strong>organizzare al meglio il proprio tempo per preparare gli esami senza vincoli di presenza fisica</strong> o di orario specifico. Tenendo un buon ritmo di studio, si possono preparare tre insegnamenti cluster all’anno pari a circa 60 CFU, avendo a disposizione un appello ogni due mesi.</span></p><p><span><strong>Esami e laurea in presenza</strong>&nbsp;</span><br><span>L’esame<strong> conclusivo</strong>&nbsp;di ogni insegnamento cluster (in tutto il triennio vi sono 8 insegnamenti cluster) si tiene sempre<strong>&nbsp;in presenza</strong>, solitamente ogni due mesi, secondo un calendario che prevede&nbsp;<strong>6 appelli all’anno</strong> che saranno pianificati il venerdì e il sabato per favorire coloro che hanno impegni lavorativi e personali. Anche la sessione di&nbsp;<strong>laurea&nbsp;</strong>è in&nbsp;<strong>presenza&nbsp;</strong>in uno dei&nbsp;<strong>quattro appelli&nbsp;</strong>di laurea distribuiti su tre sessioni all’anno.</span></p><p><span><strong>Una didattica online flessibile con tutoraggio continuo</strong></span><br><span>La&nbsp;<strong>didattica online</strong>&nbsp;si avvale di una piattaforma di Learning Management System di livello avanzato, adatta alla massima personalizzazione delle proprie attività di apprendimento. Il tutoraggio continuo e una&nbsp;<strong>learning community attiva</strong>&nbsp;garantiscono un’esperienza formativa inclusiva ed efficace, equivalente alla didattica in presenza.</span></p></div>
+      
+            <div class="field field--name-field-video-cdl field--type-entity-reference field--label-hidden field--item"><div class="media media--type-remote-video media--view-mode-full ds-1col clearfix">
+
+  
+
+        <div >
+        
+            <iframe src="/it/media/oembed?url=https%3A//www.youtube.com/watch%3Fv%3DTyPVmGwJedM%26list%3DPLcN0fu7cnbAsr2iLS6-c-23Vlda1Pmf2s&amp;max_width=800&amp;max_height=600&amp;type=remote_video&amp;provider=youtube&amp;view_mode=full&amp;hash=HqvecUGSfV7Kr8aQ0teqCRUwIo7UbmPrAUzCXbmhSCQ" frameborder="0" allowtransparency width="800" height="600" loading="lazy" class="media-oembed-content" title="La Statale Open: il vodcast sui nuovi corsi online dell&#039;Ateneo."></iframe>
+
+      
+  
+    </div>
+
+
+
+</div>
+
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-objectives">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-objectives--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-objectives--content">Obiettivi formativi</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-objectives--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-obiettivi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_7 js-view-dom-id-de1edb09cba13a94061e0b1cda9d3d2389ed5e4c9dbe412f44ec0ee9ba2455c3">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-obiettivi-formativi"><div class="field-content">Il corso di laurea si propone di fornire al futuro laureato in Sicurezza Informatica e Intelligenza Artificiale un'ampia, solida e approfondita preparazione culturale, tecnologica e metodologica nell'area informatica, con attenzione specifica ai temi della sicurezza e privatezza, e alla intelligenza artificiale per metterlo in grado di affrontare tutte le problematiche relative alla realizzazione di servizi/software sicuri a livello infrastrutturale e applicativo.<br>Il corso di laurea ha l'obiettivo di fornire una solida preparazione culturale matematica e metodologica di base al fine di: <br>i) conoscere e dominare gli aspetti fondazionali dei sistemi informatici;<br>ii) familiarizzare con le basi del metodo scientifico;<br>iii) analizzare problemi e sviluppare modelli e soluzioni informatiche in autonomia o in gruppi di lavoro;<br>iv) possedere adeguate competenze tecnologiche a supporto delle varie applicazioni;<br>v) comprendere e valutare l'impatto anche etico dei costanti progressi scientifici e tecnologici nell'ambito della disciplina stessa;<br>vi) sviluppare capacità comunicative relative alle soluzioni sviluppate ed ai problemi affrontati adatte si ad interlocutori specialisti che non specialisti.<br>Il corso di laurea si propone, inoltre, di fornire competenze specifiche nell'ambito della sicurezza e privatezza e dell'intelligenza artificiale. <br>In particolare, ha l'obiettivo di i) fornire competenze atte a comprendere le evoluzioni delle minacce alla sicurezza e privatezza anche consultando documentazione avanzata di tipo scientifico normativo, al fine di applicare contromisure e strumenti di protezione specifici, in particolar modo nel contesto delle moderne reti di sistemi web/cloud, ii) fornire competenze adatte a comprendere e ideare soluzioni basate su intelligenza artificiale anche generativa, iii) sviluppare competenze per lo sviluppo di soluzioni software ed infrastrutturali sicure anche con l'uso di intelligenza artificiale, iiii) sviluppare competenze nell'ambito della gestione/organizzazione aziendale della sicurezza informatica. <br><br>Per il primo anno, il percorso formativo prevede l'acquisizione di competenze di base per la disciplina informatica che comprendono nozioni di programmazione, architetture di elaborazione, reti e cloud oltre a nozioni di matematica di base. Verranno acquisite anche competenze legate ai sistemi di apprendimento e modalità di analisi e visualizzazione dei dati.<br>Il secondo anno è dedicato alla acquisizione di competenze più specifiche su AI, Gen AI e sicurezza nelle reti e del software/ servizi, complementate da competenze informatiche legate alle basi di dati oltre a competenze legali ed etiche.<br>Il terzo anno è dedicato alle competenze complementari di sicurezza ed AI.<br>Il modello didattico è costruito su una piattaforma di apprendimento online avanzata, che prevede l'impiego di risorse digitali, attività asincrone, forum interattivi, e-tivity guidate, esercitazioni e strumenti collaborativi. Il tutoraggio continuo, la possibilità di costruire percorsi personalizzati e la presenza di una learning community attiva rendono il corso inclusivo e capace di supportare studenti con esigenze eterogenee, valorizzando al tempo stesso l'autonomia di apprendimento.<br>Il Corso garantisce l'acquisizione di competenze trasversali (soft skills), come il lavoro in team, la capacità di analizzare criticamente scenari complessi e l'utilizzo consapevole delle tecnologie digitali, favorendo l'inserimento in contesti lavorativi dinamici e l'accesso a percorsi di studio magistrale coerenti con la formazione ricevuta.<br>Le conoscenze vengono acquisite interamente in modalità online, attraverso un insieme integrato di attività progettate per garantire la piena equivalenza formativa rispetto alla didattica in presenza, in coerenza con il modello pedagogico dell'Ateneo.
+
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-career-and-employment">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-career-and-employment--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-career-and-employment--content">Sbocchi professionali</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-career-and-employment--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-sbocchi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_8 js-view-dom-id-abb7bd432bbb437d19249e6425ce7e14a7c9047bd1bcd78ff068549fb2773960">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-sbocchi-occupazionali"><div class="field-content"><div class="bottom40">Esperto nella sicurezza dei sistemi, dei dati e delle reti informatiche<br>Funzione in un contesto di lavoro: Le professioni comprese in questa categoria operano nel vasto settore della consulenza aziendale offerta alle imprese per supportarle nell'analisi e nella risoluzione delle problematiche di sicurezza informatica relative ai sistemi informativi gestionali, al trattamento dei dati, alle comunicazioni via reti, sia intranet che Internet, e allo sviluppo di applicazioni interattive.<br>Competenze associate alla funzione: Sono figure professionali dotate di competenze specifiche nel campo delle tecnologie e dei metodi per la sicurezza informatica e in grado di comprendere le dinamiche aziendali e organizzative delle realtà produttive nelle quali sono chiamate a operare. Sono in grado di lavorare inserendosi in progetti strutturati e in contesti aziendali eterogenei offrendo conoscenze specialistiche solitamente non presenti nelle aziende, operando sia nella risoluzione di problematiche di sicurezza informatica pertinenti i sistemi informativi aziendali, sia come supporto all'innovazione tecnologica e alla selezione di tecnologie per la sicurezza informatica.<br>Sbocchi occupazionali: Svolgono attività professionali altamente specializzate nell'ambito della consulenza aziendale rivolta a imprese, enti pubblici e studi professionali presso i quali sovente mancano competenze di sicurezza informatica adeguate a una corretta ed efficace gestione dei sistemi informativi, incluso il trattamento dei dati secondo le normative vigenti, la protezione delle risorse aziendali da violazioni e compromissioni dei sistemi e il mantenimento dell'operatività dei sistemi, delle reti e delle applicazioni nel caso di intrusioni informatiche o malfunzionamenti accidentali.<br><br>Esperto in intelligenza artificiale e sue applicazioni di sicurezza<br>Funzione in un contesto di lavoro: Le professioni comprese in questa categoria operano nell'ambito dell'analisi e dello sviluppo di soluzioni basate su intelligenza artificiale applicate alla sicurezza dei sistemi informativi, delle reti e dei dati. Offrono supporto a imprese ed enti pubblici nell'individuazione e prevenzione delle minacce informatiche, nella rilevazione di anomalie e nella protezione di infrastrutture critiche, contribuendo al miglioramento dei processi di sicurezza e all'adozione di tecnologie innovative.<br>Competenze associate alla funzione: Sono figure professionali con competenze nell'uso di metodi e tecniche di intelligenza artificiale per la sicurezza informatica, capaci di integrare strumenti di machine learning, deep learning e IA generativa con sistemi tradizionali di difesa. Operano in progetti complessi nei quali l'IA viene utilizzata come strumento per rafforzare la<br> protezione dei dati e dei sistemi, rendendo pi efficace la prevenzione e la gestione degli attacchi e supportando l'innovazione tecnologica delle organizzazioni.<br>Sbocchi occupazionali: Svolgono attività professionali specializzate nell'ambito della consulenza e della ricerca applicata, trovando collocazione presso imprese di servizi IT e cybersecurity, enti pubblici e privati, aziende che sviluppano soluzioni digitali e piattaforme tecnologiche, nonché in contesti sensibili come il settore finanziario, sanitario e delle infrastrutture critiche, dove la protezione dei dati e la resilienza dei sistemi rivestono un ruolo fondamentale.<br><br>Tecnici specializzati nell'analisi e nello sviluppo di software per la gestione aziendale con applicazione di metodologie per la sicurezza informatica<br>Funzione in un contesto di lavoro: Le professioni comprese in questa categoria appartengono ai profili professionali degli Analisti e progettisti di software aventi per particolari competenze riguardanti lo sviluppo e la programmazione sicura, le metodologie di test e di analisi mirate all'individuazione di vulnerabilità di sicurezza e i sistemi di correzione e prevenzione di problemi di sicurezza nel software. Sono inoltre esperti nelle tecniche (algoritmi e protocolli) crittografiche da utilizzare per la protezione dei dati mantenuti in basi di dati aziendali.<br>Competenze associate alla funzione: Queste figure professionali integrano le competenze tradizionali di sviluppo di software e programmazione con la conoscenza specifica delle principali problematiche di sicurezza che un software pu presentare. Nel ciclo di sviluppo di un software, queste figure professionali sono quindi in grado di integrare fin dalle fasi di disegno e progettazione, poi nelle fasi di sviluppo e test, le principali metodologie per la sicurezza del software. Ulteriori competenze le esercitano nella verifica della presenta di vulnerabilità software in prodotti di terze parti o applicazioni gestionali, definendo, nel caso, le contromisure pi adatte per un utilizzo efficiente e sicuro. Sbocchi occupazionali: Lo sviluppo del software secondo criteri di sicurezza e la verifica della sicurezza di software di terze parti sono necessità ormai comuni alla maggior parte delle aziende, delle pubbliche amministrazioni e dei servizi. La professionalità di questo profilo trova impiego presso tutte le realtà aziendali e produttive dotate di un sistema informativo o che sviluppano software per terze parti.<br><br>Tecnici specializzati in metodologie per la sicurezza informatica adottate nell'analisi e nello sviluppo di applicazioni/servizi web/cloud comprese tecnologie basate su intelligenza artificiale<br>Funzione in un contesto di lavoro: Le professioni comprese in questa categoria appartengono ai profili professionali degli Analisti e progettisti di applicazioni web/ servizi cloud per i quali ormai indispensabile possedere specifiche competenze riguardanti la sicurezza di applicazioni caratterizzate da forte interattività, dall'operare su una rete. Altrettanto fondamentale conoscere le potenzialità ed i rischi associati all'uso dell'intelligenza artificiale anche generativa nei sistemi e nell'ambito della sicurezza informatica in generale. Queste figure professionali integrano la capacità di sviluppo di applicazioni web, sviluppo di modelli di intelligenza artificiale con la conoscenza delle problematiche di sicurezza anche in Cloud occupandosi di proteggere le reti aziendali e i singoli utenti da quello che oggi il principale canale di propagazione di codice malevolo, accessi non autorizzati a risorse e crimini informatici.<br>Competenze associate alla funzione: Queste figure professionali conoscono le principali metodologie utilizzate nella realizzazione di modelli di intelligenza artificiale tradizionale e generativa, applicazioni web e cloud, occupandosi sia di supportarne la progettazione sicura, sia di verificarne il grado di sicurezza attraverso strumenti e tecniche di test e monitoraggio anche basati su intelligenza artificiale. Le competenze in materia di tecniche crittografiche sono utilizzate nella sicurezza delle comunicazioni di rete e nella protezione di dati gestiti attraverso applicazioni web/cloud. Sono inoltre figure professionali molto orientate all'innovazione tecnologica, considerando la dinamica evolutiva rapida che caratterizza le tecnologie web/cloud e l'intelligenza artificiale.<br>Sbocchi occupazionali: La sempre maggiore diffusione dei servizi web/cloud basati su intelligenza artificiale rende sempre pi rilevanti queste figure professionali nel contesto produttivo, commerciale e dell'erogazione di servizi. In aggiunta, la sicurezza in tali contesti sta diventando decisamente prioritaria considerando la sempre maggiore diffusione di truffe o violazioni informatiche realizzate via web e le conseguenze che tali eventi possono avere sulla reputazione commerciale, oltre ai danni economici diretti. Queste figure professionali risultano quindi indispensabili per tutte le aziende, sia private che pubbliche e di ogni dimensione e settore industriale, che abbiano adottato i servizi web anche aumentati con intelligenza artificiale, come uno dei principali canali di comunicazione per la propria presenza commerciale o per l'erogazione dei propri servizi verso terzi.<br><br>Tecnici specializzati in tecnologie dell'informazione e della comunicazione<br>Funzione in un contesto di lavoro: Le figure professionali comprese in questa categoria appartengono ai profili professionali degli esperti di utilizzo nei vari contesti operativi delle tecnologie dell'informazione e della comunicazione, sulle quali il corso di studio della classe L-31 fondato. Queste figure professionali integrano la capacità di sviluppo di applicazioni informatiche con la conoscenza delle problematiche operative nei diversi contesti applicativi (automazione industriale, sistemi informativi, comunicazione digitale, supporto alle decisioni, ecc.) occupandosi di progettare, gestire e manutenere applicazioni informatiche anche complesse.<br>Competenze associate alla funzione: Queste figure professionali possiedono una buona conoscenza di base ed un ampio spettro di conoscenze e competenze nei vari settori dell'informatica e delle telecomunicazioni. Sono familiari con il metodo scientifico di indagine, hanno buone capacità di modellazione e sanno comprendere e utilizzare gli strumenti matematici di supporto alle competenze informatiche, sono in grado di lavorare in gruppo, di operare con autonomia di utilizzare le tecnologie più adeguate e di inserirsi prontamente negli ambienti di lavoro.<br>Sbocchi occupazionali: I laureati possono operare nei pi svariati ambiti applicativi per la progettazione e la gestione di sistemi informatici e cloud e per lo studio di nuovi sistemi ed applicazioni/servizi.</div>
+<div><div class="field--label">Percorsi consigliati dopo laurea</div>
+<div class="field--item">Gli studenti che si sono laureati in Sicurezza Informatica e Intelligenza Artificiale potranno accedere alle Lauree Magistrali attivate dall'Università degli Studi di Milano o da altri atenei, con le modalità indicate nei rispettivi Manifesti degli Studi. In particolare, potranno accedere al corso di laurea magistrale in Informatica Classe LM-18 e al corso di laurea magistrale in Sicurezza Informatica Classe LM-66. Le condizioni di ammissione ai corsi di laurea magistrale sono riportate nei manifesti dei singoli corsi di studio.</div></div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-study-abroad">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-study-abroad--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-study-abroad--content">Studio all'estero</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-study-abroad--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-studi-estero field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_9 js-view-dom-id-8a273efb719449a966bd6b995286ee30ea0338ee64442ff53bde235ced9dcf37">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-esperienze-estero"><div class="field-content">Il Corso di Studio mette a disposizione i servizi offerti dall'Ateneo per la mobilità internazionale sia fisica che mista o virtuale. Le informazioni sono disponibili attraverso i bandi annuali, gli incontri informativi e le pagine dedicate sul sito di Ateneo ( <a href="https://www.unimi.it/it/internazionale/studiare-allestero">https://www.unimi.it/it/internazionale/studiare-allestero</a>).</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-attendance">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-attendance--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-attendance--content">Obbligo di frequenza</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-attendance--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-frequenza field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_10 js-view-dom-id-affc4e0834ffe365d1168d81634d3cad7aeb0dacd4a670fcad012f4b238bf453">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-frequenza"><div class="field-content">Il corso è interamente on-line, è fortemente consigliata la frequenza alle lezioni sincrone.</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+</div>
+</div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Immatricolazione</div>
+    <div class="bottom0 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--6">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--6--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--6--content">Requisiti, modalità di verifica e obblighi formativi</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--6--content" class="panel-body panel-collapse collapse fade">
+                  <div  class="paragraph scheda-cds-requisiti-accesso">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_11 js-view-dom-id-adf022aa64e58357e8349ff72cf1806a6d16afac5b80a98f93ec8dea346f76f7">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-requisiti-accesso"><div class="field-content">Requisiti e conoscenze richieste per l'accesso <br>Per l'ammissione al corso di laurea in Sicurezza informatica e Intelligenza Artificiale occorre essere in possesso di un diploma di scuola secondaria di secondo grado o di altro titolo di studio conseguito all'estero, riconosciuto idoneo. Inoltre, è necessario avere un'adeguata preparazione iniziale, in particolare, nell'ambito delle discipline scientifiche di base e di comprensione di logica elementare. <br><br>Modalità di verifica delle conoscenze e della preparazione personale <br>Il corso è ad accesso libero e prevede un test online obbligatorio e successivo all'immatricolazione. Il test è finalizzato a verificare le conoscenze di base dell'area delle discipline scientifiche e di comprensione di logica elementare che valgono come requisiti di accesso. Il test sarà disponibile sulla piattaforma digitale a partire dal 23 giugno 2026 e dovrà essere svolto al primo ingresso in piattaforma. L'esito del test sarà comunicato online in tempo reale.<br><br>Obblighi formativi aggiuntivi e modalità per il recupero OFA <br>Nel caso in cui emergano lacune formative nelle conoscenze di base, relative all'area di matematica, allo studente saranno assegnati Obblighi Formativi Aggiuntivi (OFA), da colmare entro 12 mesi dalla data di immatricolazione, attraverso specifici percorsi online già disponibili in piattaforma.<br>L'assolvimento degli Obblighi Formativi Aggiuntivi è verificato con una prova finale in presenza che potrà essere svolta prima di ogni appello dell'insegnamento cluster di Matematica e Fondamenti di Programmazione.<br>Gli studenti con gli OFA potranno utilizzare i materiali didattici e sostenere tutti gli esami del primo anno. <br>Il mancato assolvimento degli OFA impedisce allo studente di sostenere gli esami del secondo e del terzo anno.
+
+ 
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--7">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--7--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--7--content">Ammissione e immatricolazione</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--7--content" class="panel-body panel-collapse collapse fade">
+            
+<div  class="paragraph paragraph--type--bp-two-columns paragraph--style--66-33">
+    
+<div  class="paragraph__column">
+    
+<div  class="bp_two_col_left col-md-8">
+          <div  class="top20">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_2 js-view-dom-id-05a415332f8bdbfccc2d6b80ba9dde8a4884d3c2c91db3587fb09fa847c912c6">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-bando-scadenze"><div class="field-content"><h3>Immatricolazione</h3>
+<p><strong>Domanda di immatricolazione:</strong> dal 03/06/2026 al 15/06/2027</p>
+<p><br><strong>Allegati e documenti</strong></p>
+<p><a href="https://apps.unimi.it/files/bandi/avviso-ammissione-2027-1-sicurezza-informatica-e-intelligenza-artificiale-%28l-31%29.pdf?02-SEP-26">Avviso di immatricolazione</a></p>
+<p><br><strong>Immatricolazione</strong></p>
+<p>L'accesso al corso è libero, è previsto un test online successivo all'immatricolazione, che verifica le tue conoscenze di base nelle materie stabilite dal corso.</p></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+  </div>
+<div  class="bp_two_col_right col-md-4 paragraph__column">
+          <div  class="bottom40 flowroot">
+            <div  class="titolo-grande bottom20 field-label-above">Servizi online</div>
+  
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node-2 view-id-w4_cdsi_to_node_2 view-display-id-block_5 js-view-dom-id-c35bbf1b261f1b1cc31fc581ab3c06fa83677e89b162431218ad3fcc18f43526">
+  
+    
+      
+      <div class="view-content">
+          <div><div class="views-field views-field-bando-al-servizio"><div class="field-content"><div class="actionlink-wrapper alw-of alw-serv alw-1"><div class="actionlink al-servizio al-immatricolazione"><a href="https://studente.unimi.it/immatricolazioni/primoLivello/checkLogin.asp">Immatricolazione</a></div></div></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+  </div>
+  </div>
+  </div>
+          </div>
+  
+    
+</div>
+
+  </div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Manifesto ed elenco insegnamenti</div>
+          <div  class="bottom20">
+        
+            <div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_3 js-view-dom-id-c416179c98f527b1e42a916b91e13bc4d2fc832c8ef613fe478cd67e73022f24">
+  
+    
+      
+      <div class="view-content">
+          <div class="padl30 views-row"><div><span class="file">
+  <span class="file-icon" aria-hidden="true">
+    <span class="far fa-file"></span>
+  </span>
+  <span class="file-link"><a href="https://apps.unimi.it/files/manifesti/ita_manifesto_FAOof1_2027.pdf">Manifesto degli studi [FAOof1_2027]</a></span>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+      
+  
+    </div>
+
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-piano-didattico field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_12 js-view-dom-id-1b582df3042ed26cff2117b7892343901a4b2a19b9176871e69fda3959fc18a1">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-rendered-entity"><span class="field-content">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+            <div class="field field--name-ugov-piano-didattico field--type-map field--label-hidden field--item"><div class="ugov_of_pd ugov_of_pd_type_7 ugov_of_pd_it">
+
+<div class="accordion bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="curr-accordion">
+    <div>
+
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title" aria-expanded="false" aria-controls="curr-20270000faoof1-FAO-0" role="button" href="#curr-20270000faoof1-FAO-0">
+                  Piano didattico
+              </a>
+    </div>
+
+    <div id="curr-20270000faoof1-FAO-0" class="panel-collapse collapse ">
+      <div class="panel-body">
+
+                  <ul class="nav nav-tabs ugov-of-pd-years">
+                          <li class="active"><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000faoof1-FAO-0-0"><div>
+
+  Anno: 1
+</div>
+</a></li>
+                          <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000faoof1-FAO-0-1"><div>
+
+  Anno: 2
+</div>
+</a></li>
+                          <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000faoof1-FAO-0-2"><div>
+
+  Anno: 3
+</div>
+</a></li>
+                          <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000faoof1-FAO-0-3"><div>
+
+  Anno di corso a scelta dello studente
+</div>
+</a></li>
+                      </ul>
+        
+                  <div class="tab-content">
+                          <div id="ugov-of-pd-year-af-20270000faoof1-FAO-0-0" class="tab-pane fade in active">
+                
+                                  
+                                          
+                                              <div class="top30 titoletto">Obbligatorio</div>
+                                                <table class="no-more-tables rs_content">
+                          <thead>
+                            <tr>
+                              <th scope="col">Attività formative</th>
+                              <th scope="col">Crediti massimi</th>
+                              <th scope="col">Ore totali</th>
+                              <th scope="col">Lingua</th>
+                              <th scope="col">SSD</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/accertamento-di-lingua-inglese-livello-b1-3-cfu">Accertamento di lingua inglese - livello b1 (3 CFU)</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">NN</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/architetture-informatiche-e-reti">Architetture informatiche e reti</a>
+</td>
+<td data-title="Crediti massimi">18</td>
+<td data-title="Ore totali">120</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">INFO-01/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/fondamenti-di-ai">Fondamenti di ai</a>
+</td>
+<td data-title="Crediti massimi">24</td>
+<td data-title="Ore totali">160</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">INFO-01/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/matematica-e-fondamenti-di-programmazione">Matematica e fondamenti di programmazione</a>
+</td>
+<td data-title="Crediti massimi">21</td>
+<td data-title="Ore totali">140</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">INFO-01/A MATH-03/A MATH-05/A</td>
+
+                              </tr>
+                            
+                          </tbody>
+                        </table>
+                      
+                    
+                  
+                
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000faoof1-FAO-0-1" class="tab-pane fade">
+                                  <div class="noteanno">sarà attivato dall&#039;A.A. 2027/2028</div>
+                
+                                  
+                                          
+                                              <div class="top30 titoletto">Obbligatorio</div>
+                                                <table class="no-more-tables rs_content">
+                          <thead>
+                            <tr>
+                              <th scope="col">Attività formative</th>
+                              <th scope="col">Crediti massimi</th>
+                              <th scope="col">Ore totali</th>
+                              <th scope="col">Lingua</th>
+                              <th scope="col">SSD</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/approfondimenti-di-ai-e-sicurezza-informatica">Approfondimenti di ai e sicurezza informatica</a>
+</td>
+<td data-title="Crediti massimi">21</td>
+<td data-title="Ore totali">140</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">IINF-05/A INFO-01/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/fondamenti-di-gestione-dati-e-sicurezza-informatica">Fondamenti di gestione dati e sicurezza informatica</a>
+</td>
+<td data-title="Crediti massimi">24</td>
+<td data-title="Ore totali">160</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">GIUR-14/A GIUR-17/A INFO-01/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/sicurezza-intelligente">Sicurezza intelligente</a>
+</td>
+<td data-title="Crediti massimi">18</td>
+<td data-title="Ore totali">120</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">INFO-01/A</td>
+
+                              </tr>
+                            
+                          </tbody>
+                        </table>
+                      
+                    
+                  
+                
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000faoof1-FAO-0-2" class="tab-pane fade">
+                                  <div class="noteanno">sarà attivato dall&#039;A.A. 2028/2029</div>
+                
+                                  
+                                          
+                                              <div class="top30 titoletto">Obbligatorio</div>
+                                                <table class="no-more-tables rs_content">
+                          <thead>
+                            <tr>
+                              <th scope="col">Attività formative</th>
+                              <th scope="col">Crediti massimi</th>
+                              <th scope="col">Ore totali</th>
+                              <th scope="col">Lingua</th>
+                              <th scope="col">SSD</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/complementi-di-sicurezza">Complementi di sicurezza</a>
+</td>
+<td data-title="Crediti massimi">18</td>
+<td data-title="Ore totali">120</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">IINF-05/A INFO-01/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/tirocinio-20">Tirocinio</a>
+</td>
+<td data-title="Crediti massimi">18</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="/it/corsi/insegnamenti-dei-corsi-di-laurea/2027/prova-finale-108">Prova finale</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+
+                              </tr>
+                            
+                          </tbody>
+                        </table>
+                      
+                    
+                  
+                
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000faoof1-FAO-0-3" class="tab-pane fade">
+                
+                                  
+                
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Attività a scelta e regole di composizione del piano didattico</div>
+                                          <div class="ugov-of-pd-year-rules-3"><div>1 - Attività a scelta<br/>Lo studente è tenuto ad acquisire 12 cfu a libera scelta fra gli insegnamenti attivati dal Collegio Didattico o fra tutti gli insegnamenti attivati dall'Ateneo purché i contenuti non si sovrappongano ai contenuti di insegnamenti erogati dal corso di studio di Sicurezza Informatica e Intelligenza Artificiale o da altri corsi di studio di cui è referente il Dipartimento di Informatica, e a patto che siano coerenti con il piano formativo.<br/>    <br/>Gli studenti possono richiedere il riconoscimento di cfu per attività formative presso enti esterni, presentando la relativa certificazione. Ogni certificazione può dare luogo ad un massimo di 3 cfu, e possono essere riconosciute fino a 2 certificazioni. Lo studente che intende chiedere il riconoscimento delle certificazioni deve compilare il modulo di "istanza" disponibile alla pagina https://www.unimi.it/it/studiare/servizi-gli-studenti/segreterie-infostudenti/modulistica-generale e consegnarlo alla segreteria del proprio corso di studio unitamente alla copia delle certificazioni conseguite.<br/> <br/>La valutazione verrà effettuata da un'apposita commissione sulla base dei seguenti parametri:<br/>-  Validità: la certificazione deve essere stata ottenuta da un massimo di 5 anni.   <br/>-  Specificità: la certificazione deve avere come oggetto competenze riferibili a quelle previste dal corso di laurea in cui lo studente è regolarmente iscritto.<br/>-  Specializzazione: la certificazione deve riguardare competenze specialistiche e/o professionalizzanti. <br/>-  Livello: la certificazione deve attestare competenze di livello medio o avanzato. Sono escluse certificazioni di base ed entry level.</div>
+</div>
+                                                            </div>
+                
+              </div>
+                      </div>
+        
+        
+        
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div>
+<div  class="paragraph paragraph--type--bp-accordion paragraph__column">
+  <div class="bp-title">Altre informazioni</div>
+    <div class="mobile-tab field-group-tabs-wrapper"><div data-vertical-tabs-panes><input class="vertical-tabs__active-tab" type="hidden" /><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-aiuto-e-orientamento">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-aiuto-e-orientamento--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-aiuto-e-orientamento--content">Aiuto e orientamento</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-aiuto-e-orientamento--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-aiuto-e-orientamento2 field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_21 js-view-dom-id-b9a038680849b2cc68a45c657bf20fe888788b1f75e4b341fdcce88f59c1ed1f">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-view"><span class="field-content"><div class="view view-paragrafi view-id-paragrafi view-display-id-block_9 js-view-dom-id-9c7e17c046f3542c3be436ed17a6b4ed5cadbf5b943b9b1d92957ece3b9dce62">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id='parid-33506'  class="paragraph paragraph--type--bp-simple paragraph--view-mode--default paragraph--id--33506">
+  <div class="paragraph__column">
+    
+    
+<div  class="box-content">
+    
+<div  id="imgplace" class="imgplace">
+    <div class="bp-text"><p><strong>Orientamento in ingresso</strong></p><ul><li><a href="https://www.unimi.it/it/corsi/la-statale-open"><span>Cos’è La Statale open</span></a></li><li><a href="https://www.unimi.it/it/corsi/orientarsi-e-scegliere"><span>Orientarsi e scegliere</span></a></li><li><a href="https://www.unimi.it/it/corsi/orientarsi-e-scegliere/eventi-di-orientamento/open-day-di-ateneo"><span>Open day 2026</span></a></li></ul><p><span><strong>Servizi di supporto</strong></span></p><ul><li><a href="/cdn-cgi/l/email-protection#1f737e6c6b7e6b7e737a31706f7a715f6a7176727631766b"><span class="__cf_email__" data-cfemail="452924363124312429206b2a35202b05302b2c282c6b2c31">[email&#160;protected]</span></a></li><li><a href="https://www.unimi.it/it/studiare/servizi-gli-studenti/servizi-studenti-con-disabilita"><span>Studenti con disabilità</span></a></li><li><a href="https://www.unimi.it/it/studiare/servizi-gli-studenti/servizi-studenti-con-dsa"><span>Studenti con DSA</span></a></li></ul><p><span><strong>Tutoraggio continuo</strong></span></p><ul><li><a href="https://www.unimi.it/it/corsi/la-statale-open-laurea-online/riconoscimento-cfu-e-tutoraggio-continuo"><span>Tutor tecnico, di sistema e disciplinare</span></a></li></ul></div>
+  </div>
+  </div>
+  </div>
+</div>
+
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-course-location">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-course-location--content" aria-expanded="true" aria-pressed="true" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-course-location--content">Sede</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-course-location--content" class="panel-body panel-collapse collapse fade in">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-sedi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_13 js-view-dom-id-3e520e6baddc6a944f66bdbdff4c7bc43c12e67eec0b920a13354bfbb6e4d208">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-polo-fisico"><div class="field-content">Milano</div></div><div class="views-field views-field-risorse-didattica"><span class="views-label views-label-risorse-didattica field--label">Sedi didattiche</span><div class="field-content">Il corso si svolge interamente on-line. Gli esami conclusivi degli insegnamenti cluster e la prova finale si svolgono in presenza.</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-reference-professors-and-c">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-reference-professors-and-c--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-reference-professors-and-c--content">Referenti e contatti</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-reference-professors-and-c--content" class="panel-body panel-collapse collapse fade">
+            
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-presidente-collegio field--type-ds field--label-above">
+    <div class="field--label">Presidente del Collegio didattico</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_33 js-view-dom-id-02a98fd1f27d0644f57f75e3211468adeb37076fc9f9a367e44636088566ab1b">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-person"><div class="field-content"><a href="/it/ugov/person/sabrina-gaito" hreflang="it">Gaito Sabrina Tiziana</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-riferimenti-1 field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_14 js-view-dom-id-f20489816d46af249268afd7705ef3621aeebb22a34c9f5121aa9ae0659272d8">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  <div class="field field--name-dynamic-block-fieldnode-scheda-cds-strutture field--type-ds field--label-above">
+    <div class="field--label">Strutture di riferimento</div>
+              <div class="field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_16 js-view-dom-id-c7677f1e9eaeb9395dd3731035e1300fc1c687670bbf052882acfa1265bb1161">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-uof-ou"><div class="field-content"><a href="/it/ugov/ou-structure/dipartimento-di-informatica-giovanni-degli-antoni" hreflang="it">Dipartimento di Informatica Giovanni Degli Antoni</a></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-riferimenti-2 field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_15 js-view-dom-id-0a67201ba0a5af38aa3de6f74cf068a1db75349d62669f407b65bfa9dfc63d59">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div><span class="field--label">Contatti</span><div class="field--type-text-long"><ul><li>Per informazioni:<br><a href="/cdn-cgi/l/email-protection#c7aba6b4b3a6b3a6aba2e9a8b7a2a987b2a9aeaaaee9aeb3"><span class="__cf_email__" data-cfemail="2e424f5d5a4f5a4f424b00415e4b406e5b4047434700475a">[email&#160;protected]</span></a></li></ul></div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+<div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="edit-group-bando-scadenze">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-group-bando-scadenze--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-group-bando-scadenze--content">Costi e agevolazioni</a>
+              </div>
+      
+            
+    
+    <div id="edit-group-bando-scadenze--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-blocco-action-3 field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi-to-node view-id-w4_cdsi_to_node view-display-id-block_22 js-view-dom-id-ad80b0d80fb261d1416e8a7df130cb217a132effedf21a6a787aabe7851974fb">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-view"><span class="field-content"><div class="view view-paragrafi view-id-paragrafi view-display-id-block_8 js-view-dom-id-edb55b57925002c242459b5182956ab83e510a3dfb477a881c1aedf3cc5fe329">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+      <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id='parid-33505'  class="paragraph paragraph--type--bp-simple paragraph--view-mode--default paragraph--id--33505">
+  <div class="paragraph__column">
+    
+    
+<div  class="box-content">
+    
+<div  id="imgplace--2" class="imgplace">
+    <div class="bp-text"><p>Il pagamento dell’iscrizione avviene in due rate:</p><ul><li>la prima rata di<strong> 646 euro</strong> si versa al momento dell’immatricolazione</li><li>la seconda rata di importo variabile in base all’ISEE, <strong>da 0 fino ad un massimo di 4561,12</strong> euro si versa entro 120 giorni dall’immatricolazione.</li></ul><p>Sono previsti esoneri totali o parziali dal pagamento delle tasse, in base a specifici requisiti stabiliti dalla legge o dai regolamenti di Ateneo.</p></div>
+  </div>
+<div  class="correlati-content top20">
+    
+<ul>          <li class="bp-link odd first last"><a href="/it/corsi/la-statale-open-laurea-online/iscrizioni-e-costi">La Statale Open - Iscrizioni e costi</a></li></ul>
+
+  </div>
+  </div>
+  </div>
+</div>
+
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+</div>
+</div>
+  </div>
+  </div>
+  
+  
+  
+    <div class="col-xs-12 col-sm-12 bs-region bs-region--bottom">
+    <div class="accordion top40 bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="bootstrap-panel--12">
+
+              <div class="panel-heading">
+                          <a aria-controls="bootstrap-panel--12--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#bootstrap-panel--12--content">Altre offerte</a>
+              </div>
+      
+            
+    
+    <div id="bootstrap-panel--12--content" class="panel-body panel-collapse collapse fade">
+            
+            <div class="field field--name-dynamic-block-fieldnode-scheda-cds-elenco-cdsi field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-w4-cdsi view-id-w4_cdsi view-display-id-block_12 js-view-dom-id-5857134f43f2d681e861e9195119ef4a7fd69cc517d6dcc506e808eb1210dca9">
+  
+    
+      
+      <div class="view-content">
+          <div class="area-"><div class="view view-w4-cdsi view-id-w4_cdsi view-display-id-block_11 js-view-dom-id-4b2ce2e3cdd92017f132084c2c466c09ab34ae6e02245d30fb2905eaad19f921">
+  
+    
+      
+      <div class="view-content">
+        <h3>A.A. 2026/2027</h3>
+    <div class="views-row"><div class="views-field views-field-title-1"><span class="field-content"><a href="/it/corsi/altre_offerte/aa-2026/2027/sicurezza-informatica-e-intelligenza-artificiale-l-31-immatricolati-dallaa-2026/2027" hreflang="it">Sicurezza informatica e intelligenza artificiale (L-31)-immatricolati dall&#039;a.a. 2026/2027</a> [FAOof1 2027]</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+          </div>
+  
+    
+</div>
+
+  </div>
+  
+</div>
+
+
+<section id="block-cookiesui" class="block block-cookies block-cookies-ui-block clearfix">
+  
+    
+
+        
+<div id="cookiesjsr"></div>
+
+  </section>
+
+
+  </div>
+
+              </section>
+
+                </div>
+  </div>
+
+      <footer class="footer full-width">
+      <div class="container">
+          <div class="region region-footer">
+    <nav role="navigation" aria-labelledby="block-piedipagina-menu" id="block-piedipagina" class="col-sm-3 top10">
+      
+  <h2 id="block-piedipagina-menu">Strutture</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/corsi/facolta-e-scuole" data-drupal-link-system-path="node/710">Facoltà e scuole</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/dipartimenti" title="Tutti i dipartimenti" data-drupal-link-system-path="node/558">Dipartimenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/uffici-e-strutture/sedi" data-drupal-link-system-path="node/553">Sedi</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/uffici-e-strutture" data-drupal-link-system-path="node/1218">Uffici</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-3-menu" id="block-piedipagina-3" class="col-sm-3 block-servizi top10">
+      
+  <h2 id="block-piedipagina-3-menu">Servizi</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/studiare/servizi-gli-studenti/segreterie-informastudenti" data-drupal-link-system-path="node/359">Segreterie studenti</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/biblioteche" data-drupal-link-system-path="node/464">Servizio bibliotecario</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-studenti-con-disabilita" title="Servizi di orientamento, accoglienza, supporto allo studio e alla mobilità" data-drupal-link-system-path="node/35900">Servizi per studenti con disabilità</a>
+              </li>
+                      <li>
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-studenti-con-dsa" title="Servizi per studenti con Disturbi Specifici dell&#039;Apprendimento" data-drupal-link-system-path="node/35899">Servizi per studenti con DSA</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/studiare/servizi-gli-studenti/servizi-tecnologici-e-online" data-drupal-link-system-path="node/393">Servizi tecnologici</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-4-menu" id="block-piedipagina-4" class="col-sm-3 top10">
+      
+  <h2 id="block-piedipagina-4-menu">Concorsi, selezioni e gare</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-professori" data-drupal-link-system-path="node/577">Professori </a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-ricercatori" data-drupal-link-system-path="node/12942">Ricercatori</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/reclutamento-personale-tecnico-amministrativo" title="Bandi PTAB" data-drupal-link-system-path="node/576">Tecnici amministrativi e bibliotecari</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/lavora-con-noi/consulenze-e-collaborazioni" data-drupal-link-system-path="node/500">Consulenze e collaborazioni</a>
+              </li>
+                      <li>
+                                        <a href="/it/ricerca/fare-ricerca-da-noi/incarichi-di-ricerca/bandi-incarichi-di-ricerca" title="Bandi incarichi di ricerca" data-drupal-link-system-path="node/53011">Incarichi di ricerca</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/ateneo/bandi-di-gare-e-contratti" title="Bandi di gara e contratti" data-drupal-link-system-path="node/1227">Gare e contratti</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-2-menu" id="block-piedipagina-2" class="col-sm-3 buttonlist block-comefareper">
+            
+  <h2 class="visually-hidden" id="block-piedipagina-2-menu">Come fare per</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/corsi/orientarsi-e-scegliere" data-drupal-link-system-path="node/727">Orientarsi e scegliere</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti" data-drupal-link-system-path="node/13275">Contattare l&#039;Università</a>
+              </li>
+                      <li>
+                                        <a href="/it/cerca/contatti/fai-sentire-la-tua-voce" title="Fai sentire la tua voce" data-drupal-link-system-path="node/54275">Fai sentire la tua voce</a>
+              </li>
+                      <li>
+                                        <a href="/it/ateneo/fundraising" data-drupal-link-system-path="node/1223">Fundraising</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/studiare/vivere-luniversita/unimi-store-il-merchandising-delluniversita-degli-studi-di-milano" title="Unimi Store" data-drupal-link-system-path="node/45180">Unimi Store</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-piedipagina-5-menu" id="block-piedipagina-5" class="col-sm-12 col-md-12 col-lg-12 links_list_inline block-menu-footer">
+            
+  <h2 class="visually-hidden" id="block-piedipagina-5-menu">footer</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/it/ateneo/amministrazione-trasparente" data-drupal-link-system-path="node/12893">Amministrazione trasparente</a>
+              </li>
+                      <li>
+                                        <a href="https://form.agid.gov.it/view/b6345040-993a-11f0-b789-d70c35e61f53" title="Dichiarazione di accessibilità">Dichiarazione di accessibilità</a>
+              </li>
+                      <li>
+                                        <a href="/it/privacy-e-cookie" data-drupal-link-system-path="node/7393">Privacy e cookie</a>
+              </li>
+                      <li>
+                                        <a href="#editCookieSettings">Cookie settings</a>
+              </li>
+                      <li>
+                                        <a href="/it/note-legali" data-drupal-link-system-path="node/7394">Note legali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/sitemap" data-drupal-link-system-path="sitemap">Mappa del sito</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-footertext" class="col-sm-4 col-lg-3 block-footertext block block-block-content block-block-content5af82d4a-b448-4107-a29a-5bfa144da5b5 clearfix">
+  
+    
+
+      
+  <div class="field field--name-field-testo field--type-text-long field--label-visually_hidden">
+    <div class="field--label sr-only">Testo</div>
+              <div class="field--item"><p>Università degli Studi di Milano<br>
+Via Festa del Perdono 7 - 20122 Milano<br>
+<a href="tel:+390250325032">Tel: +39 02 5032 5032</a><br>
+<a href="https://informastudenti.unimi.it/saw/ess?AUTH=SAML">InformaStudenti</a><br>
+<a href="/posta-elettronica-certificata-pec">Posta Elettronica Certificata</a><br>
+C.F. 80012650158 - P.I. 03064870151<br>
+<a href="https://www.registrolei.it/leicert/?lei=9845000B7798E81BEB72">Codice LEI</a><br>
+©Copyright 2025</p></div>
+          </div>
+
+  </section>
+
+<nav role="navigation" aria-labelledby="block-social-menu" id="block-social" class="col-sm-5 col-lg-6 links_list_inline block-social">
+            
+  <h2 class="visually-hidden" id="block-social-menu">social</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="https://lastatalenews.unimi.it/" title="News">News</a>
+              </li>
+                      <li>
+                                        <a href="https://video.unimi.it/" title="PortaleVideo">PortaleVideo</a>
+              </li>
+                      <li>
+                                        <a href="https://www.facebook.com/laStatale/" title="facebook">facebook</a>
+              </li>
+                      <li>
+                                        <a href="https://www.instagram.com/lastatale_milano_official/" title="Instagram">Instagram</a>
+              </li>
+                      <li>
+                                        <a href="http://twitter.com/LaStatale" title="twitter">twitter</a>
+              </li>
+                      <li>
+                                        <a href="https://www.youtube.com/user/UnimiVideo" title="youtube">youtube</a>
+              </li>
+                      <li>
+                                        <a href="https://www.linkedin.com/school/university-of-milan" title="linkedin">linkedin</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.spreaker.com/user/16503036" title="LaStatale podcast">LaStatale podcast</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-logofooter" class="col-sm-3 col-lg-3 block-logofooter block block-block-content block-block-content2c04e5b1-54ed-4593-a8b3-db0218705c4d clearfix">
+  
+    
+
+      
+  <div class="field field--name-field-logo field--type-entity-reference field--label-visually_hidden">
+    <div class="field--label sr-only">Logo</div>
+              <div class="field--item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+          
+              <img loading="lazy" src="/sites/default/files/2019-05/LogoFooter_a9f0c3692bf29c71609e5f204522c5d4_0.png" width="488" height="164" alt="Università degli Studi di Milano" class="img-responsive rs_skip" />
+
+
+      
+  
+
+
+    </div>
+  </div>
+
+</div>
+          </div>
+
+  </section>
+
+
+  </div>
+
+      </div>
+    </footer>
+  
+
+
+  </div>
+
+    
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/sites/default/files/js/js_Hfl5TWGPoiw8m71d7OKJb2ZY2E6075w3f6a1Dy-5PaI.js?scope=footer&amp;delta=0&amp;language=it&amp;theme=unimi&amp;include=eJxdj_2SgzAIxF8olUfKrIaztIlkSLRnn_5s_bjaf4D9MeywbcRzpla0wQ2_rlWtpRoyHZPPxl4GqR_LrFkntg9SVWOV7DrVu3Chrd-KNV0Ydux_JFY2Ostj24MwIM5VuvIPK3p6lYUYU7AxIzadxohc-ASXl5ZTxEtFW1yv2kf2x_mXXgOfYHLjEiLxMNI-uHGQJIRs0l1lDLKBI_mmc8TM5o2LPHljxgglM-5LxJV8uT4gPqFqUjfBWhT2iYOAdjVJYPWrt5uEH4Xe9f37H9XMrbI"></script>
+<script src="https://cdn.jsdelivr.net/gh/jfeltkamp/cookiesjsr@1/dist/cookiesjsr-preloader.min.js" defer></script>
+<script src="/sites/default/files/js/js_ZsyWzDxLX0OwMesgXZHsDeMoCWZl-EQtw1NZwgt5HiM.js?scope=footer&amp;delta=2&amp;language=it&amp;theme=unimi&amp;include=eJxdj_2SgzAIxF8olUfKrIaztIlkSLRnn_5s_bjaf4D9MeywbcRzpla0wQ2_rlWtpRoyHZPPxl4GqR_LrFkntg9SVWOV7DrVu3Chrd-KNV0Ydux_JFY2Ostj24MwIM5VuvIPK3p6lYUYU7AxIzadxohc-ASXl5ZTxEtFW1yv2kf2x_mXXgOfYHLjEiLxMNI-uHGQJIRs0l1lDLKBI_mmc8TM5o2LPHljxgglM-5LxJV8uT4gPqFqUjfBWhT2iYOAdjVJYPWrt5uEH4Xe9f37H9XMrbI"></script>
+<script src="/modules/contrib/google_tag/js/gtag.ajax.js?tlncrt" type="text/plain" id="cookies_gtag_gtag_ajax" data-cookieconsent="gtag"></script>
+<script src="/sites/default/files/js/js_b7BfUUjgyYWkyFMv1SIp5qp0Pkr3ZlhX5WqmES1qwJM.js?scope=footer&amp;delta=4&amp;language=it&amp;theme=unimi&amp;include=eJxdj_2SgzAIxF8olUfKrIaztIlkSLRnn_5s_bjaf4D9MeywbcRzpla0wQ2_rlWtpRoyHZPPxl4GqR_LrFkntg9SVWOV7DrVu3Chrd-KNV0Ydux_JFY2Ostj24MwIM5VuvIPK3p6lYUYU7AxIzadxohc-ASXl5ZTxEtFW1yv2kf2x_mXXgOfYHLjEiLxMNI-uHGQJIRs0l1lDLKBI_mmc8TM5o2LPHljxgglM-5LxJV8uT4gPqFqUjfBWhT2iYOAdjVJYPWrt5uEH4Xe9f37H9XMrbI"></script>
+
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"55deaaaf42984e8db8c703ed1c4d39a5","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

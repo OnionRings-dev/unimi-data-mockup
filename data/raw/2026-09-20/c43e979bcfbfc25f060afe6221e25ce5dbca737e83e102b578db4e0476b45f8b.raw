@@ -1,0 +1,3291 @@
+<!DOCTYPE html>
+<html  lang="it" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="unimi-published" content="2019/04/17" />
+<meta name="unimi-last-modified" content="2019/04/17" />
+<link rel="icon" href="/sites/lf63/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="it" href="https://fisica.cdl.unimi.it/it/insegnamenti/piano-didattico" />
+<link rel="alternate" hreflang="en" href="https://fisica.cdl.unimi.it/en/courses/educational-plan" />
+<link rel="canonical" href="https://fisica.cdl.unimi.it/it/insegnamenti/piano-didattico" />
+<link rel="shortlink" href="https://fisica.cdl.unimi.it/it/insegnamenti/piano-didattico" />
+
+    <title>Piano didattico | Fisica | Università degli Studi di Milano Statale</title>
+    <link rel="stylesheet" media="all" href="/sites/lf63/files/css/css_Qx5tk3VPlmeCSAQuCq_tmVzmO67i5eVObL0SBv9b3aY.css?delta=0&amp;language=it&amp;theme=unimicdl&amp;include=eJyVk-tyhCAMhV8I5ZGcIFHpBsIQ0LVPX1zdSzvtuP2DOck3IcjBYM6YOrxGFrTd4KhK0SMGTEDKEHyu2oCgMsxZcoLYRUgw1mAS_Ug2z-QfZGx6puKDqH6qewVtU4lA7a6OZEfO6D1se6ko88Wh6OP7IamVvBJulYT3FvABVzVwyLCgsEf9ErcLmk1KaxIEK-dcXySzP-ds4cwBz8GEYyFI56BMkCK5ccpvsv_rLEzOvsG-h-XJBeUMJhOrffKvVmhq4RsTm7zwwwgEK5fcWSc9z5hWXX9nrakX2xw3_My0JcRiyMmEVpWR595Sx4MeiU01bKHsPIaieRh6CDPU8_RAWGd9lOTiQm3jvFO39Tn6oQ-3Hep23CPed2k2D7owHsl7413WeX5iM6TtCXUerYPa3XsOana4iL6trWdbCL8AzL5nZQ" />
+<link rel="stylesheet" media="all" href="/modules/contrib/bootstrap_paragraphs/css/bootstrap-paragraphs-columns.min.css?tlmwcf" />
+<link rel="stylesheet" media="all" href="/sites/lf63/files/css/css_EWmRcrZTCBpIr6fvUGicUzsEvcLrIe7sdLxZwGPHJqY.css?delta=2&amp;language=it&amp;theme=unimicdl&amp;include=eJyVk-tyhCAMhV8I5ZGcIFHpBsIQ0LVPX1zdSzvtuP2DOck3IcjBYM6YOrxGFrTd4KhK0SMGTEDKEHyu2oCgMsxZcoLYRUgw1mAS_Ug2z-QfZGx6puKDqH6qewVtU4lA7a6OZEfO6D1se6ko88Wh6OP7IamVvBJulYT3FvABVzVwyLCgsEf9ErcLmk1KaxIEK-dcXySzP-ds4cwBz8GEYyFI56BMkCK5ccpvsv_rLEzOvsG-h-XJBeUMJhOrffKvVmhq4RsTm7zwwwgEK5fcWSc9z5hWXX9nrakX2xw3_My0JcRiyMmEVpWR595Sx4MeiU01bKHsPIaieRh6CDPU8_RAWGd9lOTiQm3jvFO39Tn6oQ-3Hep23CPed2k2D7owHsl7413WeX5iM6TtCXUerYPa3XsOana4iL6trWdbCL8AzL5nZQ" />
+<link rel="stylesheet" media="all" href="/modules/custom/iberbp_ext/css/bootstrap-paragraphs-two-columns.css?tlmwcf" />
+<link rel="stylesheet" media="all" href="/sites/lf63/files/css/css_HGrymeR3kXaBTTrH1hgefln80hbL9HgrvcU6eO5Fdmw.css?delta=4&amp;language=it&amp;theme=unimicdl&amp;include=eJyVk-tyhCAMhV8I5ZGcIFHpBsIQ0LVPX1zdSzvtuP2DOck3IcjBYM6YOrxGFrTd4KhK0SMGTEDKEHyu2oCgMsxZcoLYRUgw1mAS_Ug2z-QfZGx6puKDqH6qewVtU4lA7a6OZEfO6D1se6ko88Wh6OP7IamVvBJulYT3FvABVzVwyLCgsEf9ErcLmk1KaxIEK-dcXySzP-ds4cwBz8GEYyFI56BMkCK5ccpvsv_rLEzOvsG-h-XJBeUMJhOrffKvVmhq4RsTm7zwwwgEK5fcWSc9z5hWXX9nrakX2xw3_My0JcRiyMmEVpWR595Sx4MeiU01bKHsPIaieRh6CDPU8_RAWGd9lOTiQm3jvFO39Tn6oQ-3Hep23CPed2k2D7owHsl7413WeX5iM6TtCXUerYPa3XsOana4iL6trWdbCL8AzL5nZQ" />
+<link rel="stylesheet" media="all" href="/sites/lf63/files/css/css_9PSNN2hXY_IqKgTEkGsjNXsa_49igozCD5w42cns2QI.css?delta=5&amp;language=it&amp;theme=unimicdl&amp;include=eJyVk-tyhCAMhV8I5ZGcIFHpBsIQ0LVPX1zdSzvtuP2DOck3IcjBYM6YOrxGFrTd4KhK0SMGTEDKEHyu2oCgMsxZcoLYRUgw1mAS_Ug2z-QfZGx6puKDqH6qewVtU4lA7a6OZEfO6D1se6ko88Wh6OP7IamVvBJulYT3FvABVzVwyLCgsEf9ErcLmk1KaxIEK-dcXySzP-ds4cwBz8GEYyFI56BMkCK5ccpvsv_rLEzOvsG-h-XJBeUMJhOrffKvVmhq4RsTm7zwwwgEK5fcWSc9z5hWXX9nrakX2xw3_My0JcRiyMmEVpWR595Sx4MeiU01bKHsPIaieRh6CDPU8_RAWGd9lOTiQm3jvFO39Tn6oQ-3Hep23CPed2k2D7owHsl7413WeX5iM6TtCXUerYPa3XsOana4iL6trWdbCL8AzL5nZQ" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"it\/","currentPath":"node\/13127","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"it"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyVVG1y6yAMvBAxR2IEyFgtIAZB0vT0j8SO43baSd8f0K5WfC5YbA2rwY_Cgt7MFAcUHTBjhahshM-rtsQTvMGHssxNWoWi98iUioYytUOycOEzVnUQQYUwgkWelacn-YuynBzHnrIot4zlZb12k8X5wfjaC8RpRRtpItmH1MkoZn4nFL31b1In5_NPtLRrxL3ABNCQIV4buQPZIOhbo2bODS4onFAf4umC9gZlshWyl9c616Vxeq3znRtnfC2sGHqE-looC9QSKSztj9r_G1k4kv-D9m-ytlBWgTlENPslfMOrT7-QSZHFasswefvRfaeR-KIpp3bh3XsRrtyb8STu5uqrHlcwcurg1M2FT2bquXQbSRb0qgc-Ox8NzzpEtuNZ9dgoYe56TFdBnniBZHsN4-3sFM-zg3yGcUwOIo4j2FPyTnnMRInUvdVQKrmFun8Q-3Y3vJl4Q_dj3eJ1ZafbC6AcNrKMvY_foaLQJ27cY_YNXoBMgmFfXomx0e9jnaFaEDQJPcFYQkqc1ZnwIvrernd2JBL7HvEfVmrRww","theme":"unimicdl","theme_token":null},"ajaxTrustedUrl":{"\/it\/insegnamenti\/piano-didattico":true},"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"google\nnonGooglePixels\nnonGoogleScripts\nnonGoogleIframes","blocklist_classes":"customScripts\ncustomPixels","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-NFTD23J"]},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click"},"cookies":{"cookiesjsr":{"config":{"cookie":{"name":"cookiesjsr","expires":15552000000,"domain":"","sameSite":"Lax","secure":false},"library":{"libBasePath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist","libPath":"https:\/\/cdn.jsdelivr.net\/gh\/jfeltkamp\/cookiesjsr@1\/dist\/cookiesjsr.min.js","scrollLimit":0},"callback":{"method":"post","url":"\/it\/cookies\/consent\/callback.json","headers":[]},"interface":{"openSettingsHash":"#editCookieSettings","showDenyAll":true,"denyAllOnLayerClose":false,"settingsAsLink":false,"availableLangs":["it","en"],"defaultLang":"it","groupConsent":false,"cookieDocs":true}},"services":{"functional":{"id":"functional","services":[{"key":"functional","type":"functional","name":"Required functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EDefault expiration time\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EDescription\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 month\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EIf you are logged in to this website, a session cookie is required to identify and connect your browser to your user account in the server backend of this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 year\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWhen you visited this website for the first time, you were asked for your permission to use several services (including those from third parties) that require data to be saved in your browser (cookies, local storage). Your decisions about each service (allow, deny) are stored in this cookie and are reused each time you visit this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"full_html"},"uri":"","needConsent":false}],"weight":1},"tracking":{"id":"tracking","services":[{"key":"analytics","type":"tracking","name":"Google Analytics","info":{"value":"","format":"full_html"},"uri":"","needConsent":true},{"key":"matomo","type":"tracking","name":"Matomo","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"new_relic","type":"tracking","name":"New Relic","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true}],"weight":10},"performance":{"id":"performance","services":[{"key":"gtag","type":"performance","name":"Google Tag Manager","info":{"value":"","format":"full_html"},"uri":"","needConsent":true},{"key":"infogram","type":"performance","name":"Infogram","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"microsoft_power_bi","type":"performance","name":"Microsoft Power BI","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true},{"key":"openstreetmap","type":"performance","name":"OpenStreetMap","info":{"value":"","format":"basic_html"},"uri":"","needConsent":true}],"weight":30},"video":{"id":"video","services":[{"key":"video","type":"video","name":"Video forniti da YouTube, Vimeo","info":{"value":"","format":"full_html"},"uri":"","needConsent":true}],"weight":40}},"translation":{"_core":{"default_config_hash":"r0JMDv27tTPrhzD4ypdLS0Jijl0-ccTUdlBkqvbAa8A"},"langcode":"it","bannerText":"Questo sito utilizza cookie tecnici e di profilazione, propri e di terze parti, per garantire la corretta navigazione, analizzare il traffico e misurare l\u0027efficacia delle attivit\u00e0 di comunicazione istituzionale.\r\nSe prosegui la navigazione o clicchi su \u0022Accetta tutti\u0022 ne acconsenti l\u0027utilizzo, oppure puoi personalizzare la scelta salvando le tue preferenze e scegliendo quali cookie attivare.\r\nPer maggiori informazioni e per sapere come gestirli clicca sul bottone \u0022Impostazione dei cookie\u0022.","privacyPolicy":"Privacy policy","privacyUri":"https:\/\/www.unimi.it\/it\/ateneo\/normative\/privacy","imprint":"Imprint","imprintUri":"","cookieDocs":"Documentazione cookie","cookieDocsUri":"https:\/\/www.unimi.it\/it\/privacy-e-cookie","officialWebsite":"Vai al sito web ufficiale","denyAll":"Rifiuta tutti","alwaysActive":"Sempre Attivo","settings":"Impostazione dei cookie","acceptAll":"Accetta tutti","requiredCookies":"Cookie necessari","cookieSettings":"Impostazione dei cookie","close":"Chiudi","readMore":"Leggi tutto","allowed":"Consentito","denied":"negato","settingsAllServices":"Impostazioni per tutti i servizi di cookie","saveSettings":"Salva le impostazioni","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Azienda","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies","\ufefflangcode":"it","functional":{"title":"Functional","details":"I cookie sono piccoli file di testo che il Sito invia al terminale dell\u0027utente, dove sono memorizzati per poi essere ritrasmessi al sito alla visita successiva. "},"tracking":{"title":"Cookie di tracciamento","details":"L\u0027utilizzo dei cookie di tracciamento in forma anonima consente la raccolta dei dati in merito alla navigazione delle pagine di questo sito web. In questa maniera ci aiuti a migliorare l\u0027esperienza utente del sito web. "},"performance":{"title":"Cookie di prestazione","details":"Utilizziamo alcune funzionalit\u00e0 fornite da altre organizzazioni (\u201cTerze parti\u201d) per migliorare l\u2019esperienza di navigazione degli utenti. "},"video":{"title":"Video","details":"I servizi di condivisione video aiutano il sito ad essere maggiormente fruibile e aumentano la visibilit\u00e0. "}}},"cookiesTexts":{"_core":{"default_config_hash":"r0JMDv27tTPrhzD4ypdLS0Jijl0-ccTUdlBkqvbAa8A"},"langcode":"it","bannerText":"Questo sito utilizza cookie tecnici e di profilazione, propri e di terze parti, per garantire la corretta navigazione, analizzare il traffico e misurare l\u0027efficacia delle attivit\u00e0 di comunicazione istituzionale.\r\nSe prosegui la navigazione o clicchi su \u0022Accetta tutti\u0022 ne acconsenti l\u0027utilizzo, oppure puoi personalizzare la scelta salvando le tue preferenze e scegliendo quali cookie attivare.\r\nPer maggiori informazioni e per sapere come gestirli clicca sul bottone \u0022Impostazione dei cookie\u0022.","privacyPolicy":"Privacy policy","privacyUri":"https:\/\/www.unimi.it\/it\/ateneo\/normative\/privacy","imprint":"Imprint","imprintUri":"","cookieDocs":"Documentazione cookie","cookieDocsUri":"https:\/\/www.unimi.it\/it\/privacy-e-cookie","officialWebsite":"Vai al sito web ufficiale","denyAll":"Rifiuta tutti","alwaysActive":"Sempre Attivo","settings":"Impostazione dei cookie","acceptAll":"Accetta tutti","requiredCookies":"Cookie necessari","cookieSettings":"Impostazione dei cookie","close":"Chiudi","readMore":"Leggi tutto","allowed":"Consentito","denied":"negato","settingsAllServices":"Impostazioni per tutti i servizi di cookie","saveSettings":"Salva le impostazioni","default_langcode":"en","disclaimerText":"All cookie information is subject to change by the service providers. We update this information regularly.","disclaimerTextPosition":"above","processorDetailsLabel":"Processor Company Details","processorLabel":"Azienda","processorWebsiteUrlLabel":"Company Website","processorPrivacyPolicyUrlLabel":"Company Privacy Policy","processorCookiePolicyUrlLabel":"Company Cookie Policy","processorContactLabel":"Data Protection Contact Details","placeholderAcceptAllText":"Accept All Cookies","\ufefflangcode":"it"},"services":{"analytics":{"uuid":"c5b48f98-4594-4abe-9e51-7196ff617abf","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_ga"]}},"_core":{"default_config_hash":"aYbFdFXbVPCH9Lp3OmPtEGUPT48_WuWxK8pzqzYTUj4"},"id":"analytics","label":"Google Analytics","group":"tracking","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because google analytics cookies have not been accepted.","placeholderAcceptText":"Only accept google analytics cookies"},"functional":{"uuid":"2f94ae9c-e160-4ef1-8ed5-54e14bd5115a","langcode":"it","status":true,"dependencies":[],"id":"functional","label":"Required functional","group":"functional","info":{"value":"\u003Ctable\u003E\r\n\t\u003Cthead\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003ECookie name\u003C\/th\u003E\r\n\t\t\t\u003Cth width=\u002215%\u0022\u003EDefault expiration time\u003C\/th\u003E\r\n\t\t\t\u003Cth\u003EDescription\u003C\/th\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/thead\u003E\r\n\t\u003Ctbody\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003ESSESS\u0026lt;ID\u0026gt;\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 month\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EIf you are logged in to this website, a session cookie is required to identify and connect your browser to your user account in the server backend of this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\t\u003Ctr\u003E\r\n\t\t\t\u003Ctd\u003E\u003Ccode dir=\u0022ltr\u0022 translate=\u0022no\u0022\u003Ecookiesjsr\u003C\/code\u003E\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003E1 year\u003C\/td\u003E\r\n\t\t\t\u003Ctd\u003EWhen you visited this website for the first time, you were asked for your permission to use several services (including those from third parties) that require data to be saved in your browser (cookies, local storage). Your decisions about each service (allow, deny) are stored in this cookie and are reused each time you visit this website.\u003C\/td\u003E\r\n\t\t\u003C\/tr\u003E\r\n\t\u003C\/tbody\u003E\r\n\u003C\/table\u003E\r\n","format":"full_html"},"consentRequired":false,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because required functional cookies have not been accepted.","placeholderAcceptText":"Only accept required functional cookies"},"gtag":{"uuid":"99442860-b299-4298-98fb-683c4ec4b18e","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_gtag"]}},"_core":{"default_config_hash":"IyQS406QuLa6fAnbDgux4OI6Y6fsu_-J_bZDtoXExEI"},"id":"gtag","label":"Google Tag Manager","group":"performance","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because google tag manager cookies have not been accepted.","placeholderAcceptText":"Only accept google tag manager cookies"},"infogram":{"uuid":"01e0fda6-b28e-4f08-b274-c4ee69874e56","langcode":"it","status":true,"dependencies":[],"id":"infogram","label":"Infogram","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because infogram cookies have not been accepted.","placeholderAcceptText":"Only accept infogram cookies"},"matomo":{"uuid":"4cf9a0e1-584f-4092-9392-79cd10aa5a71","langcode":"it","status":true,"dependencies":[],"id":"matomo","label":"Matomo","group":"tracking","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because matomo cookies have not been accepted.","placeholderAcceptText":"Only accept matomo cookies"},"microsoft_power_bi":{"uuid":"a792a2f0-cfd6-4c97-a2e5-42f9e247dc73","langcode":"it","status":true,"dependencies":[],"id":"microsoft_power_bi","label":"Microsoft Power BI","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because microsoft power bi cookies have not been accepted.","placeholderAcceptText":"Only accept microsoft power bi cookies"},"new_relic":{"uuid":"391aaeea-ca96-4420-9185-71611ecffc6b","langcode":"it","status":true,"dependencies":[],"id":"new_relic","label":"New Relic","group":"tracking","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because new relic cookies have not been accepted.","placeholderAcceptText":"Only accept new relic cookies"},"openstreetmap":{"uuid":"db333e56-f032-494c-9518-7f8c0a91bb2c","langcode":"it","status":true,"dependencies":[],"id":"openstreetmap","label":"OpenStreetMap","group":"performance","info":{"value":"","format":"basic_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because openstreetmap cookies have not been accepted.","placeholderAcceptText":"Only accept openstreetmap cookies"},"video":{"uuid":"f1f8f64b-cea0-43e8-b0b2-9966a58c00c5","langcode":"it","status":true,"dependencies":{"enforced":{"module":["cookies_video"]}},"_core":{"default_config_hash":"MJL9EOZszmZMiNnJZL1uau0Vw_-w5cJON2cTornaww8"},"id":"video","label":"Video forniti da YouTube, Vimeo","group":"video","info":{"value":"","format":"full_html"},"consentRequired":true,"purpose":"","processor":"","processorContact":"","processorUrl":"","processorPrivacyPolicyUrl":"","processorCookiePolicyUrl":"","placeholderMainText":"This content is blocked because video forniti da youtube, vimeo cookies have not been accepted.","placeholderAcceptText":"Only accept video forniti da youtube, vimeo cookies"}},"groups":{"functional":{"uuid":"51d5f45c-a706-40ef-8863-8b128ea4274f","langcode":"it","status":true,"dependencies":[],"id":"functional","label":"Functional","weight":1,"title":"Functional","details":"I cookie sono piccoli file di testo che il Sito invia al terminale dell\u0027utente, dove sono memorizzati per poi essere ritrasmessi al sito alla visita successiva. "},"performance":{"uuid":"edc2709d-a7bc-46c0-9776-302319f9d4b5","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"Jv3uIJviBj7D282Qu1ZpEQwuOEb3lCcDvx-XVHeOJpw"},"id":"performance","label":"Performance","weight":30,"title":"Cookie di prestazione","details":"Utilizziamo alcune funzionalit\u00e0 fornite da altre organizzazioni (\u201cTerze parti\u201d) per migliorare l\u2019esperienza di navigazione degli utenti. "},"social":{"uuid":"4590eff9-817c-4ca9-a7f4-2842663d07ca","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"vog2tbqqQHjVkue0anA0RwlzvOTPNTvP7_JjJxRMVAQ"},"id":"social","label":"Social Plugins","weight":20,"title":"Social Plugins","details":"Comments managers facilitate the filing of comments and fight against spam."},"tracking":{"uuid":"f777469b-9969-4e77-b50d-78c76ff1222f","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"_gYDe3qoEc6L5uYR6zhu5V-3ARLlyis9gl1diq7Tnf4"},"id":"tracking","label":"Tracking","weight":10,"title":"Cookie di tracciamento","details":"L\u0027utilizzo dei cookie di tracciamento in forma anonima consente la raccolta dei dati in merito alla navigazione delle pagine di questo sito web. In questa maniera ci aiuti a migliorare l\u0027esperienza utente del sito web. "},"video":{"uuid":"191fea3c-999d-4649-8491-2749f02fcbc5","langcode":"it","status":true,"dependencies":[],"_core":{"default_config_hash":"w1WnCmP2Xfgx24xbx5u9T27XLF_ZFw5R0MlO-eDDPpQ"},"id":"video","label":"Video","weight":40,"title":"Video","details":"I servizi di condivisione video aiutano il sito ad essere maggiormente fruibile e aumentano la visibilit\u00e0. "}}},"views":{"ajax_path":"\/it\/views\/ajax","ajaxViews":{"views_dom_id:5a84096739252f0075aaedf2bf2d581946a2cb0a5a2a033cd51ff090c0840c9e":{"view_name":"w4_cdl_cdsi","view_display_id":"block_7","view_args":"cdsi20270000fanof2","view_path":"\/node\/13127","view_base_path":null,"view_dom_id":"5a84096739252f0075aaedf2bf2d581946a2cb0a5a2a033cd51ff090c0840c9e","pager_element":0}}},"chosen":{"selector":"select:visible","minimum_single":20,"minimum_multiple":20,"minimum_width":0,"use_relative_width":false,"options":{"disable_search":false,"disable_search_threshold":0,"allow_single_deselect":false,"add_helper_buttons":false,"search_contains":true,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","max_shown_results":null,"inherit_select_classes":true}},"ultimenu":{"canvasOff":"#header","canvasOn":"#main-wrapper, .featured-top, .site-footer"},"user":{"uid":0,"permissionsHash":"5467bd45c64543ad94320017047bd0eb054413a76e9d3e9e894bcb5e2df41eee"}}</script>
+<script src="/sites/lf63/files/js/js_htuRTsWmUAE9raFpowLkm2T8kZWXq3rQFLSSL5SGwig.js?scope=header&amp;delta=0&amp;language=it&amp;theme=unimicdl&amp;include=eJx1kGFuwzAIhS9khSNZ2KEunW0sjNump1_WpNlWqX_gvQ_pCQhkRurp3qTT7E-cV9shUSXF7ELGxwKBZcIL3l0QsW6KDQ7lm5LnyvZn2KTJldTF8xpaYWtToNOLzDoa5mlzLop8MXXY-6XrFOcD-4SAFfNiHPsvNEzwU1wSSZn8J78t_g8WN7JxoTrgJdyoXBiwKcczj5l3cNy0-5ZxWd-l1PlBO3vLuCH7giZF3JXp1uFZn2t8AznxjsQ"></script>
+<script src="/modules/contrib/cookies/js/cookiesjsr.conf.js?v=10.5.1" defer></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?tlmwcf" type="text/plain" id="cookies_gtag_gtag" data-cookieconsent="gtag"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?tlmwcf" type="text/plain" id="cookies_gtag_gtm" data-cookieconsent="gtag"></script>
+
+  </head>
+  <body class="is-ultimenu-canvas is-ultimenu-canvas--hover site-lf63 cdlarea-F cdl-FAN cdl-carat-a path-node page-node-type-page has-glyphicons cdl">
+    <div role="navigation">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Salta al contenuto principale
+    </a>
+    </div>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NFTD23J"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+              <header class="navbar navbar-default container" id="navbar">
+            <div class="navbar-header-top full-width">
+      <div class="container pad0">
+        <div class="arealogo"></div>
+        <div class="views-element-container form-group"><div class="view view-cdl view-id-cdl view-display-id-testata js-view-dom-id-11e8bdd3a3f7250fe1d439830abaede39c7a4271f1658bf0b3fef8c21695ab9b">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><div class="sitename">
+           <div class="cdlname"><a href="/it" title="Home page">Fisica</a></div>
+           <div class="cdltype">Laurea triennale</div>
+        </div></span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+<div class="unimilogo"><a href="//www.unimi.it" title="vai al sito dell'Università degli Studi di Milano"><img src="/themes/custom/unimicdl/logo.png" alt="Università degli Studi di Milano - La Statale" /></a></div>
+           <div class="region region-navigation-top">
+    <nav role="navigation" aria-labelledby="block-unimicdl-profili-menu" id="block-unimicdl-profili" class="navbar-profili menu_right hidden-xs hidden-sm">
+            
+  <h2 class="visually-hidden" id="block-unimicdl-profili-menu">Profili</h2>
+  
+
+        
+      <ul class="menu menu--profili nav">
+                      <li class="first">
+                                        <a href="http://unimia.unimi.it/">Unimia</a>
+              </li>
+                      <li>
+                                        <a href="https://www.unimi.it/node/359">Segreterie</a>
+              </li>
+                      <li>
+                                        <a href="https://www.unimi.it/node/7663">Chi e Dove</a>
+              </li>
+                      <li>
+                                        <a href="https://ariel.unimi.it/">Ariel</a>
+              </li>
+                      <li>
+                                        <a href="https://mail.unimi.it/">Webmail</a>
+              </li>
+                      <li class="last">
+                                        <a href="http://www.sba.unimi.it/" title="Biblioteche">Biblioteche</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+      </div>
+      </div>
+      <div class="navbar-header">
+          <div class="region region-navigation">
+    <section id="block-unimicdl-ultimenumainnavigation" class="hidden-xs hidden-sm col-sm-12 block block-ultimenu block-ultimenu-blockultimenu-main clearfix">
+  
+    
+
+      
+<ul id="ultimenu-main" data-ultimenu="main" class="ultimenu ultimenu--hover ultimenu-- ultimenu--htb ultimenu--horizontal unimi"><li class="ultimenu__item uitem uitem--il-corso uitem--f9bf2d9b uitem--1"><a href="/it/il-corso" data-drupal-link-system-path="node/13115" title="" class="ultimenu__link">Il corso</a></li><li class="ultimenu__item uitem uitem--iscriversi uitem--99ba3d9b uitem--2"><a href="/it/iscriversi" data-drupal-link-system-path="node/13116" title="" class="ultimenu__link">Iscriversi</a></li><li class="ultimenu__item uitem is-active-trail uitem--insegnamenti uitem--4975ae3a uitem--3"><a href="/it/insegnamenti" data-drupal-link-system-path="node/13117" title="" class="ultimenu__link">Insegnamenti</a></li><li class="ultimenu__item uitem uitem--studiare uitem--9d0b2cef uitem--4"><a href="/it/studiare" data-drupal-link-system-path="node/13118" title="" class="ultimenu__link">Studiare</a></li><li class="ultimenu__item uitem uitem--dopo-la-laurea uitem--a390e978 uitem--5"><a href="/it/dopo-la-laurea" data-drupal-link-system-path="node/13119" title="" class="ultimenu__link">Dopo la laurea</a></li><li class="ultimenu__item uitem uitem--home uitem--front-page uitem--6 has-ultimenu"><a href="/it" data-drupal-link-system-path="&lt;front&gt;" title="" class="ultimenu__link">Home<span class="caret" aria-hidden="true"></span></a><section class="ultimenu__flyout is-htb"><div class="ultimenu-wrapper"><div class="container ultimenu-content"><div class="close-wrap"><a href class="close-button"><img src="/themes/custom/unimi/img/cross.svg" alt="close item"></a></div><div class="ultimenu__region region region--count-2 region-ultimenu-main-standard__front-page"><nav role="navigation" aria-labelledby="block-unimicdl-mainnavigation-menu" id="block-unimicdl-mainnavigation" class="col-sm-12"><h2 class="visually-hidden" id="block-unimicdl-mainnavigation-menu">menu</h2><ul class="menu menu--main nav"><li class="expanded dropdown"><a href="/it/il-corso">Il corso</a><ul class="dropdown-menu"><li><a href="/it/il-corso/percorso-di-eccellenza-iuss-pavia" data-drupal-link-system-path="node/13296">Percorso di eccellenza IUSS Pavia</a></li><li><a href="/it/il-corso/prospettive-e-stakeholder" data-drupal-link-system-path="node/13120">Prospettive e stakeholder</a></li><li><a href="/it/il-corso/luoghi-e-strutture" data-drupal-link-system-path="node/13121">Luoghi e strutture</a></li><li><a href="/it/il-corso/organizzazione" data-drupal-link-system-path="node/13122">Organizzazione</a></li><li><a href="/it/il-corso/docenti" data-drupal-link-system-path="node/13123">Docenti</a></li><li><a href="/it/il-corso/qualita-del-corso" data-drupal-link-system-path="node/13124">Qualità del corso</a></li><li><a href="/it/il-corso/referenti-e-contatti" data-drupal-link-system-path="node/13125">Referenti e contatti</a></li><li><a href="/it/il-corso/manifesto-e-altri-documenti" data-drupal-link-system-path="node/13243">Manifesto e altri documenti</a></li><li><a href="/it/il-corso/avvisi" data-drupal-link-system-path="node/13302">Avvisi</a></li></ul></li><li><a href="/it/iscriversi" data-drupal-link-system-path="node/13116">Iscriversi</a></li><li class="expanded dropdown active"><a href="/it/insegnamenti">Insegnamenti</a><ul class="dropdown-menu"><li class="active"><a href="/it/insegnamenti/piano-didattico" data-drupal-link-system-path="node/13127" class="is-active" aria-current="page">Piano didattico</a></li><li><a href="/it/insegnamenti/elenco-insegnamenti-z" data-drupal-link-system-path="node/13128">Elenco insegnamenti A-Z</a></li><li><a href="/it/insegnamenti/competenze-trasversali" data-drupal-link-system-path="node/13270">Competenze trasversali</a></li><li><a href="/it/insegnamenti/recupero-ofa" data-drupal-link-system-path="node/13220">Recupero OFA</a></li></ul></li><li class="expanded dropdown"><a href="/it/studiare">Studiare</a><ul class="dropdown-menu"><li><a href="/it/studiare/le-matricole" data-drupal-link-system-path="node/13129">Per le matricole</a></li><li><a href="/it/studiare/calendari-e-orari" data-drupal-link-system-path="node/13130">Calendari e orari</a></li><li><a href="/it/studiare/appelli-esame" data-drupal-link-system-path="node/13131">Appelli esame</a></li><li><a href="/it/studiare/presentazione-piano-di-studio" data-drupal-link-system-path="node/13133">Presentazione piano di studio</a></li><li><a href="/it/studiare/studiare-allestero" data-drupal-link-system-path="node/13134">Studiare all&#039;estero​</a></li><li><a href="/it/studiare/stage-e-tirocini" data-drupal-link-system-path="node/13135">Stage e tirocini</a></li><li><a href="/it/studiare/laurearsi" data-drupal-link-system-path="node/13136">Laurearsi</a></li></ul></li><li><a href="/it/dopo-la-laurea" data-drupal-link-system-path="node/13119">Dopo la laurea</a></li><li><a href="/it" data-drupal-link-system-path="&lt;front&gt;">Home</a></li></ul></nav><section id="block-unimicdl-megamenufooter-2" class="col-sm-12 mega-logo block block-block-content block-block-content4a59a823-49d1-4c08-8e2b-8558f0ed52de clearfix"><div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a class="mega-logo" href="https://www.unimi.it">Logo</a></p></div></section></div></div></div></section></li></ul><button data-ultimenu-button="#ultimenu-main" class="button button--ultimenu"
+        aria-label="Menu" value="Menu"><span class="bars">Menu</span></button>
+  </section>
+
+
+  </div>
+
+                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+              </div>
+
+                    <div id="navbar-collapse" class="navbar-collapse collapse">
+            <div class="region region-navigation-collapsible">
+    <nav role="navigation" aria-labelledby="block-unimicdl-main-menu-menu" id="block-unimicdl-main-menu" class="hidden-md hidden-lg">
+            
+  <h2 class="visually-hidden" id="block-unimicdl-main-menu-menu">Main navigation</h2>
+  
+
+        
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/it/il-corso" data-drupal-link-system-path="node/13115">Il corso</a>
+              </li>
+                      <li>
+                                        <a href="/it/iscriversi" data-drupal-link-system-path="node/13116">Iscriversi</a>
+              </li>
+                      <li class="expanded dropdown active active-trail">
+                                                                    <a href="/it/insegnamenti" class="dropdown-toggle active-trail" data-toggle="dropdown" data-drupal-link-system-path="node/13117">Insegnamenti <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="active active-trail first">
+                                        <a href="/it/insegnamenti/piano-didattico" class="active-trail is-active" data-drupal-link-system-path="node/13127" aria-current="page">Piano didattico</a>
+              </li>
+                      <li>
+                                        <a href="/it/insegnamenti/elenco-insegnamenti-z" data-drupal-link-system-path="node/13128">Elenco insegnamenti A-Z</a>
+              </li>
+                      <li>
+                                        <a href="/it/insegnamenti/competenze-trasversali" data-drupal-link-system-path="node/13270">Competenze trasversali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/insegnamenti/recupero-ofa" data-drupal-link-system-path="node/13220">Recupero OFA</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/it/studiare" data-drupal-link-system-path="node/13118">Studiare</a>
+              </li>
+                      <li>
+                                        <a href="/it/dopo-la-laurea" data-drupal-link-system-path="node/13119">Dopo la laurea</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-unimicdl-topnavbar-2-menu" id="block-unimicdl-topnavbar-2" class="hidden-md hidden-lg">
+            
+  <h2 class="visually-hidden" id="block-unimicdl-topnavbar-2-menu">Top navbar</h2>
+  
+
+        
+      <ul class="menu menu--profili nav">
+                      <li class="first">
+                                        <a href="http://unimia.unimi.it/">Unimia</a>
+              </li>
+                      <li>
+                                        <a href="https://www.unimi.it/node/359">Segreterie</a>
+              </li>
+                      <li>
+                                        <a href="https://www.unimi.it/node/7663">Chi e Dove</a>
+              </li>
+                      <li>
+                                        <a href="https://ariel.unimi.it/">Ariel</a>
+              </li>
+                      <li>
+                                        <a href="https://mail.unimi.it/">Webmail</a>
+              </li>
+                      <li class="last">
+                                        <a href="http://www.sba.unimi.it/" title="Biblioteche">Biblioteche</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+        </div>
+                </header>
+  
+  <div role="main" class="main-container container js-quickedit-main-content">
+    <div class="row">
+
+            	                        <div class="col-sm-12" >  <div class="region region-header">
+        <ol class="breadcrumb rs_skip">
+          <li >
+                  <a href="/it">Home</a>
+              </li>
+          <li >
+                  <a href="/it/insegnamenti">Insegnamenti</a>
+              </li>
+          <li  class="active">
+                  Piano didattico
+              </li>
+      </ol>
+
+<section id="block-unimicdl-entityviewcontent" class="nav-int block block-ctools block-entity-viewnode clearfix">
+  
+    
+
+      <div class="dropdown menu-figli"><a class="menu-title field-label-above dropdown-toggle" data-toggle="dropdown" href="#">Naviga questa sezione</a><div class="dropdown-menu">
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="active active-trail first">
+                                        <a href="/it/insegnamenti/piano-didattico" class="active-trail is-active" data-drupal-link-system-path="node/13127" aria-current="page">Piano didattico</a>
+              </li>
+                      <li>
+                                        <a href="/it/insegnamenti/elenco-insegnamenti-z" data-drupal-link-system-path="node/13128">Elenco insegnamenti A-Z</a>
+              </li>
+                      <li>
+                                        <a href="/it/insegnamenti/competenze-trasversali" data-drupal-link-system-path="node/13270">Competenze trasversali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/insegnamenti/recupero-ofa" data-drupal-link-system-path="node/13220">Recupero OFA</a>
+              </li>
+        </ul>
+  
+</div></div>
+
+
+  </section>
+
+
+  </div>
+</div>
+              
+            
+                  <section class="col-sm-12">
+
+                
+                                      
+                  
+                          <a id="main-content"></a>
+            <div class="region region-content">
+        <h1 class="page-header">
+<span>Piano didattico</span>
+</h1>
+
+<div data-drupal-messages-fallback class="hidden"></div>
+  <div class="row bs-1col node node--type-page node--view-mode-full">
+  
+  <div class="col-sm-12 bs-region bs-region--main">
+        
+            
+
+
+
+
+
+<div class="ds-1col clearfix">
+
+  
+
+  
+  <div class="views-element-container form-group"><div class="view view-virtualpage view-id-virtualpage view-display-id-block_3 js-view-dom-id-013fdf4d0dffaa3fd15c04fb9703483561da01bbf4698770353b9308c778db27">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-view"><span class="field-content"><div class="view view-virtualpage view-id-virtualpage view-display-id-block_1 js-view-dom-id-ce726f99d25c717ac6b360f20366c710c7f24069ecfbe3bcdd7ecb10617106b6">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><section class="node node--type-page-erogatore node--view-mode-full">
+  
+  <div>
+        
+            ﻿<div class="paragraph paragraph--type-bp-view paragraph--view-mode-default">
+  
+  <div>
+    
+            <div class="field field--name-bp-view field--type-viewsreference field--label-hidden field--item"><div class="views-element-container form-group"><div class="view view-prospect view-id-prospect view-display-id-block_14 js-view-dom-id-fa3e88bd3460e03ccfc140a50bb0c1468332470823b77a8ed160fbe89ae52e0b">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="view view-w4-cdl-cdsi view-id-w4_cdl_cdsi view-display-id-block_7 js-view-dom-id-5a84096739252f0075aaedf2bf2d581946a2cb0a5a2a033cd51ff090c0840c9e">
+  
+    
+        <div class="view-filters form-group">
+      <form class="views-exposed-form bef-exposed-form" data-drupal-selector="views-exposed-form-w4-cdl-cdsi-block-7" action="/it/insegnamenti/piano-didattico" method="get" id="views-exposed-form-w4-cdl-cdsi-block-7" accept-charset="UTF-8">
+  <div class="form--inline form-inline clearfix">
+  <div class="form-item js-form-item form-type-select js-form-type-select form-item-uof-aa-target-id js-form-item-uof-aa-target-id form-group">
+      <label for="edit-uof-aa-target-id" class="control-label">Anno accademico</label>
+  
+  
+  <div class="select-wrapper"><select data-drupal-selector="edit-uof-aa-target-id" class="form-select form-control" id="edit-uof-aa-target-id" name="uof_aa_target_id"><option
+            value="All">- Qualsiasi -</option><option
+            value="1285" selected="selected">A.A. 2026/2027</option><option
+            value="1284">A.A. 2025/2026</option><option
+            value="917">A.A. 2024/2025</option><option
+            value="915">A.A. 2023/2024</option><option
+            value="914">A.A. 2022/2023</option><option
+            value="897">A.A. 2021/2022</option></select></div>
+
+  
+  
+  </div>
+<div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><button data-drupal-selector="edit-submit-w4-cdl-cdsi" class="button js-form-submit form-submit btn-default btn" type="submit" id="edit-submit-w4-cdl-cdsi" value="Cambia Anno Accademico">Cambia Anno Accademico</button></div>
+
+</div>
+
+</form>
+
+    </div>
+    
+<!-- mostrafiltri -->
+		<div class="view-filters top20 bottom20">
+		Stai visualizzando i piani didattici e manifesti per l'A.A. 2026/2027
+	</div>
+		
+<!-- continua -->
+    <!-- rows -->
+    <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-cds-descrizione fw500"><span class="field-content">Fisica (Classe L-30 R)</span></div><div class="views-field views-field-descrizione-coorte"><span class="field-content">Immatricolati nell&#039;anno accademico 2026/2027 (FAN)</span></div><div class="views-field views-field-rendered-entity"><span class="field-content">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+            <div  class="top20 bottom20 paragraph--type--bp-links">
+        
+      <div class="bp-link bp-file"><a href="https://apps.unimi.it/files/manifesti/ita_manifesto_FANof2_2027.pdf">Manifesto degli studi [FANof2_2027]</a></div>
+      
+  
+    </div>
+
+
+            <div class="field field--name-ugovcdl-piano-didattico field--type-map field--label-hidden field--item"><div class="ugovcdl_of_pd ugovcdl_of_pd_type_3 ugovcdl_of_pd_it">
+
+<div class="accordion bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="curr-accordion">
+    <div>
+
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title" aria-expanded="false" aria-controls="curr-20270000fanof2-FAN-0" role="button" href="#curr-20270000fanof2-FAN-0">
+                  Piano didattico
+              </a>
+    </div>
+    <div id="curr-20270000fanof2-FAN-0" class="panel-collapse collapse ">
+      <div class="panel-body">
+
+                  <ul class="nav nav-tabs ugov-of-pd-years">
+            
+              <li class="active"><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000fanof2-FAN-0-0"><div>
+
+  Anno: 1
+</div>
+</a></li>
+            
+              <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000fanof2-FAN-0-1"><div>
+
+  Anno: 2
+</div>
+</a></li>
+            
+              <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000fanof2-FAN-0-2"><div>
+
+  Anno: 3
+</div>
+</a></li>
+                      </ul>
+        
+                  <div class="tab-content">
+                          <div id="ugov-of-pd-year-af-20270000fanof2-FAN-0-0" class="tab-pane fade in active">
+                
+                                  
+                                          <div class="top30 titoletto">Su più periodi</div>
+                                              <div class="top10 sottotitoletto">Queste attività sono divise su più periodi, consultare la scheda per i dettagli.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-57">Laboratorio di fisica con elementi di statistica</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">96</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-01/A PHYS-03/A</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-51">Analisi matematica 1</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MATH-03/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-61">Informatica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">INFO-01/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-60">Meccanica</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">84</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-01/A PHYS-03/A</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-50">Analisi matematica 2</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MATH-03/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-59">Geometria 1</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MATH-02/B</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-58">Onde e oscillazioni</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-01/A PHYS-03/A</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Non definito</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000b26-39">Accertamento di lingua inglese - livello b1 (3 CFU)</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">NN</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                    
+                  
+                
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000fanof2-FAN-0-1" class="tab-pane fade">
+                                  <div class="noteanno">sarà attivato dall&#039;A.A. 2027/2028</div>
+                
+                                  
+                                          <div class="top30 titoletto">annuale</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-56">Elettromagnetismo</a>
+</td>
+<td data-title="Crediti massimi">15</td>
+<td data-title="Ore totali">140</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-01/A PHYS-03/A PHYS-06/A</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-49">Analisi matematica 3</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MATH-03/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-55">Laboratorio di ottica e fisica moderna</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-01/A PHYS-03/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-70">Laboratorio di trattamento numerico dei dati sperimentali</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-01/A PHYS-03/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-53">Meccanica analitica</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MATH-04/A</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-86">Fisica quantistica (modulo 1)</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-02/A PHYS-04/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-54">Laboratorio di strumentazione elettronica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">65</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-01/A PHYS-03/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-52">Metodi matematici della fisica</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-02/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-71">Termodinamica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-01/A PHYS-03/A PHYS-06/A</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                    
+                  
+                
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000fanof2-FAN-0-2" class="tab-pane fade">
+                                  <div class="noteanno">sarà attivato dall&#039;A.A. 2028/2029</div>
+                
+                                  
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-85">Fisica quantistica (modulo 2)</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">76</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-02/A PHYS-04/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-69">Istituzioni di fisica nucleare e subnucleare</a>
+</td>
+<td data-title="Crediti massimi">9</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-01/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-68">Struttura della materia 1</a>
+</td>
+<td data-title="Crediti massimi">9</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-03/A PHYS-04/A</td>
+
+                              </tr>
+                            
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-66">Elettronica 1</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">IINF-01/A PHYS-01/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-65">Introduzione all&#039;astrofisica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-05/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-63">Introduzione alla fisica statistica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-02/A PHYS-04/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-64">Introduzione alla relatività generale</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-02/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-81">Laboratorio di elettronica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">IINF-01/A PHYS-01/A</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-67">Chimica 1</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">CHEM-03/A</td>
+
+                              </tr>
+                            
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-74">Introduzione a quantum science and technology</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-04/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-62">Introduzione alla fisica medica e sanitaria</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-06/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-75">Introduzione alla geofisica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">GEOS-04/A GEOS-04/B GEOS-04/C</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-84">Laboratorio di astronomia</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-05/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-80">Laboratorio di fisica computazionale</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-02/A PHYS-06/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-78">Laboratorio di fisica della materia</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-01/A PHYS-03/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-79">Laboratorio di fisica per l&#039;ambiente e per i beni culturali</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-06/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-77">Laboratorio di fisica terrestre</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-05/B PHYS-06/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-76">Laboratorio di misure nucleari</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-01/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-73">Laboratorio di ottica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-01/A PHYS-03/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-72">Laboratorio di simulazione numerica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-02/A PHYS-04/A</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-83">Laboratorio di spettroscopia gamma</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">PHYS-01/A</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Attività conclusive</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-44">Prova finale</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                    
+                  
+                
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Attività a scelta e regole di composizione del piano didattico</div>
+                                          <div class="ugov-of-pd-year-rules-2"><div> - Un insegnamento a scelta fra le seguenti ulteriori attività formative:</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-2">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th>Attività formative</th>
+                                <th>Crediti massimi</th>
+                                <th>Ore totali</th>
+                                <th>Lingua</th>
+                                <th>Periodo</th>
+                                <th>SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-66">Elettronica 1</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">IINF-01/A PHYS-01/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-74">Introduzione a quantum science and technology</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">PHYS-04/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-65">Introduzione all&#039;astrofisica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">PHYS-05/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-62">Introduzione alla fisica medica e sanitaria</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">PHYS-06/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-63">Introduzione alla fisica statistica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">PHYS-02/A PHYS-04/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-75">Introduzione alla geofisica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">GEOS-04/A GEOS-04/B GEOS-04/C</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-64">Introduzione alla relatività generale</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">PHYS-02/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-84">Laboratorio di astronomia</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">PHYS-05/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-81">Laboratorio di elettronica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">IINF-01/A PHYS-01/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-80">Laboratorio di fisica computazionale</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">PHYS-02/A PHYS-06/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-78">Laboratorio di fisica della materia</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">PHYS-01/A PHYS-03/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-79">Laboratorio di fisica per l&#039;ambiente e per i beni culturali</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">PHYS-06/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-77">Laboratorio di fisica terrestre</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">PHYS-05/B PHYS-06/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-76">Laboratorio di misure nucleari</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">PHYS-01/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-73">Laboratorio di ottica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">PHYS-01/A PHYS-03/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-72">Laboratorio di simulazione numerica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">PHYS-02/A PHYS-04/A</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-83">Laboratorio di spettroscopia gamma</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">PHYS-01/A</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                                <div class="ugov-of-pd-year-rules-2"><div> - È consigliata la scelta di un insegnamento di Laboratorio fra quelli sopraindicati.<br/>Lo studente deve inoltre acquisire 12 CFU scegliendo liberamente tra tutti gli insegnamenti attivati dall'Ateneo, purché culturalmente coerenti con il suo percorso formativo e non sovrapponibili, nei contenuti, agli insegnamenti fondamentali e opzionali già utilizzati nel piano di studi.<br/>Rientrano in particolare nella scelta anche tutti gli insegnamenti presenti nella tabella soprariportata delle Attività a scelta. È possibile inserire un tirocinio tra i CFU a scelta dello studente, eventualmente preliminare allo svolgimento dell'elaborato di Laurea</div>
+</div>
+                                                            </div>
+                
+              </div>
+                      </div>
+        
+        
+                  <div class="accordion bottom20 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="curr-20270000fanof2-FAN-0-accordion-p">
+            <div class="absoluteWrapper">
+              <div class="panel-heading">
+                <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title top30" aria-expanded="false" aria-controls="curr-20270000fanof2-FAN-0-p" role="button" href="#curr-20270000fanof2-FAN-0-p">Propedeuticità del curriculum</a>
+              </div>
+              <div id="curr-20270000fanof2-FAN-0-p" class="panel-collapse collapse">
+                <div class="panel-body">
+                                                        <div class="titoletto top20">Propedeuticità sulle attività formative</div>
+                    <div id="propcontent" class="ugov-of-pd-rules-p-af-text">﻿<div class="ugov-propedeuticita-af no-more-tables">
+<table class="">
+<thead>
+<tr><th>Attività formativa</th><th>Attività formative propedeutiche</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td data-title="Attività formativa">Analisi matematica 2</td>
+  <td data-title="Attività formative propedeutiche">
+Analisi matematica 1 (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Analisi matematica 3</td>
+  <td data-title="Attività formative propedeutiche">
+Analisi matematica 2 (obbligatoria), Analisi matematica 1 (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Elettromagnetismo</td>
+  <td data-title="Attività formative propedeutiche">
+Meccanica (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Termodinamica</td>
+  <td data-title="Attività formative propedeutiche">
+Meccanica (obbligatoria)  </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+                                  </div>
+              </div>
+            </div>
+          </div>
+        
+      </div>
+    </div>
+
+  </div>
+
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-cds-descrizione fw500"><span class="field-content">Fisica (Classe L-30 R)</span></div><div class="views-field views-field-descrizione-coorte"><span class="field-content">Immatricolati nell&#039;anno accademico 2025/2026 (FAN)</span></div><div class="views-field views-field-rendered-entity"><span class="field-content">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+            <div  class="top20 bottom20 paragraph--type--bp-links">
+        
+      <div class="bp-link bp-file"><a href="https://apps.unimi.it/files/manifesti/ita_manifesto_FANof1_2027.pdf">Manifesto degli studi [FANof1_2027]</a></div>
+      
+  
+    </div>
+
+
+            <div class="field field--name-ugovcdl-piano-didattico field--type-map field--label-hidden field--item"><div class="ugovcdl_of_pd ugovcdl_of_pd_type_3 ugovcdl_of_pd_it">
+
+<div class="accordion bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="curr-accordion">
+    <div>
+
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title" aria-expanded="false" aria-controls="curr-20270000fanof1-FAN-0" role="button" href="#curr-20270000fanof1-FAN-0">
+                  Piano didattico
+              </a>
+    </div>
+    <div id="curr-20270000fanof1-FAN-0" class="panel-collapse collapse ">
+      <div class="panel-body">
+
+                  <ul class="nav nav-tabs ugov-of-pd-years">
+            
+              <li class="active"><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000fanof1-FAN-0-0"><div>
+
+  Anno: 1
+</div>
+</a></li>
+            
+              <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000fanof1-FAN-0-1"><div>
+
+  Anno: 2
+</div>
+</a></li>
+            
+              <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000fanof1-FAN-0-2"><div>
+
+  Anno: 3
+</div>
+</a></li>
+            
+              <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000fanof1-FAN-0-3"><div>
+
+  Anno di corso a scelta dello studente
+</div>
+</a></li>
+                      </ul>
+        
+                  <div class="tab-content">
+                          <div id="ugov-of-pd-year-af-20270000fanof1-FAN-0-0" class="tab-pane fade in active">
+                                  <div class="noteanno">annualità non più attiva</div>
+                
+                                  
+                                          <div class="top30 titoletto">annuale</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000fan-9">Laboratorio di fisica con elementi di statistica</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">96</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000fan-3">Analisi matematica 1</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MAT/05</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-13">Informatica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">INF/01</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-12">Meccanica</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">84</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000fan-2">Analisi matematica 2</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MAT/05</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-11">Geometria 1</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MAT/03</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-10">Onde e oscillazioni</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Non definito</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000b26-39">Accertamento di lingua inglese - livello b1 (3 CFU)</a>
+</td>
+<td data-title="Crediti massimi">3</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">NN</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                    
+                  
+                
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000fanof1-FAN-0-1" class="tab-pane fade">
+                
+                                  
+                                          <div class="top30 titoletto">Su più periodi</div>
+                                              <div class="top10 sottotitoletto">Queste attività sono divise su più periodi, consultare la scheda per i dettagli.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000fan-8">Elettromagnetismo</a>
+</td>
+<td data-title="Crediti massimi">15</td>
+<td data-title="Ore totali">140</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/07</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000fan-1">Analisi matematica 3</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MAT/05</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000fan-7">Laboratorio di ottica e fisica moderna</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-32">Laboratorio di trattamento numerico dei dati sperimentali</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000fan-5">Meccanica analitica</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MAT/07</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-48">Fisica quantistica (modulo 1)</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/02</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000fan-6">Laboratorio di strumentazione elettronica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">65</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000fan-4">Metodi matematici della fisica</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/02</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-33">Termodinamica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/07</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                    
+                  
+                
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000fanof1-FAN-0-2" class="tab-pane fade">
+                                  <div class="noteanno">sarà attivato dall&#039;A.A. 2027/2028</div>
+                
+                                  
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-47">Fisica quantistica (modulo 2)</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">76</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/02</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-31">Istituzioni di fisica nucleare e subnucleare</a>
+</td>
+<td data-title="Crediti massimi">9</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/04</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-30">Struttura della materia 1</a>
+</td>
+<td data-title="Crediti massimi">9</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/03</td>
+
+                              </tr>
+                            
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-28">Elettronica 1</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 ING-INF/01</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-27">Introduzione all&#039;astrofisica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/05</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-25">Introduzione alla fisica statistica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/02 FIS/03</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-26">Introduzione alla relatività generale</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/02</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-43">Laboratorio di elettronica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 ING-INF/01</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-29">Chimica 1</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">CHIM/03</td>
+
+                              </tr>
+                            
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-36">Introduzione a quantum science and technology</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/03</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-24">Introduzione alla fisica medica e sanitaria</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/07</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-37">Introduzione alla geofisica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">GEO/10 GEO/11 GEO/12</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-46">Laboratorio di astronomia</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/05</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-42">Laboratorio di fisica computazionale</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/02 FIS/07</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-40">Laboratorio di fisica della materia</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/03</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-41">Laboratorio di fisica per l&#039;ambiente e per i beni culturali</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/07</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-39">Laboratorio di fisica terrestre</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/06 FIS/07</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-38">Laboratorio di misure nucleari</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/04</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-35">Laboratorio di ottica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/03</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-34">Laboratorio di simulazione numerica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/02 FIS/03</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-45">Laboratorio di spettroscopia gamma</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/04</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Attività conclusive</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-44">Prova finale</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                    
+                  
+                
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000fanof1-FAN-0-3" class="tab-pane fade">
+                
+                                  
+                
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Attività a scelta e regole di composizione del piano didattico</div>
+                                          <div class="ugov-of-pd-year-rules-3"><div> - Un insegnamento a scelta fra le seguenti ulteriori attività formative:</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-3">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th>Attività formative</th>
+                                <th>Crediti massimi</th>
+                                <th>Ore totali</th>
+                                <th>Lingua</th>
+                                <th>Periodo</th>
+                                <th>SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-28">Elettronica 1</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">FIS/01 ING-INF/01</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-36">Introduzione a quantum science and technology</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/03</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-27">Introduzione all&#039;astrofisica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">FIS/05</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-24">Introduzione alla fisica medica e sanitaria</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/07</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-25">Introduzione alla fisica statistica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">FIS/02 FIS/03</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-37">Introduzione alla geofisica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">GEO/10 GEO/11 GEO/12</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-26">Introduzione alla relatività generale</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">FIS/02</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-46">Laboratorio di astronomia</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/01 FIS/05</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-43">Laboratorio di elettronica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">FIS/01 ING-INF/01</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-42">Laboratorio di fisica computazionale</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/02 FIS/07</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-40">Laboratorio di fisica della materia</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/01 FIS/03</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-41">Laboratorio di fisica per l&#039;ambiente e per i beni culturali</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/07</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-39">Laboratorio di fisica terrestre</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/01 FIS/06 FIS/07</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-38">Laboratorio di misure nucleari</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/01 FIS/04</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-35">Laboratorio di ottica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/01 FIS/03</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-34">Laboratorio di simulazione numerica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/02 FIS/03</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000fan-45">Laboratorio di spettroscopia gamma</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/01 FIS/04</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                                <div class="ugov-of-pd-year-rules-3"><div> - È consigliata la scelta di un insegnamento di Laboratorio fra quelli sopraindicati.<br/>Lo studente deve inoltre acquisire 12 CFU scegliendo liberamente tra tutti gli insegnamenti attivati dall'Ateneo, purché culturalmente coerenti con il suo percorso formativo e non sovrapponibili, nei contenuti, agli insegnamenti fondamentali e opzionali già utilizzati nel piano di studi.<br/>Rientrano in particolare nella scelta anche tutti gli insegnamenti presenti nella tabella soprariportata delle Attività a scelta. È possibile inserire un tirocinio tra i CFU a scelta dello studente, eventualmente preliminare allo svolgimento dell'elaborato di Laurea</div>
+</div>
+                                                            </div>
+                
+              </div>
+                      </div>
+        
+        
+                  <div class="accordion bottom20 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="curr-20270000fanof1-FAN-0-accordion-p">
+            <div class="absoluteWrapper">
+              <div class="panel-heading">
+                <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title top30" aria-expanded="false" aria-controls="curr-20270000fanof1-FAN-0-p" role="button" href="#curr-20270000fanof1-FAN-0-p">Propedeuticità del curriculum</a>
+              </div>
+              <div id="curr-20270000fanof1-FAN-0-p" class="panel-collapse collapse">
+                <div class="panel-body">
+                                                        <div class="titoletto top20">Propedeuticità sulle attività formative</div>
+                    <div id="propcontent" class="ugov-of-pd-rules-p-af-text">﻿<div class="ugov-propedeuticita-af no-more-tables">
+<table class="">
+<thead>
+<tr><th>Attività formativa</th><th>Attività formative propedeutiche</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td data-title="Attività formativa">Analisi matematica 2</td>
+  <td data-title="Attività formative propedeutiche">
+Analisi matematica 1 (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Analisi matematica 3</td>
+  <td data-title="Attività formative propedeutiche">
+Analisi matematica 2 (obbligatoria), Analisi matematica 1 (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Elettromagnetismo</td>
+  <td data-title="Attività formative propedeutiche">
+Meccanica (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Termodinamica</td>
+  <td data-title="Attività formative propedeutiche">
+Meccanica (obbligatoria)  </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+                                  </div>
+              </div>
+            </div>
+          </div>
+        
+      </div>
+    </div>
+
+  </div>
+
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-cds-descrizione fw500"><span class="field-content">Fisica (Classe L-30)</span></div><div class="views-field views-field-descrizione-coorte"><span class="field-content">Immatricolati dall&#039;Anno Accademico 2021/2022 fino all&#039;a.a. 2024/2025 (F63)</span></div><div class="views-field views-field-rendered-entity"><span class="field-content">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+            <div  class="top20 bottom20 paragraph--type--bp-links">
+        
+      <div class="bp-link bp-file"><a href="https://apps.unimi.it/files/manifesti/ita_manifesto_F63of3_2027.pdf">Manifesto degli studi [F63of3_2027]</a></div>
+      
+  
+    </div>
+
+
+            <div class="field field--name-ugovcdl-piano-didattico field--type-map field--label-hidden field--item"><div class="ugovcdl_of_pd ugovcdl_of_pd_type_3 ugovcdl_of_pd_it">
+
+<div class="accordion bottom40 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="curr-accordion">
+    <div>
+
+    <div class="panel-heading">
+      <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title" aria-expanded="false" aria-controls="curr-20270000f63of3-F63-0" role="button" href="#curr-20270000f63of3-F63-0">
+                  Piano didattico
+              </a>
+    </div>
+    <div id="curr-20270000f63of3-F63-0" class="panel-collapse collapse ">
+      <div class="panel-body">
+
+                  <ul class="nav nav-tabs ugov-of-pd-years">
+            
+              <li class="active"><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000f63of3-F63-0-0"><div>
+
+  Anno: 1
+</div>
+</a></li>
+            
+              <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000f63of3-F63-0-1"><div>
+
+  Anno: 2
+</div>
+</a></li>
+            
+              <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000f63of3-F63-0-2"><div>
+
+  Anno: 3
+</div>
+</a></li>
+            
+              <li><a data-toggle="tab" href="#ugov-of-pd-year-af-20270000f63of3-F63-0-3"><div>
+
+  Anno di corso a scelta dello studente
+</div>
+</a></li>
+                      </ul>
+        
+                  <div class="tab-content">
+                          <div id="ugov-of-pd-year-af-20270000f63of3-F63-0-0" class="tab-pane fade in active">
+                                  <div class="noteanno">annualità non più attiva</div>
+                
+                                  
+                                          <div class="top30 titoletto">annuale</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000f63-4">Laboratorio di fisica con elementi di statistica</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">96</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000f63-1">Analisi matematica 1</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MAT/05</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000f63-3">Informatica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">INF/01</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-52">Meccanica</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">84</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000f63-5">Analisi matematica 2 (F63)</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MAT/05</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000f63-7">Geometria 1</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MAT/03</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000f63-6">Onde e oscillazioni</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Non definito</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000b26-41">Accertamento di lingua inglese - livello b1 (2 CFU)</a>
+</td>
+<td data-title="Crediti massimi">2</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Inglese</td>
+<td data-title="SSD">NN</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                    
+                  
+                
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000f63of3-F63-0-1" class="tab-pane fade">
+                                  <div class="noteanno">annualità non più attiva</div>
+                
+                                  
+                                          <div class="top30 titoletto">annuale</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000f63-8">Elettromagnetismo</a>
+</td>
+<td data-title="Crediti massimi">15</td>
+<td data-title="Ore totali">140</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/07</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-11">Laboratorio di ottica, elettronica e fisica moderna</a>
+</td>
+<td data-title="Crediti massimi">10</td>
+<td data-title="Ore totali">108</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-15">Analisi matematica 3</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MAT/05</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-12">Laboratorio di trattamento numerico dei dati sperimentali</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-14">Meccanica analitica</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">MAT/07</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-49">Fisica quantistica (modulo 1)</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/02</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-13">Metodi matematici della fisica</a>
+</td>
+<td data-title="Crediti massimi">7</td>
+<td data-title="Ore totali">64</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/02</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af202700000f63-9">Termodinamica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/07</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                    
+                  
+                
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000f63of3-F63-0-2" class="tab-pane fade">
+                
+                                  
+                                          <div class="top30 titoletto">Su più periodi</div>
+                                              <div class="top10 sottotitoletto">Queste attività sono divise su più periodi, consultare la scheda per i dettagli.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-19">Struttura della materia 1</a>
+</td>
+<td data-title="Crediti massimi">9</td>
+<td data-title="Ore totali">88</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/03</td>
+
+                              </tr>
+                            
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-26">Laboratorio di fisica della materia</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/03</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Primo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-50">Fisica quantistica (modulo 2)</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">76</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/02</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-20">Istituzioni di fisica nucleare e subnucleare</a>
+</td>
+<td data-title="Crediti massimi">9</td>
+<td data-title="Ore totali">80</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/04</td>
+
+                              </tr>
+                            
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-44">Elettronica 1</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 ING-INF/01</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-43">Introduzione all&#039;astrofisica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/05</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-41">Introduzione alla fisica statistica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/02 FIS/03</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-42">Introduzione alla relatività generale</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/02</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-23">Laboratorio di elettronica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 ING-INF/01</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Secondo semestre</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-21">Chimica 1</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">56</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">CHIM/03</td>
+
+                              </tr>
+                            
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Facoltativo</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-46">Introduzione alla fisica medica e sanitaria</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/07</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-45">Laboratorio di astronomia</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/05</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-24">Laboratorio di fisica computazionale</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/02 FIS/03 FIS/04 FIS/05 FIS/06 FIS/07 FIS/08</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-48">Laboratorio di fisica dell&#039;ambiente</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/06 FIS/07</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-27">Laboratorio di fisica terrestre</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/06 FIS/07</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-28">Laboratorio di misure nucleari</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/04</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-30">Laboratorio di ottica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/03</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-47">Laboratorio di simulazione numerica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/02 FIS/03 FIS/04 FIS/05 FIS/06 FIS/07 FIS/08</td>
+
+                              </tr>
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-31">Laboratorio di spettroscopia gamma</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">FIS/01 FIS/04</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                                          <div class="top30 titoletto">Attività conclusive</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-51">Prova finale</a>
+</td>
+<td data-title="Crediti massimi">8</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">NN</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                    
+                  
+                
+                                  <div class="top30 ugov-of-pd-rules">
+                    <div class="field--label">Attività a scelta e regole di composizione del piano didattico</div>
+                                          <div class="ugov-of-pd-year-rules-2"><div> - Un insegnamento a scelta fra i seguenti:</div>
+</div>
+                                              <div class="ugov-of-pd-year-rules-af-2">
+                          <table class="no-more-tables rs_content">
+                            <thead>
+                              <tr>
+                                <th>Attività formative</th>
+                                <th>Crediti massimi</th>
+                                <th>Ore totali</th>
+                                <th>Lingua</th>
+                                <th>Periodo</th>
+                                <th>SSD</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-44">Elettronica 1</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">FIS/01 ING-INF/01</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-43">Introduzione all&#039;astrofisica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">FIS/05</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-46">Introduzione alla fisica medica e sanitaria</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/07</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-41">Introduzione alla fisica statistica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">FIS/02 FIS/03</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-42">Introduzione alla relatività generale</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">48</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">FIS/02</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-45">Laboratorio di astronomia</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/01 FIS/05</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-23">Laboratorio di elettronica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Primo semestre</td>
+<td data-title="SSD">FIS/01 ING-INF/01</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-24">Laboratorio di fisica computazionale</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/01 FIS/02 FIS/03 FIS/04 FIS/05 FIS/06 FIS/07 FIS/08</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-48">Laboratorio di fisica dell&#039;ambiente</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/01 FIS/06 FIS/07</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-26">Laboratorio di fisica della materia</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Su più periodi</td>
+<td data-title="SSD">FIS/01 FIS/03</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-27">Laboratorio di fisica terrestre</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/01 FIS/06 FIS/07</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-28">Laboratorio di misure nucleari</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/01 FIS/04</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-30">Laboratorio di ottica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/01 FIS/03</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-47">Laboratorio di simulazione numerica</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">60</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/01 FIS/02 FIS/03 FIS/04 FIS/05 FIS/06 FIS/07 FIS/08</td>
+
+                                </tr>
+                                                              <tr>
+                                  <td data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-31">Laboratorio di spettroscopia gamma</a>
+</td>
+<td data-title="Crediti massimi">6</td>
+<td data-title="Ore totali">66</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="Periodo">Secondo semestre</td>
+<td data-title="SSD">FIS/01 FIS/04</td>
+
+                                </tr>
+                                                          </tbody>
+                          </table>
+                        </div>
+                                                                <div class="ugov-of-pd-year-rules-2"><div> - E' consigliata la scelta di un insegnamento di Laboratorio fra quelli sopraindicati. <br/>Lo studente deve inoltre acquisire 12 CFU scegliendo liberamente tra tutti gli insegnamenti attivati dall'Ateneo, purché culturalmente coerenti con il suo percorso formativo e non sovrapponibili, nei contenuti, agli insegnamenti fondamentali e opzionali già utilizzati nel piano di studi.<br/>Rientrano in particolare nella scelta anche tutti gli insegnamenti presenti nella tabella soprariportata delle Attività a scelta.<br/>È possibile inserire un tirocinio tra i CFU a scelta dello studente, eventualmente preliminare allo svolgimento dell'elaborato di Laurea</div>
+</div>
+                                                            </div>
+                
+              </div>
+                          <div id="ugov-of-pd-year-af-20270000f63of3-F63-0-3" class="tab-pane fade">
+                
+                                  
+                                          <div class="top30 titoletto">Non definito</div>
+                                              <div class="top10 sottotitoletto">Per queste attività non è previsto un periodo di offerta.</div>
+                                            <table class="no-more-tables rs_content">
+                        <thead>
+                          <tr>
+                            <th>Attività formative</th>
+                            <th>Crediti massimi</th>
+                            <th>Ore totali</th>
+                            <th>Lingua</th>
+                            <th>SSD</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                                                      <tr class="rowsubtitle ugov-of-pd-level2"><td colspan="5">Obbligatorio</td></tr>
+
+                                                          <tr>
+                                <td class="cdl-title" data-title="Attività formative">
+<a href="https://www.unimi.it/it/ugov/of/af20270000f63-35">Lingua inglese 2</a>
+</td>
+<td data-title="Crediti massimi">2</td>
+<td data-title="Ore totali">0</td>
+<td data-title="Lingua">Italiano</td>
+<td data-title="SSD">L-LIN/12</td>
+
+                              </tr>
+                            
+                                                  </tbody>
+                      </table>
+                    
+                  
+                
+                
+              </div>
+                      </div>
+        
+        
+                  <div class="accordion bottom20 js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="curr-20270000f63of3-F63-0-accordion-p">
+            <div class="absoluteWrapper">
+              <div class="panel-heading">
+                <a data-toggle="collapse" data-parent="#curr-accordion" class="panel-title top30" aria-expanded="false" aria-controls="curr-20270000f63of3-F63-0-p" role="button" href="#curr-20270000f63of3-F63-0-p">Propedeuticità del curriculum</a>
+              </div>
+              <div id="curr-20270000f63of3-F63-0-p" class="panel-collapse collapse">
+                <div class="panel-body">
+                                                        <div class="titoletto top20">Propedeuticità sulle attività formative</div>
+                    <div id="propcontent" class="ugov-of-pd-rules-p-af-text">﻿<div class="ugov-propedeuticita-af no-more-tables">
+<table class="">
+<thead>
+<tr><th>Attività formativa</th><th>Attività formative propedeutiche</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td data-title="Attività formativa">Analisi matematica 2 (F63)</td>
+  <td data-title="Attività formative propedeutiche">
+Analisi matematica 1 (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Analisi matematica 3</td>
+  <td data-title="Attività formative propedeutiche">
+Analisi matematica 1 (obbligatoria), Analisi matematica 2 (F63) (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Elettromagnetismo</td>
+  <td data-title="Attività formative propedeutiche">
+Meccanica (obbligatoria)  </td>
+</tr>
+<tr>
+  <td data-title="Attività formativa">Termodinamica</td>
+  <td data-title="Attività formative propedeutiche">
+Meccanica (obbligatoria)  </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+                                  </div>
+              </div>
+            </div>
+          </div>
+        
+      </div>
+    </div>
+
+  </div>
+
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+</span></div></div>
+
+    </div>
+    
+  <!-- altro -->
+          </div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+      
+  </div>
+</div>
+
+
+      
+  
+
+
+  </div>
+</section>
+
+</div>
+
+    </div>
+  
+          </div>
+</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+
+
+</div>
+
+
+
+      
+  
+
+
+            <div class="field field--name-dynamic-block-fieldnode-ct-scheda-visualizza-elenco field--type-ds field--label-hidden field--item"><div class="views-element-container form-group"><div class="elenco-schede view view-catalogo-schede view-id-catalogo_schede view-display-id-block_5 js-view-dom-id-4173fdb05989710d21ebb87c93259bcdc61ee4ef07f81cc6b840480ddb2ce3e7">
+  
+    
+      
+  
+          </div>
+</div>
+</div>
+      
+  </div>
+</div>
+
+
+<section id="block-cookiesui" class="block block-cookies block-cookies-ui-block clearfix">
+  
+    
+
+        
+<div id="cookiesjsr"></div>
+
+  </section>
+
+
+  </div>
+
+              </section>
+
+                </div>
+  </div>
+
+      <footer class="footer full-width">
+      <div class="container">
+          <div class="region region-footer-bottom">
+    <nav role="navigation" aria-labelledby="block-unimicdl-piedipagina-5-menu" id="block-unimicdl-piedipagina-5" class="col-sm-12 links_list_inline block-menu-footer">
+            
+  <h2 class="visually-hidden" id="block-unimicdl-piedipagina-5-menu">footer</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="https://form.agid.gov.it/view/89a9a140-b873-11ef-a76c-89ee5195e749">Dichiarazione di accessibilità</a>
+              </li>
+                      <li>
+                                        <a href="https://www.unimi.it/node/7393">Privacy e cookie</a>
+              </li>
+                      <li>
+                                        <a href="#editCookieSettings">Cookie settings</a>
+              </li>
+                      <li>
+                                        <a href="https://www.unimi.it/node/7394">Note legali</a>
+              </li>
+                      <li class="last">
+                                        <a href="/it/il-corso/referenti-e-contatti" data-drupal-link-system-path="node/13125">Referenti e contatti</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+        <div class="views-element-container form-group"><div class="col-sm-12 copyright view view-cdl view-id-cdl view-display-id-copyright js-view-dom-id-8a8bb205ba6a3991573e0a9cd516cdb066b8f26eeea3cf8b79a8f712cc3e8455">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content">Fisica © 2020</span></div></div>
+
+    </div>
+  
+          </div>
+</div>
+
+          <div class="region region-footer">
+    <section id="block-unimicdl-footertext" class="col-sm-4 col-lg-3 block-footertext block block-block-content block-block-content5af82d4a-b448-4107-a29a-5bfa144da5b5 clearfix">
+  
+    
+
+      
+  <div class="field field--name-field-testo field--type-text-long field--label-visually_hidden">
+    <div class="field--label sr-only">Testo</div>
+              <div class="field--item"><p>Università degli Studi di Milano<br>
+Via Festa del Perdono 7 - 20122 Milano<br>
+Tel. <strong><a href="tel:+390250325032">+39 02 5032 5032</a></strong><br>
+<strong><a href="http://www.unimi.it/it/node/13274">Posta Elettronica Certificata</a></strong></p></div>
+          </div>
+
+  </section>
+
+<nav role="navigation" aria-labelledby="block-unimicdl-social-menu" id="block-unimicdl-social" class="col-sm-5 col-lg-6 links_list_inline block-social">
+      
+  <h2 id="block-unimicdl-social-menu">Segui La Statale su</h2>
+  
+
+        
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="https://lastatalenews.unimi.it/" title="News">News</a>
+              </li>
+                      <li>
+                                        <a href="https://video.unimi.it/" title="PortaleVideo">PortaleVideo</a>
+              </li>
+                      <li>
+                                        <a href="https://www.facebook.com/laStatale/" title="facebook">Facebook</a>
+              </li>
+                      <li>
+                                        <a href="https://www.instagram.com/lastatale_milano_official" title="Instagram">Instagram</a>
+              </li>
+                      <li>
+                                        <a href="http://twitter.com/LaStatale" title="twitter">Twitter</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.youtube.com/user/UnimiVideo" title="youtube">youtube</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+<section id="block-unimicdl-logofooter" class="col-sm-3 col-lg-3 block-logofooter block block-block-content block-block-content2c04e5b1-54ed-4593-a8b3-db0218705c4d clearfix">
+  
+    
+
+      
+  <div class="field field--name-field-logo field--type-entity-reference field--label-visually_hidden">
+    <div class="field--label sr-only">Logo</div>
+              <div class="field--item">  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+          
+              <img loading="lazy" src="/sites/lf63/files/2019-04/logofooter.png" width="244" height="82" alt="logo unimi" class="img-responsive rs_skip" />
+
+
+      
+  
+
+
+    </div>
+  </div>
+
+</div>
+          </div>
+
+  </section>
+
+
+  </div>
+
+      </div>
+    </footer>
+  
+
+
+  </div>
+
+    
+    <script src="/sites/lf63/files/js/js_PwXmabxlBYmvWT3WX5zGymiMbkVhODzF-iPdrVJSGds.js?scope=footer&amp;delta=0&amp;language=it&amp;theme=unimicdl&amp;include=eJx1kGFuwzAIhS9khSNZ2KEunW0sjNump1_WpNlWqX_gvQ_pCQhkRurp3qTT7E-cV9shUSXF7ELGxwKBZcIL3l0QsW6KDQ7lm5LnyvZn2KTJldTF8xpaYWtToNOLzDoa5mlzLop8MXXY-6XrFOcD-4SAFfNiHPsvNEzwU1wSSZn8J78t_g8WN7JxoTrgJdyoXBiwKcczj5l3cNy0-5ZxWd-l1PlBO3vLuCH7giZF3JXp1uFZn2t8AznxjsQ"></script>
+<script src="https://cdn.jsdelivr.net/gh/jfeltkamp/cookiesjsr@1/dist/cookiesjsr-preloader.min.js" defer></script>
+<script src="/sites/lf63/files/js/js_fxf8yH5GhVDhc0DRF3TbmqdYiGl5Ooz12HCVmMx-wXE.js?scope=footer&amp;delta=2&amp;language=it&amp;theme=unimicdl&amp;include=eJx1kGFuwzAIhS9khSNZ2KEunW0sjNump1_WpNlWqX_gvQ_pCQhkRurp3qTT7E-cV9shUSXF7ELGxwKBZcIL3l0QsW6KDQ7lm5LnyvZn2KTJldTF8xpaYWtToNOLzDoa5mlzLop8MXXY-6XrFOcD-4SAFfNiHPsvNEzwU1wSSZn8J78t_g8WN7JxoTrgJdyoXBiwKcczj5l3cNy0-5ZxWd-l1PlBO3vLuCH7giZF3JXp1uFZn2t8AznxjsQ"></script>
+<script src="/modules/contrib/google_tag/js/gtag.ajax.js?tlmwcf" type="text/plain" id="cookies_gtag_gtag_ajax" data-cookieconsent="gtag"></script>
+<script src="/sites/lf63/files/js/js_WKv9s1q93PhSoDBCfGcsjp1cUiQz_V5aKbqPVAlF3xE.js?scope=footer&amp;delta=4&amp;language=it&amp;theme=unimicdl&amp;include=eJx1kGFuwzAIhS9khSNZ2KEunW0sjNump1_WpNlWqX_gvQ_pCQhkRurp3qTT7E-cV9shUSXF7ELGxwKBZcIL3l0QsW6KDQ7lm5LnyvZn2KTJldTF8xpaYWtToNOLzDoa5mlzLop8MXXY-6XrFOcD-4SAFfNiHPsvNEzwU1wSSZn8J78t_g8WN7JxoTrgJdyoXBiwKcczj5l3cNy0-5ZxWd-l1PlBO3vLuCH7giZF3JXp1uFZn2t8AznxjsQ"></script>
+
+  </body>
+</html>

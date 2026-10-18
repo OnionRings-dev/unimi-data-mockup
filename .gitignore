@@ -5,3 +5,12 @@ __pycache__/
 *.db-journal
 *.db-wal
 *.db-shm
+*.building.sqlite
+data/*.tmp
+data/raw/.*.tmp
+
+# Snapshot e cache locali, ricostruibili con la CLI.
+/data/raw/
+/data/collection.json
+/data/unimi.sqlite
+/data/unimi.json

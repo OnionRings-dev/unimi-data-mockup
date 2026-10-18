@@ -1,101 +1,128 @@
-# UniMi — dataset SQLite statico
+# Dati UniMi
 
-Database popolato con dati reali delle fonti pubbliche UniMi, congelati il
-**20 settembre 2026**, per l'anno accademico **2026/2027**.
+Database locale di dati pubblici della Statale per applicazioni studentesche:
+percorsi di studio, strutture, insegnamenti, piani, docenti, sedi e aule.
+Include lauree, master universitari, dottorati, specializzazioni e perfezionamento.
+Gli eventi delle lezioni e l'occupazione delle aule sono esclusi.
 
-**[Apri il database](data/releases/2026-09-20/unimi.sqlite)** ·
-[Copertura e limiti](docs/dataset.md) ·
-[Manifest del rilascio](data/releases/2026-09-20/manifest.json)
+## Utilizzo
 
-| Contenuto | Quantità |
-| --- | ---: |
-| Facoltà e scuole | 10 |
-| Corsi di laurea | 181 |
-| Versioni dei corsi | 185 |
-| Piani/coorti di Informatica e Fisica triennali | 6 |
-| Voci dei piani didattici | 226 |
-| Attività formative distinte | 220, incluse 2 attività di tutorato |
-| Edizioni | 255, comprese quelle dichiarate inattive |
-| Docenti | 144 |
-| Lezioni distinte nel primo semestre | 2.189 |
-| Aule | 32 |
-| Fonti archiviate | 445 |
-
-Il catalogo copre tutte le voci dei due elenchi ufficiali di lauree. Il dettaglio
-didattico e gli orari coprono **Informatica e Fisica triennali**. Le altre lauree
-hanno copertura `not_collected` per insegnamenti e orari: un risultato vuoto non
-significa che non abbiano insegnamenti.
-
-Gli orari comprendono le occorrenze **pubblicate al momento dell'acquisizione**
-nella finestra **21/09/2026–15/01/2027**. Quindici lezioni non hanno un'aula
-indicata dalla fonte. I dati mancanti rimangono `NULL`; i dati non vengono aggiornati
-quando cambia il sito dell'università.
-
-## Consultazione
-
-Il database è già pronto: non serve eseguire la raccolta. Si può aprire con qualsiasi
-client SQLite o con la libreria standard Python:
+Il database è in [`data/unimi.sqlite`](data/unimi.sqlite).
+[`data/unimi.json`](data/unimi.json) riporta conteggi e copertura del rilascio.
+Si apre con qualsiasi client SQLite, senza avviare un server. Database, cache e
+stato della raccolta restano locali e sono esclusi da Git; si rigenerano con i
+comandi sotto.
 
 ```python
 import sqlite3
 
-db = sqlite3.connect(
-    'file:data/releases/2026-09-20/unimi.sqlite?mode=ro', uri=True
-)
+db = sqlite3.connect('file:data/unimi.sqlite?mode=ro', uri=True)
 db.row_factory = sqlite3.Row
-for row in db.execute('SELECT id, name, level FROM degree_programme ORDER BY name'):
+for row in db.execute('SELECT id, name, level FROM programme ORDER BY name'):
     print(dict(row))
 ```
 
-- [Query SQL di esempio](examples/queries.sql): catalogo, piani, orari, docenti e aule.
-- [Schema relazionale](schema.sql): 25 tabelle, incluse le relazioni e i metadati.
-- [Studio delle fonti e motivazioni del modello](docs/proposta.md).
+Le viste `programme`, `faculty`, `department`, `course`, `course_offering`,
+`person`, `teacher`, `agenda_teacher`, `site`, `room`, `programme_faculty`, `room_site` e
+`teaching_assignment` offrono punti di accesso semplici. Altri esempi in
+[`queries.sql`](queries.sql).
 
-Gli istanti delle lezioni sono UTC (`YYYY-MM-DDTHH:MM:SSZ`); visualizzarli in
-`Europe/Rome` per gestire correttamente l'ora legale. Per una demo stabile usare
-`snapshot.simulation_date`, impostata a `2026-09-21`, al posto della data odierna.
-Le chiusure sono in `calendar_closure`. `activity_audience` collega le attività
-ai destinatari effettivamente pubblicati nell'agenda, inclusi i tutorati.
+## Prima raccolta
 
-## Ricostruzione offline
+Snapshot del 18 ottobre 2026: **445,5 MB** di SQLite (424,9 MiB), senza eventi.
 
-Dalla directory del progetto, installare la dipendenza del parser nell'ambiente
-Python, ad esempio con `uv`:
+- 181 percorsi di laurea e 276 schede annuali post laurea/formazione continua.
+- 31 dipartimenti, 8 facoltà e 3 scuole.
+- 14.377 schede annuali di attività con dettaglio U-GOV, più attività senza scheda
+  individuale ricavate dai piani; 1.290 piani e 14.993 edizioni.
+- 4.634 profili personali acquisiti; la vista `teacher` seleziona 3.625 persone
+  con ruolo accademico o assegnazione didattica nelle fonti raccolte.
+- 535 spazi: 533 indirizzi e 531 coppie di coordinate pubblicate.
+- 239.755 relazioni con provenienza.
 
-```sh
-uv venv .venv
-uv pip install --python .venv/bin/python -r requirements.txt
-.venv/bin/python -m unimi_mock.build
-.venv/bin/python -m unittest discover -s tests -v
-```
+Le 26.416 richieste censite includono 24 fonti non raggiunte. Questi conteggi
+riguardano il perimetro raccolto; dettagli e limiti in `data/unimi.json` e
+[fonti e copertura](docs/sources.md).
 
-`build` legge esclusivamente i file di `data/raw/2026-09-20/`, verifica gli hash,
-crea un file temporaneo, verifica l'integrità e sostituisce il database di rilascio
-solo a import completato. Il risultato è deterministico dalle stesse fonti e dallo
-stesso schema. Per creare una copia senza sostituire il rilascio:
+## Comandi
 
-```sh
-.venv/bin/python -m unimi_mock.build --output /tmp/unimi-check/unimi.sqlite
-```
-
-L'acquisizione originale è ripetibile con:
+È richiesto Python 3.11+; le dipendenze sono fissate in `uv.lock`.
 
 ```sh
-.venv/bin/python -m unimi_mock.collect --offline
+uv sync
+uv run unimi collect
+uv run unimi build
+uv run unimi check
+uv run python -m unittest discover -s tests -v
 ```
 
-Senza `--offline`, `collect` scarica soltanto richieste ancora assenti dalla cache.
-Non aggiorna le risposte già congelate. Per uno snapshot di un altro periodo occorre
-configurare un nuovo percorso, anno e intervallo: questa prima versione è
-deliberatamente dedicata al rilascio 2026/2027.
+- `collect` scarica le fonti mancanti, con quattro worker e un limite condiviso di
+  cinque avvii HTTP al secondo. Una raccolta interrotta si riprende dallo stesso
+  comando. Le risposte già acquisite rimangono congelate.
+- `collect --retry-failed` riprova una volta per esecuzione gli errori di trasporto
+  e gli HTTP transitori. Non forza i blocchi o ripete i `404`.
+- `collect --indexes-only` raccoglie cataloghi, piani e indici, rimandando le schede
+  degli insegnamenti e i profili personali.
+- `build` è interamente offline: verifica gli hash, crea un database temporaneo,
+  controlla l'integrità e sostituisce il rilascio soltanto a import riuscito.
+  `build --output /tmp/unimi.sqlite` crea una copia separata.
 
-## Provenienza
+## Modello
 
-`data/raw/2026-09-20/manifest.json` registra URL, parametri, timestamp, stato HTTP,
-percorso e SHA-256 di ogni risposta. `source_document` e le foreign key `source_id`
-permettono di risalire alle fonti. Il manifest di rilascio riporta conteggi, copertura,
-corrispondenze dei codici, campi mancanti e checksum del database e dello schema.
+Lo [schema](schema.sql) contiene sei tabelle:
 
-Le fonti sono il catalogo e le schede pubbliche su `www.unimi.it` e l'Agenda Web su
-`orari.unimi.it`. È un dataset per sviluppo e demo: per l'organizzazione delle lezioni
-effettive resta necessario consultare i servizi ufficiali aggiornati.
+- `entity`: entità tipizzate con nome, codice, anno, URL e proprietà JSON.
+- `relation`: associazioni direzionali con proprietà e fonte della relazione.
+- `identifier`: URL/codici che identificano la stessa entità verificata.
+- `observation`: campi pubblicati dalla singola fonte, prima della normalizzazione.
+- `source`: provenienza, data, esito HTTP, checksum e percorso della risposta.
+- `coverage`: ambiti raccolti, parziali o ancora da raccogliere.
+
+Questa struttura permette di aggiungere informazioni pubblicate senza creare una
+nuova tabella per ogni variante di scheda. Le viste SQL espongono le categorie
+principali all'applicazione. Gli ID sono stabili per tipo e identità sorgente;
+nomi uguali non comportano fusioni.
+
+Facoltà, dipartimenti e corsi sono distinti. Un percorso può avere più offerte e
+piani; un insegnamento ha attività annuali ed edizioni con più docenti. Le relazioni
+conservano anno, gruppo, requisiti e altre proprietà quando pubblicati.
+
+Le attività senza una scheda individuale, frequenti nelle specializzazioni, hanno
+un'identità limitata al piano in cui sono pubblicate e codice universitario `NULL`.
+Conservano i crediti, le ore e i docenti disponibili nella tabella sorgente.
+
+I record dell'Agenda rimangono distinti da quelli U-GOV. Le relazioni `references`
+segnalano le corrispondenze univoche fra codice attività e anno, o fra codice
+numerico del docente e nome completo. Il metodo e le fonti rimangono consultabili;
+le corrispondenze non comportano fusioni di entità.
+
+## Fonti e limiti
+
+Vedi [fonti e copertura](docs/sources.md). La raccolta parte dai cataloghi ufficiali,
+dalle schede U-GOV, dai siti dipartimentali e dalle selezioni dell'Agenda Web.
+Priorità didattica al 2026/2027; i cataloghi post laurea espongono anche il 2025/2026.
+Le date di acquisizione effettive sono registrate per ogni fonte.
+
+`complete` in `coverage` riguarda il preciso elenco o insieme di richieste indicato:
+non certifica la completezza di tutto l'ateneo. Un profilo collegato può esistere
+come riferimento prima che la sua scheda sia stata acquisita. La proprietà
+`detail_collected` segnala le schede importate con successo.
+
+Le aule includono indirizzi e coordinate pubblicate dal gestionale, quando presenti.
+La fonte non ne dichiara la precisione; non sono punti verificati sul posto.
+Le planimetrie e le posizioni interne agli edifici restano da reperire.
+Per informazioni operative aggiornate restano di riferimento i servizi UniMi.
+
+## Struttura
+
+```text
+unimi/                 raccolta, parser, importazione e CLI
+schema.sql             schema SQLite e viste per l'app
+queries.sql            query di esempio
+tests/                 verifiche dei parser, identità e dataset
+docs/sources.md        fonti e limiti
+data/collection.json   perimetro e stato delle richieste
+data/raw/              risposte gzip e metadati JSON
+data/unimi.sqlite      database pronto
+data/unimi.json        conteggi e copertura
+```

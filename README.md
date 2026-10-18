@@ -23,24 +23,27 @@ for row in db.execute('SELECT id, name, level FROM programme ORDER BY name'):
 ```
 
 Le viste `programme`, `faculty`, `department`, `course`, `course_offering`,
-`person`, `teacher`, `agenda_teacher`, `site`, `room`, `programme_faculty`, `room_site` e
+`person`, `teacher`, `academic_staff`, `directory_membership`, `agenda_teacher`,
+`site`, `room`, `programme_faculty`, `room_site` e
 `teaching_assignment` offrono punti di accesso semplici. Altri esempi in
 [`queries.sql`](queries.sql).
 
-## Prima raccolta
+## Snapshot disponibile
 
-Snapshot del 18 ottobre 2026: **445,5 MB** di SQLite (424,9 MiB), senza eventi.
+Snapshot del 18 ottobre 2026: **591,9 MB** di SQLite (564,5 MiB), senza eventi.
 
 - 181 percorsi di laurea e 276 schede annuali post laurea/formazione continua.
 - 31 dipartimenti, 8 facoltà e 3 scuole.
 - 14.377 schede annuali di attività con dettaglio U-GOV, più attività senza scheda
-  individuale ricavate dai piani; 1.290 piani e 14.993 edizioni.
-- 4.634 profili personali acquisiti; la vista `teacher` seleziona 3.625 persone
+  individuale ricavate dai piani; 1.290 piani e 14.993 edizioni. I profili aggiungono
+  anche riferimenti a insegnamenti storici senza acquisirne le schede di dettaglio.
+- 6.413 profili personali acquisiti, inclusi tutti i 5.758 nominativi unici delle
+  sette categorie accademiche di Chi e Dove; `teacher` seleziona 5.370 persone
   con ruolo accademico o assegnazione didattica nelle fonti raccolte.
 - 535 spazi: 533 indirizzi e 531 coppie di coordinate pubblicate.
-- 239.755 relazioni con provenienza.
+- 366.079 relazioni con provenienza, inclusi gli elenchi didattici dei profili.
 
-Le 26.416 richieste censite includono 24 fonti non raggiunte. Questi conteggi
+Le 28.816 richieste censite includono 24 fonti non raggiunte. Questi conteggi
 riguardano il perimetro raccolto; dettagli e limiti in `data/unimi.json` e
 [fonti e copertura](docs/sources.md).
 
@@ -53,6 +56,7 @@ uv sync
 uv run unimi collect
 uv run unimi build
 uv run unimi check
+uv run unimi audit-programmes --live
 uv run python -m unittest discover -s tests -v
 ```
 
@@ -63,6 +67,16 @@ uv run python -m unittest discover -s tests -v
   e gli HTTP transitori. Non forza i blocchi o ripete i `404`.
 - `collect --indexes-only` raccoglie cataloghi, piani e indici, rimandando le schede
   degli insegnamenti e i profili personali.
+- `collect --people-only` censisce tutte le pagine delle sette categorie accademiche
+  di Chi e Dove e acquisisce i profili mancanti, senza ripercorrere i cataloghi.
+- `build --people-only` aggiorna rubrica e profili su una copia del database
+  esistente, conservando gli altri dati e sostituendo il rilascio dopo i controlli.
+  La prima costruzione richiede `build` completo.
+- `audit-programmes` confronta i percorsi di laurea con i due cataloghi e tutti
+  i filtri per facoltà: verifica le identità e le associazioni, non soltanto i
+  conteggi. `--live` rilegge le fonti attuali senza modificare lo snapshot.
+  Rapporti ed evidenze sono in `data/audits/`; un esito da verificare restituisce
+  codice di uscita 1. Senza `--live` controlla le copie già archiviate.
 - `build` è interamente offline: verifica gli hash, crea un database temporaneo,
   controlla l'integrità e sostituisce il rilascio soltanto a import riuscito.
   `build --output /tmp/unimi.sqlite` crea una copia separata.

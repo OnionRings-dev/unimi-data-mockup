@@ -8,9 +8,9 @@ from collections import Counter
 from pathlib import Path
 from html import unescape
 
-from .collect import CATALOGUES, COLLECTION
+from .collect import CATALOGUES, COLLECTION, DIRECTORY_CATEGORIES, directory_page_number
 from .parse import (BASE, academic_year, cards, course_code, department_teaching, editions,
-                    field, identity, links, number, path, plan_cells, plan_rows, properties, text, url)
+                    directory_rows, field, identity, links, number, pager, path, person_extras, plan_cells, plan_rows, properties, text, url)
 from .sources import RAW, ROOT, Document, Sources, assignment, dumps, read_document
 
 OUTPUT = ROOT / "data/unimi.sqlite"
@@ -76,7 +76,7 @@ def unit_kind(name):
 
 def make_course(store, target, name, source, *, code=None, year=None, props=None, detail=False):
     if "/catalogo-degli-insegnamenti-la-formazione-dottorale/" in target:
-        return store.entity("doctoral_course", target, name, source, year=academic_year(target), target=target)
+        return store.entity("doctoral_course", target, name, source, year=year or academic_year(target), target=target, props=props, detail=detail)
     canonical = store.canonical(target)
     match = re.search(r"/af(20\d\d)0*([a-z][a-z0-9]*-[a-z0-9-]+)$", canonical, re.I)
     if match:
@@ -339,6 +339,29 @@ def import_course(store, target, job, document, doc):
             store.relate(edition_id, "taught_by", person, document.key, {"role": teacher["role"]})
 
 
+def directory_valid(doc, job):
+    chosen = doc.select_one('select[name="ur_tipi_ruoli_target_id"] option[selected]')
+    current = doc.select_one('.view-chi-e-dove a[aria-current="page"]')
+    page_label = re.findall(r'\d+', text(current))
+    current_page = int(page_label[-1]) - 1 if page_label else 0
+    return (chosen is not None and chosen.get('value') == job['category_code']
+            and current_page == job['page'] and doc.select_one('.view-chi-e-dove') is not None
+            and all(DIRECTORY_CATEGORIES[job['category_code']] in row['categories']
+                    for row in directory_rows(doc)))
+
+
+def import_directory(store, target, job, document, doc):
+    if not directory_valid(doc, job):
+        return
+    for row in directory_rows(doc):
+        key = store.id('person', row['url'])
+        previous = store.db.execute('SELECT properties FROM entity WHERE id=?', (key,)).fetchone()
+        categories = set(json.loads(previous[0]).get('directory_categories', [])) if previous else set()
+        categories.update(row['categories'])
+        store.entity('person', row['url'], row['name'], document.key, target=row['url'], detail=True,
+                     props={'directory_categories': sorted(categories)})
+
+
 def import_person(store, target, job, document, doc):
     if not path(doc).startswith(("ugov/rubrica/person", "ugov/person/")):
         # Una pagina di errore HTTP 200 non deve diventare un profilo personale.
@@ -362,9 +385,10 @@ def import_person(store, target, job, document, doc):
     website = doc.select_one(".icon.globe a[href]")
     photo = doc.select_one(".foto-persona img[src]")
     reception = next((text(card) for card in doc.select(".card-content") if text(card.select_one(".bp-title")) == "Ricevimento"), None)
+    extras, teachings = person_extras(doc)
     person = store.entity("person", key, name, document.key, target=target,
                           code=key.rsplit("/person", 1)[-1] if re.search(r"/person\d+$", key) else None,
-                          props={"fields": properties(doc.select_one(".ugov-rubrica") or doc),
+                          props={**extras, "fields": properties(doc.select_one(".ugov-rubrica") or doc),
                                  "role": field(doc, ".field--name-ur-ruolo"),
                                  "email": email, "address": text(doc.select_one(".ugov-indirizzo")) or None,
                                  "phone": (text(phone.find_next_sibling()) or None) if phone else None,
@@ -372,6 +396,11 @@ def import_person(store, target, job, document, doc):
                                  "photo_url": photo["src"] if photo else None,
                                  "sector": field(doc, ".field--name-ur-ssd"), "reception": reception,
                                  "detail_collected": True}, detail=True)
+    for teaching in teachings:
+        activity = make_course(store, teaching["url"], teaching["name"], document.key,
+                               year=teaching["academic_year"])
+        store.relate(activity, "taught_by", person, document.key,
+                     {"scope": "profile_teaching_list", "academic_year": teaching["academic_year"]})
     for a in doc.select(".field--name-ur-ou-afferenza a[href]"):
         target_unit = url(a["href"])
         existing = store.db.execute("SELECT entity_id FROM identifier WHERE value=?", (store.canonical(target_unit),)).fetchone()
@@ -431,7 +460,7 @@ def reconcile(store):
                          {"method": "explicit_activity_code_and_year", "course_source_id": matches[0][1]})
 
 
-def build(output=OUTPUT):
+def build(output=OUTPUT, people_only=False):
     output = Path(output)
     state = json.loads(COLLECTION.read_text())
     sources = Sources(offline=True)
@@ -458,21 +487,45 @@ def build(output=OUTPUT):
     temporary.unlink(missing_ok=True)
     db = sqlite3.connect(temporary)
     try:
-        db.executescript((ROOT / "schema.sql").read_text())
+        schema = (ROOT / "schema.sql").read_text()
+        if people_only:
+            if not output.exists():
+                raise FileNotFoundError("Il primo rilascio richiede build senza --people-only")
+            with sqlite3.connect(f"file:{output}?mode=ro", uri=True) as previous:
+                check(previous)
+                previous.backup(db)
+            # Le viste sono additive; le sei tabelle e gli ID rimangono invariati.
+            for match in re.finditer(r"CREATE VIEW (\w+)\b.*?;", schema, re.S):
+                db.execute("DROP VIEW IF EXISTS " + match[1])
+                db.execute(match[0])
+            db.execute("CREATE INDEX IF NOT EXISTS relation_source ON relation(source_id)")
+            db.execute("PRAGMA foreign_keys=ON")
+        else:
+            db.executescript(schema)
         store = Store(db, aliases)
         for meta_path in sorted(RAW.glob("*.json")):
             document = read_document(meta_path)
             m = document.meta
-            db.execute("INSERT INTO source VALUES(?,?,?,?,?,?,?,?,?,?)", tuple(m.get(k) for k in
+            db.execute("""INSERT INTO source VALUES(?,?,?,?,?,?,?,?,?,?) ON CONFLICT(id) DO UPDATE SET
+                       url=excluded.url,final_url=excluded.final_url,fetched_at=excluded.fetched_at,
+                       status=excluded.status,content_type=excluded.content_type,sha256=excluded.sha256,
+                       path=excluded.path,error=excluded.error,request_metadata=excluded.request_metadata""", tuple(m.get(k) for k in
                        ["key", "url", "final_url", "fetched_at", "status", "content_type", "sha256", "path", "error"])
                        + (dumps(m.get("request_metadata") or {"method": "GET"}),))
-        import_agenda(store, documents)
-        import_catalogues(store, documents)
+        if not people_only:
+            import_agenda(store, documents)
+            import_catalogues(store, documents)
+        else:
+            # Sostituisce solo le relazioni estratte dai profili e dalla rubrica.
+            for _, job, document in documents:
+                if job["kind"] in {"person", "directory"}:
+                    db.execute("DELETE FROM relation WHERE source_id=? AND predicate IN ('member_of','taught_by')", (document.key,))
         handlers = {"unit": import_structure, "programme": import_programme, "offering": import_programme,
                     "department_index": import_department_index, "course": import_course,
                     "doctoral_course": import_course, "person": import_person, "site": import_site,
-                    "phd_index": import_phd_index}
-        for kind in ["unit", "programme", "offering", "department_index", "phd_index", "course", "doctoral_course", "person", "site"]:
+                    "phd_index": import_phd_index, "directory": import_directory}
+        kinds = ["directory", "person"] if people_only else ["unit", "programme", "offering", "department_index", "phd_index", "course", "doctoral_course", "directory", "person", "site"]
+        for kind in kinds:
             count = 0
             for target, job, document in documents:
                 if job["kind"] == kind:
@@ -486,6 +539,11 @@ def build(output=OUTPUT):
             for row in db.execute("SELECT entity_id FROM identifier WHERE value=?", (canonical,)).fetchall():
                 db.execute("INSERT OR IGNORE INTO identifier VALUES(?,?)", (alias, row[0]))
         reconcile(store)
+        if people_only:
+            old = db.execute("SELECT expected_count,collected_count FROM coverage WHERE scope='study_plan_source_rows'").fetchone()
+            if old:
+                store.plan_audit = {"published": old[0], "parsed": old[1]}
+        db.execute("DELETE FROM coverage")
         record_coverage(db, state, documents, aliases, store.plan_audit)
         db.commit()
         check(db)
@@ -497,7 +555,8 @@ def build(output=OUTPUT):
         db.close()
         temporary.replace(output)
         report["database_bytes"] = output.stat().st_size
-        report["database_sha256"] = hashlib.sha256(output.read_bytes()).hexdigest()
+        with output.open("rb") as handle:
+            report["database_sha256"] = hashlib.file_digest(handle, "sha256").hexdigest()
         output.with_suffix(".json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n")
         print(json.dumps(counts, ensure_ascii=False, indent=2), flush=True)
         return report
@@ -507,7 +566,44 @@ def build(output=OUTPUT):
         raise
 
 
+def record_directory_coverage(db, state, documents, aliases):
+    lookup = Store(db, aliases)
+    all_people = set()
+    all_pages_complete = True
+    for category, label in DIRECTORY_CATEGORIES.items():
+        pages, people, last_page = set(), set(), 0
+        roots_seen = False
+        for target, job, document in documents:
+            if job['kind'] != 'directory' or job['category_code'] != category:
+                continue
+            doc = document.soup()
+            if not directory_valid(doc, job):
+                continue
+            pages.add(job['page'])
+            roots_seen |= job['page'] == 0
+            last_page = max(last_page, job['page'], *(directory_page_number(u) for u in pager(doc, target)))
+            people.update(lookup.id('person', row['url']) for row in directory_rows(doc))
+        pages_complete = roots_seen and pages == set(range(last_page + 1))
+        all_pages_complete &= pages_complete
+        all_people.update(people)
+        found = sum(bool(db.execute("SELECT 1 FROM person WHERE id=? AND json_extract(properties,'$.detail_collected')=1", (p,)).fetchone()) for p in people)
+        db.execute('INSERT INTO coverage VALUES(?,?,?,?,?)', ('directory_pages:' + category,
+                   'complete' if pages_complete else 'partial' if pages else 'not_collected',
+                   last_page + 1 if roots_seen else None, len(pages),
+                   label + ': pagine verificate per filtro, indice corrente e ultima pagina pubblicata.'))
+        db.execute('INSERT INTO coverage VALUES(?,?,?,?,?)', ('directory_profiles:' + category,
+                   'complete' if pages_complete and found == len(people) else 'partial' if people else 'not_collected',
+                   len(people) if pages_complete else None, found,
+                   label + ': identità U-GOV della rubrica con profilo acquisito. Le categorie possono sovrapporsi.'))
+    found = sum(bool(db.execute("SELECT 1 FROM person WHERE id=? AND json_extract(properties,'$.detail_collected')=1", (p,)).fetchone()) for p in all_people)
+    db.execute('INSERT INTO coverage VALUES(?,?,?,?,?)', ('directory_academic_people',
+               'complete' if all_pages_complete and found == len(all_people) else 'partial' if all_people else 'not_collected',
+               len(all_people) if all_pages_complete else None, found,
+               'Unione delle sette categorie accademiche della rubrica, deduplicata per identità; non include la categoria esclusiva Personale TAB.'))
+
+
 def record_coverage(db, state, documents, aliases, plan_audit):
+    record_directory_coverage(db, state, documents, aliases)
     by_kind = Counter(job["kind"] for _, job, _ in documents)
     expected = Counter(job["kind"] for job in state["jobs"].values())
     for kind in sorted(expected):

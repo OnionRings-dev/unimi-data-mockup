@@ -208,3 +208,73 @@ def department_teaching(doc):
                         "teachers": links(panel, "/ugov/rubrica/"),
                         "offerings": links(panel, "/ugov/of/cdsi"), "summary": text(panel)})
     return records
+
+
+def directory_rows(doc):
+    """Sole schede risultato della rubrica; esclude menu e contatti del footer."""
+    rows = []
+    for article in doc.select('.view-chi-e-dove .views-row article'):
+        a = article.select_one('.field--name-title a[href]')
+        if a and any(fragment in a['href'] for fragment in ('/ugov/person/', '/ugov/rubrica/')):
+            rows.append({'url': url(a['href']), 'name': text(a),
+                         'categories': [text(n) for n in article.select('.field--name-ur-tipi-ruoli .field--item')]})
+    return rows
+
+
+def person_extras(doc):
+    """Metadati del profilo pubblico, senza seguire PDF o archivi esterni."""
+    main = doc.select_one('.ugov-rubrica')
+    if not main:
+        return {}, []
+    def href(selector):
+        a = main.select_one(selector)
+        return url(a['href']) if a else None
+    contacts = []
+    for label in main.select('.icon.mail'):
+        scope = label.find_next_sibling()
+        if not scope:
+            continue
+        value = None
+        encrypted = scope.select_one('[data-cfemail]')
+        if encrypted:
+            try:
+                data = bytes.fromhex(encrypted['data-cfemail'])
+                value = bytes(b ^ data[0] for b in data[1:]).decode('utf-8') if len(data) > 1 else None
+            except (ValueError, UnicodeError):
+                pass
+        else:
+            a = scope.select_one('a[href^="mailto:"]')
+            value = a['href'][7:].split('?')[0] if a else None
+        if value:
+            contacts.append({'label': text(label), 'email': value})
+    reception = next((card for card in main.select('.card-content') if text(card.select_one('.bp-title')) == 'Ricevimento'), None)
+    reception_blocks = reception.select(':scope > .top20') if reception else []
+    location = next((text(block).removeprefix('Luogo di ricevimento').strip()
+                     for block in reception_blocks if 'Luogo di ricevimento' in text(block)), None)
+    publications = []
+    for item in main.select('.field--name-ur-body li'):
+        a = item.select_one('a[href*="air.unimi.it/handle/"]')
+        citation = item.select_one('.iris-titolo')
+        if a and citation:
+            publications.append({'citation': text(citation), 'url': url(a['href'])})
+    teachings = {}
+    for a in main.select('a[href]'):
+        target = url(a['href'])
+        if not target.startswith(BASE + '/') or not any(fragment in target for fragment in (
+                '/insegnamenti-dei-corsi-di-laurea/', '/ugov/of/af', '/ugov/pl/af',
+                '/catalogo-degli-insegnamenti-la-formazione-dottorale/')):
+            continue
+        group = a.find_parent(class_='item-list')
+        year = academic_year(target) or (academic_year(text(group.select_one('h3'))) if group else None)
+        teachings[target] = {'url': target, 'name': text(a), 'academic_year': year}
+    props = {'scientific_group': field(main, '.field--name-ur-ar'),
+             'cv_url': href('.icon.doc a[href]'),
+             'expertise_url': href('a[href*="expertise.unimi.it/get/person/"]'),
+             'publications_url': href('.iris_link_publications a[href]'),
+             'featured_publications': publications, 'featured_publications_complete': False,
+             'email_contacts': contacts,
+             'reception_notes': text(reception_blocks[0]) if reception_blocks else None,
+             'reception_location': location,
+             'reception_url': url(reception.select_one('a[href]')['href']) if reception and reception.select_one('a[href]') else None,
+             'profile_teaching_count': len(teachings)}
+    return props, list(teachings.values())

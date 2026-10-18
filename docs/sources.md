@@ -7,7 +7,7 @@ il censimento delle richieste (`data/collection.json`) dai dati estratti.
 
 ## Raccolta iniziale
 
-Il censimento del 18 ottobre 2026 comprende 26.416 richieste: 26.392 risposte
+Il censimento del 18 ottobre 2026 comprende 28.816 richieste: 28.792 risposte
 HTTP 200, 19 risposte 404 e cinque errori di trasporto. La riuscita HTTP non
 certifica l’avvenuta estrazione: `coverage` riporta separatamente schede
 normalizzate e righe di piano.
@@ -41,6 +41,52 @@ e offerte, e non rappresentano 76.019 insegnamenti distinti.
   e strutture ospitate. Le sedi istituzionali e quelle Agenda hanno identità separate.
 - [Agenda Web](https://orari.unimi.it/PortaleStudenti/): elenchi, gruppi e anagrafica
   degli spazi. La cache conserva solo i metadati statici, senza eventi.
+
+## Rubrica accademica e profili
+
+[Chi e Dove](https://www.unimi.it/it/cerca/chi-e-dove) viene censita nelle sette
+categorie accademiche: Docenti, Ricercatori, Professori a Contratto, Visiting
+Professor, Visiting Scholar, Assegnisti, Lettori e Collaboratori Linguistici.
+Si seguono gli indici pubblici di paginazione e il collegamento all'ultima pagina;
+il parametro Drupal `page=,N` mantiene il filtro per categoria. Ogni pagina viene
+verificata confrontando categoria selezionata e pagina corrente.
+
+Le categorie possono sovrapporsi. `directory_membership` espone le appartenenze;
+`academic_staff` è l'unione deduplicata delle persone censite, mentre `teacher`
+seleziona ruoli di docenza/ricerca e persone con assegnazioni didattiche.
+La sola categoria Personale TAB non viene censita; può apparire fra le categorie
+di persone che hanno anche un ruolo accademico.
+
+La copertura `directory_pages:<codice>` verifica tutte le pagine attese;
+`directory_profiles:<codice>` confronta le identità elencate con i profili
+acquisiti. `directory_academic_people` conta l'unione senza sommare le categorie.
+Questi indicatori distinguono il censimento delle persone dal semplice successo
+delle richieste di profili già conosciuti.
+
+Nel rilascio tutte le 198 pagine sono verificate e tutti i 5.758 nominativi unici
+hanno un profilo acquisito: 2.109 Docenti, 581 Ricercatori, 2.648 Professori a
+Contratto, 444 Assegnisti, 6 Visiting Professor, 21 Visiting Scholar e 19 Lettori
+e Collaboratori Linguistici. La somma è maggiore dell'unione perché 70
+appartenenze sono ulteriori categorie di persone già contate.
+
+Rispetto al rilascio precedente sono state aggiunte 1.779 identità personali.
+Il totale dei profili acquisiti è 6.413: comprende anche persone individuate
+tramite altre fonti. I nove URL di profilo che restituiscono 404 non impediscono
+la copertura completa degli elenchi accademici della rubrica. Sono disponibili
+4.542 link a CV, 3.092 a Expertise e 4.063 all'archivio delle pubblicazioni AIR.
+
+
+I profili espongono, quando presenti, gruppo scientifico-disciplinare, contatti,
+CV, Expertise, archivio AIR, note e luogo di ricevimento. Si conservano i link,
+senza scaricare CV, foto o archivi di pubblicazioni. Le pubblicazioni mostrate
+nel profilo sono una selezione: `featured_publications_complete` è sempre falso.
+
+Gli elenchi didattici del profilo generano associazioni `taught_by` con
+`scope=profile_teaching_list` e anno accademico. I collegamenti degli anni passati
+rimangono riferimenti senza dettaglio se la scheda non era già stata acquisita;
+non si scaricano tutti gli insegnamenti storici. La presenza di una relazione
+nel profilo non dimostra che tutti i ruoli e tutte le edizioni siano pubblicati.
+Le afferenze alla stessa struttura rimangono relazioni distinte con fonte.
 
 ## Agenda Web
 
@@ -107,3 +153,20 @@ Sono collegamenti tracciati, non fusioni delle identità originarie.
 La raccolta si amplia aggiungendo fonti e parser alle categorie esistenti.
 I campi Drupal sono conservati anche come osservazioni per consentire ulteriori
 normalizzazioni senza scaricare nuovamente la fonte.
+
+## Verifica dei corsi di laurea per facoltà
+
+`uv run unimi audit-programmes --live` rilegge i due cataloghi di laurea e tutti
+i loro filtri per facoltà/scuola. Confronta URL identificativi con `identifier`,
+controlla le associazioni in `programme_faculty` e segnala corsi assenti, record
+presenti solo nel database, relazioni mancanti o in eccesso e strutture ambigue.
+I totali pubblicati sono controllati distinguendo il numero selezionato dal
+totale generale della pagina. Non si sommano semplicemente i conteggi per
+facoltà: un corso può appartenere a più strutture.
+
+Le risposte live sono archiviate separatamente in `data/audits/` con hash,
+data di acquisizione e URL; ogni esecuzione produce un `report.json`.
+Il controllo usa le diverse viste dello stesso catalogo istituzionale: prova
+la copertura di quel catalogo nell’anno pubblicato, non l’assenza di percorsi
+fuori catalogo o la completezza di tutti gli insegnamenti. Master, dottorati e
+specializzazioni restano verificati separatamente dai rispettivi cataloghi.

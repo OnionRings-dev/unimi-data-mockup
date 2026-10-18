@@ -1,9 +1,9 @@
 """Raccolta incrementale e riprendibile dei soli metadati pubblici."""
 import concurrent.futures
 import json
-from urllib.parse import urlsplit
+from urllib.parse import urlsplit, urlencode, parse_qs
 
-from .parse import BASE, cards, links, pager, plan_links, plan_rows, text, url
+from .parse import BASE, cards, directory_rows, links, pager, plan_links, plan_rows, text, url
 from .sources import ROOT, Sources, assignment, dumps
 
 AGENDA = "https://orari.unimi.it/PortaleStudenti/"
@@ -25,6 +25,21 @@ UNITS = {
 }
 SITES = BASE + "/it/ateneo/uffici-e-strutture/sedi"
 COLLECTION = ROOT / "data/collection.json"
+DIRECTORY = BASE + "/it/cerca/chi-e-dove"
+DIRECTORY_CATEGORIES = {"395": "Docenti", "396": "Ricercatori", "1729": "Visiting Professor",
+                        "1730": "Visiting Scholar", "398": "Assegnisti",
+                        "399": "Professori a Contratto", "400": "Lettori e Collaboratori Linguistici"}
+
+
+def directory_url(category, page=0):
+    parameters = {"cognome": "", "nome": "", "ur_tipi_ruoli_target_id": category}
+    if page:
+        parameters["page"] = "," + str(page)
+    return DIRECTORY + "?" + urlencode(parameters)
+
+
+def directory_page_number(target):
+    return int(parse_qs(urlsplit(target).query).get("page", ["0"])[0].split(",")[-1] or "0")
 
 
 class Collector:
@@ -76,6 +91,34 @@ class Collector:
             if job["kind"] in kinds and job.get("status") == 200:
                 doc = self.sources.get(target, job.get("parameters"), job.get("projection"))
                 yield target, job, doc.soup()
+
+    def collect_people(self, details=True):
+        for category, label in DIRECTORY_CATEGORIES.items():
+            self.add(directory_url(category), "directory", category_code=category, category_name=label, page=0)
+        visited = set()
+        while True:
+            pending = [u for u, j in self.jobs.items() if j["kind"] == "directory" and u not in visited]
+            if not pending:
+                break
+            self.fetch({"directory"})
+            for target in pending:
+                visited.add(target)
+                job = self.jobs[target]
+                if job.get("status") != 200:
+                    continue
+                doc = self.sources.get(target).soup()
+                for link in pager(doc, target):
+                    last = directory_page_number(link)
+                    # Il link pubblico all'ultima pagina definisce il perimetro.
+                    for page in range(last + 1):
+                        self.add(directory_url(job["category_code"], page), "directory",
+                                 category_code=job["category_code"], category_name=job["category_name"], page=page)
+                for row in directory_rows(doc):
+                    self.add(row["url"], "person", name=row["name"])
+        self.save()
+        if details:
+            self.fetch({"person"})
+        print("Rubrica accademica acquisita", flush=True)
 
     def collect_rooms(self):
         doc = self.sources.get(AGENDA + "combo.php?sw=rooms_")
@@ -204,6 +247,6 @@ class Collector:
                 for fragment in ["/ugov/rubrica/", "/ugov/person/"]:
                     for link, name in links(doc, fragment).items():
                         self.add(link, "person", name=name)
-            self.fetch({"person"})
+        self.collect_people(details=details)
         self.save()
         print(f"Raccolta salvata: {len(self.jobs)} fonti censite", flush=True)

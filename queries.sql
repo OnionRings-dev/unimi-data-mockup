@@ -43,3 +43,22 @@ WHERE o.entity_id=:entity_id;
 
 -- Verificare sempre il perimetro prima di interpretare un risultato vuoto.
 SELECT * FROM coverage ORDER BY scope;
+
+-- Persone censite nella rubrica e categorie esplicite (una persona può averne più di una).
+SELECT person_id,name,category FROM directory_membership ORDER BY name,category;
+
+-- Arricchimento dei profili; i link non implicano che i documenti siano scaricati.
+SELECT id,name,json_extract(properties,'$.scientific_group') AS scientific_group,
+       json_extract(properties,'$.cv_url') AS cv_url,
+       json_extract(properties,'$.expertise_url') AS expertise_url,
+       json_extract(properties,'$.publications_url') AS publications_url,
+       json_extract(properties,'$.reception_notes') AS reception_notes,
+       json_extract(properties,'$.reception_location') AS reception_location
+FROM academic_staff ORDER BY name;
+
+-- Didattica pubblicata sul profilo, con anno e fonte della relazione.
+SELECT p.name,c.name,c.academic_year,s.url FROM relation r
+JOIN person p ON p.id=r.object_id JOIN entity c ON c.id=r.subject_id
+JOIN source s ON s.id=r.source_id WHERE r.predicate='taught_by'
+AND json_extract(r.properties,'$.scope')='profile_teaching_list'
+ORDER BY p.name,c.academic_year DESC,c.name;

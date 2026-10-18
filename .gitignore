@@ -14,3 +14,4 @@ data/raw/.*.tmp
 /data/collection.json
 /data/unimi.sqlite
 /data/unimi.json
+/data/audits/

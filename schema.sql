@@ -57,6 +57,7 @@ CREATE TABLE coverage (
 CREATE INDEX entity_kind ON entity(kind, academic_year);
 CREATE INDEX entity_code ON entity(code);
 CREATE INDEX relation_object ON relation(object_id, predicate);
+CREATE INDEX relation_source ON relation(source_id);
 CREATE INDEX relation_subject ON relation(subject_id, predicate);
 CREATE VIEW programme AS SELECT id,name,code,academic_year,url,
     json_extract(properties,'$.level') AS level,properties,source_id
@@ -70,7 +71,13 @@ CREATE VIEW teacher AS SELECT p.* FROM person p WHERE
     EXISTS(SELECT 1 FROM relation r WHERE r.object_id=p.id AND r.predicate='taught_by')
     OR lower(json_extract(p.properties,'$.role')) LIKE '%professor%'
     OR lower(json_extract(p.properties,'$.role')) LIKE '%ricercator%'
-    OR lower(json_extract(p.properties,'$.role')) LIKE '%docent%';
+    OR lower(json_extract(p.properties,'$.role')) LIKE '%docent%'
+    OR EXISTS(SELECT 1 FROM json_each(p.properties,'$.directory_categories') c
+              WHERE c.value IN ('Docenti','Ricercatori','Professori a Contratto','Visiting Professor','Lettori e Collaboratori Linguistici'));
+CREATE VIEW academic_staff AS SELECT p.* FROM person p
+    WHERE json_array_length(p.properties,'$.directory_categories') > 0;
+CREATE VIEW directory_membership AS SELECT p.id AS person_id,p.name,c.value AS category
+    FROM person p,json_each(p.properties,'$.directory_categories') c;
 CREATE VIEW agenda_teacher AS SELECT * FROM entity WHERE kind='agenda_teacher';
 CREATE VIEW site AS SELECT * FROM entity WHERE kind='site';
 CREATE VIEW room AS SELECT id,name,code,json_extract(properties,'$.capacity') AS capacity,
